@@ -1,0 +1,46 @@
+# deposits or market-based funding would reduce our benefit in those scenarios.  
+  
+  
+# Interest Rate and Foreign Exchange Derivative Contracts  
+  
+Interest rate and foreign exchange derivative contracts are utilized in our ALM activities and serve as an efficient tool to manage our interest rate and foreign exchange risk. We use derivatives to hedge the variability in cash flows or changes in fair value on our balance sheet due to interest rate and foreign exchange components. For more information on our hedging activities, see Note 3 - Derivatives to the Consolidated Financial Statements.  
+  
+Our interest rate contracts are generally non-leveraged generic interest rate and foreign exchange basis swaps, options, futures and forwards. In addition, we use foreign exchange contracts, including cross-currency interest rate swaps, foreign currency futures contracts, foreign currency forward contracts and options to mitigate the foreign exchange risk associated with foreign currency-denominated assets and liabilities.  
+  
+Changes to the composition of our derivatives portfolio during2018 reflect actions taken for interest rate and foreign exchange rate risk management. The decisions to reposition our derivatives portfolio are based on the current assessment of economic and financial conditions including the interest rate and foreign currency environments, balance sheet composition and trends, and the relative mix of our cash and derivative positions.  
+  
+We use interest rate derivative instruments to hedge the variability in the cash flows of our assets and liabilities and other forecasted transactions (collectively referred to as cash flow  
+  
+hedges). The net losses on both open and terminated cash flow hedge derivative instruments recorded in accumulated OCI were $1.3 billion, on a pretax basis, at both December 31, 2018 and 2017. These net losses are expected to be reclassified into earnings in the same period as the hedged cash flows affect earnings and will decrease income or increase expense on the respective hedged cash flows. Assuming no change in open cash flow derivative hedge positions and no changes in prices or interest rates beyond what is implied in forward yield curves at December 31, 2018, the pretax net losses are expected to be reclassified into earnings as follows: 25 percent within the next year, 56 percent in years two through five and 11 percent in years six through 10, with the remaining eight percent thereafter. For more information on derivatives designated as cash flow hedges, see Note 3 - Derivatives to the Consolidated Financial Statements.  
+  
+We hedge our net investment in non-U.S. operations determined to have functional currencies other than the U.S. dollar using forward foreign exchange contracts that typically settle in less than 180 days, cross-currency basis swaps and foreign exchange options. We recorded net after-tax losses on derivatives in accumulated OCI associated with net investment hedges which were offset by gains on our net investments in consolidated non-U.S. entities at December 31, 2018.  
+  
+Table 51 presents derivatives utilized in our ALM activities and shows the notional amount, fair value, weighted-average receive-fixed and pay-fixed rates, expected maturity and average estimated durations of our open ALM derivatives at December 31, 2018 and 2017. These amounts do not include derivative hedges on our MSRs.  
+  
+Table 51 Asset and Liability Management Interest Rate and Foreign Exchange Contracts  
+  
+| (Dollars in millions, average estimated duration in years) | December 31, 2018 |||||||||  
+|| Fair Value | Expected Maturity ||||||| Average Estimated Duration |  
+||| Total | 2019 | 2020 | 2021 | 2022 | 2023 | Thereafter ||  
+| - | - | - | - | - | - | - | - | - | - |  
+| Receive-fixed interest rate swaps (1) | $ 2,128 | | | | | | | | 5.17 |  
+| Notional amount | | 198,914 | $ 27,176 | $ 16,347 | $ 14,640 | $ 19,866 | $ 36,215 | $ 84,670 | |  
+| Weighted-average fixed-rate | | 2.66 % | 1.87 % | 2.68 % | 3.17 % | 2.56 % | 2.37 % | 2.97 % | |  
+| Pay-fixed interest rate swaps (1) | 295 | | | | | | | | 6.30 |  
+| Notional amount | | 49,275 | $ 1,210 | $ 4,344 | $ 1,616 | $ :unselected: | $ 10,801 | $ 31,304 | |  
+| Weighted-average fixed-rate | | 2.50 % | 2.07 % | 2.16 % | 2.22% | -% :unselected: | 2.59 % | 2.55% | |  
+| Same-currency basis swaps (2) | 21 | | | | | | | | |  
+| Notional amount | | 101,203 | $ 7,628 | $ 15,097 | $ 15,493 | $ 2,586 | $ 2,017 | $ 58,382 | |  
+| Foreign exchange basis swaps (1, 3, 4) | (1,716) | | | | | | | | |  
+| Notional amount | | 106,742 | 13,946 | 21,448 | 19,241 | 10,239 | 6,260 | 35,608 | |  
+| Option products | 2 | | | | | | | | |  
+| Notional amount | | 587 | 572 | :unselected: | :unselected: | :unselected: | 15 :selected: | :unselected: | |  
+| Foreign exchange contracts (1, 4, 5) | 82 | | | | | | | | |  
+| Notional amount (6) | | (8,447) | (27,823) | 13 | 4,196 | 2,741 | 2,448 | 9,978 | |  
+| Net ALM contracts | $ 812 | | | | | | | | |  
+  
+For footnotes, see page 76.  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageNumber="75" -->  

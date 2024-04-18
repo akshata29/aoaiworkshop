@@ -1,0 +1,599 @@
+{
+    "status": "succeeded",
+    "createdDateTime": "2024-03-08T21:21:30Z",
+    "lastUpdatedDateTime": "2024-03-08T21:21:32Z",
+    "analyzeResult": {
+        "apiVersion": "2023-10-31-preview",
+        "modelId": "prebuilt-layout",
+        "stringIndexType": "utf16CodeUnit",
+        "content": "<!-- PageNumber=\"166\" -->\n\n<!-- PageHeader=\"Bank of America 2018\" -->\n\n<!-- PageHeader=\"(1) Balance includes third-party cash held of $389 million and $193 million at December 31, 2018 and 2017.\" -->\n",
+        "pages": [
+            {
+                "pageNumber": 1,
+                "angle": 1.1345330476760864,
+                "width": 2550,
+                "height": 3300,
+                "unit": "pixel",
+                "words": [
+                    {
+                        "content": "166",
+                        "polygon": [
+                            2297,
+                            213,
+                            2335,
+                            214,
+                            2335,
+                            237,
+                            2297,
+                            236
+                        ],
+                        "confidence": 0.999,
+                        "span": {
+                            "offset": 17,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "Bank",
+                        "polygon": [
+                            2044,
+                            214,
+                            2097,
+                            214,
+                            2097,
+                            238,
+                            2044,
+                            239
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 44,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "of",
+                        "polygon": [
+                            2104,
+                            214,
+                            2123,
+                            214,
+                            2123,
+                            238,
+                            2104,
+                            238
+                        ],
+                        "confidence": 0.997,
+                        "span": {
+                            "offset": 49,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "America",
+                        "polygon": [
+                            2128,
+                            214,
+                            2210,
+                            214,
+                            2210,
+                            238,
+                            2128,
+                            238
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 52,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "2018",
+                        "polygon": [
+                            2217,
+                            214,
+                            2270,
+                            214,
+                            2270,
+                            238,
+                            2217,
+                            238
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 60,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "(1)",
+                        "polygon": [
+                            100,
+                            83,
+                            122,
+                            82,
+                            122,
+                            106,
+                            100,
+                            106
+                        ],
+                        "confidence": 0.988,
+                        "span": {
+                            "offset": 88,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "Balance",
+                        "polygon": [
+                            132,
+                            82,
+                            203,
+                            82,
+                            203,
+                            106,
+                            132,
+                            106
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 92,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "includes",
+                        "polygon": [
+                            212,
+                            82,
+                            284,
+                            82,
+                            284,
+                            107,
+                            212,
+                            107
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 100,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "third-party",
+                        "polygon": [
+                            293,
+                            82,
+                            383,
+                            82,
+                            383,
+                            107,
+                            293,
+                            107
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 109,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "cash",
+                        "polygon": [
+                            392,
+                            82,
+                            433,
+                            82,
+                            433,
+                            107,
+                            392,
+                            107
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 121,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "held",
+                        "polygon": [
+                            443,
+                            82,
+                            479,
+                            82,
+                            479,
+                            107,
+                            443,
+                            107
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 126,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "of",
+                        "polygon": [
+                            489,
+                            82,
+                            503,
+                            82,
+                            503,
+                            107,
+                            489,
+                            107
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 131,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "$389",
+                        "polygon": [
+                            507,
+                            82,
+                            548,
+                            82,
+                            548,
+                            107,
+                            507,
+                            107
+                        ],
+                        "confidence": 0.989,
+                        "span": {
+                            "offset": 134,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "million",
+                        "polygon": [
+                            556,
+                            82,
+                            614,
+                            82,
+                            614,
+                            107,
+                            556,
+                            107
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 139,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "and",
+                        "polygon": [
+                            625,
+                            82,
+                            656,
+                            82,
+                            656,
+                            107,
+                            625,
+                            107
+                        ],
+                        "confidence": 0.997,
+                        "span": {
+                            "offset": 147,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "$193",
+                        "polygon": [
+                            661,
+                            82,
+                            700,
+                            82,
+                            700,
+                            107,
+                            661,
+                            107
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 151,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "million",
+                        "polygon": [
+                            708,
+                            82,
+                            766,
+                            82,
+                            766,
+                            106,
+                            708,
+                            107
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 156,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "at",
+                        "polygon": [
+                            777,
+                            82,
+                            794,
+                            82,
+                            794,
+                            106,
+                            777,
+                            106
+                        ],
+                        "confidence": 0.99,
+                        "span": {
+                            "offset": 164,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "December",
+                        "polygon": [
+                            799,
+                            82,
+                            881,
+                            83,
+                            881,
+                            106,
+                            799,
+                            106
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 167,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "31,",
+                        "polygon": [
+                            890,
+                            83,
+                            914,
+                            83,
+                            914,
+                            105,
+                            890,
+                            106
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 176,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "2018",
+                        "polygon": [
+                            924,
+                            83,
+                            963,
+                            83,
+                            963,
+                            105,
+                            924,
+                            105
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 180,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "and",
+                        "polygon": [
+                            973,
+                            83,
+                            1004,
+                            83,
+                            1004,
+                            105,
+                            973,
+                            105
+                        ],
+                        "confidence": 0.999,
+                        "span": {
+                            "offset": 185,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "2017.",
+                        "polygon": [
+                            132,
+                            105,
+                            179,
+                            106,
+                            179,
+                            129,
+                            131,
+                            128
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 189,
+                            "length": 5
+                        }
+                    }
+                ],
+                "lines": [
+                    {
+                        "content": "<!-- PageNumber=\"166\" -->",
+                        "polygon": [
+                            2298,
+                            213,
+                            2335,
+                            214,
+                            2333,
+                            237,
+                            2297,
+                            236
+                        ],
+                        "spans": [
+                            {
+                                "offset": 0,
+                                "length": 25
+                            }
+                        ]
+                    },
+                    {
+                        "content": "<!-- PageHeader=\"Bank of America 2018\" -->",
+                        "polygon": [
+                            2042,
+                            213,
+                            2269,
+                            213,
+                            2269,
+                            238,
+                            2042,
+                            238
+                        ],
+                        "spans": [
+                            {
+                                "offset": 27,
+                                "length": 42
+                            }
+                        ]
+                    },
+                    {
+                        "content": "<!-- PageHeader=\"(1) Balance includes third-party cash held of $389 million and $193 million at December 31, 2018 and",
+                        "polygon": [
+                            99,
+                            82,
+                            1003,
+                            81,
+                            1003,
+                            106,
+                            99,
+                            106
+                        ],
+                        "spans": [
+                            {
+                                "offset": 71,
+                                "length": 117
+                            }
+                        ]
+                    },
+                    {
+                        "content": "2017.\" -->",
+                        "polygon": [
+                            127,
+                            105,
+                            178,
+                            106,
+                            177,
+                            129,
+                            127,
+                            128
+                        ],
+                        "spans": [
+                            {
+                                "offset": 189,
+                                "length": 10
+                            }
+                        ]
+                    }
+                ],
+                "spans": [
+                    {
+                        "offset": 0,
+                        "length": 200
+                    }
+                ]
+            }
+        ],
+        "tables": [],
+        "paragraphs": [
+            {
+                "spans": [
+                    {
+                        "offset": 0,
+                        "length": 25
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            2298,
+                            213,
+                            2335,
+                            214,
+                            2334,
+                            237,
+                            2297,
+                            236
+                        ]
+                    }
+                ],
+                "role": "pageNumber",
+                "content": "<!-- PageNumber=\"166\" -->"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 27,
+                        "length": 42
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            2042,
+                            213,
+                            2269,
+                            213,
+                            2269,
+                            238,
+                            2042,
+                            238
+                        ]
+                    }
+                ],
+                "role": "pageHeader",
+                "content": "<!-- PageHeader=\"Bank of America 2018\" -->"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 71,
+                        "length": 128
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            99,
+                            82,
+                            1003,
+                            81,
+                            1003,
+                            128,
+                            99,
+                            129
+                        ]
+                    }
+                ],
+                "role": "pageHeader",
+                "content": "<!-- PageHeader=\"(1) Balance includes third-party cash held of $389 million and $193 million at December 31, 2018 and 2017.\" -->"
+            }
+        ],
+        "contentFormat": "markdown"
+    }
+}

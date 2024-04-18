@@ -1,0 +1,59 @@
+# Table II Nonperforming Loans, Leases and Foreclosed Properties (1)  
+  
+| (Dollars in millions) | December 31 |||||  
+|| 2018 | 2017 | 2016 | 2015 | 2014 |  
+| - | - | - | - | - | - |  
+| Consumer | | | | | |  
+| Residential mortgage | 1,893 | $ 2,476 | $ 3,056 | $ 4,803 | $ 6,889 |  
+| Home equity | 1,893 | 2,644 | 2,918 | 3,337 | 3,901 |  
+| Direct/Indirect consumer | 56 | 46 | 28 | 24 | 28 |  
+| Other consumer | | | 2 | 1 | 1 |  
+| Total consumer (2) | 3,842 | 5,166 | 6,004 | 8,165 | 10,819 |  
+| Commercial | | | | | |  
+| U.S. commercial | 794 | 814 | 1,256 | 867 | 701 |  
+| Non-U.S. commercial | 80 | 299 | 279 | 158 | 1 |  
+| Commercial real estate | 156 | 112 | 72 | 93 | 321 |  
+| Commercial lease financing | 18 | 24 | 36 | 12 | 3 |  
+| | 1,048 | 1,249 | 1,643 | 1,130 | 1,026 |  
+| U.S. small business commercial | 54 | 55 | 60 | 82 | 87 |  
+| Total commercial (3) | 1,102 | 1,304 | 1,703 | 1,212 | 1,113 |  
+| Total nonperforming loans and leases | 4,944 | 6,470 | 7,707 | 9,377 | 11,932 |  
+| Foreclosed properties | 300 | 288 | 377 | 459 | 697 |  
+| Total nonperforming loans, leases and foreclosed properties | $ 5,244 | $ 6,758 | $ 8,084 | $ 9,836 | $ 12,629 |  
+  
+(1) Balances do not include PCI loans even though the customer may be contractually past due. PCI loans were recorded at fair value upon acquisition and accrete interest income over the remaining life of the loan. In addition, balances do not include foreclosed properties insured by certain government-guaranteed loans, principally FHA-insured loans, that entered foreclosure of $488 million, $801 million, $1.2 billion, $1.4 billion and $1.1 billion at December 31, 2018, 2017, 2016, 2015 and 2014, respectively.  
+  
+(2) In 2018, $625 million in interest income was estimated to be contractually due on$3.8 billion of consumer loans and leases classified as nonperforming atDecember 31, 2018, as presented in the table above, plus$6.8 billion of TDRs classified as performing at December 31, 2018. Approximately $388 million of the estimated $625 million in contractual interest was received and included in interest income for2018.  
+  
+(3) In 2018, $119 million in interest income was estimated to be contractually due on$1.1 billion of commercial loans and leases classified as nonperforming atDecember 31, 2018, as presented in the table above, plus$1.3 billion of TDRs classified as performing at December 31, 2018. Approximately $84 million of the estimated $119 million in contractual interest was received and included in interest income for2018.  
+  
+  
+# Table III Accruing Loans and Leases Past Due 90 Days or More (1)  
+  
+| (Dollars in millions) | December 31 |||||  
+|| 2018 | 2017 | 2016 | 2015 | 2014 |  
+| - | - | - | - | - | - |  
+| Consumer | | | | | |  
+| Residential mortgage (2) | 1,884 | $ 3,230 | $ 4,793 | $ 7,150 | $ 11,407 |  
+| U.S. credit card | 994 | 900 | 782 | 789 | 866 |  
+| Non-U.S. credit card | :unselected: | :unselected: | 66 | 76 | 95 |  
+| Direct/Indirect consumer | 38 | 40 | 34 | 39 | 64 |  
+| Other consumer | :unselected: | :unselected: | 4 | 3 | 1 |  
+| Total consumer | 2,916 | 4,170 | 5,679 | 8,057 | 12,433 |  
+| Commercial | | | | | |  
+| U.S. commercial | 197 | 144 | 106 | 113 | 110 |  
+| Non-U.S. commercial | | 3 | 5 | 1 | |  
+| Commercial real estate | 4 | 4 | 7 | 3 | 3 |  
+| Commercial lease financing | 29 | 19 | 19 | 15 | 40 |  
+| | 230 | 170 | 137 | 132 | 153 |  
+| U.S. small business commercial | 84 | 75 | 71 | 61 | 67 |  
+| Total commercial | 314 | 245 | 208 | 193 | 220 |  
+| Total accruing loans and leases past due 90 days or more | $ 3,230 | $ 4,415 | $ 5,887 | $ 8,250 | $ 12,653 |  
+  
+(1) Our policy is to classify consumer real estate-secured loans as nonperforming at 90 days past due, except the PCI loan portfolio, the fully-insured loan portfolio and loans accounted for under the fair value option.  
+  
+(2) Balances are loans.  
+  
+<!-- PageFooter="fully-insured" -->  
+  
+<!-- PageFooter="Bank of America 2018 82" -->  

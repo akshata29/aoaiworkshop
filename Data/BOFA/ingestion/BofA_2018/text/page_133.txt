@@ -1,0 +1,60 @@
+NOTE 6 Allowance for Credit Losses  
+===  
+  
+  
+# The table below summarizes the changes in the allowance for credit losses by portfolio segment for2018, 2017 and 2016.  
+  
+| | Consumer Real Estate (1) | Credit Card and Other Consumer | Commercial | Total |  
+| - | - | - | - | - |  
+| (Dollars in millions) | 2018 ||||  
+| Allowance for loan and lease losses, January 1 | $ 1,720 | $ 3,663 | $ 5,010 | $ 10,393 |  
+| Loans and leases charged off | (690) | (4,037) | (675) | (5,402) |  
+| Recoveries of loans and leases previously charged off | 664 | 823 | 152 | 1,639 |  
+| Net charge-offs | (26) | (3,214) | (523) | (3,763) |  
+| Write-offs of PCI loans (2) | (273) | | - | (273) |  
+| Provision for loan and lease losses | (492) | 3,441 | 313 | 3,262 |  
+| Other (3) | (1) | (16) | (1) | (18) |  
+| Allowance for loan and lease losses, December 31 | 928 | 3,874 | 4,799 | 9,601 |  
+| Reserve for unfunded lending commitments, January 1 | :unselected: | :unselected: :unselected: | 777 | 777 |  
+| Provision for unfunded lending commitments | :unselected: | :unselected: | 20 | 20 |  
+| Reserve for unfunded lending commitments, December 31 | - :unselected: | - :unselected: | 797 | 797 |  
+| Allowance for credit losses, December 31 | $ 928 | $ 3,874 | $ 5,596 | $ 10,398 |  
+| | 2017 ||||  
+| Allowance for loan and lease losses, January 1 | $ 2,750 | $ 3,229 | $ 5,258 | $ 11,237 |  
+| Loans and leases charged off | (770) | (3,774) | (1,075) | (5,619) |  
+| Recoveries of loans and leases previously charged off | 657 | 809 | 174 | 1,640 |  
+| Net charge-offs | (113) | (2,965) | (901) | (3,979) |  
+| Write-offs of PCI loans (2) | (207) | :unselected: | | (207) |  
+| Provision for loan and lease losses | (710) | 3,437 | 654 | 3,381 |  
+| Other (3) | | (38) | (1) | (39) |  
+| Allowance for loan and lease losses, December 31 | 1,720 | 3,663 | 5,010 | 10,393 |  
+| Reserve for unfunded lending commitments, January 1 | 1 :unselected: | :unselected: | 762 | 762 |  
+| Provision for unfunded lending commitments | :unselected: | :unselected: | 15 | 15 |  
+| Reserve for unfunded lending commitments, December 31 | :unselected: | :unselected: | 777 | 777 |  
+| Allowance for credit losses, December 31 | $ 1,720 | $ 3,663 | $ 5,787 | $ 11,170 |  
+| | 2016 ||||  
+| Allowance for loan and lease losses, January 1 | $ 3,914 | $ 3,471 | $ 4,849 | $ 12,234 |  
+| Loans and leases charged off | (1,155) | (3,553) | (740) | (5,448) |  
+| Recoveries of loans and leases previously charged off | 619 | 770 | 238 | 1,627 |  
+| Net charge-offs | (536) | (2,783) | (502) | (3,821) |  
+| Write-offs of PCI loans (2) | (340) | | - | (340) |  
+| Provision for loan and lease losses | (258) | 2,826 | 1,013 | 3,581 |  
+| Other (3) | (30) | (42) :selected: | (102) | (174) |  
+| Total allowance for loan and lease losses, December 31 | 2,750 | 3,472 | 5,258 | 11,480 |  
+| Less: Allowance included in assets of business held for sale (4) | | (243) | | (243) |  
+| Allowance for loan and lease losses, December 31 | 2,750 | 3,229 | 5,258 | 11,237 |  
+| Reserve for unfunded lending commitments, January 1 | :unselected: | :unselected: | 646 | 646 |  
+| Provision for unfunded lending commitments | :unselected: | :unselected: | 16 | 16 |  
+| Other (3) | - :unselected: | :unselected: | 100 | 100 |  
+| Reserve for unfunded lending commitments, December 31 | :unselected: | - :unselected: | 762 | 762 |  
+| Allowance for credit losses, December 31 | $ 2,750 | $ 3,229 | $ 6,020 | $ 11,999 |  
+  
+(1) Includes valuation allowance associated with the PCI loan portfolio.  
+  
+(2) Includes write-offs associated with the sale of PCI loans of $167 million, $87 million and $60 million in 2018, 2017 and 2016, respectively.  
+  
+(3) Primarily represents the net impact of portfolio sales, consolidations and deconsolidations, foreign currency translation adjustments, transfers to held for sale and certain other reclassifications.  
+  
+(4) Represents allowance for loan and lease losses related to the non-U.S. consumer credit card loan portfolio, which was sold in 2017.  
+  
+<!-- PageFooter="Bank of America 2018 122" -->  

@@ -1,0 +1,56 @@
+Corporation's portfolio at adoption date as well as the macroeconomic conditions and forecasts as of that date.  
+  
+  
+# Significant Accounting Principles  
+  
+  
+## Cash and Cash Equivalents  
+  
+Cash and cash equivalents include cash on hand, cash items in the process of collection, cash segregated under federal and other brokerage regulations, and amounts due from correspondent banks, the Federal Reserve Bank and certain non-U.S. central banks. Certain cash balances are restricted as to withdrawal or usage by legal binding contractual agreements or regulatory requirements.  
+  
+  
+## Securities Financing Agreements  
+  
+Securities borrowed or purchased under agreements to resell and securities loaned or sold under agreements to repurchase (securities financing agreements) are treated as collateralized financing transactions except in instances where the transaction is required to be accounted for as individual sale and purchase transactions. Generally, these agreements are recorded at acquisition or sale price plus accrued interest, except for certain securities financing agreements that the Corporation accounts for under the fair value option. Changes in the fair value of securities financing agreements that are accounted for under the fair value option are recorded in trading account profits in the Consolidated Statement of Income.  
+  
+The Corporation's policy is to monitor the market value of the principal amount loaned under resale agreements and obtain collateral from or return collateral pledged to counterparties when appropriate. Securities financing agreements do not create material credit risk due to these collateral provisions; therefore, an allowance for loan losses is not necessary.  
+  
+In transactions where the Corporation acts as the lender in a securities lending agreement and receives securities that can be pledged or sold as collateral, it recognizes an asset on the Consolidated Balance Sheet at fair value, representing the securities received, and a liability, representing the obligation to return those securities.  
+  
+  
+# Collateral  
+  
+The Corporation accepts securities and loans as collateral that it is permitted by contract or practice to sell or repledge. At December 31, 2018 and 2017, the fair value of this collateral was $599.0 billion and $561.9 billion, of which $508.6 billion and $476.1 billion were sold or repledged. The primary source of this collateral is securities borrowed or purchased under agreements to resell.  
+  
+The Corporation also pledges company-owned securities and loans as collateral in transactions that include repurchase agreements, securities loaned, public and trust deposits, U.S. Treasury tax and loan notes, and short-term borrowings. This collateral, which in some cases can be sold or repledged by the counterparties to the transactions, is parenthetically disclosed on the Consolidated Balance Sheet.  
+  
+In certain cases, the Corporation has transferred assets to consolidated VIEs where those restricted assets serve as collateral for the interests issued by the VIEs. These assets are included on the Consolidated Balance Sheet in Assets of Consolidated VIEs.  
+  
+In addition, the Corporation obtains collateral in connection with its derivative contracts. Required collateral levels vary depending on the credit risk rating and the type of counterparty. Generally, the Corporation accepts collateral in the form of cash, U.S. Treasury securities and other marketable securities. Based on provisions contained in master netting agreements, the  
+  
+Corporation nets cash collateral received against derivative assets. The Corporation also pledges collateral on its own derivative positions which can be applied against derivative liabilities.  
+  
+  
+# Trading Instruments  
+  
+Financial instruments utilized in trading activities are carried at fair value. Fair value is generally based on quoted market prices for the same or similar assets and liabilities. If these market prices are not available, fair values are estimated based on dealer quotes, pricing models, discounted cash flow methodologies, or similar techniques where the determination of fair value may require significant management judgment or estimation. Realized gains and losses are recorded on a trade-date basis. Realized and unrealized gains and losses are recognized in trading account profits.  
+  
+  
+## Derivatives and Hedging Activities  
+  
+Derivatives are entered into on behalf of customers, for trading or to support risk management activities. Derivatives used in risk management activities include derivatives that are both designated in qualifying accounting hedge relationships and derivatives used to hedge market risks in relationships that are not designated in qualifying accounting hedge relationships (referred to as other risk management activities). The Corporation manages interest rate and foreign currency exchange rate sensitivity predominantly through the use of derivatives. Derivatives utilized by the Corporation include swaps, futures and forward settlement contracts, and option contracts.  
+  
+All derivatives are recorded on the Consolidated Balance Sheet at fair value, taking into consideration the effects of legally enforceable master netting agreements that allow the Corporation to settle positive and negative positions and offset cash collateral held with the same counterparty on a net basis. For exchange- traded contracts, fair value is based on quoted market prices in active or inactive markets or is derived from observable market- based pricing parameters, similar to those applied to over-the-counter (OTC) derivatives. For non-exchange traded contracts, fair value is based on dealer quotes, pricing models, discounted cash flow methodologies or similar techniques for which the determination of fair value may require significant management judgment or estimation.  
+  
+Valuations of derivative assets and liabilities reflect the value of the instrument including counterparty credit risk. These values also take into account the Corporation's own credit standing.  
+  
+  
+# Trading Derivatives and Other Risk Management Activities  
+  
+Derivatives held for trading purposes are included in derivative assets or derivative liabilities on the Consolidated Balance Sheet with changes in fair value included in trading account profits.  
+  
+Derivatives used for other risk management activities are included in derivative assets or derivative liabilities. Derivatives used in other risk management activities have not been designated in qualifying accounting hedge relationships because they did not qualify or the risk that is being mitigated pertains to an item that is reported at fair value through earnings so that the effect of measuring the derivative instrument and the asset or liability to which the risk exposure pertains will offset in the Consolidated Statement of Income to the extent effective. The changes in the fair value of derivatives that serve to mitigate certain risks associated with mortgage servicing rights (MSRs), interest rate lock commitments (IRLCs) and first-lien mortgage loans held-for-sale (LHFS) that are originated by the Corporation are recorded in other income. Changes in the fair value of derivatives that serve to mitigate interest rate risk and foreign currency risk are included  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageNumber="93" -->  

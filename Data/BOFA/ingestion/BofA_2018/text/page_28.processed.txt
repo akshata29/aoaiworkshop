@@ -1,0 +1,70 @@
+ Table 8 Five-year Summary of Selected Financial Data  
+  
+| (In millions, except per share information) | 2018 | 2017 | 2016 | 2015 | 2014 |  
+| - | - | - | - | - | - |  
+| Income statement | | | | | |  
+| Net interest income | $ 47,432 | $ 44,667 | $ 41,096 | $ 38,958 | $ 40,779 |  
+| Noninterest income | 43,815 | 42,685 | 42,605 | 44,007 | 45,115 |  
+| Total revenue, net of interest expense | 91,247 | 87,352 | 83,701 | 82,965 | 85,894 |  
+| Provision for credit losses | 3,282 | 3,396 | 3,597 | 3,161 | 2,275 |  
+| Noninterest expense | 53,381 | 54,743 | 55,083 | 57,617 | 75,656 |  
+| Income before income taxes | 34,584 | 29,213 | 25,021 | 22,187 | 7,963 |  
+| Income tax expense | 6,437 | 10,981 | 7,199 | 6,277 | 2,443 |  
+| Net income | 28,147 | 18,232 | 17,822 | 15,910 | 5,520 |  
+| Net income applicable to common shareholders | 26,696 | 16,618 | 16,140 | 14,427 | 4,476 |  
+| Average common shares issued and outstanding | 10,096.5 | 10,195.6 | 10,284.1 | 10,462.3 | 10,527.8 |  
+| Average diluted common shares issued and outstanding | 10,236.9 | 10,778.4 | 11,046.8 | 11,236.2 | 10,584.5 |  
+| Performance ratios | | | | | |  
+| Return on average assets | 1.21 % | 0.80 % | 0.81 % | 0.74 % | 0.26 % |  
+| Return on average common shareholders' equity | 11.04 | 6.72 | 6.69 | 6.28 | 2.01 |  
+| Return on average tangible common shareholders' equity (1) | 15.55 | 9.41 | 9.51 | 9.16 | 2.98 |  
+| Return on average shareholders' equity | 10.63 | 6.72 | 6.70 | 6.33 | 2.32 |  
+| Return on average tangible shareholders' equity (1) | 14.46 | 9.08 | 9.17 | 8.88 | 3.34 |  
+| Total ending equity to total ending assets | 11.27 | 11.71 | 12.17 | 11.92 | 11.57 |  
+| Total average equity to total average assets | 11.39 | 11.96 | 12.14 | 11.64 | 11.11 |  
+| Dividend payout | 20.31 | 24.24 | 15.94 | 14.49 | 28.20 |  
+| Per common share data | | | | | |  
+| Earnings | $ 2.64 | $ 1.63 | $ 1.57 | $ 1.38 | $ 0.43 |  
+| Diluted earnings | 2.61 | 1.56 | 1.49 | 1.31 | 0.42 |  
+| Dividends paid | 0.54 | 0.39 | 0.25 | 0.20 | 0.12 |  
+| Book value | 25.13 | 23.80 | 23.97 | 22.48 | 21.32 |  
+| Tangible book value (1) | 17.91 | 16.96 | 16.89 | 15.56 | 14.43 |  
+| Market capitalization | $ 238,251 | $ 303,681 | $ 222,163 | $ 174,700 | $ 188,141 |  
+| Average balance sheet | | | | | |  
+| Total loans and leases | $ 933,049 | $ 918,731 | $ 900,433 | $ 876,787 | $ 898,703 |  
+| Total assets | 2,325,246 | 2,268,633 | 2,190,218 | 2,160,536 | 2,145,393 |  
+| Total deposits | 1,314,941 | 1,269,796 | 1,222,561 | 1,155,860 | 1,124,207 |  
+| Long-term debt | 230,693 | 225,133 | 228,617 | 240,059 | 253,607 |  
+| Common shareholders' equity | 241,799 | 247,101 | 241,187 | 229,576 | 222,907 |  
+| Total shareholders' equity | 264,748 | 271,289 | 265,843 | 251,384 | 238,317 |  
+| Asset quality (2) | | | | | |  
+| Allowance for credit losses (3) | $ 10,398 | $ 11,170 | $ 11,999 | $ 12,880 | $ 14,947 |  
+| Nonperforming loans, leases and foreclosed properties (4) | 5,244 | 6,758 | 8,084 | 9,836 | 12,629 |  
+| Allowance for loan and lease losses as a percentage of total loans and leases outstanding (4) | 1.02 % | 1.12% | 1.26 % | 1.37 % | 1.66 % |  
+| Allowance for loan and lease losses as a percentage of total nonperforming loans and leases (4) | 194 | 161 | 149 | 130 | 121 |  
+| Net charge-offs (5) | 3,763 | $ 3,979 | $ 3,821 | $ 4,338 | $ 4,383 |  
+| Net charge-offs as a percentage of average loans and leases outstanding (4, 5) | 0.41 % | 0.44 % | 0.43 % | 0.50 % | 0.49 % |  
+| Capital ratios at year end (6) | | | | | |  
+| Common equity tier 1 capital | 11.6% | 11.5% | 10.8 % | 9.8% | 9.6 % |  
+| Tier 1 capital | 13.2 | 13.0 | 12.4 | 11.2 | 11.0 |  
+| Total capital | 15.1 | 14.8 | 14.2 | 12.8 | 12.7 |  
+| Tier 1 leverage | 8.4 | 8.6 | 8.8 | 8.4 | 7.8 |  
+| Supplementary leverage ratio | 6.8 | n/a | n/a | n/a | n/a |  
+| Tangible equity (1) | 8.6 | 8.9 | 9.2 | 8.9 | 8.4 |  
+| Tangible common equity (1) | 7.6 | 7.9 | 8.0 | 7.8 | 7.5 |  
+  
+(1) Tangible equity ratios and tangible book value per share of common stock are non-GAAP financial measures. For more information on these ratios and corresponding reconciliations to GAAP financial measures, seeSupplemental Financial Data on page 24.  
+  
+(2) Asset quality metrics include $75 million of non-U.S. consumer credit card net charge-offs in 2017 and $243 million of non-U.S. consumer credit card allowance for loan and lease losses, $9.2 billion of non-U.S. consumer credit card loans and$175 million of non-U.S. consumer credit card net charge-offs in 2016. The Corporation sold its non-U.S. consumer credit card business in 2017.  
+  
+(3) Includes the allowance for loan and leases losses and the reserve for unfunded lending commitments.  
+  
+(4) Balances and ratios do not include loans accounted for under the fair value option. For additional exclusions from nonperforming loans, leases and foreclosed properties, seconsumer Portfolio Credit Risk Management - Nonperforming Consumer Loans, Leases and Foreclosed Properties Activity on page 58 and corresponding Table 31 and Commercial Portfolio Credit Risk Management - Nonperforming Commercial Loans, Leases and Foreclosed Properties Activityon page 63 and corresponding Table 38. (5) Net charge-offs exclude $273 million, $207 million, $340 million, $808 million and $810 million of write-offs in the purchased credit-impaired (PCI) loan portfolio for2018, 2017, 2016, 2015 and 2014,  
+  
+respectively.  
+  
+(6) Basel 3 transition provisions for regulatory capital adjustments and deductions were fully phased-in as of January 1, 2018. Prior periods are presented on a fully phased-in basis. For additional information, including which approach is used to assess capital adequacy, see Capital Management on page 43.  
+  
+n/a = not applicable  
+  
+<!-- PageFooter="Bank of America 2018 26" -->  

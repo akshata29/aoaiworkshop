@@ -1,0 +1,54 @@
+Tables 41 and 42 present the maturity profiles and the credit exposure debt ratings of the net credit default protection portfolio at December 31, 2018 and 2017.  
+  
+  
+# Table 41 Net Credit Default Protection by Maturity  
+  
+| | December 31 ||  
+|| 2018 | 2017 |  
+| - | - | - |  
+| Less than or equal to one year | 20% | 42% |  
+| Greater than one year and less than or equal to five years | 78 | 58 |  
+| Greater than five years | 2 | |  
+| Total net credit default protection | 100% | 100% |  
+  
+Table 42 Net Credit Default Protection by Credit Exposure Debt Rating  
+  
+| | Net Notional (1) | Percent of Total | Net Notional (1) | Percent of Total |  
+|| December 31 ||||  
+| (Dollars in millions) | 2018 2017 ||||  
+| - | - | - | - | - |  
+| Ratings (2, 3) | | | | |  
+| A | $ (700) | 26.3% | $ (280) | 13.2% |  
+| BBB | (501) | 18.8 | (459) | 21.6 |  
+| BB | (804) | 30.2 | (893) | 41.9 |  
+| B | (422) | 15.8 | (403) | 18.9 |  
+| CCC and below | (205) | 7.7 | (84) | 3.9 |  
+| NR (4) | (31) | 1.2 | (10) | 0.5 |  
+| Total net credit default protection | $ (2,663) | 100.0% | $ (2,129) | 100.0 % |  
+  
+(1) Represents net purchased.  
+  
+credit default protection  
+  
+(2) Ratings are refreshed on a quarterly basis.  
+  
+(3) Ratings of BBB- or higher are considered to meet the definition of investment grade.  
+  
+(4) NR is comprised of index positions held and any names that have not been rated.  
+  
+In addition to our net notional credit default protection purchased to cover the funded and unfunded portion of certain credit exposures, credit derivatives are used for market-making activities for clients and establishing positions intended to profit from directional or relative value changes. We execute the majority of our credit derivative trades in the OTC market with large, multinational financial institutions, including broker-dealers and, to a lesser degree, with a variety of other investors. Because these transactions are executed in the OTC market, we are subject to settlement risk. We are also subject to credit risk in the event that these counterparties fail to perform under the terms of these contracts. In order to properly reflect counterparty credit risk, we record counterparty credit risk valuation adjustments on certain derivative assets, including our purchased credit default protection.  
+  
+<!-- PageFooter="65 Bank of America 2018" -->  
+  
+In most cases, credit derivative transactions are executed on a daily margin basis. Therefore, events such as a credit downgrade, depending on the ultimate rating level, or a breach of credit covenants would typically require an increase in the amount of collateral required by the counterparty, where applicable, and/or allow us to take additional protective measures such as early termination of all trades. For more information on credit derivatives and counterparty credit risk valuation adjustments, see Note 3 - Derivatives to the Consolidated Financial Statements.  
+  
+  
+# Non-U.S. Portfolio  
+  
+Our non-U.S. credit and trading portfolios are subject to country risk. We define country risk as the risk of loss from unfavorable economic and political conditions, currency fluctuations, social instability and changes in government policies. A risk management framework is in place to measure, monitor and manage non-U.S. risk and exposures. In addition to the direct risk of doing business in a country, we also are exposed to indirect country risks (e.g., related to the collateral received on secured financing transactions or related to client clearing activities). These indirect exposures are managed in the normal course of business through credit, market and operational risk governance, rather than through country risk governance.  
+  
+Table 43 presents our 20 largest non-U.S. country exposures atDecember 31, 2018. These exposures accounted for89 percent and 86 percent of our total non- U.S. exposure at December 31, 2018 and 2017. Net country exposure for these 20 countries increased $44.1 billion in 2018, primarily driven by increased placements with central banks in the U.K., Japan and Germany.  
+  
+Non-U.S. exposure is presented on an internal risk management basis and includes sovereign and non-sovereign credit exposure, securities and other investments issued by or domiciled in countries other than the U.S.  
+  
+Funded loans and loan equivalents include loans, leases, and other extensions of credit and funds, including letters of credit and due from placements. Unfunded commitments are the undrawn portion of legally binding commitments related to loans and loan equivalents. Net counterparty exposure includes the fair value of derivatives, including the counterparty risk associated with credit default swaps (CDS), and secured financing transactions. Securities and other investments are carried at fair value and long securities exposures are netted against short exposures with the same underlying issuer to, but not below, zero. Net country exposure represents country exposure less hedges and credit default protection purchased, net of credit default protection sold.  

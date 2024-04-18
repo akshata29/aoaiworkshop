@@ -1,0 +1,413 @@
+
+# START OF CODE BLOCK cf5b2384
+
+# Summary of the TEXT EXTRACT:
+# This TEXT EXTRACT contains selected quarterly financial data for a company. It includes information such as net interest income, noninterest income, total revenue, provision for credit losses, noninterest expense, income before income taxes, income tax expense, net income, average common shares issued and outstanding, performance ratios, per common share data, book value, market capitalization, average balance sheet, total loans and leases, total assets, total deposits, long-term debt, common shareholders' equity, total shareholders' equity, asset quality, allowance for credit losses, nonperforming loans, leases and foreclosed properties, net charge-offs, and capital ratios.
+
+# Variable Declarations:
+var_net_interest_income_2018_Q4 = 12304
+var_net_interest_income_2018_Q3 = 11870
+var_net_interest_income_2018_Q2 = 11650
+var_net_interest_income_2018_Q1 = 11608
+var_net_interest_income_2017_Q4 = 11462
+var_net_interest_income_2017_Q3 = 11161
+var_net_interest_income_2017_Q2 = 10986
+var_net_interest_income_2017_Q1 = 11058
+
+var_noninterest_income_2018_Q4 = 10432
+var_noninterest_income_2018_Q3 = 10907
+var_noninterest_income_2018_Q2 = 10959
+var_noninterest_income_2018_Q1 = 11517
+var_noninterest_income_2017_Q4 = 8974
+var_noninterest_income_2017_Q3 = 10678
+var_noninterest_income_2017_Q2 = 11843
+var_noninterest_income_2017_Q1 = 11190
+
+var_total_revenue_2018_Q4 = 22736
+var_total_revenue_2018_Q3 = 22777
+var_total_revenue_2018_Q2 = 22609
+var_total_revenue_2018_Q1 = 23125
+var_total_revenue_2017_Q4 = 20436
+var_total_revenue_2017_Q3 = 21839
+var_total_revenue_2017_Q2 = 22829
+var_total_revenue_2017_Q1 = 22248
+
+var_provision_for_credit_losses_2018_Q4 = 905
+var_provision_for_credit_losses_2018_Q3 = 716
+var_provision_for_credit_losses_2018_Q2 = 827
+var_provision_for_credit_losses_2018_Q1 = 834
+var_provision_for_credit_losses_2017_Q4 = 1001
+var_provision_for_credit_losses_2017_Q3 = 834
+var_provision_for_credit_losses_2017_Q2 = 726
+var_provision_for_credit_losses_2017_Q1 = 835
+
+var_noninterest_expense_2018_Q4 = 13133
+var_noninterest_expense_2018_Q3 = 13067
+var_noninterest_expense_2018_Q2 = 13284
+var_noninterest_expense_2018_Q1 = 13897
+var_noninterest_expense_2017_Q4 = 13274
+var_noninterest_expense_2017_Q3 = 13394
+var_noninterest_expense_2017_Q2 = 13982
+var_noninterest_expense_2017_Q1 = 14093
+
+var_income_before_income_taxes_2018_Q4 = 8698
+var_income_before_income_taxes_2018_Q3 = 8994
+var_income_before_income_taxes_2018_Q2 = 8498
+var_income_before_income_taxes_2018_Q1 = 8394
+var_income_before_income_taxes_2017_Q4 = 6161
+var_income_before_income_taxes_2017_Q3 = 7611
+var_income_before_income_taxes_2017_Q2 = 8121
+var_income_before_income_taxes_2017_Q1 = 7320
+
+var_income_tax_expense_2018_Q4 = 1420
+var_income_tax_expense_2018_Q3 = 1827
+var_income_tax_expense_2018_Q2 = 1714
+var_income_tax_expense_2018_Q1 = 1476
+var_income_tax_expense_2017_Q4 = 3796
+var_income_tax_expense_2017_Q3 = 2187
+var_income_tax_expense_2017_Q2 = 3015
+var_income_tax_expense_2017_Q1 = 1983
+
+var_net_income_2018_Q4 = 7278
+var_net_income_2018_Q3 = 7167
+var_net_income_2018_Q2 = 6784
+var_net_income_2018_Q1 = 6918
+var_net_income_2017_Q4 = 2365
+var_net_income_2017_Q3 = 5424
+var_net_income_2017_Q2 = 5106
+var_net_income_2017_Q1 = 5337
+
+var_net_income_applicable_to_common_shareholders_2018_Q4 = 7039
+var_net_income_applicable_to_common_shareholders_2018_Q3 = 6701
+var_net_income_applicable_to_common_shareholders_2018_Q2 = 6466
+var_net_income_applicable_to_common_shareholders_2018_Q1 = 6490
+var_net_income_applicable_to_common_shareholders_2017_Q4 = 2079
+var_net_income_applicable_to_common_shareholders_2017_Q3 = 4959
+var_net_income_applicable_to_common_shareholders_2017_Q2 = 4745
+var_net_income_applicable_to_common_shareholders_2017_Q1 = 4835
+
+var_average_common_shares_issued_and_outstanding_2018_Q4 = 9855.8
+var_average_common_shares_issued_and_outstanding_2018_Q3 = 10031.6
+var_average_common_shares_issued_and_outstanding_2018_Q2 = 10181.7
+var_average_common_shares_issued_and_outstanding_2018_Q1 = 10322.4
+var_average_common_shares_issued_and_outstanding_2017_Q4 = 10470.7
+var_average_common_shares_issued_and_outstanding_2017_Q3 = 10197.9
+var_average_common_shares_issued_and_outstanding_2017_Q2 = 10013.5
+var_average_common_shares_issued_and_outstanding_2017_Q1 = 10099.6
+
+var_average_diluted_common_shares_issued_and_outstanding_2018_Q4 = 9996.0
+var_average_diluted_common_shares_issued_and_outstanding_2018_Q3 = 10170.8
+var_average_diluted_common_shares_issued_and_outstanding_2018_Q2 = 10309.4
+var_average_diluted_common_shares_issued_and_outstanding_2018_Q1 = 10472.7
+var_average_diluted_common_shares_issued_and_outstanding_2017_Q4 = 10621.8
+var_average_diluted_common_shares_issued_and_outstanding_2017_Q3 = 10746.7
+var_average_diluted_common_shares_issued_and_outstanding_2017_Q2 = 10834.8
+var_average_diluted_common_shares_issued_and_outstanding_2017_Q1 = 10919.7
+
+var_return_on_average_assets_2018_Q4 = 1.24
+var_return_on_average_assets_2018_Q3 = 1.23
+var_return_on_average_assets_2018_Q2 = 1.17
+var_return_on_average_assets_2018_Q1 = 1.21
+var_return_on_average_assets_2017_Q4 = 0.41
+var_return_on_average_assets_2017_Q3 = 0.95
+var_return_on_average_assets_2017_Q2 = 0.90
+var_return_on_average_assets_2017_Q1 = 0.97
+
+var_four_quarter_trailing_return_on_average_assets_2018_Q4 = 1.21
+var_four_quarter_trailing_return_on_average_assets_2018_Q3 = 1.00
+var_four_quarter_trailing_return_on_average_assets_2018_Q2 = 0.93
+var_four_quarter_trailing_return_on_average_assets_2018_Q1 = 0.86
+var_four_quarter_trailing_return_on_average_assets_2017_Q4 = 0.80
+var_four_quarter_trailing_return_on_average_assets_2017_Q3 = 0.91
+var_four_quarter_trailing_return_on_average_assets_2017_Q2 = 0.89
+var_four_quarter_trailing_return_on_average_assets_2017_Q1 = 0.88
+
+var_return_on_average_common_shareholders_equity_2018_Q4 = 11.57
+var_return_on_average_common_shareholders_equity_2018_Q3 = 10.99
+var_return_on_average_common_shareholders_equity_2018_Q2 = 10.75
+var_return_on_average_common_shareholders_equity_2018_Q1 = 10.85
+var_return_on_average_common_shareholders_equity_2017_Q4 = 3.29
+var_return_on_average_common_shareholders_equity_2017_Q3 = 7.89
+var_return_on_average_common_shareholders_equity_2017_Q2 = 7.75
+var_return_on_average_common_shareholders_equity_2017_Q1 = 8.09
+
+var_return_on_average_tangible_common_shareholders_equity_2018_Q4 = 16.29
+var_return_on_average_tangible_common_shareholders_equity_2018_Q3 = 15.48
+var_return_on_average_tangible_common_shareholders_equity_2018_Q2 = 15.15
+var_return_on_average_tangible_common_shareholders_equity_2018_Q1 = 15.26
+var_return_on_average_tangible_common_shareholders_equity_2017_Q4 = 4.56
+var_return_on_average_tangible_common_shareholders_equity_2017_Q3 = 10.98
+var_return_on_average_tangible_common_shareholders_equity_2017_Q2 = 10.87
+var_return_on_average_tangible_common_shareholders_equity_2017_Q1 = 11.44
+
+var_return_on_average_shareholders_equity_2018_Q4 = 10.95
+var_return_on_average_shareholders_equity_2018_Q3 = 10.74
+var_return_on_average_shareholders_equity_2018_Q2 = 10.26
+var_return_on_average_shareholders_equity_2018_Q1 = 10.57
+var_return_on_average_shareholders_equity_2017_Q4 = 3.43
+var_return_on_average_shareholders_equity_2017_Q3 = 7.88
+var_return_on_average_shareholders_equity_2017_Q2 = 7.56
+var_return_on_average_shareholders_equity_2017_Q1 = 8.09
+
+var_return_on_average_tangible_shareholders_equity_2018_Q4 = 14.90
+var_return_on_average_tangible_shareholders_equity_2018_Q3 = 14.61
+var_return_on_average_tangible_shareholders_equity_2018_Q2 = 13.95
+var_return_on_average_tangible_shareholders_equity_2018_Q1 = 14.37
+var_return_on_average_tangible_shareholders_equity_2017_Q4 = 4.62
+var_return_on_average_tangible_shareholders_equity_2017_Q3 = 10.59
+var_return_on_average_tangible_shareholders_equity_2017_Q2 = 10.23
+var_return_on_average_tangible_shareholders_equity_2017_Q1 = 11.01
+
+var_total_ending_equity_to_total_ending_assets_2018_Q4 = 11.27
+var_total_ending_equity_to_total_ending_assets_2018_Q3 = 11.21
+var_total_ending_equity_to_total_ending_assets_2018_Q2 = 11.53
+var_total_ending_equity_to_total_ending_assets_2018_Q1 = 11.43
+var_total_ending_equity_to_total_ending_assets_2017_Q4 = 11.71
+var_total_ending_equity_to_total_ending_assets_2017_Q3 = 11.91
+var_total_ending_equity_to_total_ending_assets_2017_Q2 = 12.00
+var_total_ending_equity_to_total_ending_assets_2017_Q1 = 11.92
+
+var_total_average_equity_to_total_average_assets_2018_Q4 = 11.30
+var_total_average_equity_to_total_average_assets_2018_Q3 = 11.42
+var_total_average_equity_to_total_average_assets_2018_Q2 = 11.42
+var_total_average_equity_to_total_average_assets_2018_Q1 = 11.41
+var_total_average_equity_to_total_average_assets_2017_Q4 = 11.87
+var_total_average_equity_to_total_average_assets_2017_Q3 = 12.03
+var_total_average_equity_to_total_average_assets_2017_Q2 = 11.94
+var_total_average_equity_to_total_average_assets_2017_Q1 = 12.00
+
+var_dividend_payout_2018_Q4 = 20.90
+var_dividend_payout_2018_Q3 = 22.35
+var_dividend_payout_2018_Q2 = 18.83
+var_dividend_payout_2018_Q1 = 19.06
+var_dividend_payout_2017_Q4 = 60.35
+var_dividend_payout_2017_Q3 = 25.59
+var_dividend_payout_2017_Q2 = 15.78
+var_dividend_payout_2017_Q1 = 15.64
+
+var_earnings_per_common_share_2018_Q4 = 0.71
+var_earnings_per_common_share_2018_Q3 = 0.67
+var_earnings_per_common_share_2018_Q2 = 0.64
+var_earnings_per_common_share_2018_Q1 = 0.63
+var_earnings_per_common_share_2017_Q4 = 0.20
+var_earnings_per_common_share_2017_Q3 = 0.49
+var_earnings_per_common_share_2017_Q2 = 0.47
+var_earnings_per_common_share_2017_Q1 = 0.48
+
+var_diluted_earnings_per_common_share_2018_Q4 = 0.70
+var_diluted_earnings_per_common_share_2018_Q3 = 0.66
+var_diluted_earnings_per_common_share_2018_Q2 = 0.63
+var_diluted_earnings_per_common_share_2018_Q1 = 0.62
+var_diluted_earnings_per_common_share_2017_Q4 = 0.20
+var_diluted_earnings_per_common_share_2017_Q3 = 0.46
+var_diluted_earnings_per_common_share_2017_Q2 = 0.44
+var_diluted_earnings_per_common_share_2017_Q1 = 0.45
+
+var_dividends_paid_per_common_share_2018_Q4 = 0.15
+var_dividends_paid_per_common_share_2018_Q3 = 0.15
+var_dividends_paid_per_common_share_2018_Q2 = 0.12
+var_dividends_paid_per_common_share_2018_Q1 = 0.12
+var_dividends_paid_per_common_share_2017_Q4 = 0.12
+var_dividends_paid_per_common_share_2017_Q3 = 0.12
+var_dividends_paid_per_common_share_2017_Q2 = 0.075
+var_dividends_paid_per_common_share_2017_Q1 = 0.075
+
+var_book_value_per_common_share_2018_Q4 = 25.13
+var_book_value_per_common_share_2018_Q3 = 24.33
+var_book_value_per_common_share_2018_Q2 = 24.07
+var_book_value_per_common_share_2018_Q1 = 23.74
+var_book_value_per_common_share_2017_Q4 = 23.80
+var_book_value_per_common_share_2017_Q3 = 23.87
+var_book_value_per_common_share_2017_Q2 = 24.85
+var_book_value_per_common_share_2017_Q1 = 24.34
+
+var_tangible_book_value_per_common_share_2018_Q4 = 17.91
+var_tangible_book_value_per_common_share_2018_Q3 = 17.23
+var_tangible_book_value_per_common_share_2018_Q2 = 17.07
+var_tangible_book_value_per_common_share_2018_Q1 = 16.84
+var_tangible_book_value_per_common_share_2017_Q4 = 16.96
+var_tangible_book_value_per_common_share_2017_Q3 = 17.18
+var_tangible_book_value_per_common_share_2017_Q2 = 17.75
+var_tangible_book_value_per_common_share_2017_Q1 = 17.22
+
+var_market_capitalization_2018_Q4 = 238251
+var_market_capitalization_2018_Q3 = 290424
+var_market_capitalization_2018_Q2 = 282259
+var_market_capitalization_2018_Q1 = 305176
+var_market_capitalization_2017_Q4 = 303681
+var_market_capitalization_2017_Q3 = 264992
+var_market_capitalization_2017_Q2 = 239643
+var_market_capitalization_2017_Q1 = 235291
+
+var_total_loans_and_leases_2018_Q4 = 934721
+var_total_loans_and_leases_2018_Q3 = 930736
+var_total_loans_and_leases_2018_Q2 = 934818
+var_total_loans_and_leases_2018_Q1 = 931915
+var_total_loans_and_leases_2017_Q4 = 927790
+var_total_loans_and_leases_2017_Q3 = 918129
+var_total_loans_and_leases_2017_Q2 = 914717
+var_total_loans_and_leases_2017_Q1 = 914144
+
+var_total_assets_2018_Q4 = 2334586
+var_total_assets_2018_Q3 = 2317829
+var_total_assets_2018_Q2 = 2322678
+var_total_assets_2018_Q1 = 2325878
+var_total_assets_2017_Q4 = 2301687
+var_total_assets_2017_Q3 = 2271104
+var_total_assets_2017_Q2 = 2269293
+var_total_assets_2017_Q1 = 2231649
+
+var_total_deposits_2018_Q4 = 1344951
+var_total_deposits_2018_Q3 = 1316345
+var_total_deposits_2018_Q2 = 1300659
+var_total_deposits_2018_Q1 = 1297268
+var_total_deposits_2017_Q4 = 1293572
+var_total_deposits_2017_Q3 = 1271711
+var_total_deposits_2017_Q2 = 1256838
+var_total_deposits_2017_Q1 = 1256632
+
+var_long_term_debt_2018_Q4 = 230616
+var_long_term_debt_2018_Q3 = 233475
+var_long_term_debt_2018_Q2 = 229037
+var_long_term_debt_2018_Q1 = 229603
+var_long_term_debt_2017_Q4 = 227644
+var_long_term_debt_2017_Q3 = 227309
+var_long_term_debt_2017_Q2 = 224019
+var_long_term_debt_2017_Q1 = 221468
+
+var_common_shareholders_equity_2018_Q4 = 241372
+var_common_shareholders_equity_2018_Q3 = 241812
+var_common_shareholders_equity_2018_Q2 = 241313
+var_common_shareholders_equity_2018_Q1 = 242713
+var_common_shareholders_equity_2017_Q4 = 250838
+var_common_shareholders_equity_2017_Q3 = 249214
+var_common_shareholders_equity_2017_Q2 = 245756
+var_common_shareholders_equity_2017_Q1 = 242480
+
+var_total_shareholders_equity_2018_Q4 = 263698
+var_total_shareholders_equity_2018_Q3 = 264653
+var_total_shareholders_equity_2018_Q2 = 265181
+var_total_shareholders_equity_2018_Q1 = 265480
+var_total_shareholders_equity_2017_Q4 = 273162
+var_total_shareholders_equity_2017_Q3 = 273238
+var_total_shareholders_equity_2017_Q2 = 270977
+var_total_shareholders_equity_2017_Q1 = 267700
+
+var_allowance_for_credit_losses_2018_Q4 = 10398
+var_allowance_for_credit_losses_2018_Q3 = 10526
+var_allowance_for_credit_losses_2018_Q2 = 10837
+var_allowance_for_credit_losses_2018_Q1 = 11042
+var_allowance_for_credit_losses_2017_Q4 = 11170
+var_allowance_for_credit_losses_2017_Q3 = 11455
+var_allowance_for_credit_losses_2017_Q2 = 11632
+var_allowance_for_credit_losses_2017_Q1 = 11869
+
+var_nonperforming_loans_leases_and_foreclosed_properties_2018_Q4 = 5244
+var_nonperforming_loans_leases_and_foreclosed_properties_2018_Q3 = 5449
+var_nonperforming_loans_leases_and_foreclosed_properties_2018_Q2 = 6181
+var_nonperforming_loans_leases_and_foreclosed_properties_2018_Q1 = 6694
+var_nonperforming_loans_leases_and_foreclosed_properties_2017_Q4 = 6758
+var_nonperforming_loans_leases_and_foreclosed_properties_2017_Q3 = 6869
+var_nonperforming_loans_leases_and_foreclosed_properties_2017_Q2 = 7127
+var_nonperforming_loans_leases_and_foreclosed_properties_2017_Q1 = 7637
+
+var_allowance_for_loan_and_lease_losses_as_a_percentage_of_total_loans_and_leases_outstanding_2018_Q4 = 1.02
+var_allowance_for_loan_and_lease_losses_as_a_percentage_of_total_loans_and_leases_outstanding_2018_Q3 = 1.05
+var_allowance_for_loan_and_lease_losses_as_a_percentage_of_total_loans_and_leases_outstanding_2018_Q2 = 1.08
+var_allowance_for_loan_and_lease_losses_as_a_percentage_of_total_loans_and_leases_outstanding_2018_Q1 = 1.11
+var_allowance_for_loan_and_lease_losses_as_a_percentage_of_total_loans_and_leases_outstanding_2017_Q4 = 1.12
+var_allowance_for_loan_and_lease_losses_as_a_percentage_of_total_loans_and_leases_outstanding_2017_Q3 = 1.16
+var_allowance_for_loan_and_lease_losses_as_a_percentage_of_total_loans_and_leases_outstanding_2017_Q2 = 1.20
+var_allowance_for_loan_and_lease_losses_as_a_percentage_of_total_loans_and_leases_outstanding_2017_Q1 = 1.25
+
+var_allowance_for_loan_and_lease_losses_as_a_percentage_of_total_nonperforming_loans_and_leases_2018_Q4 = 194
+var_allowance_for_loan_and_lease_losses_as_a_percentage_of_total_nonperforming_loans_and_leases_2018_Q3 = 189
+var_allowance_for_loan_and_lease_losses_as_a_percentage_of_total_nonperforming_loans_and_leases_2018_Q2 = 170
+var_allowance_for_loan_and_lease_losses_as_a_percentage_of_total_nonperforming_loans_and_leases_2018_Q1 = 161
+var_allowance_for_loan_and_lease_losses_as_a_percentage_of_total_nonperforming_loans_and_leases_2017_Q4 = 161
+var_allowance_for_loan_and_lease_losses_as_a_percentage_of_total_nonperforming_loans_and_leases_2017_Q3 = 163
+var_allowance_for_loan_and_lease_losses_as_a_percentage_of_total_nonperforming_loans_and_leases_2017_Q2 = 160
+var_allowance_for_loan_and_lease_losses_as_a_percentage_of_total_nonperforming_loans_and_leases_2017_Q1 = 156
+
+var_net_charge_offs_2018_Q4 = 924
+var_net_charge_offs_2018_Q3 = 932
+var_net_charge_offs_2018_Q2 = 996
+var_net_charge_offs_2018_Q1 = 911
+var_net_charge_offs_2017_Q4 = 1237
+var_net_charge_offs_2017_Q3 = 900
+var_net_charge_offs_2017_Q2 = 908
+var_net_charge_offs_2017_Q1 = 934
+
+var_annualized_net_charge_offs_as_a_percentage_of_average_loans_and_leases_outstanding_2018_Q4 = 0.39
+var_annualized_net_charge_offs_as_a_percentage_of_average_loans_and_leases_outstanding_2018_Q3 = 0.40
+var_annualized_net_charge_offs_as_a_percentage_of_average_loans_and_leases_outstanding_2018_Q2 = 0.43
+var_annualized_net_charge_offs_as_a_percentage_of_average_loans_and_leases_outstanding_2018_Q1 = 0.40
+var_annualized_net_charge_offs_as_a_percentage_of_average_loans_and_leases_outstanding_2017_Q4 = 0.53
+var_annualized_net_charge_offs_as_a_percentage_of_average_loans_and_leases_outstanding_2017_Q3 = 0.39
+var_annualized_net_charge_offs_as_a_percentage_of_average_loans_and_leases_outstanding_2017_Q2 = 0.40
+var_annualized_net_charge_offs_as_a_percentage_of_average_loans_and_leases_outstanding_2017_Q1 = 0.42
+
+var_common_equity_tier_1_capital_2018_Q4 = 11.6
+var_common_equity_tier_1_capital_2018_Q3 = 11.4
+var_common_equity_tier_1_capital_2018_Q2 = 11.4
+var_common_equity_tier_1_capital_2018_Q1 = 11.3
+var_common_equity_tier_1_capital_2017_Q4 = 11.5
+var_common_equity_tier_1_capital_2017_Q3 = 11.9
+var_common_equity_tier_1_capital_2017_Q2 = 11.5
+var_common_equity_tier_1_capital_2017_Q1 = 11.0
+
+var_tier_1_capital_2018_Q4 = 13.2
+var_tier_1_capital_2018_Q3 = 12.9
+var_tier_1_capital_2018_Q2 = 13.0
+var_tier_1_capital_2018_Q1 = 13.0
+var_tier_1_capital_2017_Q4 = 13.0
+var_tier_1_capital_2017_Q3 = 13.4
+var_tier_1_capital_2017_Q2 = 13.2
+var_tier_1_capital_2017_Q1 = 12.6
+
+var_total_capital_2018_Q4 = 15.1
+var_total_capital_2018_Q3 = 14.7
+var_total_capital_2018_Q2 = 14.8
+var_total_capital_2018_Q1 = 14.8
+var_total_capital_2017_Q4 = 14.8
+var_total_capital_2017_Q3 = 15.0
+var_total_capital_2017_Q2 = 15.0
+var_total_capital_2017_Q1 = 14.3
+
+var_tier_1_leverage_2018_Q4 = 8.4
+var_tier_1_leverage_2018_Q3 = 8.3
+var_tier_1_leverage_2018_Q2 = 8.4
+var_tier_1_leverage_2018_Q1 = 8.4
+var_tier_1_leverage_2017_Q4 = 8.6
+var_tier_1_leverage_2017_Q3 = 8.9
+var_tier_1_leverage_2017_Q2 = 8.8
+var_tier_1_leverage_2017_Q1 = 8.8
+
+var_supplementary_leverage_ratio_2018_Q4 = 6.8
+var_supplementary_leverage_ratio_2018_Q3 = 6.7
+var_supplementary_leverage_ratio_2018_Q2 = 6.7
+var_supplementary_leverage_ratio_2018_Q1 = 6.8
+var_supplementary_leverage_ratio_2017_Q4 = "n/a"
+var_supplementary_leverage_ratio_2017_Q3 = "n/a"
+var_supplementary_leverage_ratio_2017_Q2 = "n/a"
+var_supplementary_leverage_ratio_2017_Q1 = "n/a"
+
+var_tangible_equity_2018_Q4 = 8.6
+var_tangible_equity_2018_Q3 = 8.5
+var_tangible_equity_2018_Q2 = 8.7
+var_tangible_equity_2018_Q1 = 8.7
+var_tangible_equity_2017_Q4 = 8.9
+var_tangible_equity_2017_Q3 = 9.1
+var_tangible_equity_2017_Q2 = 9.2
+var_tangible_equity_2017_Q1 = 9.1
+
+var_tangible_common_equity_2018_Q4 = 7.6
+var_tangible_common_equity_2018_Q3 = 7.5
+var_tangible_common_equity_2018_Q2 = 7.7
+var_tangible_common_equity_2018_Q1 = 7.6
+var_tangible_common_equity_2017_Q4 = 7.9
+var_tangible_common_equity_2017_Q3 = 8.1
+var_tangible_common_equity_2017_Q2 = 8.0
+var_tangible_common_equity_2017_Q1 = 7.9
+
+# END OF CODE BLOCK cf5b2384

@@ -1,0 +1,70 @@
+# Nonperforming Commercial Loans, Leases and Foreclosed Properties Activity  
+  
+Table 38 presents the nonperforming commercial loans, leases and foreclosed properties activity during 2018 and 2017. Nonperforming loans do not include loans accounted for under the fair value option. During 2018, nonperforming commercial loans and leases decreased $202 million to $1.1 billion. At December  
+  
+31, 2018, 93 percent of commercial nonperforming loans, leases and foreclosed properties were secured and 55 percent were contractually current. Commercial nonperforming loans were carried at 89 percent of their unpaid principal balance before consideration of the allowance for loan and lease losses as the carrying value of these loans has been reduced to the estimated collateral value less costs to sell.  
+  
+Table 38 Nonperforming Commercial Loans, Leases and Foreclosed Properties Activity (1, 2)  
+  
+| (Dollars in millions) | 2018 | 2017 |  
+| - | - | - |  
+| Nonperforming loans and leases, January 1 | $ 1,304 | $ 1,703 |  
+| Additions | 1,415 | 1,616 |  
+| Reductions: | | |  
+| Paydowns | (771) | (930) |  
+| Sales | (210) | (136) |  
+| Returns to performing status (3) | (246) | (280) |  
+| Charge-offs | (361) | (455) |  
+| Transfers to foreclosed properties | (12) | (40) |  
+| Transfers to loans held-for-sale | (17) | (174) |  
+| Total net reductions to nonperforming loans and leases | (202) | (399) |  
+| Total nonperforming loans and leases, December 31 | 1,102 | 1,304 |  
+| Foreclosed properties, December 31 | 56 | 52 |  
+| Nonperforming commercial loans, leases and foreclosed properties, December 31 | $ 1,158 | $ 1,356 |  
+| Nonperforming commercial loans and leases as a percentage of outstanding commercial loans and leases (4) | 0.22% | 0.27 % |  
+| Nonperforming commercial loans, leases and foreclosed properties as a percentage of outstanding commercial loans, leases and foreclosed properties (4) | 0.23 | 0.28 |  
+  
+(1) Balances do not include nonperforming loans held-for-sale of $292 million and $339 million atDecember 31, 2018 and 2017  
+  
+(2) Includes U.S. small business commercial activity. Small business card loans are excluded as they are not classified as  
+  
+nonperforming.  
+  
+(3) Commercial loans and leases may be returned to performing status when all principal and interest is current and full repayment of the remaining contractual principal and interest is expected, or when the loan otherwise becomes well-secured and is in the process of collection. TDRs are generally classified as performing after a sustained period of demonstrated payment performance.  
+  
+(4) Outstanding commercial loans exclude loans accounted for under the fair value option.  
+  
+Table 39 presents our commercial TDRs by product type and performing status. U.S. small business commercial TDRs are comprised of renegotiated small business card loans and small business loans. The renegotiated small business card loans are not classified as nonperforming as they are charged off no later than the end of the month in which the loan becomes 180 days past due. For more information on TDRs, see Note 5 - Outstanding Loans and Leases to the Consolidated Financial Statements.  
+  
+  
+## Table 39 Commercial Troubled Debt Restructurings  
+  
+| (Dollars in millions) | December 31, 2018 ||| December 31, 2017 |||  
+|| Nonperforming | Performing | Total | Nonperforming | Performing | Total |  
+| - | - | - | - | - | - | - |  
+| Commercial and industrial: | | | | | | |  
+| U.S. commercial | 306 | 1,092 | $ 1,398 | 370 | $ 866 | $ 1,236 |  
+| Non-U.S. commercial | 78 | 162 | 240 | 11 | 219 | 230 |  
+| Total commercial and industrial | 384 | 1,254 | 1,638 | 381 | 1,085 | 1,466 |  
+| Commercial real estate | 114 | 6 | 120 | 38 | 9 | 47 |  
+| Commercial lease financing | 3 | 68 | 71 | 5 | 13 | 18 |  
+| | 501 | 1,328 | 1,829 | 424 | 1,107 | 1,531 |  
+| U.S. small business commercial | 3 | 18 | 21 | 4 | 15 | 19 |  
+| Total commercial troubled debt restructurings | $ 504 | 1,346 | $ 1,850 | $ 428 | $ 1,122 | $ 1,550 |  
+  
+  
+# Industry Concentrations  
+  
+Table 40 presents commercial committed and utilized credit exposure by industry and the total net credit default protection purchased to cover the funded and unfunded portions of certain credit exposures. Our commercial credit exposure is diversified across a broad range of industries. Total commercial committed exposure increased $28.8 billion, or three percent, during 2018 to $1.0 trillion. The increase in commercial committed exposure was concentrated in the Asset Managers and Funds, Pharmaceuticals and Biotechnology, and Capital Goods industry sectors. Increases were partially offset by reduced exposure to the Media, Food and Staples Retailing, and Energy industry sectors.  
+  
+Industry limits are used internally to manage industry concentrations and are based on committed exposure that is  
+  
+allocated on an industry-by-industry basis. A risk management framework is in place to set and approve industry limits as well as to provide ongoing monitoring. The MRC oversees industry limit governance.  
+  
+Asset Managers and Funds, our largest industry concentration with committed exposure of $107.9 billion, increased $16.8 billion, or 18 percent, during 2018. The change reflects an increase in exposure to several counterparties.  
+  
+Real Estate, our second largest industry concentration with committed exposure of $86.5 billion, increased $2.7 billion, or three percent, during 2018. For more information on the commercial real estate and related portfolios, see Commercial Portfolio Credit Risk Management - Commercial Real Estate on page 62.  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageNumber="63" -->  

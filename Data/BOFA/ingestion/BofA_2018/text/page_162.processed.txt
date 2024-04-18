@@ -1,0 +1,76 @@
+resolved items will be removed from the balance whether their resolution results in payment or recognition.  
+  
+The Corporation recognized interest expense of $43 million, $1 million and $56 million in 2018, 2017 and 2016, respectively. At December 31, 2018 and 2017, the Corporation's accrual for interest and penalties that related to income taxes, net of taxes and remittances, was $218 million and $185 million.  
+  
+Significant components of the Corporation's net deferred tax assets and liabilities at December 31, 2018 and 2017 are presented in the following table.  
+  
+  
+# Deferred Tax Assets and Liabilities  
+  
+| (Dollars in millions) | December 31 ||  
+|| 2018 | 2017 |  
+| - | - | - |  
+| Deferred tax assets | | |  
+| Net operating loss carryforwards | 7,993 | $ 8,506 |  
+| Allowance for credit losses | 2,400 | 2,598 |  
+| Accrued expenses | 1,875 | 2,021 |  
+| Available-for-sale securities | 1,854 | 510 |  
+| Security, loan and debt valuations | 1,818 | 2,939 |  
+| Employee compensation and retirement benefits | 1,564 | 1,705 |  
+| Credit carryforwards | 623 | 1,793 |  
+| Other | 1,037 | 1,034 |  
+| Gross deferred tax assets | 19,164 | 21,106 |  
+| Valuation allowance | (1,569) | (1,644) |  
+| Total deferred tax assets, net of valuation allowance | 17,595 | 19,462 |  
+| Deferred tax liabilities | | |  
+| Equipment lease financing | 2,684 | 2,492 |  
+| Fixed assets | 1,104 | 840 |  
+| Tax credit investments | 940 | 734 |  
+| Other | 2,126 | 2,771 |  
+| Gross deferred tax liabilities | 6,854 | 6,837 |  
+| Net deferred tax assets, net of valuation allowance | $ 10,741 | $ 12,625 |  
+  
+The table below summarizes the deferred tax assets and related valuation allowances recognized for the net operating loss (NOL) and tax credit carryforwards at December 31, 2018.  
+  
+  
+# Net Operating Loss and Tax Credit Carryforward Deferred Tax Assets  
+  
+| (Dollars in millions) | Deferred Tax Asset | Valuation Allowance | Net Deferred Tax Asset | First Year Expiring |  
+| - | - | - | - | - |  
+| Net operating losses - U.S. | $ 592 | $ | $ 592 | After 2027 |  
+| Net operating losses - U.K. (1) | 5,294 | | 5,294 | None |  
+| Net operating losses - other non-U.S. | 633 | (517) | 116 | Various |  
+| Net operating losses - U.S. states (2) | 1,474 | (517) | 957 | Various |  
+| General business credits | 612 | | 612 | After 2038 |  
+| Foreign tax credits | 11 | (11) | | n/a |  
+  
+(1) Represents U.K. broker-dealer net operating losses that may be carried forward indefinitely.  
+  
+(2) The net operating losses and related valuation allowances for U.S. states before considering the benefit of federal deductions were $1.9 billion and $654 million.  
+  
+n/a = not applicable  
+  
+Management concluded that no valuation allowance was necessary to reduce the deferred tax assets related to the U.K. NOL carryforwards and U.S. NOL and general business credit carryforwards since estimated future taxable income will be sufficient to utilize these assets prior to their expiration. The majority of the Corporation's U.K. net deferred tax assets, which  
+  
+consist primarily of NOLs, are expected to be realized by certain subsidiaries over an extended number of years. Management's conclusion is supported by financial results, profit forecasts for the relevant entities and the indefinite period to carry forward NOLs. However, a material change in those estimates could lead management to reassess such valuation allowance conclusions.  
+  
+At December 31, 2018, U.S. federal income taxes had not been provided on approximately $5 billion of temporary differences associated with investments in non-U.S. subsidiaries that are essentially permanent in duration. If the Corporation were to record the associated deferred tax liability, the amount would be approximately $1 billion.  
+  
+  
+# NOTE 20 Fair Value Measurements  
+  
+Under applicable accounting standards, fair value is defined as the exchange price that would be received for an asset or paid to transfer a liability (an exit price) in the principal or most advantageous market for the asset or liability in an orderly transaction between market participants on the measurement date. The Corporation determines the fair values of its financial instruments under applicable accounting standards that require an entity to maximize the use of observable inputs and minimize the use of unobservable inputs. The Corporation categorizes its financial instruments into three levels based on the established fair value hierarchy. The Corporation conducts a review of its fair value hierarchy classifications on a quarterly basis. Transfers into or out of fair value hierarchy classifications are made if the significant inputs used in the financial models measuring the fair values of the assets and liabilities became unobservable or observable in the current marketplace. For more information regarding the fair value hierarchy and how the Corporation measures fair value, see Note 1 - Summary of Significant Accounting Principles. The Corporation accounts for certain financial instruments under the fair value option. For additional information, see Note 21 - Fair Value Option.  
+  
+  
+## Valuation Techniques  
+  
+The following sections outline the valuation methodologies for the Corporation's assets and liabilities. While the Corporation believes its valuation methods are appropriate and consistent with other market participants, the use of different methodologies or assumptions to determine the fair value of certain financial instruments could result in a different estimate of fair value at the reporting date.  
+  
+During 2018, there were no changes to valuation approaches or techniques that had, or are expected to have, a material impact on the Corporation's consolidated financial position or results of operations.  
+  
+  
+## Trading Account Assets and Liabilities and Debt Securities  
+  
+The fair values of trading account assets and liabilities are primarily based on actively traded markets where prices are based on either direct market quotes or observed transactions. The fair values of debt securities are generally based on quoted market prices or market prices for similar assets. Liquidity is a significant factor in the determination of the fair values of trading account assets and liabilities and debt securities. Market price quotes may not be readily available for some positions such as positions within a market sector where trading activity has slowed significantly or ceased. Some of these instruments are valued using a discounted cash flow model, which estimates the fair value of the securities using internal credit risk, interest rate and prepayment risk models that incorporate management's best estimate of current key assumptions such as default rates, loss severity and prepayment  
+  
+<!-- PageFooter="Bank of America 2018 150" -->  

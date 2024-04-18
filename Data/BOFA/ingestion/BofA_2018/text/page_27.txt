@@ -1,0 +1,62 @@
+ Non-GAAP Reconciliations Tables 6 and 7 provide reconciliations of certain non-GAAP financial measures to GAAP financial measures.  
+  
+| Table 6 Five-year Reconciliations to GAAP Financial Measures (1) ||||||  
+| (Dollars in millions, shares in thousands) | 2018 | 2017 | 2016 | 2015 | 2014 |  
+| - | - | - | - | - | - |  
+| Reconciliation of average shareholders' equity to average tangible shareholders' equity and average tangible common shareholders' equity | | | | | |  
+| Shareholders' equity | 264,748 | $ 271,289 | $ 265,843 | $ 251,384 | $ 238,317 |  
+| Goodwill | (68,951) | (69,286) | (69,750) | (69,772) | (69,809) |  
+| Intangible assets (excluding MSRs) | (2,058) | (2,652) | (3,382) | (4,201) | (5,109) |  
+| Related deferred tax liabilities | 906 | 1,463 | 1,644 | 1,852 | 2,090 |  
+| Tangible shareholders' equity | $ 194,645 | $ 200,814 | $ 194,355 | $ 179,263 | $ 165,489 |  
+| Preferred stock | (22,949) | (24,188) | (24,656) | (21,808) | (15,410) |  
+| Tangible common shareholders' equity | $ 171,696 | $ 176,626 | $ 169,699 | $ 157,455 | $ 150,079 |  
+| Reconciliation of year-end shareholders' equity to year-end tangible shareholders' equity and year-end tangible common shareholders' equity | | | | | |  
+| Shareholders' equity | $ 265,325 | 267,146 | $ 266,195 | $ 255,615 | $ 243,476 |  
+| Goodwill | (68,951) | (68,951) | (69,744) | (69,761) | (69,777) |  
+| Intangible assets (excluding MSRs) | (1,774) | (2,312) | (2,989) | (3,768) | (4,612) |  
+| Related deferred tax liabilities | 858 | 943 | 1,545 | 1,716 | 1,960 |  
+| Tangible shareholders' equity | $ 195,458 | $ 196,826 | $ 195,007 | $ 183,802 | $ 171,047 |  
+| Preferred stock | (22,326) | (22,323) | (25,220) | (22,272) | (19,309) |  
+| Tangible common shareholders' equity | $ 173,132 | $ 174,503 | $ 169,787 | $ 161,530 | $ 151,738 |  
+| Reconciliation of year-end assets to year-end tangible assets | | | | | |  
+| Assets | $ 2,354,507 | $ 2,281,234 | $ 2,188,067 | $ 2,144,606 | $ 2,104,539 |  
+| Goodwill | (68,951) | (68,951) | (69,744) | (69,761) | (69,777) |  
+| Intangible assets (excluding MSRs) | (1,774) | (2,312) | (2,989) | (3,768) | (4,612) |  
+| Related deferred tax liabilities | 858 | 943 | 1,545 | 1,716 | 1,960 |  
+| Tangible assets | $ 2,284,640 | $ 2,210,914 | $ 2,116,879 | $ 2,072,793 | $ 2,032,110 |  
+  
+(1) Presents reconciliations of non-GAAP financial measures to GAAP financial measures. For more information on non-GAAP financial measures and ratios we use in assessing the results of the Corporation, sesupplemental Financial Data on page 24.  
+  
+  
+# Table 7 Quarterly Reconciliations to GAAP Financial Measures (1)  
+  
+| (Dollars in millions) | 2018 Quarters |||| 2017 Quarters ||||  
+|| Fourth | Third | Second | First | Fourth | Third | Second | First |  
+| - | - | - | - | - | - | - | - | - |  
+| Reconciliation of average shareholders' equity to average tangible shareholders' equity and average tangible common shareholders' equity | | | | | | | | |  
+| Shareholders' equity | $ 263,698 | $ 264,653 | $ 265,181 | $ 265,480 | $ 273,162 | $ 273,238 | $ 270,977 | $ 267,700 |  
+| Goodwill | (68,951) | (68,951) | (68,951) | (68,951) | (68,954) | (68,969) | (69,489) | (69,744) |  
+| Intangible assets (excluding MSRs) | (1,857) | (1,992) | (2,126) | (2,261) | (2,399) | (2,549) | (2,743) | (2,923) |  
+| Related deferred tax liabilities | 874 | 896 | 916 | 939 | 1,344 | 1,465 | 1,506 | 1,539 |  
+| Tangible shareholders' equity | $ 193,764 | $ 194,606 | $ 195,020 | $ 195,207 | $ 203,153 | $ 203,185 | $ 200,251 | $ 196,572 |  
+| Preferred stock | (22,326) | (22,841) | (23,868) | (22,767) | (22,324) | (24,024) | (25,221) | (25,220) |  
+| Tangible common shareholders' equity | $ 171,438 | $ 171,765 | $ 171,152 | $ 172,440 | $ 180,829 | $ 179,161 | $ 175,030 | $ 171,352 |  
+| Reconciliation of period-end shareholders' equity to period-end tangible shareholders' equity and period-end tangible common shareholders' equity | | | | | | | | |  
+| Shareholders' equity | $ 265,325 | $ 262,158 | $ 264,216 | $ 266,224 | $ 267,146 | $ 271,969 | $ 270,660 | $ 267,990 |  
+| Goodwill | (68,951) | (68,951) | (68,951) | (68,951) | (68,951) | (68,968) | (68,969) | (69,744) |  
+| Intangible assets (excluding MSRs) | (1,774) | (1,908) | (2,043) | (2,177) | (2,312) | (2,459) | (2,610) | (2,827) |  
+| Related deferred tax liabilities | 858 | 878 | 900 | 920 | 943 | 1,435 | 1,471 | 1,513 |  
+| Tangible shareholders' equity | $ 195,458 | $ 192,177 | $ 194,122 | $ 196,016 | $ 196,826 | $ 201,977 | $ 200,552 | $ 196,932 |  
+| Preferred stock | (22,326) | (22,326) | (23,181) | (24,672) | (22,323) | (22,323) | (25,220) | (25,220) |  
+| Tangible common shareholders' equity | $ 173,132 | $ 169,851 | $ 170,941 | $ 171,344 | $ 174,503 | $ 179,654 | $ 175,332 | $ 171,712 |  
+| Reconciliation of period-end assets to period-end tangible assets | | | | | | | | |  
+| Assets | $ 2,354,507 | $ 2,338,833 | $ 2,291,670 | $ 2,328,478 | $ 2,281,234 | $ 2,284,174 | $ 2,254,714 | $ 2,247,794 |  
+| Goodwill | (68,951) | (68,951) | (68,951) | (68,951) | (68,951) | (68,968) | (68,969) | (69,744) |  
+| Intangible assets (excluding MSRs) | (1,774) | (1,908) | (2,043) | (2,177) | (2,312) | (2,459) | (2,610) | (2,827) |  
+| Related deferred tax liabilities | 858 | 878 | 900 | 920 | 943 | 1,435 | 1,471 | 1,513 |  
+| Tangible assets | $ 2,284,640 | $ 2,268,852 | $ 2,221,576 | $ 2,258,270 | $ 2,210,914 | $ 2,214,182 | $ 2,184,606 | $ 2,176,736 |  
+  
+(1) Presents reconciliations of non-GAAP financial measures to GAAP financial measures. For more information on non-GAAP financial measures and ratios we use in assessing the results of the Corporation, sesupplemental Financial Data on page 24.  
+  
+<!-- PageFooter="25 Bank of America 2018" -->  

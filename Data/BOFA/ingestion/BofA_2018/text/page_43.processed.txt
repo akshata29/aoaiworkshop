@@ -1,0 +1,63 @@
+Average total assets increased $27.3 billion to $666.0 billion in 2018 primarily driven by increased levels of inventory in FICC to facilitate client demand and growth in Equities derivative client financing activities. Total year-end assets increased $12.9 billion to $641.9 billion at December 31, 2018 due to increased levels of inventory in FICC.  
+  
+The return on average allocated capital was 11 percent, up from 9 percent, reflecting higher net income. For more information on capital allocated to the business segments, see Business Segment Operations on page 30.  
+  
+  
+# Sales and Trading Revenue  
+  
+Sales and trading revenue includes unrealized and realized gains and losses on trading and other assets, net interest income, and fees primarily from commissions on equity securities. Sales and trading revenue is segregated into fixed-income (government debt obligations, investment and non-investment grade corporate debt obligations, commercial MBS, residential mortgage-backed securities, collateralized loan obligations, interest rate and credit derivative contracts), currencies (interest rate and foreign exchange contracts), commodities (primarily futures, forwards, swaps and options) and equities (equity-linked derivatives and cash equity activity). The following table and related discussion present sales and trading revenue, substantially all of which is in Global Markets, with the remainder in Global Banking. In addition, the following table and related discussion present sales and trading revenue, excluding net DVA, which is a non-GAAP financial measure. For more information on net DVA, see Supplemental Financial Data on page 24.  
+  
+  
+# Sales and Trading Revenue (1, 2)  
+  
+| (Dollars in millions) | 2018 | 2017 |  
+| - | - | - |  
+| Sales and trading revenue | | |  
+| Fixed-income, currencies and commodities | $ 8,186 | $ 8,657 |  
+| Equities | 4,876 | 4,120 |  
+| Total sales and trading revenue | $ 13,062 | $ 12,777 |  
+| Sales and trading revenue, excluding net DVA (3) | | |  
+| Fixed-income, currencies and commodities | $ 8,328 | $ 9,051 |  
+| Equities | 4,896 | 4,154 |  
+| Total sales and trading revenue, excluding net DVA | $ 13,224 | $ 13,205 |  
+  
+(1) Includes FTE adjustments of $249 million and $236 million for 2018 and 2017. For more information on sales and trading revenue, see Note 3 - Derivativesto the Consolidated Financial Statements.  
+  
+(2) Includes Global Banking sales and trading revenue of $430 million and $236 million for 2018 and 2017.  
+  
+(3) FICC and Equities sales and trading revenue, excluding net DVA, is a non-GAAP financial measure. FICC net DVAlosses were $142 million and $394 million for 2018 and 2017. Equities net DVA losses were $20 million and $34 million for 2018 and 2017.  
+  
+The following explanations for year-over-year changes in sales and trading, FICC and Equities revenue exclude net DVA, but would be the same whether net DVA was included or excluded. FICC revenue decreased $723 million in 2018 primarily due to lower activity and a less favorable market in credit-related products. The decline in FICC revenue was also impacted by higher funding costs, which were driven by increases in market interest rates. Equities revenue increased $742 million in 2018 driven by strength in client financing and derivatives.  
+  
+  
+# All Other  
+  
+| (Dollars in millions) | 2018 | 2017 | % Change |  
+| - | - | - | - |  
+| Net interest income | $ 573 | $ 864 | (34)% |  
+| Noninterest income (loss) | (1,284) | (1,648) | (22) |  
+| Total revenue, net of interest expense | (711) | (784) | (9) |  
+| Provision for credit losses | (476) | (561) | (15) |  
+| Noninterest expense | 2,614 | 4,065 | (36) |  
+| Loss before income taxes | (2,849) | (4,288) | (34) |  
+| Income tax benefit | (2,736) | (979) | n/m |  
+| Net loss | $ (113) | $ (3,309) | (97) |  
+| Balance Sheet | | | |  
+| Average | | | |  
+| Total loans and leases | $ 61,013 | $ 82,489 | (26)% |  
+| Total assets (1) | 201,298 | 206,999 | (3) |  
+| Total deposits | 21,966 | 25,194 | (13) |  
+| Year end | | | |  
+| Total loans and leases | 48,061 | $ 69,452 | (31)% |  
+| Total assets (1) | 196,325 | 194,042 | 1 |  
+| Total deposits | 18,541 | 22,719 | (18) |  
+  
+(1) In segments where the total of liabilities and equity exceeds assets, which are generally deposit-taking segments, we allocate assets fromAll Other to those segments to match liabilities (i.e., deposits) and allocated shareholders' equity. Average allocated assets were $517.0 billion and $515.6 billion for 2018 and 2017, and year-end allocated assets were$540.8 billion and $520.4 billion at December 31, 2018 and 2017.  
+  
+n/m = not meaningful  
+  
+All Other consists of ALM activities, equity investments, non-core mortgage loans and servicing activities, the net impact of periodic revisions to the MSR valuation model for core and non-core MSRs and the related economic hedge results, liquidating businesses and residual expense allocations. ALM activities encompass certain residential mortgages, debt securities, interest rate and foreign currency risk management activities, the impact of certain  
+  
+allocation methodologies and hedge ineffectiveness. The results of certain ALM activities are allocated to our business segments. For more information on our ALM activities, see Note 23 - Business Segment Information to the Consolidated Financial Statements. Equity investments include ourmerchant services joint venture as well as a portfolio of equity, real estate and other alternative investments. For more information on our merchant services joint  
+  
+<!-- PageFooter="Bank of America 2018 38" -->  

@@ -1,0 +1,64 @@
+NOTE 5 Outstanding Loans and Leases  
+===  
+  
+The following tables present total outstanding loans and leases and an aging analysis for the Consumer Real Estate, Credit Card and Other Consumer, and Commercial portfolio segments, by class of financing receivables, at December 31, 2018 and 2017.  
+  
+| | 30-59 Days Past Due (1) | 60-89 Days Past Due (1) | 90 Days or More Past Due (2) | Total Past Due 30 Days or More | Total Current or Less Than 30 Days Past Due (3) | Purchased Credit-impaired (4) | Loans Accounted for Under the Fair Value Option | Total Outstandings |  
+| - | - | - | - | - | - | - | - | - |  
+| (Dollars in millions) | December 31, 2018 ||||||||  
+| Consumer real estate | | | | | | | | |  
+| Core portfolio | | | | | | | | |  
+| Residential mortgage | $ 1,188 | $ 249 | $ 793 | 2,230 | 191,465 | | | $ 193,695 |  
+| Home equity | 200 | 85 | 387 | 672 | 39,338 | | | 40,010 |  
+| Non-core portfolio | | | | | | | | |  
+| Residential mortgage | 624 | 268 | 2,012 | 2,904 | 8,158 | $ 3,800 | | 14,862 |  
+| Home equity | 119 | 60 | 287 | 466 | 6,965 | 845 | | 8,276 |  
+| Credit card and other consumer | | | | | | | | |  
+| U.S. credit card | 577 | 418 | 994 | 1,989 | 96,349 | | | 98,338 |  
+| Direct/Indirect consumer (5) | 317 | 90 | 40 | 447 | 90,719 | | | 91,166 |  
+| Other consumer (6) | | | | | 202 | | | 202 |  
+| Total consumer | 3,025 | 1,170 | 4,513 | 8,708 | 433,196 | 4,645 | | 446,549 |  
+| Consumer loans accounted for under the fair value option (7) | | | | | | | 682 | 682 |  
+| Total consumer loans and leases | 3,025 | 1,170 | 4,513 | 8,708 | 433,196 | 4,645 | 682 | 447,231 |  
+| Commercial | | | | | | | | |  
+| U.S. commercial | 594 | 232 | 573 | 1,399 | 297,878 | | | 299,277 |  
+| Non-U.S. commercial | 1 | 49 | - | 50 | 98,726 | | | 98,776 |  
+| Commercial real estate (8) | 29 | 16 | 14 | 59 | 60,786 | | | 60,845 |  
+| Commercial lease financing | 124 | 114 | 37 | 275 | 22,259 | | | 22,534 |  
+| U.S. small business commercial | 83 | 54 | 96 | 233 | 14,332 | | | 14,565 |  
+| Total commercial | 831 | 465 | 720 | 2,016 | 493,981 | | | 495,997 |  
+| Commercial loans accounted for under the fair value option (7) | | | | | | | 3,667 | 3,667 |  
+| Total commercial loans and leases | 831 | 465 | 720 | 2,016 | 493,981 | | 3,667 | 499,664 |  
+| Total loans and leases (9) | $ 3,856 | $ 1,635 | $ 5,233 | $ 10,724 | $ 927,177 | $ 4,645 | $ 4,349 | $ 946,895 |  
+| Percentage of outstandings | 0.41 % | 0.17 % | 0.55 % | 1.13 % | 97.92 % | 0.49 % | 0.46 % | 100.00 % |  
+  
+(1) Consumer real estate loans 30-59 days past due includes fully-insured loans of$637 million and nonperforming loans of$217 million. Consumer real estate loans 60-89 days past due includes fully-insured loans of$269 million and nonperforming loans of $146 million.  
+  
+(2) Consumer real estate includes fully-insured loans of$1.9  
+  
+billion.  
+  
+(3) Consumer real estate includes $1.8 billion and direct/indirect consumer includes$53 million of nonperforming  
+  
+loans  
+  
+(4) PCI loan amounts are shown gross of the valuation  
+  
+allowance.  
+  
+(5) Total outstandings includes auto and specialty lending loans and leases of $50.1 billion, unsecured consumer lending loans of $383 million, U.S. securities-based lending loans of $37.0 billion, non-U.S. consumer loans of $2.9 billion and other consumer loans of $746 million.  
+  
+(6) Substantially all of other consumer is consumer  
+  
+overdrafts.  
+  
+(7) Consumer loans accounted for under the fair value option includes residential mortgage loans of$336 million and home equity loans of$346 million. Commercial loans accounted for under the fair value option includes U.S. commercial loans of$2.5 billion and non-U.S. commercial loans of $1.1 billion. For additional information, see Note 20 - Fair Value Measurements and Note 21 - Fair Value Option.  
+  
+(8) Total outstandings includes U.S. commercial real estate loans of $56.6 billion and non-U.S. commercial real estate loans of $4.2  
+  
+billion.  
+  
+(9) Total outstandings includes loans and leases pledged as collateral of$36.7 billion. The Corporation also pledged $166.1 billion of loans with no related outstanding borrowings to secure potential borrowing capacity with the Federal Reserve Bank and Federal Home Loan Bank (FHLB).  
+  
+  
+# 111 Bank of America 2018  

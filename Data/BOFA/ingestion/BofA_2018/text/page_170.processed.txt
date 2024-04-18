@@ -1,0 +1,78 @@
+ Quantitative Information about Level 3 Fair Value Measurements at December 31, 2017  
+  
+| (Dollars in millions) Inputs ||||||  
+| Financial Instrument | Fair Value | Valuation Technique | Significant Unobservable Inputs | Ranges of Inputs | Weighted Average (1) |  
+| - | - | - | - | - | - |  
+| Loans and Securities (2) | | | | | |  
+| Instruments backed by residential real estate assets | $ 871 | Discounted cash flow | Yield | 0% to 25% | 6% |  
+| Trading account assets - Mortgage trading loans, ABS and other MBS | 298 || Prepayment speed | 0% to 22% CPR | 12% |  
+| Loans and leases | 570 || Default rate | 0% to 3% CDR | 1% |  
+| Loans held-for-sale | 3 || Loss severity | 0% to 53% | 17% |  
+| Instruments backed by commercial real estate assets | $ 286 | Discounted cash flow | Yield | 0% to 25% | 9% |  
+| Trading account assets - Corporate securities, trading loans and other | 244 || Price | $0 to $100 | $67 |  
+| Trading account assets - Mortgage trading loans, ABS and other MBS | 42 || | | |  
+| Commercial loans, debt securities and other | $ 4,023 | Discounted cash flow, Market comparables | Yield | 0% to 12% | 5% |  
+| Trading account assets - Corporate securities, trading loans and other | 1,613 || Prepayment speed | 10% to 20% | 16% |  
+| Trading account assets - Non-U.S. sovereign debt | 556 || Default rate | 3% to 4% | 4% |  
+| Trading account assets - Mortgage trading loans, ABS and other MBS | 1,158 || Loss severity | 35% to 40% | 37% |  
+| AFS debt securities - Other taxable securities | 8 || Price | $0 to $145 | $63 |  
+| Loans and leases | 1 || | | |  
+| Loans held-for-sale | 687 || | | |  
+| Auction rate securities | $ 977 | Discounted cash flow, Market comparables | Price | $10 to $100 | $94 |  
+| Trading account assets - Corporate securities, trading loans and other | 7 || | | |  
+| AFS debt securities - Other taxable securities | 501 || | | |  
+| AFS debt securities - Tax-exempt securities | 469 || | | |  
+| MSRs | $ 2,302 | Discounted cash flow | Weighted-average life, fixed rate (5) | 0 to 14 years | 5 years ||  
+| | | Weighted-average life, variable rate (5) | 0 to 10 years | 3 years ||  
+| | | Option-adjusted spread, fixed rate | 9% to 14% | 10% |  
+| | | | Option-adjusted spread, variable rate | 9% to 15% | 12% |  
+| Structured liabilities | | | | | |  
+| Long-term debt | $ (1,863) | Discounted cash flow, Market comparables, Industry standard derivative pricing (3) | Equity correlation | 15% to 100% | 63% ||  
+| | | Long-dated equity volatilities | 4% to 84% | 22% ||  
+| | | Yield | 7.5% | n/a |  
+| | | | Price | $0 to $100 | $66 |  
+| Net derivative assets | | | | | |  
+| Credit derivatives | $ (282) | Discounted cash flow, Stochastic recovery correlation model | Yield | 1% to 5% | 3% ||  
+| | | Upfront points | 0 points to 100 points | 71 points ||  
+| | | Credit correlation | 35% to 83% | 42% |||  
+| | Prepayment speed | 15% to 20% CPR | 16% |||  
+| | Default rate | 1% to 4% CDR | 2% ||  
+| | | Loss severity | 35% | n/a ||  
+| | | Price | $0 to $102 | $82 |  
+| Equity derivatives | $ (2,059) | Industry standard derivative pricing (3) | Equity correlation | 15% to 100% | 63% ||  
+| | | Long-dated equity volatilities | 4% to 84% | 22% |  
+| Commodity derivatives | $ (3) | Discounted cash flow, Industry standard derivative pricing (3) | Natural gas forward price | $1/MMBtu to $5/MMBtu | $3/MMBtu |  
+|||  
+|||| | | || Correlation | 71% to 87% | 81% |||  
+| | Volatilities | 26% to 132% | 57% |  
+| Interest rate derivatives | $ 630 | Industry standard derivative pricing (4) | Correlation (IR/IR) | 15% to 92% | 50% ||  
+| | | Correlation (FX/IR) | 0% to 46% | 1% ||  
+| | | Long-dated inflation rates | -14% to 38% | 4% |  
+| | | | Long-dated inflation volatilities | 0% to 1% | 1% |  
+| Total net derivative assets | $ (1,714) | | | | |  
+  
+(1) For loans and securities, structured liabilities and net derivative assets, the weighted average is calculated based upon the absolute fair value of the instruments  
+  
+(2) The categories are aggregated based upon product type which differs from financial statement classification. The following is a reconciliation to the line items in the table on page53: Trading account assets - Corporate securities, trading loans and other of $1.9 billion, Trading account assets - Non-U.S. sovereign debt of$556 million, Trading account assets - Mortgage trading loans, ABS and other MBS of1.5 billion, AFS debt securities - Other taxable securities of $509 million, AFS debt securities - Tax- exempt securities of $469 million, Loans and leases of $571 million and LHFS of $690 million.  
+  
+(3) Includes models such as Monte Carlo simulation and Black- Scholes.  
+  
+(4) Includes models such as Monte Carlo simulation, Black-Scholes and other methods that model the joint dynamics of interest, inflation and foreign exchange  
+  
+rates  
+  
+(5) The weighted-average life is a product of changes in market rates of interest, prepayment rates and other model and cash flow assumptions.  
+  
+CPR = Constant Prepayment Rate  
+  
+CDR = Constant Default Rate  
+  
+MMBtu = Million British thermal units  
+  
+IR = Interest Rate  
+  
+FX = Foreign Exchange  
+  
+n/a = not applicable  
+  
+<!-- PageFooter="Bank of America 2018 158" --> :selected:  

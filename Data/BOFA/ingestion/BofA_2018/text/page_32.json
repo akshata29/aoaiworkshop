@@ -1,0 +1,168 @@
+{
+    "status": "succeeded",
+    "createdDateTime": "2024-03-08T21:01:21Z",
+    "lastUpdatedDateTime": "2024-03-08T21:01:22Z",
+    "analyzeResult": {
+        "apiVersion": "2023-10-31-preview",
+        "modelId": "prebuilt-layout",
+        "stringIndexType": "utf16CodeUnit",
+        "content": "<!-- PageHeader=\"Bank of America 2018 28\" -->\n",
+        "pages": [
+            {
+                "pageNumber": 1,
+                "angle": 0,
+                "width": 2550,
+                "height": 3300,
+                "unit": "pixel",
+                "words": [
+                    {
+                        "content": "Bank",
+                        "polygon": [
+                            2055,
+                            151,
+                            2110,
+                            151,
+                            2110,
+                            175,
+                            2055,
+                            175
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 17,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "of",
+                        "polygon": [
+                            2116,
+                            151,
+                            2136,
+                            151,
+                            2136,
+                            175,
+                            2116,
+                            175
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 22,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "America",
+                        "polygon": [
+                            2141,
+                            151,
+                            2223,
+                            150,
+                            2223,
+                            175,
+                            2141,
+                            175
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 25,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "2018",
+                        "polygon": [
+                            2230,
+                            150,
+                            2279,
+                            150,
+                            2279,
+                            176,
+                            2230,
+                            175
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 33,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "28",
+                        "polygon": [
+                            2311,
+                            150,
+                            2337,
+                            150,
+                            2337,
+                            176,
+                            2311,
+                            176
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 38,
+                            "length": 2
+                        }
+                    }
+                ],
+                "lines": [
+                    {
+                        "content": "<!-- PageHeader=\"Bank of America 2018 28\" -->",
+                        "polygon": [
+                            2055,
+                            149,
+                            2336,
+                            149,
+                            2336,
+                            175,
+                            2055,
+                            175
+                        ],
+                        "spans": [
+                            {
+                                "offset": 0,
+                                "length": 45
+                            }
+                        ]
+                    }
+                ],
+                "spans": [
+                    {
+                        "offset": 0,
+                        "length": 46
+                    }
+                ]
+            }
+        ],
+        "tables": [],
+        "paragraphs": [
+            {
+                "spans": [
+                    {
+                        "offset": 0,
+                        "length": 45
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            2055,
+                            149,
+                            2336,
+                            149,
+                            2336,
+                            175,
+                            2055,
+                            175
+                        ]
+                    }
+                ],
+                "role": "pageHeader",
+                "content": "<!-- PageHeader=\"Bank of America 2018 28\" -->"
+            }
+        ],
+        "contentFormat": "markdown"
+    }
+}

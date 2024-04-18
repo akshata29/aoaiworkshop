@@ -1,0 +1,51 @@
+ Long-term Debt by Maturity  
+  
+| (Dollars in millions) | 2019 | 2020 | 2021 | 2022 | 2023 | Thereafter | Total |  
+| - | - | - | - | - | - | - | - |  
+| Bank of America Corporation | | | | | | | |  
+| Senior notes | 14,831 | $ 10,308 | $ 15,883 | $ 14,882 | $ 22,570 | $ 67,648 | $ 146,122 |  
+| Senior structured notes | 1,337 | 875 | 482 | 1,914 | 323 | 8,837 | 13,768 |  
+| Subordinated notes | 1,501 | :unselected: | 346 | 364 | :unselected: | 20,374 | 22,585 |  
+| Junior subordinated notes | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | 733 | 733 |  
+| Total Bank of America Corporation | 17,669 | 11,183 | 16,711 | 17,160 | 22,893 | 97,592 | 183,208 |  
+| Bank of America, N.A. | | | | | | | |  
+| Senior notes | :unselected: | 1,750 | - :unselected: | 1 :unselected: | - :unselected: | 20 | 1,770 |  
+| Subordinated notes | | :unselected: | :unselected: | :unselected: | :unselected: | 1,617 | 1,617 |  
+| Advances from Federal Home Loan Banks | 11,762 | 3,010 | 2 | 3 | 1 :unselected: | 103 | 14,881 |  
+| Securitizations and other Bank VIEs (1) | 3,200 | 3,100 | 4,022 | | - :unselected: | 4 | 10,326 |  
+| Other | 224 | 83 | :unselected: | 2 | 133 | | 442 |  
+| Total Bank of America, N.A. | 15,186 | 7,943 | 4,024 | 5 | 134 | 1,744 | 29,036 |  
+| Other debt | | | | | | | |  
+| Structured liabilities | 5,085 | 2,712 | 1,112 | 558 | 830 | 6,181 | 16,478 |  
+| Nonbank VIEs (1) | 35 | :unselected: | :unselected: | :unselected: | 23 | 560 | 618 |  
+| Total other debt | 5,120 | 2,712 | 1,112 | 558 | 853 | 6,741 | 17,096 |  
+| Total long-term debt | $ 37,975 | $ 21,838 | $ 21,847 | $ 17,723 | $ 23,880 | $ 106,077 | $ 229,340 |  
+  
+(1) Represents the total long-term debt included in the liabilities of consolidated VIEs on the Consolidated Balance Sheet.  
+  
+  
+# Trust Preferred Securities  
+  
+Trust preferred securities (Trust Securities) are primarily issued by trust companies (the Trusts) that are not consolidated. These Trust Securities are mandatorily redeemable preferred security obligations of the Trusts. The sole assets of the Trusts generally are junior subordinated deferrable interest notes of the Corporation or its subsidiaries (the Notes). The Trusts generally are 100 percent owned finance subsidiaries of the Corporation.  
+  
+Periodic cash payments and payments upon liquidation or redemption with respect to Trust Securities are guaranteed by the Corporation or its subsidiaries to the extent of funds held by the Trusts (the Preferred Securities Guarantee). The Preferred Securities Guarantee, when taken together with the Corporation's other obligations including its obligations under the Notes, generally will constitute a full and unconditional guarantee, on a subordinated basis, by the Corporation of payments due on the Trust Securities.  
+  
+During 2018, the Corporation redeemed Trust Securities of 11 Trusts with a carrying value of $3.1 billion. At December 31, 2018, the Corporation had one remaining floating-rate junior subordinated note held in trust.  
+  
+  
+# NOTE 12 Commitments and Contingencies  
+  
+In the normal course of business, the Corporation enters into a number of off- balance sheet commitments. These commitments expose the Corporation to varying degrees of credit and market risk and are subject to the same credit and market risk limitation reviews as those instruments recorded on the Consolidated Balance Sheet.  
+  
+  
+# Credit Extension Commitments  
+  
+The Corporation enters into commitments to extend credit such as loan commitments, SBLCs and commercial letters of credit to meet the financing needs of its customers. The following table includes the notional amount of unfunded legally binding lending commitments net of amounts distributed (i.e., syndicated or participated) to other financial institutions. The distributed amounts were $10.7 billion and $11.0 billion at December 31, 2018 and 2017. At December 31, 2018, the carrying value of these commitments, excluding commitments accounted for under the fair value option, was $813 million, including deferred revenue of$16 million and a reserve for unfunded lending commitments of $797 million. At December 31, 2017, the comparable amounts were $793 million, $16 million and $777 million, respectively. The carrying value of these commitments is classified in accrued expenses and other liabilities on the Consolidated Balance Sheet.  
+  
+Legally binding commitments to extend credit generally have specified rates and maturities. Certain of these commitments have adverse change clauses that help to protect the Corporation against deterioration in the borrower's ability to pay.  
+  
+The table below also includes the notional amount of commitments of$3.1 billion and $4.8 billion at December 31, 2018 and 2017 that are accounted for under the fair value option. However, the following table excludes cumulative net fair value of $169 million and $120 million at December 31, 2018 and 2017 on these commitments, which is classified in accrued expenses and other liabilities. For more information regarding the Corporation's loan commitments accounted for under the fair value option, see Note 21 - Fair Value Option.  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageNumber="132" -->  

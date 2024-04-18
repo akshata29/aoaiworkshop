@@ -1,0 +1,65 @@
+# NOTE 17 Employee Benefit Plans  
+  
+  
+# Pension and Postretirement Plans  
+  
+The Corporation sponsors a qualified noncontributory trusteed pension plan (Qualified Pension Plan), a number of noncontributory nonqualified pension plans, and postretirement health and life plans that cover eligible employees. Non-U.S. pension plans sponsored by the Corporation vary based on the country and local practices.  
+  
+The Qualified Pension Plan has a balance guarantee feature for account balances with participant-selected investments, applied at the time a benefit payment is made from the plan that effectively provides principal protection for participant balances transferred and certain compensation credits. The Corporation is responsible for funding any shortfall on the guarantee feature.  
+  
+Benefits earned under the Qualified Pension Plan have been frozen. Thereafter, the cash balance accounts continue to earn investment credits or interest credits in accordance with the terms of the plan document.  
+  
+The Corporation has an annuity contract that guarantees the payment of benefits vested under a terminated U.S. pension plan (Other Pension Plan). The Corporation, under a supplemental agreement, may be responsible for, or benefit from actual experience and investment performance of the annuity assets. The Corporation made no contribution under this agreement in 2018 or 2017. Contributions may be required in the future under this agreement.  
+  
+The Corporation's noncontributory, nonqualified pension plans are unfunded and provide supplemental defined pension benefits to certain eligible employees.  
+  
+In addition to retirement pension benefits, certain benefits-eligible employees may become eligible to continue participation as retirees in health care and/or life insurance plans sponsored by the Corporation. These plans are referred to as the Postretirement Health and Life Plans. During 2017, the Corporation established and funded a Voluntary Employees' Beneficiary Association trust in the amount of $300 million for the Postretirement Health and Life Plans.  
+  
+The Pension and Postretirement Plans table summarizes the changes in the fair value of plan assets, changes in the projected benefit obligation (PBO), the funded status of both the accumulated benefit obligation (ABO) and the PBO, and the weighted-average assumptions used to determine benefit obligations for the pension plans and postretirement plans at December 31, 2018 and 2017. The estimate of the Corporation's PBO associated with these plans considers various actuarial assumptions, including assumptions for mortality rates and discount rates. The discount rate assumptions are derived from a cash flow matching technique that utilizes rates that are based on Aa-rated corporate bonds with cash flows that match estimated benefit payments of each of the plans. The increases in the weighted-average discount rates in 2018 resulted in decreases to the PBO of approximately $1.3 billion at December 31, 2018. The decreases in the weighted- average discount rates in 2017 resulted in increases to the PBO of approximately $1.1 billion at December 31, 2017. Significant gains and losses related to changes in the PBO for 2018 and 2017 primarily resulted from changes in the discount rate.  
+  
+| Pension and Postretirement Plans (1) |||||||||  
+| (Dollars in millions) | Qualified Pension Plan || Non-U.S. Pension Plans || Nonqualified and Other Pension Plans || Postretirement Health and Life Plans ||  
+|| 2018 | 2017 | 2018 | 2017 | 2018 | 2017 | 2018 | 2017 |  
+| - | - | - | - | - | - | - | - | - |  
+| Fair value, January 1 | $ 19,708 | $ 18,239 | $ 2,943 | $ 2,789 | $ 2,724 | $ 2,744 | $ 300 | $ |  
+| Actual return on plan assets | (550) | 2,285 | (181) | 118 | | 128 | 5 | |  
+| Company contributions | :unselected: | :unselected: | 22 | 23 | 9 | 98 | 43 | 393 |  
+| Plan participant contributions | :unselected: :unselected: | :unselected: | 1 | 1 | :unselected: | :unselected: | 115 | 125 |  
+| Settlements and curtailments | :unselected: | :unselected: | (107) | (190) | :unselected: | :unselected: | :unselected: | :unselected: |  
+| Benefits paid | (980) | (816) | (52) | (54) | (239) | (246) | (214) | (230) |  
+| Federal subsidy on benefits paid | n/a | n/a | n/a | n/a | n/a | n/a | 3 | 12 |  
+| Foreign currency exchange rate changes | n/a | n/a | (165) | 256 | n/a | n/a | n/a | n/a |  
+| Fair value, December 31 | $ 18,178 | $ 19,708 | $ 2,461 | $ 2,943 | $ 2,584 | $ 2,724 | $ 252 | $ 300 |  
+| Change in projected benefit obligation | | | | | | | | |  
+| Projected benefit obligation, January 1 | 15,706 | 14,982 | 2,814 | 2,763 | 3,047 | 3,047 | 1,056 | 1,125 |  
+| Service cost | :unselected: | :unselected: :unselected: | 19 | 24 | 1 | - | 6 | 6 |  
+| Interest cost | 563 | 606 | 65 | 72 | 105 | 117 | 36 | 43 |  
+| Plan participant contributions | :unselected: | :unselected: | | 1 | :unselected: | :unselected: | 115 | 125 |  
+| Plan amendments | :unselected: | :unselected: | 13 | | | | :unselected: | (19) |  
+| Settlements and curtailments | :unselected: | :unselected: | (107) | (200) | | | | |  
+| Actuarial loss (gain) | (1,145) | 934 | (29) | (26) | (135) | 128 | (73) | (7) |  
+| Benefits paid | (980) | (816) | (52) | (54) | (239) | (246) | (214) | (230) |  
+| Federal subsidy on benefits paid | n/a | n/a | n/a | n/a | n/a | n/a | 3 | 12 |  
+| Foreign currency exchange rate changes | n/a | n/a | (135) | 234 | n/a | n/a | (1) | 1 |  
+| Projected benefit obligation, December 31 | $ 14,144 | $ 15,706 | $ 2,589 | $ 2,814 | $ 2,779 | $ 3,047 | $ 928 | $ 1,056 |  
+| Amounts recognized on Consolidated Balance Sheet | | | | | | | | |  
+| Other assets | $ 4,034 | $ 4,002 | 316 | $ 610 | 754 | $ 730 | | :unselected: |  
+| Accrued expenses and other liabilities | :unselected: | :unselected: | (444) | (481) | (949) | (1,053) | (676) | (756) |  
+| Net amount recognized, December 31 | $ 4,034 | $ 4,002 | $ (128) | $ 129 | $ (195) | $ (323) | $ (676) | $ (756) |  
+| Funded status, December 31 | | | | | | | | |  
+| Accumulated benefit obligation | $ 14,144 | $ 15,706 | $ 2,542 | $ 2,731 | $ 2,778 | $ 3,046 | n/a | n/a |  
+| Overfunded (unfunded) status of ABO | 4,034 | 4,002 | (81) | 212 | (194) | (322) | n/a | n/a |  
+| Provision for future salaries | :unselected: | :unselected: | 47 | 83 | 1 | 1 | n/a | n/a |  
+| Projected benefit obligation | 14,144 | 15,706 | 2,589 | 2,814 | 2,779 | 3,047 | $ 928 | $ 1,056 |  
+| Weighted-average assumptions, December 31 | | | | | | | | |  
+| Discount rate | 4.32 % | 3.68 % | 2.60 % | 2.39 % | 4.26 % | 3.58 % | 4.25 % | 3.58 % |  
+| Rate of compensation increase | n/a | n/a | 4.49 | 4.31 | 4.00 | 4.00 | n/a | n/a |  
+| Interest-crediting rate | 5.18 | 5.08 | 1.47 | 1.49 | 4.50 | 4.53 | n/a | n/a |  
+  
+(1) The measurement date for the Qualified Pension Plan, Non-U.S. Pension Plans, Nonqualified and Other Pension Plans, and Postretirement Health and Life Plans waDecember 31 of each year reported.  
+  
+n/a = not applicable  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageNumber="143" -->  

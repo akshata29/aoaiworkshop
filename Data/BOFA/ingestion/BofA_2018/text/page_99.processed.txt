@@ -1,0 +1,55 @@
+# Bank of America Corporation and Subsidiaries  
+  
+  
+# Consolidated Statement of Changes in Shareholders' Equity  
+  
+| (In millions) | Preferred Stock | Common Stock and Additional Paid-in Capital || Retained Earnings | Accumulated Other Comprehensive Income (Loss) | Total Shareholders' Equity |  
+||| Shares | Amount ||||  
+| - | - | - | - | - | - | - |  
+| Balance, December 31, 2015 | $ 22,273 | 10,380.3 | $ 151,042 | $ 87,658 | $ (5,358) | $ 255,615 |  
+| Net income | | | | 17,822 | | 17,822 |  
+| Net change in debt and equity securities | | | | | (1,345) | (1,345) |  
+| Net change in debit valuation adjustments | | | | | (156) | (156) |  
+| Net change in derivatives | | | | | 182 | 182 |  
+| Employee benefit plan adjustments | | | | | (524) | (524) |  
+| Net change in foreign currency translation adjustments | | | | | (87) | (87) |  
+| Dividends declared: | | | | | | |  
+| Common | | | | (2,573) | | (2,573) |  
+| Preferred | | | | (1,682) | | (1,682) |  
+| Issuance of preferred stock | 2,947 | | | | | 2,947 |  
+| Common stock issued under employee plans, net, and related tax effects | | 5.1 | 1,108 | | | 1,108 |  
+| Common stock repurchased | | (332.8) | (5,112) | | | (5,112) |  
+| Balance, December 31, 2016 | $ 25,220 | 10,052.6 | $ 147,038 | $ 101,225 | $ (7,288) | $ 266,195 |  
+| Net income | | | | 18,232 | | 18,232 |  
+| Net change in debt and equity securities | | | | | 61 | 61 |  
+| Net change in debit valuation adjustments | | | | | (293) | (293) |  
+| Net change in derivatives | | | | | 64 | 64 |  
+| Employee benefit plan adjustments | | | | | 288 | 288 |  
+| Net change in foreign currency translation adjustments | | | | | 86 | 86 |  
+| Dividends declared: | | | | | | |  
+| Common | | | | (4,027) | | (4,027) |  
+| Preferred | | | | (1,578) | | (1,578) |  
+| Common stock issued in connection with exercise of warrants and exchange of preferred stock | (2,897) | 700.0 | 2,933 | (36) | | |  
+| Common stock issued under employee plans, net, and other | | 43.3 | 932 | | | 932 |  
+| Common stock repurchased | | (508.6) | (12,814) | | | (12,814) |  
+| Balance, December 31, 2017 | $ 22,323 | 10,287.3 | $ 138,089 | $ 113,816 | $ (7,082) | $ 267,146 |  
+| Cumulative adjustment for adoption of hedge accounting standard | | | | (32) | 57 | 25 |  
+| Adoption of accounting standard related to certain tax effects stranded in accumulated other comprehensive income (loss) | | | | 1,270 | (1,270) | |  
+| Net income | | | | 28,147 | | 28,147 |  
+| Net change in debt and equity securities | | | | | (3,953) | (3,953) |  
+| Net change in debit valuation adjustments | | | | | 749 | 749 |  
+| Net change in derivatives | | | | | (53) | (53) |  
+| Employee benefit plan adjustments | | | | | (405) | (405) |  
+| Net change in foreign currency translation adjustments | | | | | (254) | (254) |  
+| Dividends declared: | | | | | | |  
+| Common | | | | (5,424) | | (5,424) |  
+| Preferred | | | | (1,451 ) | | (1,451 ) |  
+| Issuance of preferred stock | 4,515 | | | | | 4,515 |  
+| Redemption of preferred stock | (4,512) | | | | | (4,512) |  
+| Common stock issued under employee plans, net, and other | | 58.2 | 901 | (12) | | 889 |  
+| Common stock repurchased | | (676.2) | (20,094) | | | (20,094) |  
+| Balance, December 31, 2018 | $ 22,326 | 9,669.3 | $ 118,896 | $ 136,314 | $ (12,211) | $ 265,325 |  
+  
+See accompanying Notes to Consolidated Financial Statements.  
+  
+<!-- PageFooter="Bank of America 2018 90" -->  

@@ -1,0 +1,351 @@
+{
+    "status": "succeeded",
+    "createdDateTime": "2024-03-08T21:10:56Z",
+    "lastUpdatedDateTime": "2024-03-08T21:10:57Z",
+    "analyzeResult": {
+        "apiVersion": "2023-10-31-preview",
+        "modelId": "prebuilt-layout",
+        "stringIndexType": "utf16CodeUnit",
+        "content": "See accompanying Notes to Consolidated Financial Statements.\n===\n\n<!-- PageHeader=\"91 Bank of America 2018\" -->\n",
+        "pages": [
+            {
+                "pageNumber": 1,
+                "angle": 0.10122890025377274,
+                "width": 2550,
+                "height": 3300,
+                "unit": "pixel",
+                "words": [
+                    {
+                        "content": "See",
+                        "polygon": [
+                            854,
+                            337,
+                            905,
+                            336,
+                            906,
+                            369,
+                            855,
+                            369
+                        ],
+                        "confidence": 0.998,
+                        "span": {
+                            "offset": 0,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "accompanying",
+                        "polygon": [
+                            914,
+                            336,
+                            1090,
+                            336,
+                            1090,
+                            369,
+                            914,
+                            369
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 4,
+                            "length": 12
+                        }
+                    },
+                    {
+                        "content": "Notes",
+                        "polygon": [
+                            1100,
+                            336,
+                            1170,
+                            336,
+                            1170,
+                            368,
+                            1101,
+                            369
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 17,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "to",
+                        "polygon": [
+                            1178,
+                            336,
+                            1200,
+                            336,
+                            1200,
+                            368,
+                            1178,
+                            368
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 23,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "Consolidated",
+                        "polygon": [
+                            1209,
+                            336,
+                            1367,
+                            336,
+                            1367,
+                            367,
+                            1210,
+                            368
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 26,
+                            "length": 12
+                        }
+                    },
+                    {
+                        "content": "Financial",
+                        "polygon": [
+                            1378,
+                            336,
+                            1485,
+                            336,
+                            1485,
+                            367,
+                            1378,
+                            367
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 39,
+                            "length": 9
+                        }
+                    },
+                    {
+                        "content": "Statements.",
+                        "polygon": [
+                            1495,
+                            336,
+                            1645,
+                            337,
+                            1645,
+                            365,
+                            1494,
+                            367
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 49,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "91",
+                        "polygon": [
+                            109,
+                            438,
+                            133,
+                            439,
+                            133,
+                            463,
+                            108,
+                            463
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 83,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "Bank",
+                        "polygon": [
+                            170,
+                            439,
+                            220,
+                            439,
+                            220,
+                            463,
+                            169,
+                            463
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 86,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "of",
+                        "polygon": [
+                            227,
+                            439,
+                            246,
+                            439,
+                            246,
+                            463,
+                            226,
+                            463
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 91,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "America",
+                        "polygon": [
+                            251,
+                            439,
+                            333,
+                            439,
+                            333,
+                            464,
+                            251,
+                            463
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 94,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "2018",
+                        "polygon": [
+                            340,
+                            439,
+                            391,
+                            438,
+                            391,
+                            464,
+                            340,
+                            464
+                        ],
+                        "confidence": 0.992,
+                        "span": {
+                            "offset": 102,
+                            "length": 4
+                        }
+                    }
+                ],
+                "lines": [
+                    {
+                        "content": "See accompanying Notes to Consolidated Financial Statements.\n===",
+                        "polygon": [
+                            854,
+                            336,
+                            1644,
+                            335,
+                            1644,
+                            367,
+                            854,
+                            368
+                        ],
+                        "spans": [
+                            {
+                                "offset": 0,
+                                "length": 64
+                            }
+                        ]
+                    },
+                    {
+                        "content": "<!-- PageHeader=\"91 Bank of America 2018\" -->",
+                        "polygon": [
+                            107,
+                            438,
+                            391,
+                            438,
+                            390,
+                            463,
+                            107,
+                            462
+                        ],
+                        "spans": [
+                            {
+                                "offset": 66,
+                                "length": 45
+                            }
+                        ]
+                    }
+                ],
+                "spans": [
+                    {
+                        "offset": 0,
+                        "length": 112
+                    }
+                ]
+            }
+        ],
+        "tables": [],
+        "paragraphs": [
+            {
+                "spans": [
+                    {
+                        "offset": 0,
+                        "length": 64
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            854,
+                            336,
+                            1644,
+                            335,
+                            1644,
+                            367,
+                            854,
+                            368
+                        ]
+                    }
+                ],
+                "role": "title",
+                "content": "See accompanying Notes to Consolidated Financial Statements.\n==="
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 66,
+                        "length": 45
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            107,
+                            438,
+                            391,
+                            438,
+                            391,
+                            463,
+                            107,
+                            463
+                        ]
+                    }
+                ],
+                "role": "pageHeader",
+                "content": "<!-- PageHeader=\"91 Bank of America 2018\" -->"
+            }
+        ],
+        "contentFormat": "markdown",
+        "sections": [
+            {
+                "spans": [
+                    {
+                        "offset": 0,
+                        "length": 64
+                    }
+                ],
+                "elements": [
+                    "/paragraphs/0"
+                ]
+            }
+        ]
+    }
+}

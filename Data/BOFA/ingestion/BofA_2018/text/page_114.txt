@@ -1,0 +1,71 @@
+exchange contracts and cross-currency basis swaps, and by issuing foreign currency-denominated debt (net investment hedges).  
+  
+Fair Value Hedges  
+  
+The table below summarizes information related to fair value hedges for2018, 2017 and 2016.  
+  
+  
+# Gains and Losses on Derivatives Designated as Fair Value Hedges  
+  
+| (Dollars in millions) | Derivative ||| Hedged Item |||  
+|| 2018 | 2017 | 2016 | 2018 | 2017 | 2016 |  
+| - | - | - | - | - | - | - |  
+| Interest rate risk on long-term debt (1) | $ (1,538) | $ (1,537) | $ (1,488) | $ 1,429 | $ 1,045 | $ 646 |  
+| Interest rate and foreign currency risk on long-term debt (2) | (1,187) | 1,811 | (941) | 1,079 | (1,767) | 944 |  
+| Interest rate risk on available-for-sale securities (3) | (52) | (67) | 227 | 50 | 35 | (286) |  
+| Total | $ (2,777) | $ 207 | $ (2,202) | $ 2,558 | $ (687) | $ 1,304 |  
+  
+(1) Amounts are recorded in interest expense in the Consolidated Statement of Income. In2017 and 2016, amounts representing hedge ineffectiveness were losses of$492 million and $842  
+  
+million.  
+  
+(2) In 2018, 2017 and 2016, the derivative amount includes losses of $992 million, gains of $2.2 billion and losses of $910 million, respectively, in other income and losses of $116 million, $365 million and $30 million, respectively, in interest expense. Line item totals are in the Consolidated Statement of Income.  
+  
+(3) Amounts are recorded in interest income in the Consolidated Statement of Income.  
+  
+The table below summarizes the carrying value of hedged assets and liabilities that are designated and qualifying in fair value hedging relationships along with the cumulative amount of fair value hedging adjustments included in the carrying value that have been recorded in the current hedging relationships. These fair value hedging adjustments are open basis adjustments that are not subject to amortization as long as the hedging relationship remains designated.  
+  
+  
+# Designated Fair Value Hedged Assets (Liabilities)  
+  
+| (Dollars in millions) | December 31, 2018 ||  
+|| Carrying Value | Cumulative Fair Value Adjustments (1) |  
+| - | - | - |  
+| Long-term debt | $ (138,682 ) $ (2,117 ) ||  
+| Available-for-sale debt securities | 981 (29 ) ||  
+  
+(1) For assets, increase (decrease) to carrying value and for liabilities, (increase) decrease to carrying value.  
+  
+At December 31, 2018, the cumulative fair value adjustments remaining on long- term debt and AFS debt securities from discontinued hedging relationships were a decrease to the related liability and related asset of $1.6 billion and $29 million, which are being amortized over the remaining contractual life of the de-designated hedged items.  
+  
+  
+## Cash Flow and Net Investment Hedges  
+  
+The following table summarizes certain information related to cash flow hedges and net investment hedges for 2018, 2017 and 2016.  
+  
+Of the $1.0 billion after-tax net loss ($1.3 billion pretax) on derivatives in accumulated OCI at December 31, 2018, $253 million after-tax ($332 million pretax) is expected to be reclassified into earnings in the next 12 months. These net losses reclassified into earnings are expected to primarily reduce net interest income related to the respective hedged items. For terminated cash flow hedges, the time period over which the majority of the forecasted transactions are hedged is approximately 4 years, with a maximum length of time for certain forecasted transactions of 17 years.  
+  
+  
+## Gains and Losses on Derivatives Designated as Cash Flow and Net Investment Hedges  
+  
+| (Dollars in millions, amounts pretax) | Gains (Losses) Recognized in Accumulated OCI on Derivatives ||| Gains (Losses) in Income Reclassified from Accumulated OCI |||  
+|| 2018 | 2017 | 2016 | 2018 | 2017 | 2016 |  
+| - | - | - | - | - | - | - |  
+| Cash flow hedges | | | | | | |  
+| Interest rate risk on variable-rate assets (1) | $ (159) | $ (109) | $ (340) | $ (165) | $ (327) | $ (553) |  
+| Price risk on certain restricted stock awards (2) | 4 | 59 | 41 | 27 | 148 | (32) |  
+| Total | $ (155) | $ (50) | $ (299) | $ (138) | $ (179) | $ (585) |  
+| Net investment hedges | | | | | | |  
+| Foreign exchange risk (3) | $ 989 | $ (1,588) | $ 1,636 | $ 411 | $ 1,782 | $ 3 |  
+  
+(1) Amounts reclassified from accumulated OCI are recorded in interest income in the Consolidated Statement of  
+  
+Income.  
+  
+(2) Amounts reclassified from accumulated OCI are recorded in personnel expense in the Consolidated Statement of  
+  
+Income.  
+  
+(3) Amounts reclassified from accumulated OCI are recorded in other income in the Consolidated Statement of Income. Amounts excluded from effectiveness testing and recognized in other income were gains 0$47 million, $120 million and $325 million in 2018, 2017 and 2016, respectively.  
+  
+<!-- PageFooter="Bank of America 2018 104" -->  

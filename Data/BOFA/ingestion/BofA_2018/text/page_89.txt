@@ -1,0 +1,71 @@
+# Table IV Selected Loan Maturity Data (1, 2)  
+  
+| (Dollars in millions) | December 31, 2018 ||||  
+|| Due in One Year or Less | Due After One Year Through Five Years | Due After Five Years | Total |  
+| - | - | - | - | - |  
+| U.S. commercial | $ 74,365 | $ 194,116 | $ 47,888 | $ 316,369 |  
+| U.S. commercial real estate | 11,622 | 40,393 | 4,590 | 56,605 |  
+| Non-U.S. and other (3) | 42,217 | 55,360 | 6,579 | 104,156 |  
+| Total selected loans | $ 128,204 | $ 289,869 | $ 59,057 | $ 477,130 |  
+| Percent of total | 27% | 61 % | 12% | 100% |  
+| Sensitivity of selected loans to changes in interest rates for loans due after one year: | | | | |  
+| Fixed interest rates | | $ 17,109 | $ 27,664 | |  
+| Floating or adjustable interest rates | | 272,760 | 31,393 | |  
+| Total | | $ 289,869 | $ 59,057 | |  
+  
+(1) Loan maturities are based on the remaining maturities under contractual terms  
+  
+(2) Includes loans accounted for under the fair value option.  
+  
+(3) Loan maturities include non-U.S. commercial and commercial real estate loans.  
+  
+  
+# Table V Allowance for Credit Losses  
+  
+| (Dollars in millions) | 2018 | 2017 | 2016 | 2015 | 2014 |  
+| - | - | - | - | - | - |  
+| Allowance for loan and lease losses, January 1 | $ 10,393 | $ 11,237 | $ 12,234 | $ 14,419 | $ 17,428 |  
+| Loans and leases charged off | | | | | |  
+| Residential mortgage | (207) | (188) | (403) | (866) | (855) |  
+| Home equity | (483) | (582) | (752) | (975) | (1,364) |  
+| U.S. credit card | (3,345) | (2,968) | (2,691) | (2,738) | (3,068) |  
+| Non-U.S. credit card (1) | - | (103) | (238) | (275) | (357) |  
+| Direct/Indirect consumer | (495) | (491) | (392) | (383) | (456) |  
+| Other consumer | (197) | (212) | (232) | (224) | (268) |  
+| Total consumer charge-offs | (4,727) | (4,544) | (4,708) | (5,461) | (6,368) |  
+| U.S. commercial (2) | (575) | (589) | (567) | (536) | (584) |  
+| Non-U.S. commercial | (82) | (446) | (133) | (59) | (35) |  
+| Commercial real estate | (10) | (24) | (10) | (30) | (29) |  
+| Commercial lease financing | (8) | (16) | (30) | (19) | (10) |  
+| Total commercial charge-offs | (675) | (1,075) | (740) | (644) | (658) |  
+| Total loans and leases charged off | (5,402) | (5,619) | (5,448) | (6,105) | (7,026) |  
+| Recoveries of loans and leases previously charged off | | | | | |  
+| Residential mortgage | 179 | 288 | 272 | 393 | 969 |  
+| Home equity | 485 | 369 | 347 | 339 | 457 |  
+| U.S. credit card | 508 | 455 | 422 | 424 | 430 |  
+| Non-U.S. credit card (1) | | 28 | 63 | 87 | 115 |  
+| Direct/Indirect consumer | 300 | 277 | 258 | 271 | 287 |  
+| Other consumer | 15 | 49 | 27 | 31 | 39 |  
+| Total consumer recoveries | 1,487 | 1,466 | 1,389 | 1,545 | 2,297 |  
+| U.S. commercial (3) | 120 | 142 | 175 | 172 | 214 |  
+| Non-U.S. commercial | 14 | 6 | 13 | 5 | 1 |  
+| Commercial real estate | 9 | 15 | 41 | 35 | 112 |  
+| Commercial lease financing | 9 | 11 | 9 | 10 | 19 |  
+| Total commercial recoveries | 152 | 174 | 238 | 222 | 346 |  
+| Total recoveries of loans and leases previously charged off | 1,639 | 1,640 | 1,627 | 1,767 | 2,643 |  
+| Net charge-offs | (3,763) | (3,979) | (3,821) | (4,338) | (4,383) |  
+| Write-offs of PCI loans | (273) | (207) | (340) | (808) | (810) |  
+| Provision for loan and lease losses | 3,262 | 3,381 | 3,581 | 3,043 | 2,231 |  
+| Other (4) | (18) | (39) | (174) | (82) | (47) |  
+| Total allowance for loan and lease losses, December 31 | 9,601 | 10,393 | 11,480 | 12,234 | 14,419 |  
+| Less: Allowance included in assets of business held for sale (5) | | | (243) | | |  
+| Allowance for loan and lease losses, December 31 | 9,601 | 10,393 | 11,237 | 12,234 | 14,419 |  
+| Reserve for unfunded lending commitments, January 1 | 777 | 762 | 646 | 528 | 484 |  
+| Provision for unfunded lending commitments | 20 | 15 | 16 | 118 | 44 |  
+| Other (4) | | | 100 | | |  
+| Reserve for unfunded lending commitments, December 31 | 797 | 777 | 762 | 646 | 528 |  
+| Allowance for credit losses, December 31 | $ 10,398 | $ 11,170 | $ 11,999 | $ 12,880 | $ 14,947 |  
+  
+(1) Represents net charge-offs related to the non-U.S. credit card loan portfolio, which was sold in  
+  
+<!-- PageNumber="2017\." -->  

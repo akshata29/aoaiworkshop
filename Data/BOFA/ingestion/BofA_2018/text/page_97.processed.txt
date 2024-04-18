@@ -1,0 +1,62 @@
+ Bank of America Corporation and Subsidiaries  
+  
+| Consolidated Balance Sheet |||  
+| (Dollars in millions) | December 31 ||  
+|| 2018 | 2017 |  
+| - | - | - |  
+| Assets | | |  
+| Cash and due from banks | $ 29,063 | $ 29,480 |  
+| Interest-bearing deposits with the Federal Reserve, non-U.S. central banks and other banks | 148,341 | 127,954 |  
+| Cash and cash equivalents | 177,404 | 157,434 |  
+| Time deposits placed and other short-term investments | 7,494 | 11,153 |  
+| Federal funds sold and securities borrowed or purchased under agreements to resell (includes $56,399 and $52,906 measured at fair value) | 261,131 | 212,747 |  
+| Trading account assets (includes $119,363 and $106,274 pledged as collateral) | 214,348 | 209,358 |  
+| Derivative assets | 43,725 | 37,762 |  
+| Debt securities: | | |  
+| Carried at fair value | 238,101 | 315,117 |  
+| Held-to-maturity, at cost (fair value - $200,435 and $123,299) | 203,652 | 125,013 |  
+| Total debt securities | 441,753 | 440,130 |  
+| Loans and leases (includes $4,349 and $5,710 measured at fair value) | 946,895 | 936,749 |  
+| Allowance for loan and lease losses | (9,601) | (10,393) |  
+| Loans and leases, net of allowance | 937,294 | 926,356 |  
+| Premises and equipment, net | 9,906 | 9,247 |  
+| Goodwill | 68,951 | 68,951 |  
+| Loans held-for-sale (includes $2,942 and $2,156 measured at fair value) | 10,367 | 11,430 |  
+| Customer and other receivables | 65,814 | 61,623 |  
+| Other assets (includes $19,739 and $22,581 measured at fair value) | 116,320 | 135,043 |  
+| Total assets | $ 2,354,507 | $ 2,281,234 |  
+| Liabilities | | |  
+| Deposits in U.S. offices: | | |  
+| Noninterest-bearing | $ 412,587 | $ 430,650 |  
+| Interest-bearing (includes $492 and $449 measured at fair value) | 891,636 | 796,576 |  
+| Deposits in non-U.S. offices: | | |  
+| Noninterest-bearing | 14,060 | 14,024 |  
+| Interest-bearing | 63,193 | 68,295 |  
+| Total deposits | 1,381,476 | 1,309,545 |  
+| Federal funds purchased and securities loaned or sold under agreements to repurchase (includes $28,875 and $36,182 measured at fair value) | 186,988 | 176,865 |  
+| Trading account liabilities | 68,220 | 81,187 |  
+| Derivative liabilities | 37,891 | 34,300 |  
+| Short-term borrowings (includes $1,648 and $1,494 measured at fair value) | 20,189 | 32,666 |  
+| Accrued expenses and other liabilities (includes $20,075 and $22,840 measured at fair value and $797 and $777 of reserve for unfunded lending commitments) | 165,078 | 152,123 |  
+| Long-term debt (includes $27,637 and $31,786 measured at fair value) | 229,340 | 227,402 |  
+| Total liabilities | 2,089,182 | 2,014,088 |  
+| Commitments and contingencies (Note 7 - Securitizations and Other Variable Interest Entities and Note 12 - Commitments and Contingencies) | | |  
+| Shareholders' equity | | |  
+| Preferred stock, $0.01 par value; authorized - 100,000,000 shares; issued and outstanding - 3,843,140 and 3,837,683 shares | 22,326 | 22,323 |  
+| Common stock and additional paid-in capital, $0.01 par value; authorized - 12,800,000,000 shares; issued and outstanding - 9,669,286,370 and 10,287,302,431 shares | 118,896 | 138,089 |  
+| Retained earnings | 136,314 | 113,816 |  
+| Accumulated other comprehensive income (loss) | (12,211) | (7,082) |  
+| Total shareholders' equity | 265,325 | 267,146 |  
+| Total liabilities and shareholders' equity | $ 2,354,507 | $ 2,281,234 |  
+| Assets of consolidated variable interest entities included in total assets above (isolated to settle the liabilities of the variable interest entities) | | |  
+| Trading account assets | 5,798 | 6,521 |  
+| Loans and leases | 43,850 | 48,929 |  
+| Allowance for loan and lease losses | (912) | (1,016) |  
+| Loans and leases, net of allowance | 42,938 | 47,913 |  
+| All other assets | 337 | 1,721 |  
+| Total assets of consolidated variable interest entities | $ 49,073 | $ 56,155 |  
+| Liabilities of consolidated variable interest entities included in total liabilities above | | |  
+| Short-term borrowings | $ 742 | 312 |  
+| Long-term debt (includes $10,943 and $9,872 of non-recourse debt) | 10,944 | 9,873 |  
+| All other liabilities (includes $27 and $34 of non-recourse liabilities) | 30 | 37 |  
+| Total liabilities of consolidated variable interest entities | $ 11,716 | $ 10,222 |  

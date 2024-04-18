@@ -1,0 +1,45 @@
+<!-- PageHeader="NOTE 15 Earnings Per Common Share" -->  
+  
+The calculation of EPS and diluted EPS for2018, 2017 and 2016 is presented below. For more information on the calculation of EPS, seeNote 1 - Summary of Significant Accounting Principles.  
+  
+| (In millions, except per share information) | 2018 | 2017 | 2016 |  
+| - | - | - | - |  
+| Earnings per common share | | | |  
+| Net income | $ 28,147 | $ 18,232 | $ 17,822 |  
+| Preferred stock dividends | (1,451) | (1,614) | (1,682) |  
+| Net income applicable to common shareholders | $ 26,696 | $ 16,618 | $ 16,140 |  
+| Average common shares issued and outstanding | 10,096.5 | 10,195.6 | 10,284.1 |  
+| Earnings per common share | $ 2.64 | $ 1.63 | $ 1.57 |  
+| Diluted earnings per common share | | | |  
+| Net income applicable to common shareholders | 26,696 | 16,618 | $ 16,140 |  
+| Add preferred stock dividends due to assumed conversions (1) | | 186 | 300 |  
+| Net income allocated to common shareholders | 26,696 | $ 16,804 | $ 16,440 |  
+| Average common shares issued and outstanding | 10,096.5 | 10,195.6 | 10,284.1 |  
+| Dilutive potential common shares (2) | 140.4 | 582.8 | 762.7 |  
+| Total diluted average common shares issued and outstanding | 10,236.9 | 10,778.4 | 11,046.8 |  
+| Diluted earnings per common share | $ 2.61 | $ 1.56 | $ 1.49 |  
+  
+(1) Represents the Series T dividends under the "if-converted" method prior to  
+  
+conversion.  
+  
+(2) Includes incremental dilutive shares from RSUs, restricted stock and warrants.  
+  
+The Corporation previously issued warrants to purchase 700 million shares of the Corporation's common stock to the holders of the Series T 6% Non-cumulative preferred stock (Series T) at an exercise price of $7.142857 per share. On August 24, 2017, the Series T holders exercised the warrants and acquired the 700 million shares of the Corporation's common stock using the Series T preferred stock as consideration for the exercise price, which increased common shares outstanding, but had no effect on diluted earnings per share as this conversion was included in the Corporation's diluted earnings per share calculation under the applicable accounting guidance. For 2016, the average dilutive impact of the700 million potential common shares was included in the diluted share count under the "if- converted" method.  
+  
+For 2018, 2017 and 2016, 62 million average dilutive potential common shares associated with the Series L preferred stock were not included in the diluted share count because the result would have been antidilutive under the "if-converted" method. For 2018, 2017 and 2016, average options to purchase4 million, 21 million and 45 million shares of common stock, respectively, were outstanding but not included in the computation of EPS because the result would have been antidilutive under the treasury stock method. For 2017 and 2016, average warrants to purchase 122 million shares of common stock were outstanding but not included in the computation of EPS because the result would have been antidilutive under the treasury stock method. These warrants expired on October 29, 2018. For 2018, 2017 and 2016, average warrants to purchase 136 million, 143 million and 150 million shares of common stock, respectively, were included in the diluted EPS calculation under the treasury stock method. Substantially all of the outstanding warrants were exercised on or before the expiration date of January 16, 2019.  
+  
+  
+# NOTE 16 Regulatory Requirements and Restrictions  
+  
+The Federal Reserve, Office of the Comptroller of the Currency (OCC) and FDIC (collectively, U.S. banking regulators) jointly establish regulatory capital adequacy guidelines, including Basel 3, for U.S. banking organizations. As a financial holding company, the Corporation is subject to capital adequacy rules issued by the Federal Reserve. The Corporation's banking entity affiliates are subject to capital adequacy rules issued by the OCC.  
+  
+The Corporation and its primary banking entity affiliate, BANA, are Advanced approaches institutions under Basel 3. As Advanced approaches institutions, the Corporation and its banking entity affiliates are required to report regulatory risk- based capital ratios and risk-weighted assets under both the Standardized and Advanced approaches. The approach that yields the lower ratio is used to assess capital adequacy, including under the Prompt Corrective Action (PCA) framework. At December 31, 2018, Common equity tier 1 and Tier 1 capital ratios were lower under the Standardized approach whereas the Advanced approaches yielded a lower result for the Total capital ratio. All three ratios were lower under the Advanced approaches method at December 31, 2017.  
+  
+Effective January 1, 2018, the Corporation is required to maintain a minimum supplementary leverage ratio (SLR) of 3.0 percent plus a leverage buffer of 2.0 percent in order to avoid certain restrictions on capital distributions and discretionary bonus payments. The Corporation's insured depository institution subsidiaries are required to maintain a minimum 6.0 percent SLR to be considered well capitalized under the PCA framework.  
+  
+The following table presents capital ratios and related information in accordance with Basel 3 Standardized and Advanced approaches as measured at December 31, 2018 and 2017 for the Corporation and BANA.  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageFooter="141" -->  

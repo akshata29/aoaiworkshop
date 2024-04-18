@@ -1,0 +1,889 @@
+{
+    "status": "succeeded",
+    "createdDateTime": "2024-03-08T21:23:49Z",
+    "lastUpdatedDateTime": "2024-03-08T21:23:51Z",
+    "analyzeResult": {
+        "apiVersion": "2023-10-31-preview",
+        "modelId": "prebuilt-layout",
+        "stringIndexType": "utf16CodeUnit",
+        "content": "IN WITNESS WHEREOF, this instrument has been executed by an authorized officer of the Corporation as of the 19h day of December, 2018.\n\nBANK OF AMERICA CORPORATION\n\nBy: /s/ Christopher Fabro Christopher Fabro, Global Compensation & Benefits Executive\n",
+        "pages": [
+            {
+                "pageNumber": 1,
+                "angle": -0.10279999673366547,
+                "width": 2550,
+                "height": 3300,
+                "unit": "pixel",
+                "words": [
+                    {
+                        "content": "IN",
+                        "polygon": [
+                            218,
+                            155,
+                            250,
+                            155,
+                            249,
+                            189,
+                            217,
+                            189
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 0,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "WITNESS",
+                        "polygon": [
+                            260,
+                            155,
+                            395,
+                            156,
+                            394,
+                            190,
+                            259,
+                            189
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 3,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "WHEREOF,",
+                        "polygon": [
+                            405,
+                            156,
+                            564,
+                            156,
+                            563,
+                            191,
+                            404,
+                            190
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 11,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "this",
+                        "polygon": [
+                            574,
+                            156,
+                            618,
+                            156,
+                            617,
+                            191,
+                            573,
+                            191
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 20,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "instrument",
+                        "polygon": [
+                            625,
+                            156,
+                            770,
+                            156,
+                            769,
+                            192,
+                            624,
+                            191
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 25,
+                            "length": 10
+                        }
+                    },
+                    {
+                        "content": "has",
+                        "polygon": [
+                            779,
+                            156,
+                            825,
+                            156,
+                            825,
+                            192,
+                            778,
+                            192
+                        ],
+                        "confidence": 0.997,
+                        "span": {
+                            "offset": 36,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "been",
+                        "polygon": [
+                            836,
+                            156,
+                            899,
+                            156,
+                            899,
+                            192,
+                            835,
+                            192
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 40,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "executed",
+                        "polygon": [
+                            910,
+                            156,
+                            1029,
+                            156,
+                            1029,
+                            192,
+                            909,
+                            192
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 45,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "by",
+                        "polygon": [
+                            1040,
+                            156,
+                            1071,
+                            156,
+                            1071,
+                            192,
+                            1040,
+                            192
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 54,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "an",
+                        "polygon": [
+                            1080,
+                            156,
+                            1112,
+                            156,
+                            1111,
+                            192,
+                            1080,
+                            192
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 57,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "authorized",
+                        "polygon": [
+                            1122,
+                            156,
+                            1259,
+                            156,
+                            1259,
+                            192,
+                            1122,
+                            192
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 60,
+                            "length": 10
+                        }
+                    },
+                    {
+                        "content": "officer",
+                        "polygon": [
+                            1270,
+                            156,
+                            1352,
+                            156,
+                            1351,
+                            192,
+                            1270,
+                            192
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 71,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "of",
+                        "polygon": [
+                            1360,
+                            156,
+                            1385,
+                            156,
+                            1385,
+                            192,
+                            1360,
+                            192
+                        ],
+                        "confidence": 0.997,
+                        "span": {
+                            "offset": 79,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "the",
+                        "polygon": [
+                            1393,
+                            156,
+                            1434,
+                            156,
+                            1433,
+                            192,
+                            1392,
+                            192
+                        ],
+                        "confidence": 0.999,
+                        "span": {
+                            "offset": 82,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "Corporation",
+                        "polygon": [
+                            1443,
+                            156,
+                            1597,
+                            156,
+                            1597,
+                            192,
+                            1443,
+                            192
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 86,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "as",
+                        "polygon": [
+                            1608,
+                            156,
+                            1638,
+                            156,
+                            1638,
+                            192,
+                            1607,
+                            192
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 98,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "of",
+                        "polygon": [
+                            1648,
+                            156,
+                            1670,
+                            156,
+                            1669,
+                            192,
+                            1648,
+                            192
+                        ],
+                        "confidence": 0.998,
+                        "span": {
+                            "offset": 101,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "the",
+                        "polygon": [
+                            1677,
+                            156,
+                            1721,
+                            156,
+                            1721,
+                            192,
+                            1676,
+                            192
+                        ],
+                        "confidence": 0.999,
+                        "span": {
+                            "offset": 104,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "19h",
+                        "polygon": [
+                            1733,
+                            156,
+                            1775,
+                            156,
+                            1775,
+                            192,
+                            1733,
+                            192
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 108,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "day",
+                        "polygon": [
+                            1785,
+                            156,
+                            1833,
+                            156,
+                            1833,
+                            192,
+                            1785,
+                            192
+                        ],
+                        "confidence": 0.998,
+                        "span": {
+                            "offset": 112,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "of",
+                        "polygon": [
+                            1841,
+                            156,
+                            1864,
+                            156,
+                            1864,
+                            192,
+                            1841,
+                            192
+                        ],
+                        "confidence": 0.998,
+                        "span": {
+                            "offset": 116,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "December,",
+                        "polygon": [
+                            1871,
+                            156,
+                            2019,
+                            155,
+                            2019,
+                            192,
+                            1871,
+                            192
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 119,
+                            "length": 9
+                        }
+                    },
+                    {
+                        "content": "2018.",
+                        "polygon": [
+                            2030,
+                            155,
+                            2107,
+                            155,
+                            2107,
+                            191,
+                            2030,
+                            191
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 129,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "BANK",
+                        "polygon": [
+                            577,
+                            261,
+                            663,
+                            262,
+                            663,
+                            296,
+                            577,
+                            296
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 136,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "OF",
+                        "polygon": [
+                            672,
+                            262,
+                            712,
+                            261,
+                            712,
+                            295,
+                            672,
+                            296
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 141,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "AMERICA",
+                        "polygon": [
+                            721,
+                            261,
+                            858,
+                            261,
+                            858,
+                            295,
+                            720,
+                            295
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 144,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "CORPORATION",
+                        "polygon": [
+                            867,
+                            261,
+                            1092,
+                            260,
+                            1092,
+                            294,
+                            866,
+                            295
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 152,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "By:",
+                        "polygon": [
+                            580,
+                            367,
+                            622,
+                            367,
+                            623,
+                            402,
+                            581,
+                            403
+                        ],
+                        "confidence": 0.999,
+                        "span": {
+                            "offset": 165,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "/s/",
+                        "polygon": [
+                            631,
+                            367,
+                            665,
+                            367,
+                            666,
+                            402,
+                            632,
+                            402
+                        ],
+                        "confidence": 0.998,
+                        "span": {
+                            "offset": 169,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "Christopher",
+                        "polygon": [
+                            672,
+                            367,
+                            829,
+                            367,
+                            829,
+                            400,
+                            672,
+                            401
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 173,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "Fabro",
+                        "polygon": [
+                            836,
+                            367,
+                            918,
+                            367,
+                            918,
+                            399,
+                            835,
+                            400
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 185,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "Christopher",
+                        "polygon": [
+                            579,
+                            403,
+                            736,
+                            402,
+                            736,
+                            437,
+                            579,
+                            437
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 191,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "Fabro,",
+                        "polygon": [
+                            747,
+                            402,
+                            829,
+                            402,
+                            829,
+                            437,
+                            747,
+                            437
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 203,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "Global",
+                        "polygon": [
+                            840,
+                            402,
+                            924,
+                            402,
+                            924,
+                            437,
+                            840,
+                            437
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 210,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "Compensation",
+                        "polygon": [
+                            935,
+                            402,
+                            1126,
+                            401,
+                            1126,
+                            437,
+                            935,
+                            437
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 217,
+                            "length": 12
+                        }
+                    },
+                    {
+                        "content": "&",
+                        "polygon": [
+                            1136,
+                            401,
+                            1155,
+                            401,
+                            1155,
+                            436,
+                            1136,
+                            436
+                        ],
+                        "confidence": 0.952,
+                        "span": {
+                            "offset": 230,
+                            "length": 1
+                        }
+                    },
+                    {
+                        "content": "Benefits",
+                        "polygon": [
+                            1166,
+                            401,
+                            1271,
+                            402,
+                            1271,
+                            436,
+                            1166,
+                            436
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 232,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "Executive",
+                        "polygon": [
+                            1283,
+                            402,
+                            1415,
+                            402,
+                            1415,
+                            434,
+                            1283,
+                            435
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 241,
+                            "length": 9
+                        }
+                    }
+                ],
+                "lines": [
+                    {
+                        "content": "IN WITNESS WHEREOF, this instrument has been executed by an authorized officer of the Corporation as of the 19h day of December, 2018.",
+                        "polygon": [
+                            217,
+                            155,
+                            2106,
+                            155,
+                            2106,
+                            192,
+                            217,
+                            191
+                        ],
+                        "spans": [
+                            {
+                                "offset": 0,
+                                "length": 134
+                            }
+                        ]
+                    },
+                    {
+                        "content": "BANK OF AMERICA CORPORATION",
+                        "polygon": [
+                            576,
+                            261,
+                            1091,
+                            259,
+                            1092,
+                            293,
+                            576,
+                            295
+                        ],
+                        "spans": [
+                            {
+                                "offset": 136,
+                                "length": 27
+                            }
+                        ]
+                    },
+                    {
+                        "content": "By: /s/ Christopher Fabro",
+                        "polygon": [
+                            579,
+                            367,
+                            917,
+                            367,
+                            917,
+                            400,
+                            579,
+                            402
+                        ],
+                        "spans": [
+                            {
+                                "offset": 165,
+                                "length": 25
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Christopher Fabro, Global Compensation & Benefits Executive",
+                        "polygon": [
+                            578,
+                            402,
+                            1414,
+                            401,
+                            1414,
+                            435,
+                            578,
+                            437
+                        ],
+                        "spans": [
+                            {
+                                "offset": 191,
+                                "length": 59
+                            }
+                        ]
+                    }
+                ],
+                "spans": [
+                    {
+                        "offset": 0,
+                        "length": 251
+                    }
+                ]
+            }
+        ],
+        "tables": [],
+        "paragraphs": [
+            {
+                "spans": [
+                    {
+                        "offset": 0,
+                        "length": 134
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            217,
+                            155,
+                            2106,
+                            155,
+                            2106,
+                            192,
+                            217,
+                            192
+                        ]
+                    }
+                ],
+                "content": "IN WITNESS WHEREOF, this instrument has been executed by an authorized officer of the Corporation as of the 19h day of December, 2018."
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 136,
+                        "length": 27
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            576,
+                            261,
+                            1092,
+                            259,
+                            1092,
+                            293,
+                            576,
+                            295
+                        ]
+                    }
+                ],
+                "content": "BANK OF AMERICA CORPORATION"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 165,
+                        "length": 85
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            578,
+                            367,
+                            1414,
+                            367,
+                            1414,
+                            437,
+                            578,
+                            437
+                        ]
+                    }
+                ],
+                "content": "By: /s/ Christopher Fabro Christopher Fabro, Global Compensation & Benefits Executive"
+            }
+        ],
+        "contentFormat": "markdown",
+        "sections": [
+            {
+                "spans": [
+                    {
+                        "offset": 0,
+                        "length": 134
+                    },
+                    {
+                        "offset": 136,
+                        "length": 27
+                    },
+                    {
+                        "offset": 165,
+                        "length": 85
+                    }
+                ],
+                "elements": [
+                    "/paragraphs/0",
+                    "/paragraphs/1",
+                    "/paragraphs/2"
+                ]
+            }
+        ]
+    }
+}

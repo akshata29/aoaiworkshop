@@ -1,0 +1,49 @@
+ Level 3 - Fair Value Measurements in 2016 (1)  
+  
+| (Dollars in millions) | Balance January 1 2016 | Total Realized/Unrealized Gains/(Losses) in Net Income (2) | Gains/ (Losses) in OCI (3) | Gross |||| Gross Transfers into Level 3 | Gross Transfers out of Level 3 | Balance December 31 2016 | Change in Unrealized Gains/(Losses) in Net Income Related to Financial Instruments Still Held (2) |  
+||||| Purchases | Sales | Issuances | Settlements |||||  
+| - | - | - | - | - | - | - | - | - | - | - | - |  
+| Trading account assets: | | | | | | | | | | | |  
+| Corporate securities, trading loans and other | $ 2,838 | $ 78 | $ 2 | $ 1,508 | $| (847) $  :unselected: || (725) $  728 | $| (805) $  2,777 | $ (82) |  
+| Equity securities | 407 | 74 | :unselected: | 73 | (169) | :unselected: | (82) | 70 | (92) | 281 | (59) |  
+| Non-U.S. sovereign debt | 521 | 122 | 91 | 12 | (146) | :unselected: | (90) | :unselected: | :unselected: | 510 | 120 |  
+| Mortgage trading loans, ABS and other MBS | 1,868 | 188 | (2) :selected: | 988 | (1,491 ) | :unselected: | (344) | 158 | (154) | 1,211 | 64 |  
+| Total trading account assets | 5,634 | 462 | 91 | 2,581 | (2,653) | :unselected: | (1,241) | 956 | (1,051) | 4,779 | 43 |  
+| Net derivative assets (4) | (441) | 285 | :unselected: | 470 | (1,155) | :unselected: | 76 | (186) | (362) | (1,313) | (376) |  
+| AFS debt securities: | | | | | | | | | | | |  
+| Non-agency residential MBS | 106 | | :unselected: | | (106) | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | |  
+| Non-U.S. securities | | | (6) | 584 | (92) | :unselected: | (263) | 6 | :unselected: | 229 | :unselected: |  
+| Other taxable securities | 757 | 4 | (2) :selected: | 1 | | :unselected: | (83) :selected: | :unselected: | (82) :selected: | 594 | |  
+| Tax-exempt securities | 569 | 1 | (1) | 1 | :unselected: | :unselected: | (2) :selected: | 10 | (35) :selected: | 542 | :unselected: |  
+| Total AFS debt securities | 1,432 | 4 | (9) | 585 | (198) | :unselected: | (348) | 16 | (117) | 1,365 | :unselected: |  
+| Other debt securities carried at fair value - Non-agency residential MBS | 30 | (5) :selected: | :unselected: | | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | 25 | |  
+| Loans and leases (5, 6) | 1,620 | (44) | :unselected: | 69 | (553) | 50 :selected: | (194) | 6 | (234) | 720 | 17 |  
+| Loans held-for-sale (5) | 787 | 79 | 50 :selected: | 22 :selected: | (256) | :unselected: | (93) | 173 | (106) | 656 | 70 |  
+| Other assets (6, 7) | 3,461 | 136 | :unselected: | 38 | (191) | 411 | (872) | 3 | - | 2,986 | (143) |  
+| Federal funds purchased and securities loaned or sold under agreements to repurchase (5) | (335) | (11) | :unselected: | :unselected: | :unselected: | (22) :selected: | 27 | (19) | 1 | (359) | 4 |  
+| Trading account liabilities - Corporate securities and other | (21) | 5 | :unselected: | :unselected: | (11) :selected: | :unselected: | :unselected: | :unselected:| :unselected:  :unselected: | (27) :selected: | 4 |  
+| Short-term borrowings (5) | (30) | 1 | :unselected: | :unselected: | | :unselected: | 29 :selected: | | | | |  
+| Accrued expenses and other liabilities (5) | (9) | | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | (9) | :unselected: |  
+| Long-term debt (5) | (1,513) | (74) | (20) :selected: | 140 | :unselected: | (521) | 948 | (939) | 465 | (1,514) | (184) |  
+  
+(1) Assets (liabilities). For assets, increase (decrease) to Level 3 and for liabilities, (increase) decrease to Level 3.  
+  
+(2) Includes gains/losses reported in earnings in the following income statement line items: Trading account assets/liabilities - trading account profits; Net derivative assets - primarily trading account profits and other income; Other debt securities carried at fair value - other income; Loans and leases - other income; Loans held-for-sale - other income; Other assets - primarily other income related to MSRs; Long-term debt - predominantly trading account profits. For MSRs, the amounts reflect the changes in modeled MSR fair value due to observed changes in interest rates, volatility, spreads and the shape of the forward swap curve, and periodic adjustments to the valuation model to reflect changes in the modeled relationships between inputs and projected cash flows, as well as changes in cash flow assumptions including cost to service.  
+  
+(3) Includes unrealized gains/losses in OCI on AFS debt securities, foreign currency translation adjustments and the impact of changes in the Corporation's credit spreads on long-term debt accounted for under the fair value option. For more information, see Note 1 - Summary of Significant Accounting Principles  
+  
+(4) Net derivatives include derivative assets of$3.9 billion and derivative liabilities of$5.2 billion.  
+  
+(5) Amounts represent instruments that are accounted for under the fair value option.  
+  
+(6) Issuances represent loan originations and MSRs recognized following securitizations or whole-loan sales  
+  
+(7) Settlements represent the net change in fair value of the MSR asset due to the recognition of modeled cash flows and the passage of time.  
+  
+Transfers into Level 3, primarily due to decreased price observability, during 2016 included $956 million of trading account assets, $186 million of net derivative assets, $173 million of LHFS and $939 million of long-term debt. Transfers occur on a regular basis for long-term debt instruments due to changes in the impact of unobservable inputs on the value of the embedded derivative in relation to the instrument as a whole.  
+  
+Transfers out of Level 3, primarily due to increased price observability, during 2016 included $1.1 billion of trading account assets, $362 million of net derivative assets, $117 million of AFS debt securities, $234 million of loans and leases, $106 million of LHFS and $465 million of long-term debt.  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageNumber="156" -->  

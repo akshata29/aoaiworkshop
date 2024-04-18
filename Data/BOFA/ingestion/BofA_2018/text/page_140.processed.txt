@@ -1,0 +1,78 @@
+# Intangible Assets  
+  
+The table below presents the gross and net carrying values and accumulated amortization for intangible assets atDecember 31, 2018 and 2017.  
+  
+| Intangible Assets (1, 2) |||||||  
+| | Gross Carrying Value | Accumulated Amortization | Net Carrying Value | Gross Carrying Value | Accumulated Amortization | Net Carrying Value |  
+| - | - | - | - | - | - | - |  
+| (Dollars in millions) | December 31, 2018 December 31, 2017 ||||||  
+| Purchased credit card and affinity relationships | $ 5,919 | $ 5,759 | $ 160 | $ 5,919 | $ 5,604 | $ 315 |  
+| Core deposit and other intangibles (3) | 3,835 | 2,221 | 1,614 | 3,835 | 2,140 | 1,695 |  
+| Customer relationships | | | | 3,886 | 3,584 | 302 |  
+| Total intangible assets | $ 9,754 | $ 7,980 | $ 1,774 | $ 13,640 | $ 11,328 | $ 2,312 |  
+  
+(1) Excludes fully amortized assets.  
+  
+intangible  
+  
+(2) At December 31, 2018 and 2017, none of the intangible assets were impaired.  
+  
+(3) Includes $1.6 billion at both December 31, 2018 and 2017 of intangible assets associated with trade names that have an indefinite life and, accordingly, are not amortized.  
+  
+Amortization of intangibles expense was $538 million, $621 million and $730 million for 2018, 2017 and 2016, respectively. The Corporation estimates aggregate amortization expense will be $105 million for 2019, $55 million for 2020 and none for the years thereafter.  
+  
+  
+# NOTE 9 Deposits  
+  
+The table below presents information about the Corporation's time deposits of $100 thousand or more atDecember 31, 2018 and 2017. The Corporation also had aggregate time deposits of $16.4 billion and $17.0 billion in denominations that met or exceeded the Federal Deposit Insurance Corporation (FDIC) insurance limit atDecember 31, 2018 and 2017.  
+  
+  
+## Time Deposits of $100 Thousand or More  
+  
+| (Dollars in millions) | December 31, 2018 |||| December 31 2017 |  
+|| Three Months or Less | Over Three Months to Twelve Months | Thereafter | Total | Total |  
+| - | - | - | - | - | - |  
+| U.S. certificates of deposit and other time deposits | $ 14,441 | $ 11,855 | $ 3,209 | $ 29,505 | $ 25,192 |  
+| Non-U.S. certificates of deposit and other time deposits | 7,317 | 2,655 | 820 | 10,792 | 15,472 |  
+  
+The scheduled contractual maturities for total time deposits at December 31, 2018 are presented in the table below.  
+  
+  
+# Contractual Maturities of Total Time Deposits  
+  
+| (Dollars in millions) | U.S. | Non-U.S. | Total |  
+| - | - | - | - |  
+| Due in 2019 | $ 43,452 | $ 10,030 | $ 53,482 |  
+| Due in 2020 | 4,580 | 164 | 4,744 |  
+| Due in 2021 | 725 | 8 | 733 |  
+| Due in 2022 | 560 | 11 | 571 |  
+| Due in 2023 | 270 | 632 | 902 |  
+| Thereafter | 570 | 37 | 607 |  
+| Total time deposits | $ 50,157 | $ 10,882 | $ 61,039 |  
+  
+  
+# NOTE 10 Federal Funds Sold or Purchased, Securities Financing Agreements, Short-term Borrowings and Restricted  
+  
+  
+# Cash  
+  
+The table below presents federal funds sold or purchased, securities financing agreements (which include securities borrowed or purchased under agreements to resell and securities loaned or sold under agreements to repurchase) and short-term borrowings. The Corporation elects to account for certain securities financing agreements and short-term borrowings under the fair value option. For more information on the fair value option, see Note 21 - Fair Value Option.  
+  
+| (Dollars in millions) | Amount | Rate || Amount | | Rate |  
+|| 2018 ||| 2017 |||  
+| - | - | - | - | - | - | - |  
+| Federal funds sold and securities borrowed or purchased under agreements to resell | | || | | |  
+| Average during year | 251,328 | 1.26 % || $ 222,818 | | 0.81 % |  
+| Maximum month-end balance during year | 279,350 | | n/a | 237,064 | | n/a |  
+| Federal funds purchased and securities loaned or sold under agreements to repurchase | | | | | | |  
+| Average during year | $ 193,681 | 1.80 % || $ 199,501 | | 1.30 % |  
+| Maximum month-end balance during year | 201,089 | | n/a | 218,017 | | n/a |  
+| Short-term borrowings | | | | | | |  
+| Average during year | 36,021 | 2.69 || 37,337 | | 2.48 |  
+| Maximum month-end balance during year | 52,480 | n/a || 46,202 | | n/a |  
+  
+n/a = not applicable  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageNumber="128" -->  

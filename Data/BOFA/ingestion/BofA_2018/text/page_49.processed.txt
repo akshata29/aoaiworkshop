@@ -1,0 +1,26 @@
+compensation awards. At December 31, 2018, our remaining stock repurchase authorization was $10.3 billion.  
+  
+Our stock repurchases are subject to various factors, including the Corporation's capital position, liquidity, financial performance and alternative uses of capital, stock trading price and general market conditions, and may be suspended at any time. The repurchases may be effected through open market purchases or privately negotiated transactions, including repurchase plans that satisfy the conditions of Rule 10b5-1 of the Securities Exchange Act of 1934, as amended. As a "well- capitalized" BHC, we may notify the Federal Reserve of our intention to make additional capital distributions not to exceed 0.25 percent of Tier 1 capital, and which were not contemplated in our capital plan, subject to the Federal Reserve's non-objection.  
+  
+  
+# Regulatory Capital  
+  
+As a financial services holding company, we are subject to regulatory capital rules, including Basel 3, issued by U.S. banking regulators. Basel 3 established minimum capital ratios and buffer requirements and outlined two methods of calculating risk- weighted assets, the Standardized approach and the Advanced approaches. The Standardized approach relies primarily on supervisory risk weights based on exposure type, and the Advanced approaches determine risk weights based on internal models.  
+  
+The Corporation and its primary affiliated banking entity, BANA, are Advanced approaches institutions under Basel 3 and are required to report regulatory risk- based capital ratios and risk-weighted assets under both the Standardized and Advanced approaches. The approach that yields the lower ratio is used to assess capital adequacy including under the Prompt Corrective Action (PCA) framework. As of December 31, 2018, Common equity tier 1 (CET1) and Tier 1 capital ratios for the Corporation were lower under the Standardized approach whereas the Advanced approaches yielded a lower Total capital ratio.  
+  
+  
+## Minimum Capital Requirements  
+  
+Minimum capital requirements and related buffers were fully phased in as of January 1, 2019. The PCA framework established categories of capitalization, including well capitalized, based on the Basel 3 regulatory ratio requirements. U.S. banking regulators are required to take certain mandatory actions depending on the category of capitalization, with no mandatory actions required for well-capitalized banking organizations.  
+  
+In order to avoid restrictions on capital distributions and discretionary bonus payments, the Corporation must meet risk-based capital ratio requirements that include a capital conservation buffer greater than 2.5 percent, plus any applicable countercyclical capital buffer and a global systemically important bank (G-SIB) surcharge. The buffers and surcharge must be comprised solely of CET1 capital and were phased in over a three-year period that ended January 1, 2019.  
+  
+The Corporation is also required to maintain a minimum supplementary leverage ratio (SLR) of 3.0 percent plus a leverage buffer of 2.0 percent in order to avoid certain restrictions on capital distributions and discretionary bonus payments. Our insured depository institution subsidiaries are required to maintain a minimum 6.0 percent SLR to be considered well capitalized under the PCA framework. The numerator of the SLR is quarter-end Basel 3 Tier 1 capital. The denominator is total leverage exposure based on the daily average of the sum of on-balance sheet exposures less permitted Tier 1 deductions, as well as the simple average of certain off-balance sheet exposures, as of the end of each month in a quarter.  
+  
+  
+### Capital Composition and Ratios  
+  
+Table 13 presents Bank of America Corporation's capital ratios and related information in accordance with Basel 3 Standardized and Advanced approaches as measured at December 31, 2018 and 2017. As of the periods presented, the Corporation met the definition of well capitalized under current regulatory requirements.  
+  
+Bank of America 2018 44  

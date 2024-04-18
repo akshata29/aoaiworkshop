@@ -1,0 +1,74 @@
+ongoing credit decisions, as well as portfolio management strategies, including authorizations and line management, collection practices and strategies, and determination of the allowance for loan and lease losses and allocated capital for credit risk.  
+  
+  
+# Consumer Credit Portfolio  
+  
+Improvement in home prices continued during2018 resulting in improved credit quality and lower credit losses in the home equity portfolio, partially offset by seasoning and loan growth in the U.S. credit card portfolio compared to 2017.  
+  
+Improved credit quality, continued loan balance runoff and sales primarily in the non-core consumer real estate portfolio, partially offset by seasoning within the U.S. credit card portfolio, drove a $581 million decrease in the consumer allowance for loan and lease losses in 2018 to $4.8 billion at December 31, 2018. For additional information, see Allowance for Credit Losses on page 67.  
+  
+For more information on our accounting policies regarding delinquencies, nonperforming status, charge-offs, troubled debt restructurings (TDRs) for the consumer portfolio and PCI loans, see Note 1 - Summary of Significant Accounting Principles and  
+  
+Note 5 - Outstanding Loans and Leases to the Consolidated Financial Statements.  
+  
+Table 21 presents our outstanding consumer loans and leases, consumer nonperforming loans and accruing consumer loans past due 90 days or more. Nonperforming loans do not include past due consumer credit card loans, other unsecured loans and in general, consumer loans not secured by real estate (bankruptcy loans are included) as these loans are typically charged off no later than the end of the month in which the loan becomes 180 days past due. Real estate-secured past due consumer loans that are insured by the FHA or individually insured under long-term standby agreements with Fannie Mae and Freddie Mac (collectively, the fully-insured loan portfolio) are reported as accruing as opposed to nonperforming since the principal repayment is insured. Fully-insured loans included in accruing past due 90 days or more are primarily from our repurchases of delinquent FHA loans pursuant to our servicing agreements with the Government National Mortgage Association (GNMA). Additionally, nonperforming loans and accruing balances past due 90 days or more do not include the PCI loan portfolio or loans accounted for under the fair value option even though the customer may be contractually past due.  
+  
+  
+## Table 21 Consumer Credit Quality  
+  
+| (Dollars in millions) | Outstandings || Nonperforming || Accruing Past Due 90 Days or More ||  
+|| December 31 ||||||  
+|| 2018 | 2017 | 2018 | 2017 | 2018 | 2017 |  
+| - | - | - | - | - | - | - |  
+| Residential mortgage (1) | $ 208,557 | $ 203,811 | $ 1,893 | 2,476 | $ 1,884 | $ 3,230 |  
+| Home equity | 48,286 | 57,744 | 1,893 | 2,644 | :unselected: | :unselected: |  
+| U.S. credit card | 98,338 | 96,285 | n/a | n/a | 994 | 900 :selected: |  
+| Direct/Indirect consumer (2) | 91,166 | 96,342 | 56 | 46 | 38 | 40 |  
+| Other consumer (3) | 202 | 166 | :unselected: | :unselected: | :unselected: | :unselected: |  
+| Consumer loans excluding loans accounted for under the fair value option | $ 446,549 | $ 454,348 | $ 3,842 | $ 5,166 | $ 2,916 | $ 4,170 |  
+| Loans accounted for under the fair value option (4) | 682 | 928 | | | | |  
+| Total consumer loans and leases | $ 447,231 | $ 455,276 | | | | |  
+| Percentage of outstanding consumer loans and leases (5) | n/a | n/a | 0.86 % | 1.14 % | 0.65 % | 0.92 % |  
+| Percentage of outstanding consumer loans and leases, excluding PCI and fully-insured loan portfolios (5) | n/a | n/a | 0.91 | 1.23 | 0.24 | 0.22 |  
+  
+(1) Residential mortgage loans accruing past due 90 days or more are fully-insured loans. AtDecember 31, 2018 and 2017, residential mortgage includes $1.4 billion and $2.2 billion of loans on which interest had been curtailed by the FHA, and therefore were no longer accruing interest, although principal was still insured, and $498 million and $1.0 billion of loans on which interest was still accruing.  
+  
+(2) Outstandings include auto and specialty lending loans and leases of$50.1 billion and $52.4 billion, unsecured consumer lending loans of $383 million and $469 million, U.S. securities-based lending loans of $37.0 billion and $39.8 billion, non-U.S. consumer loans of $2.9 billion and $3.0 billion and other consumer loans of$746 million and $684 million at December 31, 2018 and 2017.  
+  
+(3) Substantially all of other consumer at December 31, 2018 and 2017 is consumer overdrafts.  
+  
+(4) Consumer loans accounted for under the fair value option include residential mortgage loans of$336 million and $567 million and home equity loans of$346 million and $361 million at December 31, 2018 and 2017. For more information on the fair value option, see Note 21 - Fair Value Optionto the Consolidated Financial Statements.  
+  
+(5) Excludes consumer loans accounted for under the fair value option. AtDecember 31, 2018 and 2017, $12 million and $26 million of loans accounted for under the fair value option were past due 90 days or more and not accruing interest.  
+  
+n/a = not applicable  
+  
+Table 22 presents net charge-offs and related ratios for consumer loans and leases.  
+  
+  
+## Table 22 Consumer Net Charge-offs and Related Ratios  
+  
+| (Dollars in millions) | Net Charge-offs (1) || Net Charge-off Ratios (1, 2) ||  
+|| 2018 | 2017 | 2018 | 2017 |  
+| - | - | - | - | - |  
+| Residential mortgage | 28 | (100) | 0.01 % | (0.05)% |  
+| Home equity | (2) | 213 | :unselected: | 0.34 |  
+| U.S. credit card | 2,837 | 2,513 | 3.00 | 2.76 |  
+| Non-U.S. credit card (3) | | 75 | :unselected: | 1.91 |  
+| Direct/Indirect consumer | 195 | 214 | 0.21 | 0.22 |  
+| Other consumer | 182 | 163 | n/m | n/m |  
+| Total | $ 3,240 | $ 3,078 | 0.72 | 0.68 |  
+  
+(1) Net charge-offs exclude write-offs in the PCI loan portfolio. For more information, seeConsumer Portfolio Credit Risk Management - Purchased Credit-impaired Loan Portfolio on page  
+  
+57  
+  
+(2) Net charge-off ratios are calculated as net charge-offs divided by average outstanding loans and leases excluding loans accounted for under the fair value  
+  
+option.  
+  
+(3) Represents net charge-offs related to the non-U.S. credit card loan portfolio, which was sold during the second quarter of 2017.  
+  
+n/m = not meaningful  
+  
+<!-- PageFooter="Bank of America 2018 52" -->  

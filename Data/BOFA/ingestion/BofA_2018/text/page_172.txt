@@ -1,0 +1,67 @@
+# Nonrecurring Fair Value  
+  
+The Corporation holds certain assets that are measured at fair value, but only in certain situations (e.g., impairment) and these measurements are referred to herein as nonrecurring. The amounts below represent assets still held as of the reporting date for which a nonrecurring fair value adjustment was recorded during2018, 2017 and 2016.  
+  
+  
+# Assets Measured at Fair Value on a Nonrecurring Basis  
+  
+| (Dollars in millions) | December 31, 2018 || December 31, 2017 ||  
+|| Level 2 | Level 3 | Level 2 | Level 3 |  
+| - | - | - | - | - |  
+| Assets | | | | |  
+| Loans held-for-sale | $ 274 | $ :unselected: | $ :unselected: | $ 2 |  
+| Loans and leases (1) | - :unselected: | 474 | :unselected: | 894 |  
+| Foreclosed properties (2, 3) | :unselected: | 42 | :unselected: | 83 |  
+| Other assets | 331 | 14 | 425 | |  
+  
+| | Gains (Losses) |||  
+|| 2018 | 2017 | 2016 |  
+| - | - | - | - |  
+| Assets | | | |  
+| Loans held-for-sale | (18) | $ (6) | $ (54) |  
+| Loans and leases (1) | (202) | (336) | (458) |  
+| Foreclosed properties | (24) | (41) | (41) |  
+| Other assets | (64) | (124) | (74) |  
+  
+(1) Includes $83 million, $135 million and $150 million of losses on loans that were written down to a collateral value of zero during2018, 2017 and 2016,  
+  
+respectively.  
+  
+(2) Amounts are included in other assets on the Consolidated Balance Sheet and represent the carrying value of foreclosed properties that were written down subsequent to their initial classification as foreclosed properties. Losses on foreclosed properties include losses recorded during the first 90 days after transfer of a loan to foreclosed properties.  
+  
+(3) Excludes $488 million and $801 million of properties acquired upon foreclosure of certain government-guaranteed loans (principally FHA-insured loans) atDecember 31, 2018 and 2017.  
+  
+The table below presents information about significant unobservable inputs related to the Corporation's nonrecurring Level 3 financial assets and liabilities aDecember 31, 2018 and 2017. Loans and leases backed by residential real estate assets represent residential mortgages where the loan has been written down to the fair value of the underlying collateral.  
+  
+  
+# Quantitative Information about Nonrecurring Level 3 Fair Value Measurements  
+  
+| Financial Instrument | Fair Value | Valuation Technique | Inputs |||  
+|||| Significant Unobservable Inputs | Ranges of Inputs | Weighted Average (1) |  
+| - | - | - | - | - | - |  
+| (Dollars in millions) | | | December 31, 2018 || |  
+| Loans and leases backed by residential real estate assets | $ 474 | Market comparables | OREO discount | 13% to 59% | 25 % |  
+| | | | Costs to sell | 8% to 26% | 9 % |  
+| | | | December 31, 2017 || |  
+| Loans and leases backed by residential real estate assets | $ 894 | Market comparables | OREO discount | 15% to 58% | 23 % |  
+| | | | | | 7 % |  
+| | | | Costs to sell | 5% to 49% | |  
+  
+(1) The weighted average is calculated based upon the fair value of the loans.  
+  
+  
+# NOTE 21 Fair Value Option  
+  
+  
+## Loans and Loan Commitments  
+  
+The Corporation elects to account for certain loans and loan commitments that exceed the Corporation's single-name credit risk concentration guidelines under the fair value option. Lending commitments are actively managed and, as appropriate, credit risk for these lending relationships may be mitigated through the use of credit derivatives, with the Corporation's public side credit view and market perspectives determining the size and timing of the hedging activity. These credit derivatives do not meet the requirements for designation as accounting hedges and therefore are carried at fair value with changes in fair value recorded in other income. The fair value option allows the Corporation to carry these loans and loan commitments at fair value, which is more consistent with management's view of the underlying economics and the manner in which they are managed. In addition, the fair value option allows the Corporation to reduce the accounting volatility that would otherwise result from the asymmetry created by accounting for the financial instruments at historical cost and the credit derivatives at fair value.  
+  
+  
+## Loans Held-for-sale  
+  
+The Corporation elects to account for residential mortgage LHFS, commercial mortgage LHFS and certain other LHFS under the fair value option with interest income on these LHFS recorded in other interest income. These loans are actively managed and monitored and, as appropriate, certain market risks of the loans may be mitigated through the use of derivatives. The Corporation has elected not to designate the derivatives as qualifying accounting hedges and therefore they are carried at fair value with changes in fair value recorded in other income. The changes in fair value of the loans are largely offset by changes in the fair value of the derivatives. The fair value option allows the Corporation to reduce the accounting volatility that would otherwise result from the asymmetry created by accounting for the financial instruments at the lower of cost or fair value and the derivatives at fair value. The Corporation has not elected to account for certain other LHFS under the fair value option primarily because these loans are floating-rate loans that are not hedged using derivative instruments.  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageNumber="160" -->  

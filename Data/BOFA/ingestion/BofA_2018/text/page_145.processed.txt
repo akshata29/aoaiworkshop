@@ -1,0 +1,67 @@
+# Credit Extension Commitments  
+  
+| | Expire in One Year or Less | Expire After One Year Through Three Years | Expire After Three Years Through Five Years | Expire After Five Years | Total |  
+| - | - | - | - | - | - |  
+| (Dollars in millions) | December 31, 2018 |||||  
+| Notional amount of credit extension commitments | | | | | |  
+| Loan commitments | $ 84,910 | $ 142,271 | $ 155,298 | $ 22,683 | $ 405,162 |  
+| Home equity lines of credit | 2,578 | 2,249 | 3,530 | 34,702 | 43,059 |  
+| Standby letters of credit and financial guarantees (1) | 22,571 | 9,702 | 2,457 | 1,074 | 35,804 |  
+| Letters of credit (2) | 1,168 | 84 | 69 | 57 | 1,378 |  
+| Legally binding commitments | 111,227 | 154,306 | 161,354 | 58,516 | 485,403 |  
+| Credit card lines (3) | 371,658 | | | | 371,658 |  
+| Total credit extension commitments | $ 482,885 | $ 154,306 | 161,354 | $ 58,516 | $ 857,061 |  
+| | | | December 31, 2017 | | |  
+| Notional amount of credit extension commitments | | | | | |  
+| Loan commitments | $ 85,804 | $ 140,942 | $ 147,043 | $ 21,342 | $ 395,131 |  
+| Home equity lines of credit | 6,172 | 4,457 | 2,288 | 31,250 | 44,167 |  
+| Standby letters of credit and financial guarantees (1) | 19,976 | 11,261 | 3,420 | 1,144 | 35,801 |  
+| Letters of credit | 1,291 | 117 | 129 | 87 | 1,624 |  
+| Legally binding commitments | 113,243 | 156,777 | 152,880 | 53,823 | 476,723 |  
+| Credit card lines (3) | 362,030 | | | | 362,030 |  
+| Total credit extension commitments | $ 475,273 | $ 156,777 | $ 152,880 | $ 53,823 | $ 838,753 |  
+  
+(1) The notional amounts of SBLCs and financial guarantees classified as investment grade and non-investment grade based on the credit quality of the underlying reference name within the instrument wer$28.3 billion and $7.1 billion at December 31, 2018, and $27.3 billion and $8.1 billion at December 31, 2017. Amounts in the table include consumer SBLCs of$372 million and $421 million at December 31, 2018 and 2017.  
+  
+(2) At December 31, 2018, included letters of credit of $422 million related to certain liquidity commitments of VIEs. For additional information, see  
+  
+(3) Includes business card unused lines of  
+  
+credit.  
+  
+  
+# Other Commitments  
+  
+At December 31, 2018 and 2017, the Corporation had commitments to purchase loans (e.g., residential mortgage and commercial real estate) of $329 million and $344 million, which upon settlement will be included in loans or LHFS, and commitments to purchase commercial loans of $463 million and $994 million, which upon settlement will be included in trading account assets.  
+  
+At December 31, 2018 and 2017, the Corporation had commitments to purchase commodities, primarily liquefied natural gas, of $1.3 billion and $1.5 billion, which upon settlement will be included in trading account assets.  
+  
+At December 31, 2018 and 2017, the Corporation had commitments to enter into resale and forward-dated resale and securities borrowing agreements of $59.7 billion and $56.8 billion, and commitments to enter into forward-dated repurchase and securities lending agreements of $21.2 billion and $34.3 billion. These commitments expire primarily within the next 12 months.  
+  
+At both December 31, 2018 and 2017, the Corporation had a commitment to originate or purchase up to $3.0 billion, on a rolling 12-month basis, of auto loans and leases from a strategic partner. This commitment extends through November 2022 and can be terminated with 12 months prior notice.  
+  
+The Corporation is a party to operating leases for certain of its premises and equipment. Commitments under these leases are approximately $2.4 billion, $2.2 billion, $2.0 billion, $1.7 billion and $1.3 billion for 2019 and the years through 2023, respectively, and $6.2 billion in the aggregate for all years thereafter.  
+  
+  
+# Other Guarantees  
+  
+  
+# Bank-owned Life Insurance Book Value Protection  
+  
+The Corporation sells products that offer book value protection to insurance carriers who offer group life insurance policies to corporations, primarily banks. At December 31, 2018 and 2017, the notional amount of these guarantees totaled$9.8 billion and  
+  
+$10.4 billion. At December 31, 2018 and 2017, the Corporation's maximum exposure related to these guarantees totaled $1.5 billion and $1.6 billion, with estimated maturity dates between 2033 and 2039.  
+  
+  
+## Indemnifications  
+  
+In the ordinary course of business, the Corporation enters into various agreements that contain indemnifications, such as tax indemnifications, whereupon payment may become due if certain external events occur, such as a change in tax law. The indemnification clauses are often standard contractual terms and were entered into in the normal course of business based on an assessment that the risk of loss would be remote. These agreements typically contain an early termination clause that permits the Corporation to exit the agreement upon these events. The maximum potential future payment under indemnification agreements is difficult to assess for several reasons, including the occurrence of an external event, the inability to predict future changes in tax and other laws, the difficulty in determining how such laws would apply to parties in contracts, the absence of exposure limits contained in standard contract language and the timing of any early termination clauses. Historically, any payments made under these guarantees have been de minimis. The Corporation has assessed the probability of making such payments in the future as remote.  
+  
+  
+### Merchant Services  
+  
+In accordance with credit and debit card association rules, the Corporation sponsors merchant processing servicers that process credit and debit card transactions on behalf of various merchants. If the merchant processor fails to meet its obligation to reimburse the cardholder for disputed transactions, then the Corporation, as the sponsor, could be held liable for the disputed amount. In 2018 and 2017, the sponsored entities processed and settled $874.3 billion and $812.2 billion of transactions and recorded losses of$31 million and $28 million. A significant portion of this activity was processed by a joint venture in which the Corporation holds  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageNumber="133" -->  

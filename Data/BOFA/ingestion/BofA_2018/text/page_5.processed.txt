@@ -1,0 +1,51 @@
+Authority (FCA) and, in Ireland, the European Central Bank and Central Bank of Ireland.  
+  
+  
+# Source of Strength  
+  
+Under the Financial Reform Act and Federal Reserve policy, BHCs are expected to act as a source of financial strength to each subsidiary bank and to commit resources to support each such subsidiary. Similarly, under the cross-guarantee provisions of the Federal Deposit Insurance Corporation Improvement Act of 1991 (FDICIA), in the event of a loss suffered or anticipated by the FDIC, either as a result of default of a bank subsidiary or related to FDIC assistance provided to such a subsidiary in danger of default, the affiliate banks of such a subsidiary may be assessed for the FDIC's loss, subject to certain exceptions.  
+  
+  
+# Transactions with Affiliates  
+  
+Pursuant to Section 23A and 23B of the Federal Reserve Act, as implemented by the Federal Reserve's Regulation W, the Banks are subject to restrictions that limit certain types of transactions between the Banks and their nonbank affiliates. In general, U.S. banks are subject to quantitative and qualitative limits on extensions of credit, purchases of assets and certain other transactions involving its nonbank affiliates. Additionally, transactions between U.S. banks and their nonbank affiliates are required to be on arm's length terms and must be consistent with standards of safety and soundness.  
+  
+  
+## Deposit Insurance  
+  
+Deposits placed at U.S. domiciled banks are insured by the FDIC, subject to limits and conditions of applicable law and the FDIC's regulations. Pursuant to the Financial Reform Act, FDIC insurance coverage limits are $250,000 per customer. All insured depository institutions are required to pay assessments to the FDIC in order to fund the DIF.  
+  
+The FDIC is required to maintain at least a designated minimum ratio of the DIF to insured deposits in the U.S. The Financial Reform Act requires the FDIC to assess insured depository institutions to achieve a DIF ratio of at least 1.35 percent by September 30, 2020. In November 2018, the FDIC announced that the DIF ratio exceeded 1.35 in advance of the deadline and that the related surcharges ceased. Additionally, the FDIC adopted regulations that establish a long-term target DIF ratio of greater than two percent. As of the date of this report, the DIF ratio is below this required target and the FDIC has adopted a restoration plan that may result in increased deposit insurance assessments. Deposit insurance assessment rates are subject to change by the FDIC and will be impacted by the overall economy and the stability of the banking industry as a whole. For more information regarding deposit insurance, see Item 1A. Risk Factors - Regulatory, Compliance and Legal on page 13.  
+  
+  
+# Capital, Liquidity and Operational Requirements  
+  
+As a financial holding company, we and our bank subsidiaries are subject to the regulatory capital and liquidity guidelines issued by the Federal Reserve and other U.S. banking regulators, including the FDIC and the OCC. These rules are complex and are evolving as U.S. and international regulatory authorities propose and enact enhanced capital and liquidity rules. The Corporation seeks to manage its capital position to maintain sufficient capital to meet these regulatory guidelines and to support our business activities. These evolving rules are likely to influence our planning processes and may require additional regulatory capital and liquidity, as well as impose additional operational and compliance costs on the Corporation. In addition, the Federal Reserve and the OCC have adopted guidelines that establish minimum standards for the design, implementation and board oversight of BHCs' and national  
+  
+<!-- PageFooter="3 Bank of America 2018" -->  
+  
+banks' risk governance frameworks. The Federal Reserve also issued a final rule, which became effective January 1, 2019, that includes minimum external total loss- absorbing capacity (TLAC) and long-term debt requirements.  
+  
+For more information on regulatory capital rules, capital composition and pending or proposed regulatory capital changes, see Capital Management - Regulatory Capital in the MD&A on page 44, and Note 16 - Regulatory Requirements and Restrictions to the Consolidated Financial Statements, which are incorporated by reference in this Item 1.  
+  
+  
+## Distributions  
+  
+We are subject to various regulatory policies and requirements relating to capital actions, including payment of dividends and common stock repurchases. For instance, Federal Reserve regulations require major U.S. BHCs to submit a capital plan as part of an annual Comprehensive Capital Analysis and Review (CCAR). The purpose of the CCAR for the Federal Reserve is to assess the capital planning process of the BHC, including any planned capital actions, such as payment of dividends and common stock repurchases.  
+  
+Our ability to pay dividends is also affected by the various minimum capital requirements and the capital and non-capital standards established under the FDICIA. The right of the Corporation, our shareholders and our creditors to participate in any distribution of the assets or earnings of our subsidiaries is further subject to the prior claims of creditors of the respective subsidiaries.  
+  
+If the Federal Reserve finds that any of our Banks are not "well-capitalized" or "well-managed," we would be required to enter into an agreement with the Federal Reserve to comply with all applicable capital and management requirements, which may contain additional limitations or conditions relating to our activities. Additionally, the applicable federal regulatory authority is authorized to determine, under certain circumstances relating to the financial condition of a bank or BHC, that the payment of dividends would be an unsafe or unsound practice and to prohibit payment thereof.  
+  
+For more information regarding the requirements relating to the payment of dividends, including the minimum capital requirements, see Note 13 - Shareholders' Equity and Note 16 - Regulatory Requirements and Restrictions to the Consolidated Financial Statements.  
+  
+Many of our subsidiaries, including our bank and broker-dealer subsidiaries, are subject to laws that restrict dividend payments, or authorize regulatory bodies to block or reduce the flow of funds from those subsidiaries to the parent company or other subsidiaries.  
+  
+  
+# Resolution Planning  
+  
+As a BHC with greater than $50 billion of assets, the Corporation is required by the Federal Reserve and the FDIC to periodically submit a plan for a rapid and orderly resolution in the event of material financial distress or failure.  
+  
+Such resolution plan is intended to be a detailed roadmap for the orderly resolution of the BHC and its material entities pursuant to the U.S. Bankruptcy Code and other applicable resolution regimes under one or more hypothetical scenarios assuming no extraordinary government assistance.  
+  
+If both the Federal Reserve and the FDIC determine that the BHC's plan is not credible, the Federal Reserve and the FDIC may jointly impose more stringent capital, leverage or liquidity requirements or restrictions on growth, activities or operations. A description of our plan is available on the Federal Reserve and FDIC websites.  

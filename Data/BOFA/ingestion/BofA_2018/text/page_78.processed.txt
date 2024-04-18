@@ -1,0 +1,40 @@
+Table 47 presents year-end, average, high and low daily trading VaR for2018 and 2017 using a 99 percent confidence level. The amounts disclosed inTable 47 and Table 48 align to the view of covered positions used in the Basel 3 capital calculations. Foreign exchange and commodity positions are always considered covered positions, regardless of trading or banking treatment for the trade,  
+  
+except for structural foreign currency positions that are excluded with prior regulatory approval.  
+  
+The average total covered positions and less liquid trading positions portfolio VaR decreased during 2018 primarily due to a decrease in credit risk along with an increase in portfolio diversification.  
+  
+Table 47 Market Risk VaR for Trading Activities  
+  
+| (Dollars in millions) | 2018 |||| 2017 ||||  
+|| Year End | Average | High (1) | Low (1) | Year End | Average | High (1) | Low (1) |  
+| - | - | - | - | - | - | - | - | - |  
+| Foreign exchange | | 8 8 | 15 | | | 11 | $ 25 | $ 3 |  
+| Interest rate | 36 | 25 | 45 | 15 | 22 | 21 | 41 | 11 |  
+| Credit | 26 | 25 | 31 | 20 | 29 | 26 | 33 | 21 |  
+| Equity | 20 | 20 | 40 | 11 | 19 | 18 | 33 | 12 |  
+| Commodities | 13 | 8 | 15 | 3 | 5 | 5 | 9 | 3 |  
+| Portfolio diversification | (59) | (55) | 1 | | (49) | (47) | | |  
+| Total covered positions portfolio | 45 | 31 | 45 | 20 | 33 | 34 | 53 | 23 |  
+| Impact from less liquid exposures | 5 | 3 | | | 5 | 6 | | |  
+| Total covered positions and less liquid trading positions portfolio | 50 | 34 | 51 | 23 | 38 | 40 | 63 | 26 |  
+| Fair value option loans | 8 | 11 | 18 | 8 | 9 | 10 | 14 | |  
+| Fair value option hedges | 5 | 9 | 17 | 4 | 7 | 7 | 11 | 4 |  
+| Fair value option portfolio diversification | (7) | (11) | 1 | | (7) | (8) | | |  
+| Total fair value option portfolio | 6 | 9 | 16 | 5 | 9 | 9 | 11 | 6 |  
+| Portfolio diversification | (3) | (5) | 1 | | (4) | (4) | | |  
+| Total market-based portfolio | $ 53 | $ 38 | 57 | 26 | $ 43 | $ 45 | 69 | 29 |  
+  
+(1) The high and low for each portfolio may have occurred on different trading days than the high and low for the components. Therefore the impact from less liquid exposures and the amount of portfolio diversification, which is the difference between the total portfolio and the sum of the individual components, is not relevant.  
+  
+The graph below presents the daily covered positions and less liquid trading positions portfolio VaR for2018, corresponding to the data in Table 47.  
+<figure>  
+  
+![](figures/0)  
+  
+<!-- FigureContent="Daily Total Covered Positions and Less Liquid Trading Portfolio VaR History 80 70 60 Dollars in Millions 50 VaR 40 30 20 10 0 12/31/2017 3/31/2018 6/30/2018 9/30/2018 12/31/2018" -->  
+  
+</figure>  
+  
+  
+Bank of America 2018 72  

@@ -1,0 +1,58 @@
+Net charge-offs, as shown in Tables 22 and 23, exclude write-offs in the PCI loan portfolio of $154 million and $131 million in residential mortgage and $119 million and $76 million in home equity for2018 and 2017. Net charge-off ratios including the PCI write-offs were 0.09 percent and 0.02 percent for residential mortgage and 0.22 percent and 0.47 percent for home equity in 2018 and 2017.  
+  
+Table 23 presents outstandings, nonperforming balances, net charge-offs, allowance for loan and lease losses and provision for loan and lease losses for the core and non-core portfolios within the consumer real estate portfolio. We categorize consumer real estate loans as core and non-core based on loan and customer characteristics such as origination date, product type, loan-to-value (LTV), Fair Isaac Corporation (FICO) score and delinquency status consistent with our current consumer and mortgage servicing strategy. Generally, loans that were originated after January 1,  
+  
+2010, qualified under GSE underwriting guidelines, or otherwise met our underwriting guidelines in place in 2015 are characterized as core loans. All other loans are generally characterized as non-core loans and represent runoff portfolios. Core loans as reported in Table 23 include loans held in the Consumer Banking and GWIM segments, as well as loans held for ALM activities in All Other.  
+  
+As shown in Table 23, outstanding core consumer real estate loans increased $12.8 billion during 2018 driven by an increase of $17.1 billion in residential mortgage, partially offset by a $4.2 billion decrease in home equity.  
+  
+During 2018, we sold $11.6 billion of consumer real estate loans compared to $4.0 billion in 2017. In addition to recurring loan sales, the2018 amount includes sales of loans, primarily non-core, with a carrying value of $9.6 billion and related gains of $731 million recorded in other income in the Consolidated Statement of Income.  
+  
+Table 23 Consumer Real Estate Portfolio (1)  
+  
+| (Dollars in millions) | Outstandings || Nonperforming || Net Charge-offs (2) ||  
+|| December 31 ||||||  
+|| 2018 | 2017 | 2018 | 2017 | 2018 | 2017 |  
+| - | - | - | - | - | - | - |  
+| Core portfolio | | | | | | |  
+| Residential mortgage | $ 193,695 | $ 176,618 | $ 1,010 | $ 1,087 | $ 11 | $ (45) |  
+| Home equity | 40,010 | 44,245 | 955 | 1,079 | 78 | 100 |  
+| Total core portfolio | 233,705 | 220,863 | 1,965 | 2,166 | 89 | 55 |  
+| Non-core portfolio | | | | | | |  
+| Residential mortgage | 14,862 | 27,193 | 883 | 1,389 | 17 | (55) |  
+| Home equity | 8,276 | 13,499 | 938 | 1,565 | (80) | 113 |  
+| Total non-core portfolio | 23,138 | 40,692 | 1,821 | 2,954 | (63) | 58 |  
+| Consumer real estate portfolio | | | | | | |  
+| Residential mortgage | 208,557 | 203,811 | 1,893 | 2,476 | 28 | (100) |  
+| Home equity | 48,286 | 57,744 | 1,893 | 2,644 | (2) | 213 |  
+| Total consumer real estate portfolio | $ 256,843 | $ 261,555 | $ 3,786 | $ 5,120 | $ 26 | $ 113 |  
+  
+| | Allowance for Loan and Lease Losses || Provision for Loan and Lease Losses ||  
+|| December 31 ||||  
+|| 2018 | 2017 | 2018 | 2017 |  
+| - | - | - | - | - |  
+| Core portfolio | | | | |  
+| Residential mortgage | $ 214 | $ 218 | $ 7 | $ (79) |  
+| Home equity | 228 | 367 | (60) | (91) |  
+| Total core portfolio | 442 | 585 | (53) | (170) |  
+| Non-core portfolio | | | | |  
+| Residential mortgage | 208 | 483 | (104) | (201) |  
+| Home equity | 278 | 652 | (335) | (339) |  
+| Total non-core portfolio | 486 | 1,135 | (439) | (540) |  
+| Consumer real estate portfolio | | | | |  
+| Residential mortgage | 422 | 701 | (97) | (280) |  
+| Home equity | 506 | 1,019 | (395) | (430) |  
+| Total consumer real estate portfolio | $ 928 | $ 1,720 | $ (492) | $ (710) |  
+  
+(1) Outstandings and nonperforming loans exclude loans accounted for under the fair value option. Consumer loans accounted for under the fair value option included residential mortgage loans of336 million and $567 million and home equity loans of$346 million and $361 million at December 31, 2018 and 2017. For additional information, see Note 21 - Fair Value Optionto the Consolidated Financial Statements.  
+  
+(2) Net charge-offs exclude write-offs in the PCI loan portfolio. For more information, seeConsumer Portfolio Credit Risk Management - Purchased Credit-impaired Loan Portfolio on page 57.  
+  
+We believe that the presentation of information adjusted to exclude the impact of the PCI loan portfolio, the fully-insured loan portfolio and loans accounted for under the fair value option is more representative of the ongoing operations and credit quality of the business. As a result, in the following tables and discussions of the residential mortgage and home equity portfolios, we exclude loans accounted for under the fair value option and provide information that excludes the impact of the PCI loan portfolio and the fully-insured loan portfolio in certain credit quality statistics. We separately disclose information on the PCI loan portfolio on page 57.  
+  
+  
+# Residential Mortgage  
+  
+The residential mortgage portfolio made up the largest percentage of our consumer loan portfolio at 47 percent of consumer loans and leases at December 31, 2018. Approximately 44 percent of the residential mortgage portfolio was in Consumer Banking and 37 percent was in GWIM. The remaining portion was in All Other and was comprised of originated loans, purchased loans used in our overall ALM activities, delinquent FHA loans repurchased pursuant to our servicing agreements with GNMA as well as loans repurchased related to our representations and warranties.  
+  
+<!-- PageFooter="53 Bank of America 2018" -->  

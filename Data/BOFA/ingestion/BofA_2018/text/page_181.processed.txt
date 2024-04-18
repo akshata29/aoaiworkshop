@@ -1,0 +1,66 @@
+ Condensed Statement of Cash Flows  
+  
+| (Dollars in millions) | 2018 | 2017 | 2016 |  
+| - | - | - | - |  
+| Operating activities | | | |  
+| Net income | 28,147 | $ 18,232 | $ 17,822 |  
+| Reconciliation of net income to net cash used in operating activities: | | | |  
+| Equity in undistributed earnings of subsidiaries | (60) | (7,237) | (16,969) |  
+| Other operating activities, net | (3,706) | (2,593) | (2,860) |  
+| Net cash provided by (used in) operating activities | 24,381 | 8,402 | (2,007) |  
+| Investing activities | | | |  
+| Net sales of securities | 51 | 312 | - |  
+| Net payments to subsidiaries | (2,262) | (7,087) | (65,481) |  
+| Other investing activities, net | 48 | (1) | (308) |  
+| Net cash used in investing activities | (2,163) | (6,776) | (65,789) |  
+| Financing activities | | | |  
+| Net decrease in short-term borrowings | | - | (136) |  
+| Net increase (decrease) in other advances | 3,867 | (6,672) | (44) |  
+| Proceeds from issuance of long-term debt | 30,708 | 37,704 | 27,363 |  
+| Retirement of long-term debt | (29,413) | (29,645) | (30,804) |  
+| Proceeds from issuance of preferred stock | 4,515 | | 2,947 |  
+| Redemption of preferred stock | (4,512) | | - |  
+| Common stock repurchased | (20,094) | (12,814) | (5,112) |  
+| Cash dividends paid | (6,895) | (5,700) | (4,194 ) |  
+| Net cash used in financing activities | (21,824) | (17,127) | (9,980) |  
+| Net increase (decrease) in cash held at bank subsidiaries | 394 | (15,501 ) | (77,776) |  
+| Cash held at bank subsidiaries at January 1 | 4,747 | 20,248 | 98,024 |  
+| Cash held at bank subsidiaries at December 31 | $ 5,141 | $ 4,747 | $ 20,248 |  
+  
+  
+# NOTE 25 Performance by Geographical Area  
+  
+The Corporation's operations are highly integrated with operations in both U.S. and non-U.S. markets. The non-U.S. business activities are largely conducted in Europe, the Middle East and Africa and in Asia. The Corporation identifies its geographic performance based on the business unit structure used to manage the capital or expense deployed in the region as applicable. This requires certain judgments related to the allocation of revenue so that revenue can be appropriately matched with the related capital or expense deployed in the region. Certain asset, liability, income and expense amounts have been allocated to arrive at total assets, total revenue, net of interest expense, income before income taxes and net income by geographic area as presented below.  
+  
+| (Dollars in millions) | | Total Assets at Year End (1) | Total Revenue, Net of Interest Expense (2) | Income Before Income Taxes | Net Income |  
+| - | - | - | - | - | - |  
+| U.S. (3) | 2018 | $ 2,051,182 | 81,004 | $ 31,904 | 26,407 |  
+|| 2017 | 1,965,490 | 74,830 | 25,108 | 15,550 |  
+|| 2016 | | 72,418 | 22,282 | 16,183 |  
+| Asia | 2018 | 94,865 | 3,507 | 865 | 520 |  
+|| 2017 | 103,255 | 3,405 | 676 | 464 |  
+|| 2016 | | 3,365 | 674 | 488 |  
+| Europe, Middle East and Africa | 2018 | 185,285 | 5,632 | 1,543 | 1,126 |  
+|| 2017 | 189,661 | 7,907 | 2,990 | 1,926 |  
+|| 2016 | | 6,608 | 1,705 | 925 |  
+| Latin America and the Caribbean | 2018 | 23,175 | 1,104 | 272 | 94 |  
+|| 2017 | 22,828 | 1,210 | 439 | 292 |  
+|| 2016 | | 1,310 | 360 | 226 |  
+| Total Non-U.S. | 2018 | 303,325 | 10,243 | 2,680 | 1,740 |  
+|| 2017 | 315,744 | 12,522 | 4,105 | 2,682 |  
+|| 2016 | | 11,283 | 2,739 | 1,639 |  
+| Total Consolidated | 2018 | $ 2,354,507 | 91,247 | $ 34,584 | $ 28,147 |  
+|| 2017 | 2,281,234 | 87,352 | 29,213 | 18,232 |  
+|| 2016 | | 83,701 | 25,021 | 17,822 |  
+  
+(1) Total assets include long-lived assets, which are primarily located in the  
+  
+U.S  
+  
+(2) There were no material intercompany revenues between geographic regions for any of the periods presented.  
+  
+(3) Substantially reflects the U.S.  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageNumber="167" -->  

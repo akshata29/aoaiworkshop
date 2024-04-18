@@ -1,0 +1,72 @@
+The Level 3 Fair Value Measurements table presents a reconciliation of all plan investment assets measured at fair value using significant unobservable inputs (Level 3) during 2018, 2017 and 2016.  
+  
+  
+# Level 3 Fair Value Measurements  
+  
+| | Balance January 1 | Actual Return on Plan Assets Still Held at the Reporting Date | Purchases, Sales and Settlements | Balance December 31 |  
+| - | - | - | - | - |  
+| (Dollars in millions) | 2018 ||||  
+| Fixed income | | | | |  
+| U.S. government and agency securities | $ 9 | $ | $ | $ 9 |  
+| Real estate | | | | |  
+| Private real estate | 93 | (7) | (81 ) | 5 |  
+| Real estate commingled/mutual funds | 831 | 52 | 2 | 885 |  
+| Limited partnerships | 85 | (12) | 9 | 82 |  
+| Other investments | 74 | - | 514 | 588 |  
+| Total | $ 1,092 | $ 33 | $ 444 | $ 1,569 |  
+| | | 2017 |||  
+| Fixed income | | | | |  
+| U.S. government and agency securities | $ 10 | $ - | $ (1) | $ 9 |  
+| Real estate | | | | |  
+| Private real estate | 150 | 8 | (65) | 93 |  
+| Real estate commingled/mutual funds | 748 | 63 | 20 | 831 |  
+| Limited partnerships | 38 | 14 | 33 | 85 |  
+| Other investments | 83 | 5 | (14 ) | 74 |  
+| Total | $ 1,029 | $ 90 | $ (27) | $ 1,092 |  
+| | | 2016 |||  
+| Fixed income | | | | |  
+| U.S. government and agency securities | $ 11 | $ | $ (1) | $ 10 |  
+| Real estate | | | | |  
+| Private real estate | 144 | 1 | 5 | 150 |  
+| Real estate commingled/mutual funds | 731 | 21 | (4 ) | 748 |  
+| Limited partnerships | 49 | (2) | (9) | 38 |  
+| Other investments | 102 | 4 | (23 ) | 83 |  
+| Total | $ 1,037 | $ 24 | $ (32) | $ 1,029 |  
+  
+  
+# Projected Benefit Payments  
+  
+Benefit payments projected to be made from the Qualified Pension Plan, Non-U.S. Pension Plans, Nonqualified and Other Pension Plans, and Postretirement Health and Life Plans are presented in the table below.  
+  
+| Projected Benefit Payments |||||  
+| (Dollars in millions) | Qualified Pension Plan (1) | Non-U.S. Pension Plans (2) | Nonqualified and Other Pension Plans (2) | Postretirement Health and Life Plans (3) |  
+| - | - | - | - | - |  
+| 2019 | $ 905 | $ 98 | $ 241 | $ 85 |  
+| 2020 | 932 | 103 | 244 | 82 |  
+| 2021 | 920 | 110 | 239 | 79 |  
+| 2022 | 925 | 119 | 234 | 77 |  
+| 2023 | 915 | 125 | 228 | 74 |  
+| 2024 - 2028 | 4,451 | 671 | 1,046 | 323 |  
+  
+(1) Benefit payments expected to be made from the plan's  
+  
+assets.  
+  
+(2) Benefit payments expected to be made from a combination of the plans' and the Corporation's assets.  
+  
+(3) Benefit payments (net of retiree contributions) expected to be made from a combination of the plans' and the Corporation's assets.  
+  
+  
+# Defined Contribution Plans  
+  
+The Corporation maintains qualified and non-qualified defined contribution retirement plans. The Corporation recorded expense of $1.0 billion in each of 2018, 2017, and 2016 related to the qualified defined contribution plans. At December 31, 2018 and 2017, 212 million and 218 million shares of the Corporation's  
+  
+common stock were held by these plans. Payments to the plans for dividends on common stock were $115 million, $86 million and $60 million in 2018, 2017 and  
+  
+2016, respectively.  
+  
+Certain non-U.S. employees are covered under defined contribution pension plans that are separately administered in accordance with local laws.  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageNumber="147" -->  

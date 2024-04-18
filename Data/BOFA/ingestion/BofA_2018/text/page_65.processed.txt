@@ -1,0 +1,54 @@
+type. In addition, within our non-U.S. portfolio, we evaluate exposures by region and by country. Tables 37, 40, 43 and 44 summarize our concentrations. We also utilize syndications of exposure to third parties, loan sales, hedging and other risk mitigation techniques to manage the size and risk profile of the commercial credit portfolio. For more information on our industry concentrations, see Commercial Portfolio Credit Risk Management - Industry Concentrations on page 63 and Table 40.  
+  
+We account for certain large corporate loans and loan commitments, including issued but unfunded letters of credit which are considered utilized for credit risk management purposes, that exceed our single-name credit risk concentration guidelines under the fair value option. Lending commitments, both funded and unfunded, are actively managed and monitored, and as appropriate, credit risk for these lending relationships may be mitigated through the use of credit derivatives, with our credit view and market perspectives determining the size and timing of the hedging activity. In addition, we purchase credit protection to cover the funded portion as well as the unfunded portion of certain other credit exposures. To lessen the cost of obtaining our desired credit protection levels, credit exposure may be added within an industry, borrower or counterparty group by selling protection. These credit derivatives do not meet the requirements for treatment as accounting hedges. They are carried at fair value with changes in fair value recorded in other income.  
+  
+In addition, we are a member of various securities and derivative exchanges and clearinghouses, both in the U.S. and  
+  
+other countries. As a member, we may be required to pay a pro-rata share of the losses incurred by some of these organizations as a result of another member default and under other loss scenarios. For additional information, see Note 12 - Commitments and Contingencies to the Consolidated Financial Statements.  
+  
+  
+# Commercial Credit Portfolio  
+  
+During 2018, credit quality among large corporate borrowers was strong, and there was continued improvement in the energy portfolio. Credit quality of commercial real estate borrowers in most sectors remained stable with conservative LTV ratios. However, some of the commercial real estate markets experienced slowing tenant demand and decelerating rental income.  
+  
+Total commercial utilized credit exposure increased $20.2 billion in 2018 to $621.0 billion primarily driven by commercial loan growth. The utilization rate for loans and leases, SBLCs and financial guarantees, and commercial letters of credit, in the aggregate, was 59 percent at both December 31, 2018 and 2017.  
+  
+Table 33 presents commercial credit exposure by type for utilized, unfunded and total binding committed credit exposure. Commercial utilized credit exposure includes SBLCs and financial guarantees and commercial letters of credit that have been issued and for which we are legally bound to advance funds under prescribed conditions during a specified time period, and excludes exposure related to trading account assets. Although funds have not yet been advanced, these exposure types are considered utilized for credit risk management purposes.  
+  
+  
+# Table 33 Commercial Credit Exposure by Type  
+  
+| (Dollars in millions) | Commercial Utilized (1) || Commercial Unfunded (2, 3, 4) || Total Commercial Committed ||  
+|| December 31 ||||||  
+|| 2018 | 2017 | 2018 | 2017 | 2018 | 2017 |  
+| - | - | - | - | - | - | - |  
+| Loans and leases (5) | $ 505,724 | $ 487,748 | $ 369,282 | $ 364,743 | $ 875,006 | $ 852,491 |  
+| Derivative assets (6) | 43,725 | 37,762 | | | 43,725 | 37,762 |  
+| Standby letters of credit and financial guarantees | 34,941 | 34,517 | 491 | 863 | 35,432 | 35,380 |  
+| Debt securities and other investments | 25,425 | 28,161 | 4,250 | 4,864 | 29,675 | 33,025 |  
+| Loans held-for-sale | 9,090 | 10,257 | 14,812 | 9,742 | 23,902 | 19,999 |  
+| Commercial letters of credit | 1,210 | 1,467 | 168 | 155 | 1,378 | 1,622 |  
+| Other | 898 | 888 | | | 898 | 888 |  
+| Total | $ 621,013 | $ 600,800 | $ 389,003 | $ 380,367 | $ 1,010,016 | $ 981,167 |  
+  
+(1) Commercial utilized exposure includes loans of $3.7 billion and $4.8 billion and issued letters of credit with a notional amount of$100 million and $232 million accounted for under the fair value option atDecember 31, 2018 and 2017.  
+  
+2017\.  
+  
+(3) Excludes unused business card lines, which are not legally  
+  
+binding.  
+  
+(4) Includes the notional amount of unfunded legally binding lending commitments net of amounts distributed (i.e., syndicated or participated) to other financial institutions. The distributed amounts were$10.7 billion and $11.0 billion at December 31, 2018 and 2017.  
+  
+(5) Includes credit risk exposure associated with assets under operating lease arrangements of $6.1 billion and $6.3 billion aDecember 31, 2018 and  
+  
+2017  
+  
+(2) Commercial unfunded exposure includes commitments accounted for under the fair value option with a notional amount of3.0 billion and $4.6 billion at December 31, 2018 and  
+  
+(6) Derivative assets are carried at fair value, reflect the effects of legally enforceable master netting agreements and have been reduced by cash collateral o$32.4 billion and $34.6 billion at December 31, 2018 and 2017. Not reflected in utilized and committed exposure is additional non-cash derivative collateral held of $33.0 billion and $26.2 billion at December 31, 2018 and 2017, which consists primarily of other marketable securities.  
+  
+Outstanding commercial loans and leases increased $18.2 billion during 2018 primarily in the U.S. commercial portfolio. The allowance for loan and lease losses for the commercial portfolio decreased $211 million to $4.8 billion at December 31, 2018. For additional information, seeAllowance for Credit Losses on page 67. Table 34 presents our commercial loans and leases portfolio and related credit quality information at December 31, 2018 and 2017.  
+  
+<!-- PageFooter="Bank of America 2018 60" -->  

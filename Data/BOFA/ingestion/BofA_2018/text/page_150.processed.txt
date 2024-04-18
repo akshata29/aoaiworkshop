@@ -1,0 +1,67 @@
+# NOTE 13 Shareholders' Equity  
+  
+  
+# Common Stock  
+  
+  
+# Declared Quarterly Cash Dividends on Common Stock (1)  
+  
+| Declaration Date | Record Date | Payment Date | Dividend Per Share |  
+| - | - | - | - |  
+| January 30, 2019 | March 1, 2019 | March 29, 2019 | $ 0.15 |  
+| October 24, 2018 | December 7, 2018 | December 28, 2018 | 0.15 |  
+| July 26, 2018 | September 7, 2018 | September 28, 2018 | 0.15 |  
+| April 25, 2018 | June 1, 2018 | June 29, 2018 | 0.12 |  
+| January 31, 2018 | March 2, 2018 | March 30, 2018 | 0.12 |  
+  
+(1) I n 2018, and through February 26, 2019.  
+  
+The cash dividends paid per share of common stock were$0.54, $0.39 and $0.25 for 2018, 2017 and 2016, respectively.  
+  
+The following table summarizes common stock repurchases during 2018, 2017 and 2016.  
+  
+  
+# Common Stock Repurchase Summary  
+  
+| (in millions) | 2018 | 2017 | 2016 |  
+| - | - | - | - |  
+| Total share repurchases, including CCAR capital plan repurchases | 676 | 509 | 333 |  
+| Purchase price of shares repurchased and retired (1) | | | |  
+| CCAR capital plan repurchases | $ 16,754 | $ 9,347 | $ 4,312 |  
+| Other authorized repurchases | 3,340 | 3,467 | 800 |  
+| Total shares repurchased | $ 20,094 | $ 12,814 | $ 5,112 |  
+  
+(1) Represents reductions to shareholders' equity due to common stock  
+  
+repurchases.  
+  
+On June 28, 2018, following the non-objection of the Board of Governors of the Federal Reserve System (Federal Reserve) to the Corporation's 2018 Comprehensive Capital Analysis and Review (CCAR) capital plan, the Board of Directors (Board) authorized the repurchase of approximately $20.6 billion in common stock from July 1, 2018 through June 30, 2019, which includes approximately $600 million in repurchases to offset shares awarded under equity- based compensation plans during the same period. The common stock repurchase authorization includes both common stock and warrants.  
+  
+During 2018, the Corporation repurchased $20.1 billion of common stock in connection with the 2018 and 2017 CCAR capital plans and pursuant to a December 5, 2017 authorization to repurchase an additional $5.0 billion in common stock.  
+  
+At December 31, 2018, the Corporation had warrants outstanding and exercisable to purchase 121 million shares of common stock. These warrants, substantially all of which were exercised on or before the expiration date of January 16, 2019, were originally issued in connection with a preferred stock issuance to the U.S. Department of the Treasury in 2009 and were listed on the New York Stock Exchange.  
+  
+On August 24, 2017, the holders of the Corporation's Series T6% Non- cumulative preferred stock (Series T) exercised warrants to acquire 700 million shares of the Corporation's common stock. The carrying value of the preferred stock was $2.9 billion and, upon conversion, was recorded as additional paid-in capital. For more information, see Note 15 - Earnings Per Common Share.  
+  
+In connection with employee stock plans, in2018, the Corporation issued 75 million shares of its common stock and, to  
+  
+satisfy tax withholding obligations, repurchased 29 million shares of its common stock. At December 31, 2018, the Corporation had reserved 781 million unissued shares of common stock for future issuances under employee stock plans, common stock warrants, convertible notes and preferred stock.  
+  
+  
+# Preferred Stock  
+  
+The cash dividends declared on preferred stock were $1.5 billion, $1.6 billion and $1.7 billion for 2018, 2017 and 2016, respectively.  
+  
+On March 15, 2018, the Corporation issued 94,000 shares of 5.875% Fixed-to- Floating Rate Non-Cumulative Preferred Stock, Series FF for $2.35 billion. On May 16, 2018, the Corporation issued 54,000 shares of 6.000% Fixed Rate Non- Cumulative Preferred Stock, Series GG for $1.35 billion. On July 24, 2018, the Corporation issued 34,160 shares of 5.875% Non-Cumulative Preferred Stock, Series HH for $854 million.  
+  
+In 2018, the Corporation fully redeemed Series D, Series I, Series K, Series M and Series 3 preferred stock for a total of $4.5 billion.  
+  
+All series of preferred stock in the Preferred Stock Summary table have a par value of $0.01 per share, are not subject to the operation of a sinking fund, have no participation rights, and with the exception of the Series L Preferred Stock, are not convertible. The holders of the Series B Preferred Stock and Series 1 through 5 Preferred Stock have general voting rights and vote together with the common stock. The holders of the other series included in the table have no general voting rights. All outstanding series of preferred stock of the Corporation have preference over the Corporation's common stock with respect to the payment of dividends and distribution of the Corporation's assets in the event of a liquidation or dissolution. With the exception of the Series B, F, G and T Preferred Stock, if any dividend payable on these series is in arrears for three or more semi-annual or six or more quarterly dividend periods, as applicable (whether consecutive or not), the holders of these series and any other class or series of preferred stock ranking equally as to payment of dividends and upon which equivalent voting rights have been conferred and are exercisable (voting as a single class) will be entitled to vote for the election of two additional directors. These voting rights terminate when the Corporation has paid in full dividends on these series for at least two semi-annual or four quarterly dividend periods, as applicable, following the dividend arrearage.  
+  
+The 7.25% Non-Cumulative Perpetual Convertible Preferred Stock, Series L (Series L Preferred Stock) does not have early redemption/call rights. Each share of the Series L Preferred Stock may be converted at any time, at the option of the holder, into 20 shares of the Corporation's common stock plus cash in lieu of fractional shares. The Corporation may cause some or all of the Series L Preferred Stock, at its option, at any time or from time to time, to be converted into shares of common stock at the then-applicable conversion rate if, for 20 trading days during any period of 30 consecutive trading days, the closing price of common stock exceeds 130 percent of the then-applicable conversion price of the Series L Preferred Stock. If a conversion of Series L Preferred Stock occurs at the option of the holder, subsequent to a dividend record date but prior to the dividend payment date, the Corporation will still pay any accrued dividends payable.  
+  
+The table on the following page presents a summary of perpetual preferred stock outstanding at December 31, 2018.  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageNumber="138" -->  

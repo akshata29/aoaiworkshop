@@ -1,0 +1,71 @@
+ Table 34 Commercial Credit Quality  
+  
+| (Dollars in millions) | Outstandings || Nonperforming || Accruing Past Due 90 Days or More ||  
+|| December 31 ||||||  
+|| 2018 | 2017 | 2018 | 2017 | 2018 | 2017 |  
+| - | - | - | - | - | - | - |  
+| Commercial and industrial: | | | | | | |  
+| U.S. commercial | $ 299,277 | $ 284,836 | $ 794 | $ 814 | $ 197 | $ 144 |  
+| Non-U.S. commercial | 98,776 | 97,792 | 80 | 299 | | 3 |  
+| Total commercial and industrial | 398,053 | 382,628 | 874 | 1,113 | 197 | 147 |  
+| Commercial real estate (1) | 60,845 | 58,298 | 156 | 112 | 4 | 4 |  
+| Commercial lease financing | 22,534 | 22,116 | 18 | 24 | 29 | 19 |  
+| | 481,432 | 463,042 | 1,048 | 1,249 | 230 | 170 |  
+| U.S. small business commercial (2) | 14,565 | 13,649 | 54 | 55 | 84 | 75 |  
+| Commercial loans excluding loans accounted for under the fair value option | 495,997 | 476,691 | 1,102 | 1,304 | 314 | 245 |  
+| Loans accounted for under the fair value option (3) | 3,667 | 4,782 | | 43 | :unselected: | |  
+| Total commercial loans and leases | $ 499,664 | $ 481,473 | $ 1,102 | $ 1,347 | $ 314 | $ 245 |  
+  
+(1) Includes U.S. commercial real estate of $56.6 billion and $54.8 billion and non-U.S. commercial real estate of $4.2 billion and $3.5 billion at December 31, 2018 and  
+  
+2017\.  
+  
+(2) Includes card-related  
+  
+products.  
+  
+(3) Commercial loans accounted for under the fair value option include U.S. commercial of$2.5 billion and $2.6 billion and non-U.S. commercial of $1.1 billion and $2.2 billion at December 31, 2018 and 2017. For more information on the fair value option, seeNote 21 - Fair Value Option to the Consolidated Financial Statements.  
+  
+Table 35 presents net charge-offs and related ratios for our commercial loans and leases for2018 and 2017. The decrease in net charge-offs of $378 million for 2018 was primarily driven by a single-name non-U.S. commercial charge-off of $292 million in 2017.  
+  
+| Table 35 Commercial Net Charge-offs and Related Ratios |||||  
+| | Net Charge-offs || Net Charge-off Ratios (1) ||  
+| (Dollars in millions) | 2018 | 2017 | 2018 | 2017 |  
+| - | - | - | - | - |  
+| Commercial and industrial: | | | | |  
+| U.S. commercial | 215 | $ 232 | 0.07 % | 0.08 % |  
+| Non-U.S. commercial | 68 | 440 | 0.07 | 0.48 |  
+| Total commercial and industrial | 283 | 672 | 0.07 | 0.18 |  
+| Commercial real estate | 1 | 9 | | 0.02 |  
+| Commercial lease financing | (1) | 5 | (0.01) | 0.02 |  
+| | 283 | 686 | 0.06 | 0.15 |  
+| U.S. small business commercial | 240 | 215 | 1.70 | 1.60 |  
+| Total commercial | $ 523 | $ 901 | 0.11 | 0.20 |  
+  
+(1) Net charge-off ratios are calculated as net charge-offs divided by average outstanding loans and leases excluding loans accounted for under the fair value  
+  
+option.  
+  
+Table 36 presents commercial reservable criticized utilized exposure by loan type. Criticized exposure corresponds to the Special Mention, Substandard and Doubtful asset categories as defined by regulatory authorities. Total commercial reservable criticized utilized exposure decreased $2.5 billion, or 18 percent, during 2018 driven by broad-based improvements including the energy sector. At December 31, 2018 and 2017, 91 percent and 84 percent of commercial reservable criticized utilized exposure was secured.  
+  
+| Table 36 Commercial Reservable Criticized Utilized Exposure (1, 2) |||||  
+| (Dollars in millions) | December 31 ||||  
+|| 2018 || 2017 ||  
+| - | - | - | - | - |  
+| Commercial and industrial: | | | | |  
+| U.S. commercial | $ 7,986 | 2.43 % | $ 9,891 | 3.15% |  
+| Non-U.S. commercial | 1,013 | 0.97 | 1,766 | 1.70 |  
+| Total commercial and industrial | 8,999 | 2.08 | 11,657 | 2.79 |  
+| Commercial real estate | 936 | 1.50 | 566 | 0.95 |  
+| Commercial lease financing | 366 | 1.62 | 581 | 2.63 |  
+| | 10,301 | 1.99 | 12,804 | 2.57 |  
+| U.S. small business commercial | 760 | 5.22 | 759 | 5.56 |  
+| Total commercial reservable criticized utilized exposure (1) | $ 11,061 | 2.08 | $ 13,563 | 2.65 |  
+  
+(1) Total commercial reservable criticized utilized exposure includes loans and leases of $10.3 billion and $12.5 billion and commercial letters of credit of $781 million and $1.1 billion at December 31, 2018 and 2017.  
+  
+(2) Percentages are calculated as commercial reservable criticized utilized exposure divided by total commercial reservable utilized exposure for each exposure  
+  
+category.  
+  
+<!-- PageFooter="61 Bank of America 2018" -->  

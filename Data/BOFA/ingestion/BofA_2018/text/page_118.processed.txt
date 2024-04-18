@@ -1,0 +1,56 @@
+A majority of the Corporation's derivative contracts contain credit risk-related contingent features, primarily in the form of ISDA master netting agreements and credit support documentation that enhance the creditworthiness of these instruments compared to other obligations of the respective counterparty with whom the Corporation has transacted. These contingent features may be for the benefit of the Corporation as well as its counterparties with respect to changes in the Corporation's creditworthiness and the mark-to-market exposure under the derivative transactions. At December 31, 2018 and 2017, the Corporation held cash and securities collateral of $81.6 billion and $77.2 billion, and posted cash and securities collateral of $56.5 billion and $59.2 billion in the normal course of business under derivative agreements, excluding cross-product margining agreements where clients are permitted to margin on a net basis for both derivative and secured financing arrangements.  
+  
+In connection with certain OTC derivative contracts and other trading agreements, the Corporation can be required to provide additional collateral or to terminate transactions with certain counterparties in the event of a downgrade of the senior debt ratings of the Corporation or certain subsidiaries. The amount of additional collateral required depends on the contract and is usually a fixed incremental amount and/or the market value of the exposure.  
+  
+At December 31, 2018, the amount of collateral, calculated based on the terms of the contracts, that the Corporation and certain subsidiaries could be required to post to counterparties but had not yet posted to counterparties was $1.8 billion, including $1.0 billion for Bank of America, National Association (Bank of America, N.A. or BANA).  
+  
+Some counterparties are currently able to unilaterally terminate certain contracts, or the Corporation or certain subsidiaries may be required to take other action such as find a suitable replacement or obtain a guarantee. At December 31, 2018 and 2017, the liability recorded for these derivative contracts was not significant.  
+  
+The table below presents the amount of additional collateral that would have been contractually required by derivative contracts and other trading agreements at December 31, 2018 if the rating agencies had downgraded their long-term senior debt ratings for the Corporation or certain subsidiaries by one incremental notch and by an additional second incremental notch.  
+  
+  
+# Additional Collateral Required to be Posted Upon Downgrade at December 31, 2018  
+  
+| (Dollars in millions) | One incremental notch | Second incremental notch |  
+| - | - | - |  
+| Bank of America Corporation | $ 619 | $ 347 |  
+| Bank of America, N.A. and subsidiaries (1) | 209 | 268 |  
+  
+(1) Included in Bank of America Corporation collateral requirements in this table.  
+  
+The following table presents the derivative liabilities that would be subject to unilateral termination by counterparties and the amounts of collateral that would have been contractually required at December 31, 2018 if the long-term senior debt ratings for the Corporation or certain subsidiaries had been lower by one incremental notch and by an additional second incremental notch.  
+  
+  
+# Derivative Liabilities Subject to Unilateral Termination Upon Downgrade at December 31, 2018  
+  
+| (Dollars in millions) | One incremental notch | Second incremental notch |  
+| - | - | - |  
+| Derivative liabilities | $ 13 | $ 581 |  
+| Collateral posted | 1 | 305 |  
+  
+  
+## Valuation Adjustments on Derivatives  
+  
+The Corporation records credit risk valuation adjustments on derivatives in order to properly reflect the credit quality of the counterparties and its own credit quality. The Corporation calculates valuation adjustments on derivatives based on a modeled expected exposure that incorporates current market risk factors. The exposure also takes into consideration credit mitigants such as enforceable master netting agreements and collateral. CDS spread data is used to estimate the default probabilities and severities that are applied to the exposures. Where no observable credit default data is available for counterparties, the Corporation uses proxies and other market data to estimate default probabilities and severity.  
+  
+Valuation adjustments on derivatives are affected by changes in market spreads, non-credit related market factors such as interest rate and currency changes that affect the expected exposure, and other factors like changes in collateral arrangements and partial payments. Credit spreads and non-credit factors can move independently. For example, for an interest rate swap, changes in interest rates may increase the expected exposure, which would increase the counterparty credit valuation adjustment (CVA). Independently, counterparty credit spreads may tighten, which would result in an offsetting decrease to CVA.  
+  
+The Corporation enters into risk management activities to offset market driven exposures. The Corporation often hedges the counterparty spread risk in CVA with CDS. The Corporation hedges other market risks in both CVA and DVA primarily with currency and interest rate swaps. In certain instances, the net-of-hedge amounts in the table below move in the same direction as the gross amount or may move in the opposite direction. This movement is a consequence of the complex interaction of the risks being hedged, resulting in limitations in the ability to perfectly hedge all of the market exposures at all times.  
+  
+The table below presents CVA, DVA and FVA gains (losses) on derivatives, which are recorded in trading account profits, on a gross and net of hedge basis for 2018, 2017 and 2016. CVA gains reduce the cumulative CVA thereby increasing the derivative assets balance. DVA gains increase the cumulative DVA thereby decreasing the derivative liabilities balance. CVA and DVA losses have the opposite impact. FVA gains related to derivative assets reduce the cumulative FVA thereby increasing the derivative assets balance. FVA gains related to derivative liabilities increase the cumulative FVA thereby decreasing the derivative liabilities balance. FVA losses have the opposite impact.  
+  
+  
+## Valuation Adjustments on Derivatives (1)  
+  
+| Gains (Losses) | Gross | Net | Gross | Net | Gross | Net |  
+| (Dollars in millions) | 2018 || 2017 || 2016 ||  
+| - | - | - | - | - | - | - |  
+| Derivative assets (CVA) | $ 77 | $ 187 | $| 330 $  98 | $ 374 | $ 214 |  
+| Derivative assets/liabilities (FVA) | (15) | 14 | 160 | 178 | 186 | 102 |  
+| Derivative liabilities (DVA) | (19) | (55) | (324) | (281) | 24 | (141) |  
+  
+(1) At December 31, 2018, 2017 and 2016, cumulative CVA reduced the derivative assets balance by$600 million, $677 million and $1.0 billion, cumulative FVA reduced the net derivatives balance by$151 million, $136 million and $296 million, and cumulative DVA reduced the derivative liabilities balance by $432 million, $450 million and $774 million, respectively.  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageNumber="107" -->  

@@ -1,0 +1,62 @@
+The Corporation's estimate of its contributions to be made to the Non-U.S. Pension Plans, Nonqualified and Other Pension Plans, and Postretirement Health and Life Plans in 2019 is $21 million, $91 million and $15 million, respectively. The Corporation does not expect to make a contribution to the Qualified Pension Plan in 2019. It is the policy of the Corporation to fund no less than the  
+  
+minimum funding amount required by the Employee Retirement Income Security Act of 1974 (ERISA).  
+  
+Pension Plans with ABO and PBO in excess of plan assets as ofDecember 31, 2018 and 2017 are presented in the table below. For these plans, funding strategies vary due to legal requirements and local practices.  
+  
+  
+# Plans with ABO and PBO in Excess of Plan Assets  
+  
+| (Dollars in millions) | Non-U.S. Pension Plans || Nonqualified and Other Pension Plans ||  
+|| 2018 | 2017 | 2018 | 2017 |  
+| - | - | - | - | - |  
+| PBO | $ 615 | 671 | $ 950 | $ 1,054 |  
+| ABO | 605 | 644 | 949 | 1,053 |  
+| Fair value of plan assets | 173 | 191 | 1 | 1 |  
+  
+  
+# Components of Net Periodic Benefit Cost  
+  
+| (Dollars in millions) | Qualified Pension Plan ||| Non-U.S. Pension Plans |||  
+|| 2018 | 2017 | 2016 | 2018 | 2017 | 2016 |  
+| - | - | - | - | - | - | - |  
+| Components of net periodic benefit cost (income) | | | | | | |  
+| Service cost | $ :unselected: | $ :unselected: | $ :unselected: | 19 | 24 | $ 25 |  
+| Interest cost | 563 | 606 | 634 | 65 | 72 | 86 |  
+| Expected return on plan assets | (1,136) | (1,068) | (1,038) | (126) | (136) | (123) |  
+| Amortization of net actuarial loss | 147 | 154 | 139 | 10 | 8 | 6 |  
+| Other | :unselected: | :unselected: | :unselected: | 12 | (7) | 2 |  
+| Net periodic benefit cost (income) | $ (426) | $ (308) | $ (265) | $ (20) | $ (39) | $ (4) |  
+| Weighted-average assumptions used to determine net cost for years ended December 31 | | | | | | |  
+| Discount rate | 3.68 % | 4.16 % | 4.51 % | 2.39 % | 2.56 % | 3.59 % |  
+| Expected return on plan assets | 6.00 | 6.00 | 6.00 | 4.37 | 4.73 | 4.84 |  
+| Rate of compensation increase | n/a | n/a | n/a | 4.31 | 4.51 | 4.67 |  
+  
+| (Dollars in millions) | Nonqualified and Other Pension Plans ||| Postretirement Health and Life Plans |||  
+|| 2018 | 2017 | 2016 | 2018 | 2017 | 2016 |  
+| - | - | - | - | - | - | - |  
+| Components of net periodic benefit cost (income) | | | | | | |  
+| Service cost | 1 $ | $ 1 | $ | | | $ 7 |  
+| Interest cost | 105 | 117 | 127 | 36 | 43 | 47 |  
+| Expected return on plan assets | (84) | (95) | (101) | (6) | :unselected: | |  
+| Amortization of net actuarial loss (gain) | 43 | 34 | 25 | (27) | (21) | (81) |  
+| Other | :unselected: | | 3 | (3) | 4 | 4 |  
+| Net periodic benefit cost (income) | $ 65 | $ 57 | $ 54 | $ 6 | $ 32 | $ (23) |  
+| Weighted-average assumptions used to determine net cost for years ended December 31 | | | | | | |  
+| Discount rate | 3.58 % | 4.01 % | 4.34 % | 3.58 % | 3.99 % | 4.32 % |  
+| Expected return on plan assets | 3.19 | 3.50 | 3.66 | 2.00 | n/a | n/a |  
+| Rate of compensation increase | 4.00 | 4.00 | 4.00 | n/a | n/a | n/a |  
+  
+n/a = not applicable  
+  
+The asset valuation method used to calculate the expected return on plan assets component of net periodic benefit cost for the Qualified Pension Plan recognizes 60 percent of the prior year's market gains or losses at the next measurement date with the remaining 40 percent spread equally over the subsequent four years.  
+  
+Gains and losses for all benefit plans except postretirement health care are recognized in accordance with the standard amortization provisions of the applicable accounting guidance. Net periodic postretirement health and life expense was determined using the "projected unit credit" actuarial method. For the Postretirement Health and Life Plans, 50 percent of the unrecognized gain or loss at the beginning of the fiscal year (or at  
+  
+subsequent remeasurement) is recognized on a level basis during the year.  
+  
+Assumed health care cost trend rates affect the postretirement benefit obligation and benefit cost reported for the Postretirement Health and Life Plans. The assumed health care cost trend rate used to measure the expected cost of benefits covered by the Postretirement Health and Life Plans is 6.50 percent for 2019, reducing in steps to 5.00 percent in 2023 and later years.  
+  
+The Corporation's net periodic benefit cost (income) recognized for the plans is sensitive to the discount rate and expected return on plan assets. For the Qualified Pension Plan, Non-U.S. Pension Plans, Nonqualified and Other Pension Plans, and Postretirement Health and Life Plans, a 25 bp decline in discount rates and expected return on assets would not have a significant impact on the net periodic benefit cost for 2018.  
+  
+<!-- PageFooter="Bank of America 2018 144" -->  

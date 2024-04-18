@@ -1,0 +1,62 @@
+<!-- PageHeader="Table 15 shows the components of risk-weighted assets as measured under Basel 3 atDecember 31, 2018 and 2017." -->  
+  
+Table 15 Risk-weighted Assets under Basel 3 (1)  
+  
+| | Standardized Approach | Advanced Approaches | Standardized Approach | Advanced Approaches |  
+| - | - | - | - | - |  
+| | December 31 ||||  
+| (Dollars in billions) | 2018 || 2017 ||  
+| Credit risk | $ 1,384 | 827 | 1,384 | $ 867 |  
+| Market risk | 53 | 52 | 59 | 58 |  
+| Operational risk | n/a | 500 | n/a | 500 |  
+| Risks related to credit valuation adjustments | n/a | 30 | n/a | 34 |  
+| Total risk-weighted assets | $ 1,437 | $ 1,409 | $ 1,443 | $ 1,459 |  
+  
+(1) Basel 3 transition provisions for regulatory capital adjustments and deductions were fully phased in as of January 1, 2018. Prior periods are presented on a fully phased-in basis  
+  
+n/a = not applicable  
+  
+  
+# Bank of America, N.A. Regulatory Capital  
+  
+Table 16 presents regulatory capital information for BANA in accordance with Basel 3 Standardized and Advanced approaches as measured atDecember 31, 2018 and 2017. BANA met the definition of well capitalized under the PCA framework for both periods.  
+  
+| Table 16 Bank of America, N.A. Regulatory Capital under Basel 3 ||||||  
+| | Standardized Approach || Advanced Approaches || Minimum Required (1) |  
+|| Ratio | Amount | Ratio | Amount ||  
+| - | - | - | - | - | - |  
+| (Dollars in millions) | December 31, 2018 |||||  
+| Common equity tier 1 capital | 12.5% | 149,824 | 15.6% | $ 149,824 | 6.5% |  
+| Tier 1 capital | 12.5 | 149,824 | 15.6 | 149,824 | 8.0 |  
+| Total capital | 13.5 | 161,760 | 16.0 | 153,627 | 10.0 |  
+| Tier 1 leverage | 8.7 | 149,824 | 8.7 | 149,824 | 5.0 |  
+| SLR | | | 7.1 | 149,824 | 6.0 |  
+| | | | December 31, 2017 | | |  
+| Common equity tier 1 capital | 12.5% | $ 150,552 | 14.9% | $ 150,552 | 6.5% |  
+| Tier 1 capital | 12.5 | 150,552 | 14.9 | 150,552 | 8.0 |  
+| Total capital | 13.6 | 163,243 | 15.4 | 154,675 | 10.0 |  
+| Tier 1 leverage | 9.0 | 150,552 | 9.0 | 150,552 | 5.0 |  
+  
+(1) Percent required to meet guidelines to be considered well capitalized under the PCA framework.  
+  
+  
+# Regulatory Developments  
+  
+  
+## Minimum Total Loss-Absorbing Capacity  
+  
+The Federal Reserve's final rule, which was effective January 1, 2019, includes minimum external total loss-absorbing capacity (TLAC) and long-term debt requirements to improve the resolvability and resiliency of large, interconnected BHCs. As of December 31, 2018, the Corporation's TLAC and long-term debt exceeded our estimated 2019 minimum requirements.  
+  
+  
+## Stress Buffer Requirements  
+  
+On April 10, 2018, the Federal Reserve announced a proposal to integrate the annual quantitative assessment of the CCAR program with the buffer requirements in the Basel 3 capital rule by introducing stress buffer requirements as a replacement of the CCAR quantitative objection. Under the Standardized approach, the proposal replaces the existing static 2.5 percent capital conservation buffer with a stress capital buffer, calculated as the decrease in the CET1 capital ratio in the supervisory severely adverse scenario of the modified CCAR stress test plus four quarters of planned common stock dividend payments, floored at 2.5 percent. The static 2.5 percent capital conservation buffer would be retained under the Advanced approaches. The proposal also introduces a stress leverage buffer requirement which would be calculated as the decrease in the Tier 1 leverage ratio in the supervisory severely adverse scenario of the modified CCAR stress test plus four quarters of planned common stock dividends, with  
+  
+no floor. The SLR would not incorporate a stress buffer requirement. The proposal also updates the capital distribution assumptions used in the CCAR stress test to better align with a firm's expected actions in stress, notably removing the assumption that a BHC will carry out all of its planned capital actions under stress.  
+  
+  
+## Enhanced Supplementary Leverage Ratio and TLAC Requirements  
+  
+On April 11, 2018, the Federal Reserve and Office of the Comptroller of the Currency announced a proposal to modify the enhanced SLR standards applicable to U.S. G-SIBs and their insured depository institution subsidiaries. The proposal replaces the existing 2.0 percent leverage buffer with a leverage buffer tailored to each G-SIB, set at 50 percent of the applicable G-SIB surcharge. This proposal also replaces the current 6.0 percent threshold at which a G-SIB's insured depository institution subsidiaries are considered well capitalized under the PCA framework with a threshold set at 3.0 percent plus 50 percent of the G-SIB surcharge applicable to the subsidiary's G-SIB holding company. Correspondingly, the proposal updates the external TLAC leverage buffer for each G-SIB to 50 percent of the applicable G-SIB surcharge and revises the leverage component of the minimum external long-term debt requirement from 4.5 percent to 2.5 percent plus 50 percent of the applicable G-SIB surcharge.  
+  
+<!-- PageFooter="Bank of America 2018 46" -->  

@@ -1,0 +1,66 @@
+ Table V Allowance for Credit Losses (continued)  
+  
+| (Dollars in millions) | 2018 | 2017 | 2016 | 2015 | 2014 |  
+| Loan and allowance ratios (6): | | | | | |  
+| - | - | - | - | - | - |  
+| Loans and leases outstanding at December 31 (7) | $ 942,546 | $ 931,039 | $ 908,812 | $ 890,045 | $ 867,422 |  
+| Allowance for loan and lease losses as a percentage of total loans and leases outstanding at December 31 (7) | 1.02% | 1.12 % | 1.26 % | 1.37 % | 1.66 % |  
+| Consumer allowance for loan and lease losses as a percentage of total consumer loans and leases outstanding at December 31 (8) | 1.08 | 1.18 | 1.36 | 1.63 | 2.05 |  
+| Commercial allowance for loan and lease losses as a percentage of total commercial loans and leases outstanding at December 31 (9) | 0.97 | 1.05 | 1.16 | 1.11 | 1.16 |  
+| Average loans and leases outstanding (7) | $ 927,531 | $ 911,988 | $ 892,255 | $ 869,065 | $ 888,804 |  
+| Net charge-offs as a percentage of average loans and leases outstanding (7, 10) | 0.41 % | 0.44 % | 0.43 % | 0.50 % | 0.49 % |  
+| Net charge-offs and PCI write-offs as a percentage of average loans and leases outstanding (7) | 0.44 | 0.46 | 0.47 | 0.59 | 0.58 |  
+| Allowance for loan and lease losses as a percentage of total nonperforming loans and leases at December 31 (7) | 194 | 16 | 149 | 130 | 121 |  
+| Ratio of the allowance for loan and lease losses at December 31 to net charge-offs (10) | 2.55 | 2.61 | 3.00 | 2.82 | 3.29 |  
+| Ratio of the allowance for loan and lease losses at December 31 to net charge-offs and PCI write-offs | 2.38 | 2.48 | 2.76 | 2.38 | 2.78 |  
+| Amounts included in allowance for loan and lease losses for loans and leases that are excluded from nonperforming loans and leases at December 31 (11) | $ 4,031 | $ 3,971 | $ 3,951 | $ 4,518 | $ 5,944 |  
+| Allowance for loan and lease losses as a percentage of total nonperforming loans and leases, excluding the allowance for loan and lease losses for loans and leases that are excluded from nonperforming loans and leases at December 31 (7, 11) | 113% | 99% | 98% | 82% | 71% |  
+  
+(6) Loan and allowance ratios for 2016 include$243 million of non-U.S. credit card allowance for loan and lease losses and $.2 billion of ending non-U.S. credit card loans, which were sold in 2017  
+  
+(7) Outstanding loan and lease balances and ratios do not include loans accounted for under the fair value option o$4.3 billion, $5.7 billion, $7.1 billion, $6.9 billion and $8.7 billion at December 31, 2018, 2017, 2016, 2015 and 2014, respectively. Average loans accounted for under the fair value option were $5.5 billion, $6.7 billion, $8.2 billion, $7.7 billion and $9.9 billion in2018, 2017, 2016, 2015 and 2014, respectively.  
+  
+(8) Excludes consumer loans accounted for under the fair value option of$682 million, $928 million, $1.1 billion, $1.9 billion and $2.1 billion at December 31, 2018, 2017, 2016, 2015 and 2014, respectively.  
+  
+(9) Excludes commercial loans accounted for under the fair value option of$3.7 billion, $4.8 billion, $6.0 billion, $5.1 billion and $6.6 billion at December 31, 2018, 2017, 2016, 2015 and 2014, respectively.  
+  
+(10) Net charge-offs exclude $273 million, $207 million, $340 million, $808 million and $810 million of write-offs in the PCI loan portfolio in2018, 2017, 2016, 2015 and 2014 respectively. For more information on PCI write-offs, see Consumer Portfolio Credit Risk Management - Purchased Credit-impaired Loan Portfolio on page 57.  
+  
+(11) Primarily includes amounts allocated to U.S. credit card and unsecured consumer lending portfolios inConsumer Banking and PCI loans and the non-U.S. credit card portfolio inAll Other.  
+  
+Table VI Allocation of the Allowance for Credit Losses by Product Type  
+  
+| (Dollars in millions) | December 31 ||||||||||  
+|| 2018 || 2017 || 2016 || 2015 || 2014 ||  
+|| Amount | Percent of Total | Amount | Percent of Total | Amount | Percent of Total | Amount | Percent of Total | Amount | Percent of Total |  
+| - | - | - | - | - | - | - | - | - | - | - |  
+| Allowance for loan and lease losses | | | | | | | | | | |  
+| Residential mortgage | 422 | 4.40 % | $ 701 | 6.74 % | $ 1,012 | 8.82 % | $ 1,500 | 12.26 % | $ 2,900 | 20.11 % |  
+| Home equity | 506 | 5.27 | 1,019 | 9.80 | 1,738 | 15.14 | 2,414 | 19.73 | 3,035 | 21.05 |  
+| U.S. credit card | 3,597 | 37.47 | 3,368 | 32.41 | 2,934 | 25.56 | 2,927 | 23.93 | 3,320 | 23.03 |  
+| Non-U.S. credit card | | | :unselected: | :unselected: | 243 | 2.12 | 274 | 2.24 | 369 | 2.56 |  
+| Direct/Indirect consumer | 248 | 2.58 | 264 | 2.54 | 244 | 2.13 | 223 | 1.82 | 299 | 2.07 |  
+| Other consumer | 29 | 0.30 | 31 | 0.30 | 51 | 0.44 | 47 | 0.38 | 59 | 0.41 |  
+| Total consumer | 4,802 | 50.02 | 5,383 | 51.79 | 6,222 | 54.21 | 7,385 | 60.36 | 9,982 | 69.23 |  
+| U.S. commercial (1) | 3,010 | 31.35 | 3,113 | 29.95 | 3,326 | 28.97 | 2,964 | 24.23 | 2,619 | 18.16 |  
+| Non-U.S. commercial | 677 | 7.05 | 803 | 7.73 | 874 | 7.61 | 754 | 6.17 | 649 | 4.50 |  
+| Commercial real estate | 958 | 9.98 | 935 | 9.00 | 920 | 8.01 | 967 | 7.90 | 1,016 | 7.05 |  
+| Commercial lease financing | 154 | 1.60 | 159 | 1.53 | 138 | 1.20 | 164 | 1.34 | 153 | 1.06 |  
+| Total commercial | 4,799 | 49.98 | 5,010 | 48.21 | 5,258 | 45.79 | 4,849 | 39.64 | 4,437 | 30.77 |  
+| Total allowance for loan and lease losses (2) | 9,601 | 100.00 % | 10,393 | 100.00 % | 11,480 | 100.00 % | 12,234 | 100.00 % | 14,419 | 100.00 % |  
+| Less: Allowance included in assets of business held for sale (3) | | | | | (243) | | | | | |  
+| Allowance for loan and lease losses | 9,601 | | 10,393 | | 11,237 | | 12,234 | | 14,419 | |  
+| Reserve for unfunded lending commitments | 797 | | 777 | | 762 | | 646 | | 528 | |  
+| Allowance for credit losses | $ 10,398 | | $ 11,170 | | $ 11,999 | | $ 12,880 | | $ 14,947 | |  
+  
+(1) Includes allowance for loan and lease losses for U.S. small business commercial loans of$474 million, $439 million, $416 million, $507 million and $536 million at December 31, 2018, 2017, 2016, 2015 and 2014,  
+  
+respectively.  
+  
+(2) Includes $91 million, $289 million, $419 million, $804 million and $1.7 billion of valuation allowance presented with the allowance for loan and lease losses related to PCI loans aDecember 31, 2018, 2017, 2016, 2015 and 2014,  
+  
+respectively.  
+  
+(3) Represents allowance for loan and lease losses related to the non-U.S. credit card loan portfolio, which was sold in 2017.  
+  
+<!-- PageFooter="Bank of America 2018 84" -->  

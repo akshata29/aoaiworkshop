@@ -1,0 +1,57 @@
+ Impaired Loans - Consumer Real Estate  
+  
+| | Unpaid Principal Balance | Carrying Value | Related Allowance | Unpaid Principal Balance | Carrying Value | Related Allowance |  
+| - | - | - | - | - | - | - |  
+| (Dollars in millions) | December 31, 2018 December 31, 2017 ||||||  
+| With no recorded allowance | | | | | | |  
+| Residential mortgage | 5,396 | 4,268 | $ :unselected: | $ 8,856 | $ 6,870 | $ |  
+| Home equity | 2,948 | 1,599 | :unselected: | 3,622 | 1,956 | |  
+| With an allowance recorded | | | | | | |  
+| Residential mortgage | 1,977 | $ 1,929 | $ 114 | $ 2,908 | $ 2,828 | 174 CA |  
+| Home equity | 812 | 760 | 144 | 972 | 900 | 174 |  
+| Total (1) | | | | | | |  
+| Residential mortgage | 7,373 | 6,197 | 114 | $ 11,764 | $ 9,698 | $ 174 |  
+| Home equity | 3,760 | 2,359 | 144 | 4,594 | 2,856 | 174 |  
+  
+| | Average Carrying Value | Interest Income Recognized (2) | Average Carrying Value | Interest Income Recognized (2) | Average Carrying Value | Interest Income Recognized (2) |  
+| - | - | - | - | - | - | - |  
+| | 2018 2017 2016 ||||||  
+| With no recorded allowance | | | | | | |  
+| Residential mortgage | $ 5,424 | $ 207 | $ 7,737 | $ 311 | $ 10,178 | $ 360 |  
+| Home equity | 1,894 | 105 | 1,997 | 109 | 1,906 | 90 |  
+| With an allowance recorded | | | | | | |  
+| Residential mortgage | 2,409 | $ 91 | 3,414 | $ 123 | $ 5,067 | $ 167 |  
+| Home equity | 861 | 25 | 858 | 24 | 852 | 24 |  
+| Total (1) | | | | | | |  
+| Residential mortgage | $ 7,833 | $ 298 | $ 11,151 | $ 434 | $ 15,245 | $ 527 |  
+| Home equity | 2,755 | 130 | 2,855 | 133 | 2,758 | 114 |  
+  
+(1) During 2018, previously impaired consumer real estate loans with a carrying value of$2.3 billion were  
+  
+sold.  
+  
+(2) Interest income recognized includes interest accrued and collected on the outstanding balances of accruing impaired loans as well as interest cash collections on nonaccruing impaired loans for which the principal is considered collectible.  
+  
+The table below presents the December 31, 2018, 2017 and 2016 unpaid principal balance, carrying value, and average pre- and post-modification interest rates on consumer real estate loans that were modified in TDRs during 2018, 2017 and 2016. The following Consumer Real Estate portfolio segment tables include loans that were initially classified as TDRs during the period and also loans that had previously been classified as TDRs and were modified again during the period.  
+  
+| Consumer Real Estate - TDRs Entered into During 2018, 2017 and 2016 |||||  
+| | Unpaid Principal Balance | Carrying Value | Pre-Modification Interest Rate | Post-Modification Interest Rate (1) |  
+| - | - | - | - | - |  
+| (Dollars in millions) | December 31, 2018 ||||  
+| Residential mortgage | $ 774 | $ 641 | 4.33 % | 4.21 % |  
+| Home equity | 489 | 358 | 4.46 | 3.74 |  
+| Total | $ 1,263 | $ 999 | 4.38 | 4.03 |  
+| | | December 31, 2017 |||  
+| Residential mortgage | 824 | $ 712 | 4.43 % | 4.16 % |  
+| Home equity | 764 | 590 | 4.22 | 3.49 |  
+| Total | 1,588 | $ 1,302 | 4.33 | 3.83 |  
+| | | December 31, 2016 |||  
+| Residential mortgage | $ 1,130 | $ 1,017 | 4.73% | 4.16 % |  
+| Home equity | 849 | 649 | 3.95 | 2.72 |  
+| Total| 1,979 | $ 1,666 | 4.40 | 3.54 |  
+  
+(1) The post-modification interest rate reflects the interest rate applicable only to permanently completed modifications, which exclude loans that are in a trial modification  period.  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageNumber="117" -->  

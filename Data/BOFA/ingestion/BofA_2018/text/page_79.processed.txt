@@ -1,0 +1,52 @@
+Additional VaR statistics produced within our single VaR model are provided in Table 48 at the same level of detail as in Table 47. Evaluating VaR with additional statistics allows for an increased understanding of the risks in the portfolio as the historical market data used in the VaR calculation does not necessarily follow a predefined statistical distribution. Table 48 presents average trading VaR statistics at 99 percent and 95 percent confidence levels for2018 and 2017.  
+  
+  
+# Table 48 Average Market Risk VaR for Trading Activities - 99 percent and 95 percent VaR Statistics  
+  
+| (Dollars in millions) | 2018 || 2017 ||  
+|| 99 percent | 95 percent | 99 percent | 95 percent |  
+| - | - | - | - | - |  
+| Foreign exchange | $ 8 | 5 | $ 11 | $ 6 |  
+| Interest rate | 25 | 16 | 21 | 14 |  
+| Credit | 25 | 15 | 26 | 15 |  
+| Equity | 20 | 11 | 18 | 10 |  
+| Commodities | 8 | 4 | 5 | 3 |  
+| Portfolio diversification | (55) | (33) | (47) | (30) |  
+| Total covered positions portfolio | 31 | 18 | 34 | 18 |  
+| Impact from less liquid exposures | 3 | 1 | 6 | 2 |  
+| Total covered positions and less liquid trading positions portfolio | 34 | 19 | 40 | 20 |  
+| Fair value option loans | 11 | 6 | 10 | 6 |  
+| Fair value option hedges | 9 | 6 | 7 | 5 |  
+| Fair value option portfolio diversification | (11) | (7) | (8) | (6 |  
+| Total fair value option portfolio | 9 | 5 | 9 | 5 |  
+| Portfolio diversification | (5) | (3) | (4) | (3) |  
+| Total market-based portfolio | $ 38 | $ 21 | $ 45 | $ 22 |  
+  
+  
+# Backtesting  
+  
+The accuracy of the VaR methodology is evaluated by backtesting, which compares the daily VaR results, utilizing a one-day holding period, against a comparable subset of trading revenue. A backtesting excess occurs when a trading loss exceeds the VaR for the corresponding day. These excesses are evaluated to understand the positions and market moves that produced the trading loss with a goal to ensure that the VaR methodology accurately represents those losses. We expect the frequency of trading losses in excess of VaR to be in line with the confidence level of the VaR statistic being tested. For example, with a 99 percent confidence level, we expect one trading loss in excess of VaR every 100 days or between two to three trading losses in excess of VaR over the course of a year. The number of backtesting excesses observed can differ from the statistically expected number of excesses if the current level of market volatility is materially different than the level of market volatility that existed during the three years of historical data used in the VaR calculation.  
+  
+The trading revenue used for backtesting is defined by regulatory agencies in order to most closely align with the VaR component of the regulatory capital calculation. This revenue differs from total trading-related revenue in that it excludes revenue from trading activities that either do not generate market risk or the market risk cannot be included in VaR. Some examples of the types of revenue excluded for backtesting are fees, commissions, reserves, net interest income and intraday trading revenues.  
+  
+We conduct daily backtesting on the VaR results used for regulatory capital calculations as well as the VaR results for key legal entities, regions and risk factors. These results are reported to senior market risk management. Senior management regularly reviews and evaluates the results of these tests.  
+  
+During 2018, there were three days in which there was a backtesting excess for our total covered portfolio VaR, utilizing a one-day holding period.  
+  
+  
+# Total Trading-related Revenue  
+  
+Total trading-related revenue, excluding brokerage fees, and CVA, DVA and funding valuation adjustment gains (losses), represents the total amount earned from trading positions, including market-based net interest income, which are taken in a diverse range of financial instruments and markets. Trading account assets and liabilities are reported at fair value. For more information on fair value, see Note 20 - Fair Value Measurements to the Consolidated Financial Statements. Trading- related revenue can be volatile and is largely driven by general market conditions and customer demand. Also, trading-related revenue is dependent on the volume and type of transactions, the level of risk assumed, and the volatility of price and rate movements at any given time within the ever-changing market environment. Significant daily revenue by business is monitored and the primary drivers of these are reviewed.  
+  
+The following histogram is a graphic depiction of trading volatility and illustrates the daily level of trading-related revenue for 2018 and 2017. During 2018, positive trading-related revenue was recorded for 98 percent of the trading days, of which 79 percent were daily trading gains of over $25 million. This compares to 2017 where positive trading-related revenue was recorded for 100 percent of the trading days, of which 77 percent were daily trading gains of over $25 million.  
+  
+<figure>  
+  
+![](figures/0)  
+  
+<!-- FigureContent="Histogram of Daily Trading-related Revenue 160 140 120 Number of Days 100 80 60 40 20 0 0 -25 to 0 0 to 25 25 to 50 50 to 75 75 to 100 greater than 100 Revenue (dollars in millions) DYear Ended December 31, 2017 Year Ended December 31, 2018" -->  
+  
+</figure>  
+  
+  
+<!-- PageFooter="73 Bank of America 2018" -->  

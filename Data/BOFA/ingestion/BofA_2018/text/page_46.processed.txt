@@ -1,0 +1,52 @@
+The chart below illustrates the inter-relationship among the Board, Board committees and management committees that have the majority of risk oversight responsibilities for the Corporation.  
+  
+<figure>  
+  
+![](figures/0)  
+  
+<!-- FigureContent="Board of Directors (1) Board Committees Audit Committee Enterprise Risk Committee Corporate Governance Committee Compensation and Benefits Committee Management Committees Disclosure Committee (2) Management Risk Committee Reg O Committee Corporate Benefits Committee Management Compensation Committee" -->  
+  
+</figure>  
+  
+  
+(1) This presentation does not include committees for other legal entities.  
+  
+(2) Reports to the CEO and CFO with oversight by the Audit Committee.  
+  
+  
+# Board of Directors and Board Committees  
+  
+The Board is composed of 16 directors, all but one of whom are independent. The Board authorizes management to maintain an effective Risk Framework, and oversees compliance with safe and sound banking practices. In addition, the Board or its committees conduct inquiries of, and receive reports from management on risk-related matters to assess scope or resource limitations that could impede the ability of Independent Risk Management (IRM) and/or Corporate Audit to execute its responsibilities. The Board committees discussed below have the principal responsibility for enterprise-wide oversight of our risk management activities. Through these activities, the Board and applicable committees are provided with information on our risk profile and oversee executive management addressing key risks we face. Other Board committees, as described below, provide additional oversight of specific risks.  
+  
+Each of the committees shown on the above chart regularly reports to the Board on risk-related matters within the committee's responsibilities, which is intended to collectively provide the Board with integrated insight about our management of enterprise-wide risks.  
+  
+  
+## Audit Committee  
+  
+The Audit Committee oversees the qualifications, performance and independence of the Independent Registered Public Accounting Firm, the performance of our corporate audit function, the integrity of our consolidated financial statements, our compliance with legal and regulatory requirements, and makes inquiries of management or the Corporate General Auditor (CGA) to determine whether there are scope or resource limitations that impede the ability of Corporate Audit to execute its responsibilities. The Audit Committee is also responsible for overseeing compliance risk pursuant to the New York Stock Exchange listing standards.  
+  
+  
+# Enterprise Risk Committee  
+  
+The ERC has primary responsibility for oversight of the Risk Framework and key risks we face and of the Corporation's overall risk appetite. It approves the Risk Framework and the Risk Appetite Statement and further recommends these documents to the Board for approval. The ERC oversees senior management's  
+  
+responsibilities for the identification, measurement, monitoring and control of key risks we face. The ERC may consult with other Board committees on risk-related matters.  
+  
+  
+# Other Board Committees  
+  
+Our Corporate Governance Committee oversees our Board's governance processes, identifies and reviews the qualifications of potential Board members, recommends nominees for election to our Board, recommends committee appointments for Board approval and reviews our Environmental, Social and Governance and stockholder engagement activities.  
+  
+Our Compensation and Benefits Committee oversees establishing, maintaining and administering our compensation programs and employee benefit plans, including approving and recommending our Chief Executive Officer's (CEO) compensation to our Board for further approval by all independent directors, and reviewing and approving all of our executive officers' compensation, as well as compensation for non-management directors.  
+  
+  
+# Management Committees  
+  
+Management committees may receive their authority from the Board, a Board committee, another management committee or from one or more executive officers. Our primary management-level risk committee is the Management Risk Committee (MRC). Subject to Board oversight, the MRC is responsible for management oversight of key risks facing the Corporation. This includes providing management oversight of our compliance and operational risk programs, balance sheet and capital management, funding activities and other liquidity activities, stress testing, trading activities, recovery and resolution planning, model risk, subsidiary governance and activities between member banks and their nonbank affiliates pursuant to Federal Reserve rules and regulations, among other things.  
+  
+  
+## Lines of Defense  
+  
+We have clear ownership and accountability across three lines of defense: Front Line Units (FLUs), IRM and Corporate Audit. We also have control functions outside of FLUs and IRM (e.g., Legal and Global Human Resources). The three lines of defense are  
+  
+<!-- PageFooter="41 Bank of America 2018" -->  

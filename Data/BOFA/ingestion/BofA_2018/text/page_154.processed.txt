@@ -1,0 +1,63 @@
+# Regulatory Capital under Basel 3 (1)  
+  
+| | Bank of America Corporation ||| Bank of America, N.A. |||  
+|| Standardized Approach | Advanced Approaches | Regulatory Minimum (2) | Standardized Approach | Advanced Approaches | Regulatory Minimum (3) |  
+| - | - | - | - | - | - | - |  
+| (Dollars in millions, except as noted) | December 31, 2018 ||||||  
+| Risk-based capital metrics: | | | | | | |  
+| Common equity tier 1 capital | $ 167,272 | $ 167,272 | | $ 149,824 | $ 149,824 | |  
+| Tier 1 capital | 189,038 | 189,038 | | 149,824 | 149,824 | |  
+| Total capital (4) | 221,304 | 212,878 | | 161,760 | 153,627 | |  
+| Risk-weighted assets (in billions) | 1,437 | 1,409 | | 1,195 | 959 | |  
+| Common equity tier 1 capital ratio | 11.6 % | 11.9% | 8.25% | 12.5% | 15.6% | 6.5% |  
+| Tier 1 capital ratio | 13.2 | 13.4 | 9.75 | 12.5 | 15.6 | 8.0 |  
+| Total capital ratio | 15.4 | 15.1 | 11.75 | 13.5 | 16.0 | 10.0 |  
+| Leverage-based metrics: | | | | | | |  
+| Adjusted quarterly average assets (in billions) (5) | $ 2,258 | $ 2,258 | | 1,719 | $ 1,719 | |  
+| Tier 1 leverage ratio | 8.4% | 8.4 % | 4.0 | 8.7% | 8.7% | 5.0 |  
+| SLR leverage exposure (in billions) | | 2,791 | | | 2,112 | |  
+| SLR | | 6.8 % | 5.0 | | 7.1% | 6.0 |  
+| | December 31, 2017 ||||||  
+| Risk-based capital metrics: | | | | | | |  
+| Common equity tier 1 capital | $ 171,063 | $ 171,063 | | $ 150,552 | $ 150,552 | |  
+| Tier 1 capital | 191,496 | 191,496 | | 150,552 | 150,552 | |  
+| Total capital (4) | 227,427 | 218,529 | | 163,243 | 154,675 | |  
+| Risk-weighted assets (in billions) | 1,434 | 1,449 | | 1,201 | 1,007 | |  
+| Common equity tier 1 capital ratio | 11.9% | 11.8 % | 7.25% | 12.5% | 14.9 % | 6.5% |  
+| Tier 1 capital ratio | 13.4 | 13.2 | 8.75 | 12.5 | 14.9 | 8.0 |  
+| Total capital ratio | 15.9 | 15.1 | 10.75 | 13.6 | 15.4 | 10.0 |  
+| Leverage-based metrics: | | | | | | |  
+| Adjusted quarterly average assets (in billions) (5) | $ 2,224 | $ 2,224 | | $ 1,672 | $ 1,672 | |  
+| Tier 1 leverage ratio | 8.6 % | 8.6 % | 4.0 | 9.0% | 9.0 % | 5.0 |  
+  
+(1) Regulatory capital metrics at December 31, 2017 reflect Basel 3 transition provisions for regulatory capital adjustments and deductions, which were fully phased-in as of January 1,  
+  
+2018\.  
+  
+(2) The December 31, 2018 and 2017 amounts include a transition capital conservation buffer of1.875 percent and 1.25 percent and a transition global systemically important bank surcharge ofl.875 percent and 1.5 percent. The countercyclical capital buffer for both periods is zero.  
+  
+(3) Percent required to meet guidelines to be considered "well capitalized" under the PCA framework.  
+  
+(4) Total capital under the Advanced approaches differs from the Standardized approach due to differences in the amount permitted in Tier 2 capital related to the qualifying allowance for credit losses  
+  
+(5) Reflects adjusted average total assets for the three months endedDecember 31, 2018 and 2017.  
+  
+The capital adequacy rules issued by the U.S. banking regulators require institutions to meet the established minimums outlined in the table above. Failure to meet the minimum requirements can lead to certain mandatory and discretionary actions by regulators that could have a material adverse impact on the Corporation's financial position. At December 31, 2018 and 2017, the Corporation and its banking entity affiliates were "well capitalized."  
+  
+  
+# Other Regulatory Matters  
+  
+The Federal Reserve requires the Corporation's bank subsidiaries to maintain reserve requirements based on a percentage of certain deposit liabilities. The average daily reserve balance requirements, in excess of vault cash, maintained by the Corporation with the Federal Reserve Bank were $11.4 billion and $8.9 billion for 2018 and 2017. At December 31, 2018 and 2017, the Corporation had cash and cash equivalents in the amount of $5.8 billion and $4.1 billion, and securities with a fair value of $16.6 billion and $17.3 billion that were segregated in compliance with securities regulations. Cash held on deposit with the Federal Reserve Bank to meet reserve requirements and cash and cash equivalents segregated in compliance with securities regulations are components of restricted cash. For additional information, see Note 10 - Federal Funds Sold or Purchased, Securities Financing Agreements, Short-term Borrowings and Restricted Cash. In  
+  
+addition, at December 31, 2018 and 2017, the Corporation had cash deposited with clearing organizations of $8.1 billion and $11.9 billion primarily recorded in other assets on the Consolidated Balance Sheet.  
+  
+  
+# Bank Subsidiary Distributions  
+  
+The primary sources of funds for cash distributions by the Corporation to its shareholders are capital distributions received from its bank subsidiaries, BANA and Bank of America California, N.A. In 2018, the Corporation received dividends of $26.1 billion from BANA and $320 million from Bank of America California, N.A. In addition, Bank of America California, N.A. returned capital of $1.4 billion to the Corporation in 2018.  
+  
+The amount of dividends that a subsidiary bank may declare in a calendar year without OCC approval is the subsidiary bank's net profits for that year combined with its retained net profits for the preceding two years. Retained net profits, as defined by the OCC, consist of net income less dividends declared during the period. In 2019, BANA can declare and pay dividends of approximately$3.1 billion to the Corporation plus an additional amount equal to its retained net profits for 2019 up to the date of any such dividend declaration. Bank of America California, N.A. can pay dividends of $40 million in 2019 plus an additional amount equal to its retained net profits for 2019 up to the date of any such dividend declaration.  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageNumber="142" -->  

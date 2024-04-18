@@ -1,0 +1,212 @@
+{
+    "status": "succeeded",
+    "createdDateTime": "2024-03-08T21:02:39Z",
+    "lastUpdatedDateTime": "2024-03-08T21:02:40Z",
+    "analyzeResult": {
+        "apiVersion": "2023-10-31-preview",
+        "modelId": "prebuilt-layout",
+        "stringIndexType": "utf16CodeUnit",
+        "content": "<!-- PageNumber=\"37\" -->\n\n<!-- PageHeader=\"Bank of America 2018\" -->\n",
+        "pages": [
+            {
+                "pageNumber": 1,
+                "angle": 1.287490963935852,
+                "width": 2550,
+                "height": 3300,
+                "unit": "pixel",
+                "words": [
+                    {
+                        "content": "37",
+                        "polygon": [
+                            108,
+                            88,
+                            153,
+                            89,
+                            153,
+                            111,
+                            108,
+                            110
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 17,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "Bank",
+                        "polygon": [
+                            166,
+                            90,
+                            220,
+                            90,
+                            220,
+                            113,
+                            166,
+                            113
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 43,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "of",
+                        "polygon": [
+                            227,
+                            90,
+                            246,
+                            90,
+                            246,
+                            113,
+                            226,
+                            113
+                        ],
+                        "confidence": 0.998,
+                        "span": {
+                            "offset": 48,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "America",
+                        "polygon": [
+                            251,
+                            90,
+                            333,
+                            90,
+                            333,
+                            113,
+                            250,
+                            113
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 51,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "2018",
+                        "polygon": [
+                            340,
+                            89,
+                            392,
+                            89,
+                            392,
+                            113,
+                            340,
+                            113
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 59,
+                            "length": 4
+                        }
+                    }
+                ],
+                "lines": [
+                    {
+                        "content": "<!-- PageNumber=\"37\" -->",
+                        "polygon": [
+                            108,
+                            88,
+                            153,
+                            89,
+                            152,
+                            111,
+                            108,
+                            110
+                        ],
+                        "spans": [
+                            {
+                                "offset": 0,
+                                "length": 24
+                            }
+                        ]
+                    },
+                    {
+                        "content": "<!-- PageHeader=\"Bank of America 2018\" -->",
+                        "polygon": [
+                            165,
+                            89,
+                            391,
+                            88,
+                            391,
+                            112,
+                            165,
+                            113
+                        ],
+                        "spans": [
+                            {
+                                "offset": 26,
+                                "length": 42
+                            }
+                        ]
+                    }
+                ],
+                "spans": [
+                    {
+                        "offset": 0,
+                        "length": 69
+                    }
+                ]
+            }
+        ],
+        "tables": [],
+        "paragraphs": [
+            {
+                "spans": [
+                    {
+                        "offset": 0,
+                        "length": 24
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            108,
+                            88,
+                            153,
+                            89,
+                            153,
+                            111,
+                            108,
+                            110
+                        ]
+                    }
+                ],
+                "role": "pageNumber",
+                "content": "<!-- PageNumber=\"37\" -->"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 26,
+                        "length": 42
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            165,
+                            89,
+                            391,
+                            88,
+                            391,
+                            112,
+                            165,
+                            113
+                        ]
+                    }
+                ],
+                "role": "pageHeader",
+                "content": "<!-- PageHeader=\"Bank of America 2018\" -->"
+            }
+        ],
+        "contentFormat": "markdown"
+    }
+}

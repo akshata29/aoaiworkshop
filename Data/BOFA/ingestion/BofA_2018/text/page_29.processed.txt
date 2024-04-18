@@ -1,0 +1,82 @@
+ Table 9 Selected Quarterly Financial Data  
+  
+| (In millions, except per share information) | 2018 Quarters |||| 2017 Quarters ||||  
+|| Fourth | Third | Second | First | Fourth | Third | Second | First |  
+| - | - | - | - | - | - | - | - | - |  
+| Income statement | | | | | | | | |  
+| Net interest income | $ 12,304 | $ 11,870 | $ 11,650 | $ 11,608 | $ 11,462 | $ 11,161 | $ 10,986 | $ 11,058 |  
+| Noninterest income (1) | 10,432 | 10,907 | 10,959 | 11,517 | 8,974 | 10,678 | 11,843 | 11,190 |  
+| Total revenue, net of interest expense | 22,736 | 22,777 | 22,609 | 23,125 | 20,436 | 21,839 | 22,829 | 22,248 |  
+| Provision for credit losses | 905 | 716 | 827 | 834 | 1,001 | 834 | 726 | 835 |  
+| Noninterest expense | 13,133 | 13,067 | 13,284 | 13,897 | 13,274 | 13,394 | 13,982 | 14,093 |  
+| Income before income taxes | 8,698 | 8,994 | 8,498 | 8,394 | 6,161 | 7,611 | 8,121 | 7,320 |  
+| Income tax expense (1) | 1,420 | 1,827 | 1,714 | 1,476 | 3,796 | 2,187 | 3,015 | 1,983 |  
+| Net income (1) | 7,278 | 7,167 | 6,784 | 6,918 | 2,365 | 5,424 | 5,106 | 5,337 |  
+| Net income applicable to common shareholders | 7,039 | 6,701 | 6,466 | 6,490 | 2,079 | 4,959 | 4,745 | 4,835 |  
+| Average common shares issued and outstanding | 9,855.8 | 10,031.6 | 10,181.7 | 10,322.4 | 10,470.7 | 10,197.9 | 10,013.5 | 10,099.6 |  
+| Average diluted common shares issued and outstanding | 9,996.0 | 10,170.8 | 10,309.4 | 10,472.7 | 10,621.8 | 10,746.7 | 10,834.8 | 10,919.7 |  
+| Performance ratios | | | | | | | | |  
+| Return on average assets | 1.24 % | 1.23 % | 1.17 % | 1.21 % | 0.41 % | 0.95 % | 0.90 % | 0.97 % |  
+| Four-quarter trailing return on average assets(2) | 1.21 | 1.00 | 0.93 | 0.86 | 0.80 | 0.91 | 0.89 | 0.88 |  
+| Return on average common shareholders' equity | 11.57 | 10.99 | 10.75 | 10.85 | 3.29 | 7.89 | 7.75 | 8.09 |  
+| Return on average tangible common shareholders' equity (3) | 16.29 | 15.48 | 15.15 | 15.26 | 4.56 | 10.98 | 10.87 | 11.44 |  
+| Return on average shareholders' equity | 10.95 | 10.74 | 10.26 | 10.57 | 3.43 | 7.88 | 7.56 | 8.09 |  
+| Return on average tangible shareholders' equity (3) | 14.90 | 14.61 | 13.95 | 14.37 | 4.62 | 10.59 | 10.23 | 11.01 |  
+| Total ending equity to total ending assets | 11.27 | 11.21 | 11.53 | 11.43 | 11.71 | 11.91 | 12.00 | 11.92 |  
+| Total average equity to total average assets | 11.30 | 11.42 | 11.42 | 11.41 | 11.87 | 12.03 | 11.94 | 12.00 |  
+| Dividend payout | 20.90 | 22.35 | 18.83 | 19.06 | 60.35 | 25.59 | 15.78 | 15.64 |  
+| Per common share data | | | | | | | | |  
+| Earnings | $ 0.71 | $ 0.67 | $ 0.64 | $ 0.63 | $ 0.20 | $ 0.49 | $ 0.47 | $ 0.48 |  
+| Diluted earnings | 0.70 | 0.66 | 0.63 | 0.62 | 0.20 | 0.46 | 0.44 | 0.45 |  
+| Dividends paid | 0.15 | 0.15 | 0.12 | 0.12 | 0.12 | 0.12 | 0.075 | 0.075 |  
+| Book value | 25.13 | 24.33 | 24.07 | 23.74 | 23.80 | 23.87 | 24.85 | 24.34 |  
+| Tangible book value (3) | 17.91 | 17.23 | 17.07 | 16.84 | 16.96 | 17.18 | 17.75 | 17.22 |  
+| Market capitalization | $ 238,251 | $ 290,424 | $ 282,259 | $ 305,176 | $ 303,681 | $ 264,992 | $ 239,643 | $ 235,291 |  
+| Average balance sheet | | | | | | | | |  
+| Total loans and leases | $ 934,721 | $ 930,736 | $ 934,818 | $ 931,915 | $ 927,790 | $ 918,129 | $ 914,717 | $ 914,144 |  
+| Total assets | 2,334,586 | 2,317,829 | 2,322,678 | 2,325,878 | 2,301,687 | 2,271,104 | 2,269,293 | 2,231,649 |  
+| Total deposits | 1,344,951 | 1,316,345 | 1,300,659 | 1,297,268 | 1,293,572 | 1,271,711 | 1,256,838 | 1,256,632 |  
+| Long-term debt | 230,616 | 233,475 | 229,037 | 229,603 | 227,644 | 227,309 | 224,019 | 221,468 |  
+| Common shareholders' equity | 241,372 | 241,812 | 241,313 | 242,713 | 250,838 | 249,214 | 245,756 | 242,480 |  
+| Total shareholders' equity | 263,698 | 264,653 | 265,181 | 265,480 | 273,162 | 273,238 | 270,977 | 267,700 |  
+| Asset quality (4) | | | | | | | | |  
+| Allowance for credit losses (5) | $ 10,398 | $ 10,526 | $ 10,837 | $ 11,042 | $ 11,170 | $ 11,455 | $ 11,632 | $ 11,869 |  
+| Nonperforming loans, leases and foreclosed properties (6) | 5,244 | 5,449 | 6,181 | 6,694 | 6,758 | 6,869 | 7,127 | 7,637 |  
+| Allowance for loan and lease losses as a percentage of total loans and leases outstanding (6) | 1.02 % | 1.05 % | 1.08 % | 1.11 % | 1.12% | 1.16 % | 1.20 % | 1.25 % |  
+| Allowance for loan and lease losses as a percentage of total nonperforming loans and leases (6) | 194 | 189 | 170 | 161 | 161 | 163 | 160 | 156 |  
+| Net charge-offs (7) | $ 924 | $ 932 | $ 996 | $ 911 | $ 1,237 | $ 900 | $ 908 | $ 934 |  
+| Annualized net charge-offs as a percentage of average loans and leases outstanding6, 7) | 0.39 % | 0.40 % | 0.43 % | 0.40 % | 0.53 % | 0.39 % | 0.40 % | 0.42 % |  
+| Capital ratios at period end (8) | | | | | | | | |  
+| Common equity tier 1 capital | 11.6 % | 11.4 % | 11.4 % | 11.3% | 11.5 % | 11.9 % | 11.5% | 11.0 % |  
+| Tier 1 capital | 13.2 | 12.9 | 13.0 | 13.0 | 13.0 | 13.4 | 13.2 | 12.6 |  
+| Total capital | 15.1 | 14.7 | 14.8 | 14.8 | 14.8 | 15. | 15.0 | 14.3 |  
+| Tier 1 leverage | 8.4 | 8.3 | 8.4 | 8.4 | 8.6 | 8.9 | 8.8 | 8.8 |  
+| Supplementary leverage ratio | 6.8 | 6.7 | 6.7 | 6.8 | n/a | n/a | n/a | n/a |  
+| Tangible equity (3) | 8.6 | 8.5 | 8.7 | 8.7 | 8.9 | 9.1 | 9.2 | 9.1 |  
+| Tangible common equity (3) | 7.6 | 7.5 | 7.7 | 7.6 | 7.9 | 8.1 | 8.0 | 7.9 |  
+  
+(1) Net income for the fourth quarter of 2017 included a charge of $2.9 billion related to the Tax Act effects which consisted of $946 million in noninterest income and $1.9 billion in income tax  
+  
+expense.  
+  
+(2) Calculated as total net income for four consecutive quarters divided by annualized average assets for four consecutive  
+  
+quarters.  
+  
+(3) Tangible equity ratios and tangible book value per share of common stock are non-GAAP financial measures. For more information on these ratios and corresponding reconciliations to GAAP financial measures, seeSupplemental Financial Data on  
+  
+page 24.  
+  
+(4) Asset quality metrics include $31 million of non-U.S. consumer credit card net charge-offs for the second quarter of 2017 and $242 million of non-U.S. consumer credit card allowance for loan and lease losses, $9.5 billion of non-U.S. consumer credit card loans and $44 million of non-U.S. consumer credit card net charge-offs for the first quarter of 2017. The Corporation sold its non-U.S. consumer credit card business in the second quarter of 2017.  
+  
+(5) Includes the allowance for loan and lease losses and the reserve for unfunded lending  
+  
+commitments.  
+  
+(6) Balances and ratios do not include loans accounted for under the fair value option. For additional exclusions from nonperforming loans, leases and foreclosed properties, seconsumer Portfolio Credit Risk Management - Nonperforming Consumer Loans, Leases and Foreclosed Properties Activity on page 58 and corresponding Table 31 and Commercial Portfolio Credit Risk Management - Nonperforming Commercial Loans, Leases and Foreclosed Properties Activityon page 63 and corresponding Table 38.  
+  
+(7) Net charge-offs exclude $107 million, $95 million, $36 million and $35 million of write-offs in the PCI loan portfolio in the fourth, third, second and first quarters of2018, and $46 million, $73 million, $55 million and $33 million in the fourth, third, second and first quarters of 2017, respectively.  
+  
+(8) Basel 3 transition provisions for regulatory capital adjustments and deductions were fully phased-in as of January 1, 2018. Prior periods are presented on a fully phased-in basis. For additional information, including which approach is used to assess capital adequacy, see Capital Management on page 43.  
+  
+n/a = not applicable  

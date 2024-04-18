@@ -1,0 +1,44 @@
+Credit card and other consumer loans are deemed to be in payment default during the quarter in which a borrower misses the second of two consecutive payments. Payment defaults are one of the factors considered when projecting future cash flows in the calculation of the allowance for loan and lease losses for impaired credit card and other consumer loans. Based on historical experience, the Corporation estimates that 13 percent of new U.S. credit card TDRs and14 percent of new direct/indirect consumer TDRs may be in payment default within 12 months after modification.  
+  
+  
+# Commercial Loans  
+  
+Impaired commercial loans include nonperforming loans and TDRs (both performing and nonperforming). Modifications of loans to commercial borrowers that are experiencing financial difficulty are designed to reduce the Corporation's loss exposure while providing the borrower with an opportunity to work through financial difficulties, often to avoid foreclosure or bankruptcy. Each modification is unique and reflects the individual circumstances of the borrower. Modifications that result in a TDR may include extensions of maturity at a concessionary (below market) rate of interest, payment forbearances or other actions designed to benefit the customer while mitigating the Corporation's risk exposure. Reductions in interest rates are rare. Instead, the interest rates are typically increased, although the increased rate may not represent a market rate of interest. Infrequently,  
+  
+concessions may also include principal forgiveness in connection with foreclosure, short sale or other settlement agreements leading to termination or sale of the loan.  
+  
+At the time of restructuring, the loans are remeasured to reflect the impact, if any, on projected cash flows resulting from the modified terms. If there was no forgiveness of principal and the interest rate was not decreased, the modification may have little or no impact on the allowance established for the loan. If a portion of the loan is deemed to be uncollectible, a charge-off may be recorded at the time of restructuring. Alternatively, a charge-off may have already been recorded in a previous period such that no charge-off is required at the time of modification. For more information on modifications for the U.S. small business commercial portfolio, see Credit Card and Other Consumer in this Note.  
+  
+At December 31, 2018 and 2017, remaining commitments to lend additional funds to debtors whose terms have been modified in a commercial loan TDR were $297 million and $205 million.  
+  
+The table below provides information on impaired loans in the Commercial loan portfolio segment including the unpaid principal balance, carrying value and related allowance at December 31, 2018 and 2017, and the average carrying value for 2018, 2017 and 2016. Certain impaired commercial loans do not have a related allowance because the valuation of these impaired loans exceeded the carrying value, which is net of previously recorded charge-offs.  
+  
+| Impaired Loans - Commercial ||||||||||  
+| | Unpaid Principal Balance | Carrying Value | Related Allowance | Unpaid Principal Balance | Carrying Value | Related Allowance | Average Carrying Value (1) |||  
+| (Dollars in millions) | December 31, 2018 ||| December 31, 2017 ||| 2018 | 2017 | 2016 |  
+| - | - | - | - | - | - | - | - | - | - |  
+| With no recorded allowance | | | | | | | | | |  
+| U.S. commercial | $ 638 | 616 | $ :unselected: | $ 576 | $ 571 | $ :unselected: | 655 | $ 772 | $ 787 |  
+| Non-U.S. commercial | 93 :selected: | 93 :selected: | :unselected: | 14 :selected: | 11 | :unselected: | 43 | 46 | 34 |  
+| Commercial real estate | :unselected: | :unselected: | :unselected: | 83 :selected: | 80 | :unselected: | 44 | 69 | 67 |  
+| Commercial lease financing | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | 3 | :unselected: | - :unselected: |  
+| With an allowance recorded | | | | | | | | | |  
+| U.S. commercial | $ 1,437 | $ 1,270 | $ 121 | $ 1,393 | $ 1,109 | $ 98 | $ 1,162 | $ 1,260 | $ 1,569 |  
+| Non-U.S. commercial | 155 | 149 | 30 | 528 | 507 | 58 | 327 | 463 | 409 |  
+| Commercial real estate | 247 | 162 | 16 | 133 | 41 | 4 | 46 | 73 | 92 |  
+| Commercial lease financing | 71 | 71 | | 20 | 18 | | 42 | 8 | 2 |  
+| U.S. small business commercial (2) | 83 | 72 | 29 | 84 | 70 | 27 | 73 | 73 | 87 |  
+| Total | | | | | | | | | |  
+| U.S. commercial | $ 2,075 | 1,886 | $ 121 | $ 1,969 | 1,680 | $ 98 | $ 1,817 | $ 2,032 | $ 2,356 |  
+| Non-U.S. commercial | 248 | 242 | 30 | 542 | 518 | 58 | 370 | 509 | 443 |  
+| Commercial real estate | 247 | 162 | 16 | 216 | 121 | 4 | 90 | 142 | 159 |  
+| Commercial lease financing | 71 | 71 | | 20 | 18 | 3 | 45 | 8 | 2 |  
+| U.S. small business commercial (2) | 83 | 72 | 29 | 84 | 70 | 27 | 73 | 73 | 87 |  
+  
+(1) The related interest income recognized, which included interest accrued and collected on the outstanding balances of accruing impaired loans as well as interest cash collections on nonaccruing impaired loans for which the principal was considered collectible, was not significant in 2018, 2017 and 2016.  
+  
+(2) Includes U.S. small business commercial renegotiated TDR loans and related  
+  
+allowance.  
+  
+<!-- PageFooter="Bank of America 2018 120" -->  

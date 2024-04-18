@@ -1,0 +1,78 @@
+The following tables present certain credit quality indicators for the Corporation's Consumer Real Estate, Credit Card and Other Consumer, and Commercial portfolio segments, by class of financing receivables, at December 31, 2018 and 2017.  
+  
+  
+# Consumer Real Estate - Credit Quality Indicators (1)  
+  
+| | Core Residential Mortgage (2) | Non-core Residential Mortgage (2) | Residential Mortgage PCI | Core Home Equity (2) | Non-core Home Equity (2) | Home Equity PCI |  
+| - | - | - | - | - | - | - |  
+| (Dollars in millions) | December 31, 2018 ||||||  
+| Refreshed LTV (3) | | | | | | |  
+| Less than or equal to 90 percent | $ 173,911 | $ 6,861 | $ 3,411 | $ 39,246 | $ 5,870 | $ 608 |  
+| Greater than 90 percent but less than or equal to 100 percent | 2,349 | 340 | 193 | 354 | 603 | 112 |  
+| Greater than 100 percent | 817 | 349 | 196 | 410 | 958 | 125 |  
+| Fully-insured loans (4) | 16,618 | 3,512 | | | | |  
+| Total consumer real estate | $ 193,695 | $ 11,062 | $ 3,800 | $ 40,010 | $ 7,431 | $ 845 |  
+| Refreshed FICO score | | | | | | |  
+| Less than 620 | 2,125 | 1,264 | 710 | 1,064 | 1,325 | $ 178 |  
+| Greater than or equal to 620 and less than 680 | 4,538 | 1,068 | 651 | 2,008 | 1,575 | 145 |  
+| Greater than or equal to 680 and less than 740 | 23,841 | 1,841 | 1,201 | 7,008 | 1,968 | 220 |  
+| Greater than or equal to 740 | 146,573 | 3,377 | 1,238 | 29,930 | 2,563 | 302 |  
+| Fully-insured loans (4) | 16,618 | 3,512 | | | | |  
+| Total consumer real estate | $ 193,695 | $ 11,062 | $ 3,800 | $ 40,010 | $ 7,431 | $ 845 |  
+  
+(1) Excludes $682 million of loans accounted for under the fair value  
+  
+option.  
+  
+(2) Excludes PCI  
+  
+loans.  
+  
+(3) Refreshed LTV percentages for PCI loans are calculated using the carrying value net of the related valuation allowance.  
+  
+(4) Credit quality indicators are not reported for fully-insured loans as principal repayment is insured.  
+  
+  
+# Credit Card and Other Consumer - Credit Quality Indicators  
+  
+| | U.S. Credit Card | Direct/Indirect Consumer | Other Consumer |  
+| - | - | - | - |  
+| (Dollars in millions) | December 31, 2018 |||  
+| Refreshed FICO score | | | |  
+| Less than 620 | $ 5,016 | $ 1,719 | |  
+| Greater than or equal to 620 and less than 680 | 12,415 | 3,124 | |  
+| Greater than or equal to 680 and less than 740 | 35,781 | 8,921 | |  
+| Greater than or equal to 740 | 45,126 | 36,709 | |  
+| Other internal credit metrics (1, 2) | | 40,693 | $ 202 |  
+| Total credit card and other consumer | $ 98,338 | $ 91,166 | $ 202 |  
+  
+(1) Other internal credit metrics may include delinquency status, geography or other factors.  
+  
+(2) Direct/indirect consumer includes $39.9 billion of securities-based lending which is overcollateralized and therefore has minimal credit risk.  
+  
+| Commercial - Credit Quality Indicators (1) ||||||  
+| | U.S. Commercial | Non-U.S. Commercial | Commercial Real Estate | Commercial Lease Financing | U.S. Small Business Commercial (2) |  
+| - | - | - | - | - | - |  
+| (Dollars in millions) | December 31, 2018 |||||  
+| Risk ratings | | | | | |  
+| Pass rated | 291,918 | $ 97,916 | 59,910 | $ 22,168 | 389 |  
+| Reservable criticized | 7,359 | 860 | 935 | 366 | 29 |  
+| Refreshed FICO score (3) | | | | | |  
+| Less than 620 | | | | | 264 |  
+| Greater than or equal to 620 and less than 680 | | | | | 684 |  
+| Greater than or equal to 680 and less than 740 | | | | | 2,072 |  
+| Greater than or equal to 740 | | | | | 4,254 |  
+| Other internal credit metrics (3, 4) | | | | | 6,873 |  
+| Total commercial | $ 299,277 | $ 98,776 | $ 60,845 | $ 22,534 | $ 14,565 |  
+  
+(1) Excludes $3.7 billion of loans accounted for under the fair value option.  
+  
+(2) U.S. small business commercial includes $731 million of criticized business card and small business loans which are evaluated using refreshed FICO scores or internal credit metrics, including delinquency status, rather than risk ratings. AtDecember 31, 2018, 99 percent of the balances where internal credit metrics are used was current or less than 30 days past due.  
+  
+(3) Refreshed FICO score and other internal credit metrics are applicable only to the U.S. small business commercial portfolio.  
+  
+(4) Other internal credit metrics may include delinquency status, application scores, geography or other factors.  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageNumber="114" -->  

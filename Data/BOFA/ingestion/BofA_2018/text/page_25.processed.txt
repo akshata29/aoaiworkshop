@@ -1,0 +1,82 @@
+<!-- PageHeader="Balance Sheet Overview" -->  
+  
+  
+# Table 5 Selected Balance Sheet Data  
+  
+| (Dollars in millions) | December 31 || % Change |  
+|| 2018 | 2017 ||  
+| - | - | - | - |  
+| Assets | | | |  
+| Cash and cash equivalents | 177,404 | $ 157,434 | 13 % |  
+| Federal funds sold and securities borrowed or purchased under agreements to resell | 261,131 | 212,747 | 23 |  
+| Trading account assets | 214,348 | 209,358 | 2 |  
+| Debt securities | 441,753 | 440,130 | 1 |  
+| Loans and leases | 946,895 | 936,749 | 1 |  
+| Allowance for loan and lease losses | (9,601) | (10,393) | (8) |  
+| All other assets | 322,577 | 335,209 | (4) |  
+| Total assets | $ 2,354,507 | $ 2,281,234 | 3 |  
+| Liabilities | | | |  
+| Deposits | 1,381,476 | $ 1,309,545 | 5 |  
+| Federal funds purchased and securities loaned or sold under agreements to repurchase | 186,988 | 176,865 | 6 |  
+| Trading account liabilities | 68,220 | 81,187 | (16) |  
+| Short-term borrowings | 20,189 | 32,666 | (38) |  
+| Long-term debt | 229,340 | 227,402 | 1 |  
+| All other liabilities | 202,969 | 186,423 | 9 |  
+| Total liabilities | 2,089,182 | 2,014,088 | 4 |  
+| Shareholders' equity | 265,325 | 267,146 | (1) |  
+| Total liabilities and shareholders' equity | $ 2,354,507 | $ 2,281,234 | 3 |  
+  
+  
+# Assets  
+  
+At December 31, 2018, total assets were approximately $2.4 trillion, up $73.3 billion from December 31, 2017. The increase in assets was primarily due to higher securities borrowed or purchased under agreements to resell due to investment of excess cash levels in higher yielding assets and increased client activity, and higher cash and cash equivalents driven by deposit growth.  
+  
+  
+# Cash and Cash Equivalents  
+  
+Cash and cash equivalents increased $20.0 billion primarily driven by deposit growth, partially offset by investment of short-term excess cash into securities purchased under agreements to resell, and loan growth.  
+  
+  
+## Federal Funds Sold and Securities Borrowed or Purchased Under Agreements to Resell  
+  
+Federal funds transactions involve lending reserve balances on a short-term basis. Securities borrowed or purchased under agreements to resell are collateralized lending transactions utilized to accommodate customer transactions, earn interest rate spreads, and obtain securities for settlement and for collateral. Federal funds sold and securities borrowed or purchased under agreements to resell increased $48.4 billion due to investment of excess cash levels in higher yielding assets and a higher level of customer financing activity.  
+  
+  
+# Trading Account Assets  
+  
+Trading account assets consist primarily of long positions in equity and fixed- income securities including U.S. government and agency securities, corporate securities and non-U.S. sovereign debt. Trading account assets increased $5.0 billion primarily driven by additional inventory in fixed-income, currencies and commodities (FICC) to meet expected client demand.  
+  
+  
+## Debt Securities  
+  
+Debt securities primarily include U.S. Treasury and agency securities, mortgage- backed securities (MBS), principally agency MBS, non-U.S. bonds, corporate bonds and municipal debt. We use the debt securities portfolio primarily to manage interest rate  
+  
+and liquidity risk and to take advantage of market conditions that create economically attractive returns on these investments. Debt securities increased $1.6 billion primarily driven by the deployment of deposit inflows. In 2018, the Corporation transferred available-for-sale (AFS) debt securities with an amortized cost of $64.5 billion to held to maturity. For more information on debt securities, see Note 4 - Securities to the Consolidated Financial Statements.  
+  
+  
+## Loans and Leases  
+  
+Loans and leases increased $10.1 billion primarily due to net loan growth driven by client demand for commercial loans and increases in residential mortgage. For more information on the loan portfolio, see Credit Risk Management on page 51.  
+  
+  
+### Allowance for Loan and Lease Losses  
+  
+The allowance for loan and lease losses decreased $792 million primarily due to the impact of improvements in credit quality from a stronger economy and continued runoff and sales in the non-core consumer real estate portfolio. For additional information, see Allowance for Credit Losses on page 67.  
+  
+  
+# Liabilities  
+  
+At December 31, 2018, total liabilities were approximately $2.1 trillion, up $75.1 billion from December 31, 2017, primarily due to deposit growth.  
+  
+  
+# Deposits  
+  
+Deposits increased $71.9 billion primarily due to an increase in retail deposits.  
+  
+  
+## Federal Funds Purchased and Securities Loaned or Sold Under Agreements to Repurchase  
+  
+Federal funds transactions involve borrowing reserve balances on a short-term basis. Securities loaned or sold under agreements to repurchase are collateralized borrowing transactions utilized to accommodate customer transactions, earn interest rate spreads and finance assets on the balance sheet. Federal funds purchased and securities loaned or sold under agreements to repurchase increased $10.1 billion primarily due to an increase in matched book funding withinGlobal Markets.  
+  
+  
+# 23 Bank of America 2018  

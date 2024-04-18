@@ -1,0 +1,47 @@
+<!-- PageHeader="Global Markets" -->  
+  
+| (Dollars in millions) | 2018 | 2017 | % Change |  
+| - | - | - | - |  
+| Net interest income | $ 3,171 | $ 3,744 | (15)% |  
+| Noninterest income: | | | |  
+| Investment and brokerage services | 1,780 | 2,049 | (13) |  
+| Investment banking fees | 2,296 | 2,476 | (7) |  
+| Trading account profits | 7,932 | 6,710 | 18 |  
+| All other income | 884 | 972 | (9) |  
+| Total noninterest income | 12,892 | 12,207 | 6 6 |  
+| Total revenue, net of interest expense | 16,063 | 15,951 | 1 |  
+| Provision for credit losses | | 164 | (100) |  
+| Noninterest expense | 10,686 | 10,731 | |  
+| Income before income taxes | 5,377 | 5,056 | 6 |  
+| Income tax expense | 1,398 | 1,763 | (21) |  
+| Net income | $ 3,979 | $ 3,293 | 21 |  
+| Effective tax rate | 26.0 % | 34.9 % | |  
+| Return on average allocated capital | 11 | 9 | |  
+| Efficiency ratio | 66.53 | 67.27 | |  
+| Balance Sheet | | | |  
+| Average | | | |  
+| Trading-related assets: | | | |  
+| Trading account securities | $ 215,112 | $ 216,996 | (1)% |  
+| Reverse repurchases | 125,084 | 101,795 | 23 |  
+| Securities borrowed | 78,889 | 82,210 | (4) |  
+| Derivative assets | 46,047 | 40,811 | 13 |  
+| Total trading-related assets | 465,132 | 441,812 | 5 |  
+| Total loans and leases | 72,651 | 71,413 | 2 |  
+| Total earning assets | 473,383 | 449,441 | 5 |  
+| Total assets | 666,003 | 638,673 | 4 |  
+| Total deposits | 31,209 | 32,864 | (5) |  
+| Allocated capital | 35,000 | 35,000 | |  
+| Year end | | | |  
+| Total trading-related assets | $ 447,998 | $ 419,375 | 7 % |  
+| Total loans and leases | 73,928 | 76,778 | (4) |  
+| Total earning assets | 457,224 | 449,314 | 2 |  
+| Total assets | 641,922 | 629,013 | 2 |  
+| Total deposits | 37,841 | 34,029 | 11 |  
+  
+Global Markets offers sales and trading services and research services to institutional clients across fixed-income, credit, currency, commodity and equity businesses. Global Markets Global Markets provides market-making, financing, securities clearing, settlement and custody services globally to our institutional investor clients in support of their investing and trading activities. We also work with our commercial and corporate clients to provide risk management products using interest rate, equity, credit, currency and commodity derivatives, foreign exchange, fixed-income and mortgage-related products. As a result of our market-making activities in these products, we may be required to manage risk in a broad range of financial products including government securities, equity and equity-linked securities, high-grade and high-yield corporate debt securities, syndicated loans, MBS, commodities and asset-backed securities. The economics of certain investment banking and underwriting activities are shared primarily between Global Markets and Global Banking under an internal revenue-sharing arrangement Global Banking originates certain deal product coverage includes securities and derivative products in both the primary and secondary markets. Global Markets provides market-making, financing, securities clearing, settlement and custody services globally to our institutional investor clients in support of their investing and trading activities. We also work with ourcommercial and corporate clients to provide risk management products using interest rate, equity, credit, currency and commodity derivatives, foreign exchange, fixed-income and mortgage-related products. As a result of our market-making activities in these products, we may be required to manage risk in a broad range of financial products including government securities, equity and equity-linked securities, high-grade and high-yield corporate debt securities, syndicated loans, MBS, commodities and asset-backed securities. The economics of certain investment banking and underwriting activities are shared primarily between Global Markets and Global Ban  
+  
+\-related transactions with our corporate and commercial clients that are executed and distributed by Global Markets. For information on investment banking fees on a consolidated basis, see page 36.king under an internal revenue-sharing arrangement. Global Banking originates certain deal-related transactions with our corporate and commercial clients that are executed and distributed by Global Markets. For information on investment banking fees on a consolidated basis, see page 36.  
+  
+Net income for Global Markets increased $686 million to $4.0 billion in 2018 compared to 2017. Net DVA losses were $162 million compared to losses of $428 million in 2017. Excluding net DVA, net income increased $544 million to $4.1 billion. These increases were primarily driven by lower income tax expense from the reduction in the federal income tax rate, a decrease in the provision for credit losses and modestly higher revenue.  
+  
+Sales and trading revenue, excluding net DVA, increased $19 million due to higher Equities revenue, largely offset by lower FICC revenue. The provision for credit losses decreased $164 million driven by Global Markets' portion of a single- name non-U.S. commercial charge-off in 2017. Noninterest expense decreased $45 million to $10.7 billion primarily due to lower operating costs.  

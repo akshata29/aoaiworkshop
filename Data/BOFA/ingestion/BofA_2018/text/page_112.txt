@@ -1,0 +1,55 @@
+  
+| (Dollars in billions) | December 31, 2017 |||||||  
+|| Contract/ Notional (1) | Gross Derivative Assets ||| Gross Derivative Liabilities |||  
+||| Trading and Other Risk Management Derivatives | Qualifying Accounting Hedges | Total | Trading and Other Risk Management Derivatives | Qualifying Accounting Hedges | Total |  
+| - | - | - | - | - | - | - | - |  
+| Interest rate contracts | | | | | | | |  
+| Swaps | $ 15,416.4 | $ 175.1 | $ 2.9 | $ 178.0 | $ 172.5 | $ 1.7 | $ 174.2 |  
+| Futures and forwards | 4,332.4 | 0.5 | :unselected: :unselected: | 0.5 | 0.5 | :unselected: | 0.5 |  
+| Written options | 1,170.5 | :unselected: | :unselected: | :unselected: | 35.5 | :unselected: | 35.5 |  
+| Purchased options | 1,184.5 | 37.6 | :unselected: | 37.6 | :unselected: | :unselected: | :unselected: |  
+| Foreign exchange contracts | | | | | | | |  
+| Swaps | 2,011.1 | 35.6 | 2.2 | 37.8 | 36.1 | 2.7 | 38.8 |  
+| Spot, futures and forwards | 3,543.3 | 39.1 | 0.7 | 39.8 | 39.1 | 0.8 | 39.9 |  
+| Written options | 291.8 | :unselected: | :unselected: | :unselected: | 5.1 | :unselected: | 5.1 |  
+| Purchased options | 271.9 | 4.6 | :unselected: | 4.6 | - :unselected: | :unselected: | - :unselected: |  
+| Equity contracts | | | | | | | |  
+| Swaps | 265.6 | 4.8 | :unselected: | 4.8 | 4.4 | :unselected: | 4.4 |  
+| Futures and forwards | 106.9 | 1.5 | :unselected: | 1.5 | 0.9 | :unselected: | 0.9 |  
+| Written options | 480.8 | :unselected: | :unselected: | :unselected: | 23.9 | :unselected: | 23.9 |  
+| Purchased options | 428.2 | 24.7 | :unselected: | 24.7 | - :unselected: | :unselected: | - :unselected: |  
+| Commodity contracts | | | | | | | |  
+| Swaps | 46.1 | 1.8 | :unselected: | 1.8 | 4.6 | :unselected: | 4.6 |  
+| Futures and forwards | 47.1 | 3.5 | :unselected: | 3.5 | 0.6 | :unselected: | 0.6 |  
+| Written options | 21.7 | :unselected: | :unselected: | :unselected: | 1.4 :selected: | :unselected: | 1.4 |  
+| Purchased options | 22.9 | 1.4 :selected: | :unselected: | 1.4 :selected: | | :unselected: | |  
+| Credit derivatives (2) | | | | | | | |  
+| Purchased credit derivatives: | | | | | | | |  
+| Credit default swaps | 470.9 | 4.1 | :unselected: | 4.1 | 11.1 | :unselected: | 11.1 |  
+| Total return swaps/options | 54.1 | 0.1 | :unselected: :unselected: | 0.1 | 1.3 | :unselected: | 1.3 |  
+| Written credit derivatives: | | | | | | | |  
+| Credit default swaps | 448.2 | 10.6 | :unselected: | 10.6 | 3.6 | :unselected: | 3.6 |  
+| Total return swaps/options | 55.2 | 0.8 | :unselected: | 0.8 | 0.2 | :unselected: | 0.2 |  
+| Gross derivative assets/liabilities | | $ 345.8 | $ 5.8 | $ 351.6 | $ 340.8 | $ 5.2 | $ 346.0 |  
+| Less: Legally enforceable master netting agreements | | | | (279.2) | | | (279.2) |  
+| Less: Cash collateral received/paid | | | | (34.6) | | | (32.5) |  
+| Total derivative assets/liabilities | | | | $ 37.8 | | | $ 34.3 |  
+  
+(1) Represents the total contract/notional amount of derivative assets and liabilities  
+  
+outstanding.  
+  
+(2) The net derivative asset and notional amount of written credit derivatives for which the Corporation held purchased credit derivatives with identical underlying referenced names were6.4 billion and $435.1 billion at December 31, 2017.  
+  
+  
+# Offsetting of Derivatives  
+  
+The Corporation enters into International Swaps and Derivatives Association, Inc. (ISDA) master netting agreements or similar agreements with substantially all of the Corporation's derivative counterparties. Where legally enforceable, these master netting agreements give the Corporation, in the event of default by the counterparty, the right to liquidate securities held as collateral and to offset receivables and payables with the same counterparty. For purposes of the Consolidated Balance Sheet, the Corporation offsets derivative assets and liabilities and cash collateral held with the same counterparty where it has such a legally enforceable master netting agreement.  
+  
+The following table presents derivative instruments included in derivative assets and liabilities on the Consolidated Ba  
+  
+lance Sheet at December 31, 2018 and 2017 by primary risk (e.g., interest rate risk) and the platform, where applicable, on which these derivatives are transacted. Balances are presented on a gross basis, prior to the application of counterparty and cash collateral netting. Total gross derivative assets and liabilities are adjusted on an aggregate basis to take into consideration the effects of legally enforceable master netting agreements which include reducing the balance for counterparty netting and cash collateral received or paid.  
+  
+For more information on offsetting of securities financing agreements, seeNote 10 - Federal Funds Sold or Purchased, Securities Financing Agreements, Short- term Borrowings and Restricted Cash.  
+  
+<!-- PageFooter="Bank of America 2018 102" -->  

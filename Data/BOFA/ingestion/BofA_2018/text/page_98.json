@@ -1,0 +1,395 @@
+{
+    "status": "succeeded",
+    "createdDateTime": "2024-03-08T21:10:32Z",
+    "lastUpdatedDateTime": "2024-03-08T21:10:34Z",
+    "analyzeResult": {
+        "apiVersion": "2023-10-31-preview",
+        "modelId": "prebuilt-layout",
+        "stringIndexType": "utf16CodeUnit",
+        "content": "See accompanying Notes to Consolidated Financial Statements.\n===\n\n<!-- PageHeader=\"Bank of America 2018\" -->\n\n<!-- PageNumber=\"89\" -->\n",
+        "pages": [
+            {
+                "pageNumber": 1,
+                "angle": -0.07280000299215317,
+                "width": 2550,
+                "height": 3300,
+                "unit": "pixel",
+                "words": [
+                    {
+                        "content": "See",
+                        "polygon": [
+                            854,
+                            93,
+                            905,
+                            92,
+                            905,
+                            124,
+                            854,
+                            124
+                        ],
+                        "confidence": 0.998,
+                        "span": {
+                            "offset": 0,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "accompanying",
+                        "polygon": [
+                            915,
+                            92,
+                            1090,
+                            91,
+                            1090,
+                            124,
+                            915,
+                            124
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 4,
+                            "length": 12
+                        }
+                    },
+                    {
+                        "content": "Notes",
+                        "polygon": [
+                            1100,
+                            91,
+                            1170,
+                            91,
+                            1170,
+                            124,
+                            1100,
+                            124
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 17,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "to",
+                        "polygon": [
+                            1177,
+                            91,
+                            1200,
+                            91,
+                            1200,
+                            124,
+                            1177,
+                            124
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 23,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "Consolidated",
+                        "polygon": [
+                            1209,
+                            91,
+                            1367,
+                            91,
+                            1367,
+                            123,
+                            1209,
+                            124
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 26,
+                            "length": 12
+                        }
+                    },
+                    {
+                        "content": "Financial",
+                        "polygon": [
+                            1378,
+                            91,
+                            1485,
+                            92,
+                            1485,
+                            122,
+                            1378,
+                            123
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 39,
+                            "length": 9
+                        }
+                    },
+                    {
+                        "content": "Statements.",
+                        "polygon": [
+                            1494,
+                            92,
+                            1642,
+                            93,
+                            1642,
+                            120,
+                            1494,
+                            122
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 49,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "Bank",
+                        "polygon": [
+                            168,
+                            195,
+                            221,
+                            195,
+                            219,
+                            218,
+                            166,
+                            218
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 83,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "of",
+                        "polygon": [
+                            227,
+                            195,
+                            246,
+                            195,
+                            244,
+                            218,
+                            225,
+                            218
+                        ],
+                        "confidence": 0.998,
+                        "span": {
+                            "offset": 88,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "America",
+                        "polygon": [
+                            252,
+                            195,
+                            334,
+                            193,
+                            333,
+                            218,
+                            250,
+                            218
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 91,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "2018",
+                        "polygon": [
+                            341,
+                            193,
+                            393,
+                            192,
+                            391,
+                            219,
+                            339,
+                            218
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 99,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "89",
+                        "polygon": [
+                            110,
+                            193,
+                            134,
+                            194,
+                            133,
+                            217,
+                            110,
+                            216
+                        ],
+                        "confidence": 0.772,
+                        "span": {
+                            "offset": 127,
+                            "length": 2
+                        }
+                    }
+                ],
+                "lines": [
+                    {
+                        "content": "See accompanying Notes to Consolidated Financial Statements.\n===",
+                        "polygon": [
+                            854,
+                            91,
+                            1641,
+                            91,
+                            1641,
+                            122,
+                            854,
+                            124
+                        ],
+                        "spans": [
+                            {
+                                "offset": 0,
+                                "length": 64
+                            }
+                        ]
+                    },
+                    {
+                        "content": "<!-- PageHeader=\"Bank of America 2018\" -->",
+                        "polygon": [
+                            158,
+                            193,
+                            392,
+                            191,
+                            392,
+                            218,
+                            158,
+                            219
+                        ],
+                        "spans": [
+                            {
+                                "offset": 66,
+                                "length": 42
+                            }
+                        ]
+                    },
+                    {
+                        "content": "<!-- PageNumber=\"89\" -->",
+                        "polygon": [
+                            110,
+                            193,
+                            171,
+                            195,
+                            170,
+                            218,
+                            110,
+                            216
+                        ],
+                        "spans": [
+                            {
+                                "offset": 110,
+                                "length": 24
+                            }
+                        ]
+                    }
+                ],
+                "spans": [
+                    {
+                        "offset": 0,
+                        "length": 135
+                    }
+                ]
+            }
+        ],
+        "tables": [],
+        "paragraphs": [
+            {
+                "spans": [
+                    {
+                        "offset": 0,
+                        "length": 64
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            854,
+                            91,
+                            1641,
+                            91,
+                            1641,
+                            124,
+                            854,
+                            124
+                        ]
+                    }
+                ],
+                "role": "title",
+                "content": "See accompanying Notes to Consolidated Financial Statements.\n==="
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 66,
+                        "length": 42
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            158,
+                            192,
+                            392,
+                            191,
+                            392,
+                            218,
+                            158,
+                            219
+                        ]
+                    }
+                ],
+                "role": "pageHeader",
+                "content": "<!-- PageHeader=\"Bank of America 2018\" -->"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 110,
+                        "length": 24
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            110,
+                            193,
+                            171,
+                            195,
+                            170,
+                            218,
+                            109,
+                            216
+                        ]
+                    }
+                ],
+                "role": "pageNumber",
+                "content": "<!-- PageNumber=\"89\" -->"
+            }
+        ],
+        "contentFormat": "markdown",
+        "sections": [
+            {
+                "spans": [
+                    {
+                        "offset": 0,
+                        "length": 64
+                    }
+                ],
+                "elements": [
+                    "/paragraphs/0"
+                ]
+            }
+        ]
+    }
+}

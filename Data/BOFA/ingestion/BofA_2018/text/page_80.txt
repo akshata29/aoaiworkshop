@@ -1,0 +1,61 @@
+# Trading Portfolio Stress Testing  
+  
+Because the very nature of a VaR model suggests results can exceed our estimates and it is dependent on a limited historical window, we also stress test our portfolio using scenario analysis. This analysis estimates the change in the value of our trading portfolio that may result from abnormal market movements.  
+  
+A set of scenarios, categorized as either historical or hypothetical, are computed daily for the overall trading portfolio and individual businesses. These scenarios include shocks to underlying market risk factors that may be well beyond the shocks found in the historical data used to calculate VaR. Historical scenarios simulate the impact of the market moves that occurred during a period of extended historical market stress. Generally, a multi-week period representing the most severe point during a crisis is selected for each historical scenario. Hypothetical scenarios provide estimated portfolio impacts from potential future market stress events. Scenarios are reviewed and updated in response to changing positions and new economic or political information. In addition, new or ad hoc scenarios are developed to address specific potential market events or particular vulnerabilities in the portfolio. The stress tests are reviewed on a regular basis and the results are presented to senior management.  
+  
+Stress testing for the trading portfolio is integrated with enterprise-wide stress testing and incorporated into the limits framework. The macroeconomic scenarios used for enterprise-wide stress testing purposes differ from the typical trading portfolio scenarios in that they have a longer time horizon and the results are forecasted over multiple periods for use in consolidated capital and liquidity planning. For more information, see Managing Risk on page 40.  
+  
+  
+## Interest Rate Risk Management for the Banking Book  
+  
+The following discussion presents net interest income for banking book activities.  
+  
+Interest rate risk represents the most significant market risk exposure to our banking book balance sheet. Interest rate risk is measured as the potential change in net interest income caused  
+  
+by movements in market interest rates. Client-facing activities, primarily lending and deposit-taking, create interest rate sensitive positions on our balance sheet.  
+  
+We prepare forward-looking forecasts of net interest income. The baseline forecast takes into consideration expected future business growth, ALM positioning and the direction of interest rate movements as implied by the market-based forward curve. We then measure and evaluate the impact that alternative interest rate scenarios have on the baseline forecast in order to assess interest rate sensitivity under varied conditions. The net interest income forecast is frequently updated for changing assumptions and differing outlooks based on economic trends, market conditions and business strategies. Thus, we continually monitor our balance sheet position in order to maintain an acceptable level of exposure to interest rate changes.  
+  
+The interest rate scenarios that we analyze incorporate balance sheet assumptions such as loan and deposit growth and pricing, changes in funding mix, product repricing, maturity characteristics and investment securities premium amortization. Our overall goal is to manage interest rate risk so that movements in interest rates do not significantly adversely affect earnings and capital.  
+  
+Table 49 presents the spot and 12-month forward rates used in our baseline forecasts at December 31, 2018 and 2017.  
+  
+  
+# Table 49 Forward Rates  
+  
+| | December 31, 2018 |||  
+|| Federal Funds | Three-month LIBOR | 10-Year Swap |  
+| - | - | - | - |  
+| Spot rates | 2.50 % | 2.81 % | 2.71 % |  
+| 12-month forward rates | 2.50 | 2.64 December 31, 2017 | 2.75 |  
+| Spot rates | 1.50 % | 1.69 % | 2.40 % |  
+| 12-month forward rates | 2.00 | 2.14 | 2.48 |  
+  
+Table 50 shows the pretax impact to forecasted net interest income over the next 12 months from December 31, 2018 and 2017, resulting from instantaneous parallel and non-parallel shocks to the market-based forward curve. Periodically we evaluate the scenarios presented so that they are meaningful in the context of the current rate environment.  
+  
+During 2018, the asset sensitivity of our balance sheet to rising rates declined primarily due to increases in long-end rates. We continue to be asset sensitive to a parallel move in interest rates with the majority of that impact coming from the short end of the yield curve. Additionally, higher interest rates impact the fair value of debt securities and, accordingly, for debt securities classified as AFS, may adversely affect accumulated OCI and thus capital levels under the Basel 3 capital rules. Under instantaneous upward parallel shifts, the near-term adverse impact to Basel 3 capital is reduced over time by offsetting positive impacts to net interest income. For more information on Basel 3, see Capital Management - Regulatory Capital on page 44.  
+  
+  
+## Table 50 Estimated Banking Book Net Interest Income Sensitivity to Curve Changes  
+  
+| (Dollars in millions) | Short Rate (bps) | Long Rate (bps) | December 31 ||  
+|||| 2018 | 2017 |  
+| - | - | - | - | - |  
+| Parallel Shifts | | | | |  
+| +100 bps | | | | |  
+| instantaneous shift | +100 | +100 | $ 2,651 | $ 3,317 |  
+| -100 bps instantaneous shift | -100 | | | (5,183) |  
+||| -100 | (4,109) ||  
+| Flatteners | | | | |  
+| Short-end instantaneous change | +100 | | 1,977 | 2,182 |  
+| Long-end instantaneous change | | -100 | (1,616) | (2,765) |  
+| Steepeners | | | | |  
+| Short-end instantaneous change | -100 | | (2,478) | (2,394) |  
+| Long-end instantaneous change | :unselected: | +100 | 673 | 1,135 |  
+  
+The sensitivity analysis in Table 50 assumes that we take no action in response to these rate shocks and does not assume any change in other macroeconomic variables normally correlated with changes in interest rates. As part of our ALM activities, we use securities, certain residential mortgages, and interest rate and foreign exchange derivatives in managing interest rate sensitivity.  
+  
+The behavior of our deposit portfolio in the baseline forecast and in alternate interest rate scenarios is a key assumption in our projected estimates of net interest income. The sensitivity analysis in Table 50 assumes no change in deposit portfolio size or mix from the baseline forecast in alternate rate environments. In higher rate scenarios, any customer activity resulting in the replacement of low-cost or noninterest-bearing deposits with higher yielding  
+  
+<!-- PageFooter="Bank of America 2018 74" -->  

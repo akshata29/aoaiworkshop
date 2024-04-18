@@ -1,0 +1,40 @@
+The Corporation invests in ABS issued by third-party VIEs with which it has no other form of involvement and enters into certain commercial lending arrangements that may also incorporate the use of VIEs, for example to hold collateral. These securities and loans are included in Note 4 - Securities or Note 5 - Outstanding Loans and Leases. In addition, the Corporation has used VIEs such as trust preferred securities trusts in connection with its funding activities. In 2018, the Corporation redeemed trust preferred securities with a total carrying value of $3.1 billion resulting in the extinguishment of the related junior subordinated notes issued by the Corporation. In connection therewith, the Corporation recorded a charge to other income of $729 million primarily due to the difference between the carrying and redemption values of the trust preferred securities, the majority of which relates to the discount on the junior subordinated notes resulting from prior acquisitions. For more information on trust preferred securities, see Note 11 - Long-term Debt. These VIEs, which are generally not consolidated by the Corporation, as applicable, are not included in the tables herein.  
+  
+The Corporation did not provide financial support to consolidated or unconsolidated VIEs during 2018, 2017 and 2016 that it was not previously contractually required to provide, nor does it intend to do so.  
+  
+The Corporation had liquidity commitments, including written put options and collateral value guarantees, with certain  
+  
+unconsolidated VIEs of $218 million and $442 million at December 31, 2018 and 2017.  
+  
+  
+# First-lien Mortgage Securitizations  
+  
+As part of its mortgage banking activities, the Corporation securitizes a portion of the first-lien residential mortgage loans it originates or purchases from third parties, generally in the form of RMBS guaranteed by government-sponsored enterprises, FNMA and FHLMC (collectively the GSEs), or the Government National Mortgage Association (GNMA) primarily in the case of FHA-insured and U.S. Department of Veterans Affairs (VA)-guaranteed mortgage loans. Securitization usually occurs in conjunction with or shortly after origination or purchase, and the Corporation may also securitize loans held in its residential mortgage portfolio. In addition, the Corporation may, from time to time, securitize commercial mortgages it originates or purchases from other entities. The Corporation typically services the loans it securitizes. Further, the Corporation may retain beneficial interests in the securitization trusts including senior and subordinate securities and equity tranches issued by the trusts. Except as described in Note 12 - Commitments and Contingencies, the Corporation does not provide guarantees or recourse to the securitization trusts other than standard representations and warranties.  
+  
+The table below summarizes select information related to first-lien mortgage securitizations for 2018, 2017 and 2016.  
+  
+| First-lien Mortgage Securitizations |||||||  
+| (Dollars in millions) | Residential Mortgage - Agency ||| Commercial Mortgage |||  
+|| 2018 | 2017 | 2016 | 2018 | 2017 | 2016 |  
+| - | - | - | - | - | - | - |  
+| Cash proceeds from new securitizations (1) | $ 5,369 | $ 14,467 | $ 24,201 | $ 6,713 | $ 5,641 | $ 3,887 |  
+| Gains on securitizations (2) | 62 | 158 | 370 | 101 | 91 | 38 |  
+| Repurchases from securitization trusts (3) | 1,485 | 2,713 | 3,611 | :unselected: | | |  
+  
+(1) The Corporation transfers residential mortgage loans to securitizations sponsored by the GSEs or GNMA in the normal course of business and receives RMBS in exchange which may then be sold into the market to third-party investors for cash proceeds.  
+  
+(2) A majority of the first-lien residential mortgage loans securitized are initially classified as LHFS and accounted for under the fair value option. Gains recognized on these LHFS prior to securitization, which totales71 million, $243 million and $487 million, net of hedges, during 2018, 2017 and 2016, respectively, are not included in the table above.  
+  
+(3) The Corporation may have the option to repurchase delinquent loans out of securitization trusts, which reduces the amount of servicing advances it is required to make. The Corporation may also repurchase loans from securitization trusts to perform modifications. Repurchased loans include FHA-insured mortgages collateralizing GNMA securities.  
+  
+In addition to cash proceeds as reported in the table above, the Corporation received securities with an initial fair value of $711 million, $1.9 billion and $4.2 billion in connection with first-lien mortgage securitizations in2018, 2017 and 2016, respectively. Substantially all of these securities are classified as Level 2 assets within the fair value hierarchy.  
+  
+The Corporation recognizes consumer MSRs from the sale or securitization of consumer real estate loans. The unpaid principal balance of loans serviced for investors, including residential mortgage and home equity loans, totaled $226.6 billion and $277.6 billion at December 31, 2018 and 2017. Servicing fee and ancillary fee income on serviced loans was $710 million, $893 million and $1.2 billion in 2018,2017 and 2016, respectively. Servicing advances on serviced loans, including loans serviced for others and loans held for investment, were $3.3 billion and $4.5 billion at December 31, 2018 and 2017. For more information on MSRs, see Note 20 - Fair Value Measurements.  
+  
+There were no significant deconsolidations of agency residential mortgage securitizations in 2018 or 2017. During 2016, the Corporation deconsolidated agency residential mortgage securitization vehicles with total assets of $3.8 billion and total liabilities of $628 million following the sale of retained interests to third parties, after which the Corporation no longer had the unilateral ability to liquidate the vehicles. Of the balances deconsolidated in 2016, $706 million of assets and $628 million of liabilities represent non-cash investing and financing activities and, accordingly, are not reflected on the Consolidated Statement of Cash Flows. A gain on sale of $125 million in 2016 related to the deconsolidation was recorded in other income in the Consolidated Statement of Income.  
+  
+The following table summarizes select information related to first-lien mortgage securitization trusts in which the Corporation held a variable interest at December 31, 2018 and 2017.  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageNumber="124" -->  

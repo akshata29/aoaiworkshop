@@ -1,0 +1,43 @@
+venture, see Note 12 - Commitments and Contingencies to the Consolidated Financial Statements.  
+  
+The Corporation classifies consumer real estate loans as core or non-core based on loan and customer characteristics. For more information on the core and non-core portfolios, see Consumer Portfolio Credit Risk Management on page 51. Residential mortgage loans that are held for ALM purposes, including interest rate or liquidity risk management, are classified as core and are presented on the balance sheet of All Other. During 2018, residential mortgage loans held for ALM activities decreased $3.6 billion to $24.9 billion at December 31, 2018 primarily as a result of payoffs and paydowns. Non-core residential mortgage and home equity loans, which are principally runoff portfolios, are also held in All Other. During 2018, total non-core loans decreased $17.8 billion to $23.5 billion at December 31, 2018 due primarily to loan sales of $10.8 billion, as well as payoffs and paydowns.  
+  
+The net loss for All Otherimproved $3.2 billion to a loss of $113 million, driven by a charge of $2.9 billion in 2017 due to enactment of the Tax Act. The pretax loss for 2018 compared to 2017 decreased $1.4 billion primarily due to lower noninterest expense.  
+  
+Revenue increased $73 million to a loss of $711 million primarily due to gains of $731 million from the sale of consumer real estate loans, primarily non-core, offset by a $729 million charge related to the redemption of certain trust preferred securities in 2018. Results for 2017 included a downward valuation adjustment of $946 million on tax-advantaged energy investments in connection with the Tax Act and a pretax gain of $793 million recognized in connection with the sale of the non- U.S. consumer credit card business in 2017.  
+  
+Noninterest expense decreased $1.5 billion to $2.6 billion primarily due to lower non-core mortgage costs and reduced operational costs from the sale of the non- U.S. consumer credit card business. Also, the prior-year period included a $316 million impairment charge related to certain data centers.  
+  
+The income tax benefit was $2.7 billion in 2018 compared to a benefit of $1.0 billion in 2017. The increase in the tax benefit was primarily driven by a charge of $1.9 billion in 2017 related to impacts of the Tax Act for the lower valuation of certain deferred tax assets and liabilities. Both periods included income tax benefit adjustments to eliminate the FTE treatment of certain tax credits recorded in Global Banking.  
+  
+  
+# Off-Balance Sheet Arrangements and Contractual Obligations  
+  
+We have contractual obligations to make future payments on debt and lease agreements. Additionally, in the normal course of business, we enter into contractual arrangements whereby we commit to future purchases of products or services from unaffiliated parties. Purchase obligations are defined as obligations that are legally binding agreements whereby we agree to purchase products or services with a specific minimum quantity at a fixed, minimum or variable price over a specified period of time. Included in purchase obligations are vendor contracts, the most significant of which include communication services, processing services and software contracts. Debt, lease and other obligations are more fully discussed in Note 11 - Long-term Debt and Note 12 - Commitments and Contingencies to the Consolidated Financial Statements.  
+  
+Other long-term liabilities include our contractual funding obligations related to the Non-U.S. Pension Plans and Nonqualified and Other Pension Plans (together, the Plans). Obligations to the Plans are based on the current and projected obligations of the Plans, performance of the Plans' assets, and any participant contributions, if applicable. During 2018 and 2017, we contributed $156 million and $514 million to the Plans, and we expect to make$127 million of contributions during 2019. The Plans are more fully discussed inNote 17 - Employee Benefit Plans to the Consolidated Financial Statements.  
+  
+We enter into commitments to extend credit such as loan commitments, standby letters of credit (SBLCs) and commercial letters of credit to meet the financing needs of our customers. For a summary of the total unfunded, or off-balance sheet, credit extension commitment amounts by expiration date, see Credit Extension Commitments in Note 12 - Commitments and Contingencies to the Consolidated Financial Statements.  
+  
+We also utilize variable interest entities (VIEs) in the ordinary course of business to support our financing and investing needs as well as those of our customers. For more information on our involvement with unconsolidated VIEs, see Note 7 - Securitizations and Other Variable Interest Entities to the Consolidated Financial Statements.  
+  
+Table 12 includes certain contractual obligations atDecember 31, 2018 and 2017.  
+  
+Table 12 Contractual Obligations  
+  
+| (Dollars in millions) | December 31, 2018 ||||| December 31 2017 |  
+|| Due in One Year or Less | Due After One Year Through Three Years | Due After Three Years Through Five Years | Due After Five Years | Total | Total |  
+| - | - | - | - | - | - | - |  
+| Long-term debt | $ 37,975 | $ 43,685 | $ 41,603 | $ 106,077 | $ 229,340 | $ 227,402 |  
+| Operating lease obligations | 2,370 | 4,197 | 3,043 | 6,160 | 15,770 | 14,520 |  
+| Purchase obligations | 1,288 | 1,162 | 507 | 1,091 | 4,048 | 4,219 |  
+| Time deposits | 53,482 | 5,477 | 1,473 | 607 | 61,039 | 67,844 |  
+| Other long-term liabilities | 1,611 | 1,049 | 729 | 544 | 3,933 | 4,972 |  
+| Estimated interest expense on long-term debt and time deposits (1) | 6,795 | 10,778 | 8,407 | 30,872 | 56,852 | 49,123 |  
+| Total contractual obligations | $ 103,521 | $ 66,348 | $ 55,762 | $ 145,351 | $ 370,982 | $ 368,080 |  
+  
+(1) Represents forecasted net interest expense on long-term debt and time deposits based on interest rates atDecember 31, 2018 and 2017. Forecasts are based on the contractual maturity dates of each liability, and are net of derivative hedges, where applicable.  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageNumber="39" -->  

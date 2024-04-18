@@ -1,0 +1,51 @@
+ Table 43 Top 20 Non-U.S. Countries Exposure  
+  
+| (Dollars in millions) | Funded Loans and Loan Equivalents | Unfunded Loan Commitments | Net Counterparty Exposure | Securities/ Other Investments | Country Exposure at December 31 2018 | Hedges and Credit Default Protection | Net Country Exposure at December 31 2018 | Increase (Decrease) from December 31 2017 |  
+| - | - | - | - | - | - | - | - | - |  
+| United Kingdom | $ 28,833 | $ 20,410 | $ 6,419 | $ 2,639 | $ 58,301 | $ (3,447) | $ 54,854 | $ 17,259 |  
+| Germany | 24,856 | 6,823 | 1,835 | 443 | 33,957 | (5,300) | 28,657 | 7,154 |  
+| Japan | 17,762 | 1,316 | 1,023 | 1,341 | 21,442 | (1,419) | 20,023 | 10,933 |  
+| Canada | 7,388 | 7,234 | 1,641 | 3,773 | 20,036 | (521) | 19,515 | 792 |  
+| China | 12,774 | 68 | 975 | 495 | 14,925 | (284) | 14,641 | (1,284) |  
+| France | 7,137 | 5,849 | 1,331 | 1,214 | 15,531 | (2,880) | 12,651 | 2,108 |  
+| Netherlands | 8,405 | 2,992 | 389 | 973 | 12,759 | (1,182) | 11,577 | 3,110 |  
+| India | 7,147 | 45' | 312 | 3,379 | 11,289 | (177) | 11,112 | 615 |  
+| Brazil | 6,651 | 544 | 209 | 3,172 | 10,576 | (327) | 10,249 | (467) |  
+| Australia | 5,173 | 3,132 | 571 | 1,507 | 10,383 | (453) | 9,930 | (659) |  
+| South Korea | 5,634 | 463 | 897 | 2,456 | 9,450 | (280) | 9,170 | 1,269 |  
+| Switzerland | 5,494 | 2,580 | 335 | 201 | 8,610 | (846) | 7,764 | 1,967 |  
+| Hong Kong | 5,287 | 442 | 321 | 1,224 | 7,274 | (38) | 7,236 | (1,442) |  
+| Mexico | 3,506 | 1,275 | 140 | 1,444 | 6,365 | (129) | 6,236 | 749 |  
+| Belgium | 4,684 | 1,016 | 103 | 147 | 5,950 | (372) | 5,578 | 1,613 |  
+| Singapore | 3,330 | 125 | 362 | 1,770 | 5,587 | (70) | 5,517 | (746) |  
+| Spain | 3,769 | 1,138 | 290 | 792 | 5,989 | (1,339) | 4,650 | 1,542 |  
+| United Arab Emirates | 3,371 | 135 | 138 | 55 | 3,699 | (50) | 3,649 | 262 |  
+| Taiwan | 2,311 | 13 | 288 | 623 | 3,235 | | 3,235 | 523 |  
+| Italy | 2,372 | 1,065 | 491 | 597 | 4,525 | (1,444) | 3,081 | (1,165) |  
+| Total top 20 non-U.S. countries exposure | $ 165,884 | $ 57,684 | $ 18,070 | $ 28,245 | $ 269,883 | $ (20,558) | $ 249,325 | $ 44,133 |  
+  
+A number of economic conditions and geopolitical events have given rise to risk aversion in certain emerging markets. Our largest emerging market country exposure at December 31, 2018 was China, with net exposure of$14.6 billion, concentrated in large state-owned companies, subsidiaries of multinational corporations and commercial banks.  
+  
+The outlook for policy direction and therefore economic performance in the EU remains uncertain as a consequence of reduced political cohesion among EU countries. Additionally, we believe that the uncertainty in the U.K.'s ability to negotiate a favorable exit from the EU will further weigh on economic performance. Our largest EU country exposure at December 31, 2018 was the U.K. with net exposure of $54.9 billion, a $17.3 billion increase from December 31, 2017. The increase was driven by corporate loan growth and increased placements with the central bank as part of liquidity management.  
+  
+Markets have reacted negatively to the escalating tensions between the U.S. and several key trading partners. We are closely  
+  
+monitoring our exposures to tariff-sensitive industries and our international exposure, particularly to countries that account for a large percentage of U.S. trade.  
+  
+Table 44 presents countries where total cross-border exposure exceeded one percent of our total assets. At December 31, 2018, the U.K. and France were the only countries where total cross-border exposure exceeded one percent of our total assets. At December 31, 2018, Germany and China had total cross-border exposure of $20.4 billion and $19.5 billion representing 0.87 percent and 0.83 percent of our total assets. No other countries had total cross-border exposure that exceeded 0.75 percent of our total assets at December 31, 2018.  
+  
+Cross-border exposure includes the components of Country Risk Exposure as detailed in Table 43 as well as the notional amount of cash loaned under secured financing agreements. Local exposure, defined as exposure booked in local offices of a respective country with clients in the same country, is excluded.  
+  
+  
+# Table 44 Total Cross-border Exposure Exceeding One Percent of Total Assets  
+  
+| (Dollars in millions) | December 31 | Public Sector | Banks | Private Sector | Cross-border Exposure | Exposure as a Percent of Total Assets |  
+| - | - | - | - | - | - | - |  
+| United Kingdom | 2018 | 1,505 | $ 3,458 | $ 46,191 | 51,154 | 2.17 % |  
+|| 2017 | 923 | 2,984 | 47,205 | 51,112 | 2.24 |  
+|| 2016 | 2,975 | 4,557 | 42,105 | 49,637 | 2.27 |  
+| France | 2018 | 633 | 2,385 | 29,847 | 32,865 | 1.40 |  
+|| 2017 | 2,964 | 1,521 | 27,903 | 32,388 | 1.42 |  
+|| 2016 | 4,956 | 1,205 | 23,193 | 29,354 | 1.34 |  
+  
+<!-- PageFooter="Bank of America 2018 66" -->  

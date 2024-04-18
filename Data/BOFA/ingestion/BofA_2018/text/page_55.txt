@@ -1,0 +1,35 @@
+outstanding at December 31, 2018. At December 31, 2018, we hadone remaining floating-rate junior subordinated note held in trust.  
+  
+We use derivative transactions to manage the duration, interest rate and currency risks of our borrowings, considering the characteristics of the assets they are funding. For more information on our ALM activities, see Interest Rate Risk Management for the Banking Book on page 74.  
+  
+We may also issue unsecured debt in the form of structured notes for client purposes, certain of which qualify as TLAC eligible debt. During 2018, we issued $6.9 billion of structured notes, which are debt obligations that pay investors returns linked to other debt or equity securities, indices, currencies or commodities. We typically hedge the returns we are obligated to pay on these liabilities with derivatives and/or investments in the underlying instruments, so that from a funding perspective, the cost is similar to our other unsecured long-term debt. We could be required to settle certain structured note obligations for cash or other securities prior to maturity under certain circumstances, which we consider for liquidity planning purposes. We believe, however, that a portion of such borrowings will remain outstanding beyond the earliest put or redemption date.  
+  
+Substantially all of our senior and subordinated debt obligations contain no provisions that could trigger a requirement for an early repayment, require additional collateral support, result in changes to terms, accelerate maturity or create additional financial obligations upon an adverse change in our credit ratings, financial ratios, earnings, cash flows or stock price.  
+  
+  
+# Contingency Planning  
+  
+We maintain contingency funding plans that outline our potential responses to liquidity stress events at various levels of severity. These policies and plans are based on stress scenarios and include potential funding strategies and communication and notification procedures that we would implement in the event we experienced stressed liquidity conditions. We periodically review and test the contingency funding plans to validate efficacy and assess readiness.  
+  
+Our U.S. bank subsidiaries can access contingency funding through the Federal Reserve Discount Window. Certain non-U.S. subsidiaries have access to central bank facilities in the jurisdictions in which they operate. While we do not rely on these sources in our liquidity modeling, we maintain the policies, procedures and governance processes that would enable us to access these sources if necessary.  
+  
+  
+## Credit Ratings  
+  
+Our borrowing costs and ability to raise funds are impacted by our credit ratings. In addition, credit ratings may be important to customers or counterparties when we compete in certain markets and when we seek to engage in certain transactions, including over-the-counter (OTC) derivatives. Thus, it is our objective to maintain high-quality credit ratings, and management maintains an active dialogue with the major rating agencies.  
+  
+Credit ratings and outlooks are opinions expressed by rating agencies on our creditworthiness and that of our obligations  
+  
+or securities, including long-term debt, short-term borrowings, preferred stock and other securities, including asset securitizations. Our credit ratings are subject to ongoing review by the rating agencies, and they consider a number of factors, including our own financial strength, performance, prospects and operations as well as factors not under our control. The rating agencies could make adjustments to our ratings at any time, and they provide no assurances that they will maintain our ratings at current levels.  
+  
+Other factors that influence our credit ratings include changes to the rating agencies' methodologies for our industry or certain security types; the rating agencies' assessment of the general operating environment for financial services companies; our relative positions in the markets in which we compete; our various risk exposures and risk management policies and activities; pending litigation and other contingencies or potential tail risks; our reputation; our liquidity position, diversity of funding sources and funding costs; the current and expected level and volatility of our earnings; our capital position and capital management practices; our corporate governance; the sovereign credit ratings of the U.S. government; current or future regulatory and legislative initiatives; and the agencies' views on whether the U.S. government would provide meaningful support to the Corporation or its subsidiaries in a crisis.  
+  
+On December 5, 2018, Moody's Investors Service (Moody's) placed the long- term and short-term ratings of the Corporation as well as the long-term ratings of its rated subsidiaries, including BANA, on review for upgrade. The agency cited the Corporation's strengthening profitability, continued adherence to a conservative risk profile, and stable capital ratios as drivers of the review. A rating review indicates that those ratings are under consideration for a change in the near term, which typically concludes within 90 days. Moody's concurrently affirmed the short-term ratings of the Corporation's rated subsidiaries, including BANA.  
+  
+The ratings from Standard & Poor's Global Ratings (S&P) for the Corporation and its subsidiaries did not change during 2018. The last change to the ratings from S&P was a one-notch upgrade of the Corporation's long-term ratings in November 2017.  
+  
+On June 21, 2018, Fitch Ratings (Fitch) upgraded the Corporation's long-term senior debt rating to A+ from A as part of the agency's latest review of 12 Global Trading & Investment Banks, citing our sustained and improved risk-adjusted earnings, lower risk appetite relative to peers, overall franchise strength and solid liquidity position. The Corporation's short-term debt rating of F1 was affirmed. Additionally, Fitch upgraded the long- and short-term debt ratings of the Corporation's rated U.S. subsidiaries, including BANA and MLPF&S, and upgraded the long-term debt ratings of our rated international subsidiaries, including MLI. The outlook at Fitch remains stable for all long-term debt ratings.  
+  
+Table 20 presents the Corporation's current long-term/short-term senior debt ratings and outlooks expressed by the rating agencies.  
+  
+<!-- PageFooter="Bank of America 2018 50" -->  

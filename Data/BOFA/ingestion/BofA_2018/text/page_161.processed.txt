@@ -1,0 +1,67 @@
+Total income tax expense does not reflect the tax effects of items that are included in OCI each period. For more information, see Note 14 - Accumulated Other Comprehensive Income (Loss). Other tax effects included in OCI each period resulted in a benefit of $1.2 billion, $1.2 billion and $498 million in 2018, 2017 and 2016, respectively. In addition, prior to 2017, total income tax expense did not reflect tax effects associated with the Corporation's employee stock plans which decreased common stock and additional paid-in capital $41 million in 2016.  
+  
+Income tax expense for 2018, 2017 and 2016 varied from the amount computed by applying the statutory income tax rate to income before income taxes. The Corporation's federal statutory tax rate was 21 percent for 2018 and 35 percent for 2017 and 2016. A reconciliation of the expected U.S. federal income tax expense, calculated by applying the federal statutory tax rate, to the Corporation's actual income tax expense, and the effective tax rates for 2018, 2017 and 2016 are presented in the table below.  
+  
+On December 22, 2017, the President signed into law the Tax Act which made significant changes to federal income tax law including, among other things, reducing the statutory corporate income tax rate to 21 percent from 35 percent and changing the taxation of the Corporation's non-U.S. business activities. The impact on net income in 2017 was $2.9 billion, driven by $2.3 billion in income tax expense, largely from a lower valuation of certain U.S. deferred tax assets and liabilities. The change in the statutory tax rate also impacted the Corporation's tax- advantaged energy investments, resulting in a downward valuation adjustment of $946 million recorded in other income and a related income tax benefit of$347 million, which when netted against the $2.3 billion, resulted in a net impact on income tax expense of $1.9 billion. The Corporation has completed its analysis and accounting under Staff Accounting Bulletin No. 118 for the effects of the Tax Act.  
+  
+  
+# Reconciliation of Income Tax Expense  
+  
+| (Dollars in millions) | Amount | Percent | Amount | Percent | Amount | Percent |  
+|| 2018 || 2017 2016 ||||  
+| - | - | - | - | - | - | - |  
+| Expected U.S. federal income tax expense | $ 7,263 | 21.0 % | $ 10,225 | 35.0 % | $ 8,757 | 35.0 % |  
+| Increase (decrease) in taxes resulting from: | | | | | | |  
+| State tax expense, net of federal benefit | 1,367 | 4.0 | 881 | 3.0 | 420 | 1.7 |  
+| Affordable housing/energy/other credits | (1,888) | (5.5) | (1,406) | (4.8) | (1,203) | (4.8) |  
+| Tax-exempt income, including dividends | (413) | (1.2) | (672) | (2.3) | (562) | (2.2) |  
+| Share-based compensation | (257) | (0.7) | (236) | (0.8) | | |  
+| Nondeductible expenses | 302 | 0.9 | 97 | 0.3 | 180 | 0.7 |  
+| Changes in prior-period UTBs, including interest | 144 | 0.4 | 133 | 0.5 | (328) | (1.3) |  
+| Rate differential on non-US earnings | 98 | 0.3 | (272) | (0.9) | (307) | (1.2) |  
+| Tax law changes (1) | | | 2,281 | 7.8 | 348 | 1.4 |  
+| Other | (179) | (0.6) | (50) | (0.2) | (106) | (0.5) |  
+| Total income tax expense | $ 6,437 | 18.6 % | $ 10,981 | 37.6 % | $ 7,199 | 28.8 % |  
+  
+(1) Amounts changes.  
+  
+for 2016 are for non-U.S. tax law  
+  
+The reconciliation of the beginning unrecognized tax benefits (UTB) balance to the ending balance is presented in the following table.  
+  
+| Reconciliation of the Change in Unrecognized Tax Benefits ||||  
+| (Dollars in millions) | 2018 | 2017 | 2016 |  
+| - | - | - | - |  
+| Balance, January 1 | $ 1,773 | $ 875 | $ 1,095 |  
+| Increases related to positions taken during the current year | 395 | 292 | 104 |  
+| Increases related to positions taken during prior years | 406 | 750 | 1,318 |  
+| Decreases related to positions taken during prior years | (371) | (122) | (1,091 ) |  
+| Settlements | (6) | (17) | (503) |  
+| Expiration of statute of limitations | | (5) | (48) |  
+| Balance, December 31 | $ 2,197 | $ 1,773 | $ 875 |  
+  
+At December 31, 2018, 2017 and 2016, the balance of the Corporation's UTBs which would, if recognized, affect the Corporation's effective tax rate was $1.6 billion, $1.2 billion and $0.6 billion, respectively. Included in the UTB balance are some items the recognition of which would not affect the effective tax rate, such as the tax effect of certain temporary differences, the portion of gross state UTBs that would be offset by the tax benefit of the associated federal deduction and the portion of gross non-U.S. UTBs that would be offset by tax reductions in other jurisdictions.  
+  
+The Corporation files income tax returns in more than100 state and non-U.S. jurisdictions each year. The IRS and other tax authorities in countries and states in which the Corporation has significant business operations examine tax returns periodically (continuously in some jurisdictions). The following table  
+  
+summarizes the status of examinations by major jurisdiction for the Corporation and various subsidiaries at December 31, 2018.  
+  
+  
+# Tax Examination Status  
+  
+| | Years under Examination (1) | Status at December 31 2018 |  
+| - | - | - |  
+| United States | 2012 - 2013 | IRS Appeals |  
+| United States | 2014 - 2016 | Field examination |  
+| New York | 2015 | Field examination |  
+| United Kingdom | 2017 | To begin in 2019 |  
+  
+(1) All tax years subsequent to the years shown remain subject to  
+  
+examination.  
+  
+It is reasonably possible that the UTB balance may decrease by as much as $1.2 billion during the next 12 months, since  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageNumber="149" -->  

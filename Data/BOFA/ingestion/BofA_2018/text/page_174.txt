@@ -1,0 +1,68 @@
+The following tables provide information about where changes in the fair value of assets and liabilities accounted for under the fair value option are included in the Consolidated Statement of Income for 2018, 2017 and 2016.  
+  
+  
+# Gains (Losses) Relating to Assets and Liabilities Accounted for Under the Fair Value Option  
+  
+| | Trading Account Profits | Other Income | Total |  
+| - | - | - | - |  
+| (Dollars in millions) | | 2018 | |  
+| Loans reported as trading account assets (1) | $ 8 | | $ 8 |  
+| Trading inventory - other (2) | 1,750 | | 1,750 |  
+| Consumer and commercial loans (1) | (422) | (53) | (475) |  
+| Loans held-for-sale (1, 3) | 1 1 | 24 | 25 |  
+| Unfunded loan commitments | 1 | (49) | (49) |  
+| Long-term debt (4, 5) | 2,157 | (93) | 2,064 |  
+| Other (6) | 8 | 18 | 26 |  
+| Total | $ 3,502 | $ (153) | $ 3,349 |  
+  
+| | 2017 |||  
+| - | - | - | - |  
+| Loans reported as trading account assets (1) | $ 318 | $ | $ 318 |  
+| Trading inventory - other (2) | 3,821 | | 3,821 |  
+| Consumer and commercial loans (1) | (9) | 35 | 26 |  
+| Loans held-for-sale (1, 3) | | 298 | 298 |  
+| Unfunded loan commitments | | 36 | 36 |  
+| Long-term debt (4, 5) | (1,044 ) | (146) | (1,190) |  
+| Other (6) | (93) | 13 | (80) |  
+| Total | $ 2,993 | $ 236 | $ 3,229 |  
+  
+| | 2016 |||  
+| - | - | - | - |  
+| Loans reported as trading account assets (1) | $ 301 | $ | $ 301 |  
+| Trading inventory - other (2) | 57 | | 57 |  
+| Consumer and commercial loans (1) | 49 | (37) | 12 |  
+| Loans held-for-sale (1, 3) | 11 | 524 | 535 |  
+| Unfunded loan commitments | | 487 | 487 |  
+| Long-term debt (4, 5) | (489) | (97) | (586) |  
+| Other (6) | (85) | 53 | (32) |  
+| Total | $ (156) | $ 930 | $ 774 |  
+  
+(1) Gains (losses) related to borrower-specific credit risk were not significant.  
+  
+(2) The gains in trading account profits are primarily offset by losses on trading liabilities that hedge these assets.  
+  
+(3) Includes the value of IRLCs on funded loans, including those sold during the period.  
+  
+(4) The majority of the net gains (losses) in trading account profits relate to the embedded derivatives in structured liabilities and are offset by gains (losses) on derivatives and securities that hedge these liabilities.  
+  
+(5) For the cumulative impact of changes in the Corporation's own credit spreads and the amount recognized in accumulated OCI, see For more information on how the Corporation's own credit spread is determined, see .  
+  
+(6) Includes gains (losses) on federal funds sold and securities borrowed or purchased under agreements to resell, other assets, long-term deposits, federal funds purchased and securities loaned or sold under agreements to repurchase and short-term borrowings.  
+  
+  
+## NOTE 22 Fair Value of Financial Instruments  
+  
+Financial instruments are classified within the fair value hierarchy using the methodologies described in Note 20 - Fair Value Measurements. Certain loans, deposits, long-term debt and unfunded lending commitments are accounted for under the fair value option. For additional information, see Note 21 - Fair Value Option. The following disclosures include financial instruments that are not carried at fair value or only a portion of the ending balance is carried at fair value on the Consolidated Balance Sheet.  
+  
+  
+# Short-term Financial Instruments  
+  
+The carrying value of short-term financial instruments, including cash and cash equivalents, certain time deposits placed and other short-term investments, federal funds sold and purchased, certain resale and repurchase agreements and short- term borrowings,  
+  
+approximates the fair value of these instruments. These financial instruments generally expose the Corporation to limited credit risk and have no stated maturities or have short-term maturities and carry interest rates that approximate market. The Corporation accounts for certain resale and repurchase agreements under the fair value option.  
+  
+Under the fair value hierarchy, cash and cash equivalents are classified as Level 1. Time deposits placed and other short-term investments, such as U.S. government securities and short-term commercial paper, are classified as Level 1 or Level 2. Federal funds sold and purchased are classified as Level 2. Resale and repurchase agreements are classified as Level 2 because they are generally short- dated and/or variable-rate instruments collateralized by U.S. government or agency securities. Short-term borrowings are classified as Level 2.  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageNumber="162" -->  

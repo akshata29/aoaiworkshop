@@ -1,0 +1,53 @@
+# Fair Value Measurements  
+  
+For more information on fair value measurements, including descriptions of Level 1, 2 and 3 of the fair value hierarchy and the valuation methods employed by the Corporation, see Note 1 - Summary of Significant Accounting Principlesand Note 20 - Fair Value Measurements. Combined plan investment assets measured at fair value by level and in total at December 31, 2018 and 2017 are summarized in the Fair Value Measurements table.  
+  
+  
+# Fair Value Measurements  
+  
+| | Level 1 | Level 2 | Level 3 | Total |  
+| - | - | - | - | - |  
+| (Dollars in millions) | December 31, 2018 ||||  
+| Cash and short-term investments | | | | |  
+| Money market and interest-bearing cash | $ 1,530 | :unselected: | $ :unselected: | $ 1,530 |  
+| Cash and cash equivalent commingled/mutual funds | :unselected: | 644 | :unselected: | 644 |  
+| Fixed income | | | | |  
+| U.S. government and agency securities | 3,637 | 805 | 9 :selected: | 4,451 |  
+| Corporate debt securities | :unselected: | 2,852 | :unselected: | 2,852 |  
+| Asset-backed securities | :unselected: | 2,119 | :unselected: | 2,119 |  
+| Non-U.S. debt securities | 539 | 961 | :unselected: | 1,500 |  
+| Fixed income commingled/mutual funds | 933 | 1,177 | :unselected: | 2,110 |  
+| Equity | | | | |  
+| Common and preferred equity securities | 4,414 | | :unselected: | 4,414 |  
+| Equity commingled/mutual funds | 288 | 1,275 | :unselected: | 1,563 |  
+| Public real estate investment trusts | 104 | :unselected: | :unselected: | 104 |  
+| Real estate | | | | |  
+| Private real estate | :unselected: | - :unselected: | 5 | 5 |  
+| Real estate commingled/mutual funds | :unselected: | 13 | 885 | 898 |  
+| Limited partnerships | :unselected: | 158 | 82 | 240 |  
+| Other investments (1) | 93 | 364 | 588 | 1,045 |  
+| Total plan investment assets, at fair value | $ 11,538 | $ 10,368 | $ 1,569 | $ 23,475 |  
+| | December 31, 2017 ||||  
+| Cash and short-term investments | | | | |  
+| Money market and interest-bearing cash | $ 2,190 | $ :unselected: | $ :unselected: | $ 2,190 |  
+| Cash and cash equivalent commingled/mutual funds | :unselected: | 1,004 | :unselected: | 1,004 |  
+| Fixed income | | | | |  
+| U.S. government and agency securities | 3,331 | 854 | 9 | 4,194 |  
+| Corporate debt securities | :unselected: | 2,417 | :unselected: | 2,417 |  
+| Asset-backed securities | :unselected: | 1,832 | :unselected: | 1,832 |  
+| Non-U.S. debt securities | 693 | 898 | :unselected: | 1,591 |  
+| Fixed income commingled/mutual funds | 775 | 1,676 | | 2,451 |  
+| Equity | | | | |  
+| Common and preferred equity securities | 5,833 | :unselected: | :unselected: | 5,833 |  
+| Equity commingled/mutual funds | 271 | 1,753 | :unselected: | 2,024 |  
+| Public real estate investment trusts | 138 | - :unselected: | :unselected: | 138 |  
+| Real estate | | | | |  
+| Private real estate | :unselected: | :unselected: | 93 | 93 |  
+| Real estate commingled/mutual funds | :unselected: | 13 | 831 | 844 |  
+| Limited partnerships | :unselected: | 155 | 85 | 240 |  
+| Other investments (1) | 101 | 649 | 74 | 824 |  
+| Total plan investment assets, at fair value | $ 13,332 | $ 11,251 | $ 1,092 | $ 25,675 |  
+  
+(1) Other investments include commodity and balanced funds of $305 million and $451 million, insurance annuity contracts of $562 million and $50 million and other various investments of $178 million and $323 million at December 31, 2018 and 2017.  
+  
+<!-- PageFooter="Bank of America 2018 146" -->  

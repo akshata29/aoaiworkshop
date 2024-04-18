@@ -1,0 +1,63 @@
+<!-- PageHeader="Statistical Tables" -->  
+  
+  
+# Table of Contents  
+  
+| | Page |  
+| - | - |  
+| Table I - Outstanding Loans and Leases | 81 |  
+| Table II - Nonperforming Loans, Leases and Foreclosed Properties | 82 |  
+| Table III - Accruing Loans and Leases Past Due 90 Days or More | 82 |  
+| Table IV - Selected Loan Maturity Data | 83 |  
+| Table V - Allowance for Credit Losses | 83 |  
+| Table VI - Allocation of the Allowance for Credit Losses by Product Type | 84 |  
+  
+  
+## Table I Outstanding Loans and Leases  
+  
+| (Dollars in millions) | December 31 |||||  
+|| 2018 | 2017 | 2016 | 2015 | 2014 |  
+| - | - | - | - | - | - |  
+| Consumer | | | | | |  
+| Residential mortgage | 208,557 | $ 203,811 | $ 191,797 | $ 187,911 | $ 216,197 |  
+| Home equity | 48,286 | 57,744 | 66,443 | 75,948 | 85,725 |  
+| U.S. credit card | 98,338 | 96,285 | 92,278 | 89,602 | 91,879 |  
+| Non-U.S. credit card | | | 9,214 | 9,975 | 10,465 |  
+| Direct/Indirect consumer (1) | 91,166 | 96,342 | 95,962 | 90,149 | 81,386 |  
+| Other consumer (2) | 202 | 166 | 626 | 713 | 841 |  
+| Total consumer loans excluding loans accounted for under the fair value option | 446,549 | 454,348 | 456,320 | 454,298 | 486,493 |  
+| Consumer loans accounted for under the fair value option (3) | 682 | 928 | 1,051 | 1,871 | 2,077 |  
+| Total consumer | 447,231 | 455,276 | 457,371 | 456,169 | 488,570 |  
+| Commercial | | | | | |  
+| U.S. commercial | 299,277 | 284,836 | 270,372 | 252,771 | 220,293 |  
+| Non-U.S. commercial | 98,776 | 97,792 | 89,397 | 91,549 | 80,083 |  
+| Commercial real estate (4) | 60,845 | 58,298 | 57,355 | 57,199 | 47,682 |  
+| Commercial lease financing | 22,534 | 22,116 | 22,375 | 21,352 | 19,579 |  
+| | 481,432 | 463,042 | 439,499 | 422,871 | 367,637 |  
+| U.S. small business commercial (5) | 14,565 | 13,649 | 12,993 | 12,876 | 13,293 |  
+| Total commercial loans excluding loans accounted for under the fair value option | 495,997 | 476,691 | 452,492 | 435,747 | 380,930 |  
+| Commercial loans accounted for under the fair value option (3) | 3,667 | 4,782 | 6,034 | 5,067 | 6,604 |  
+| Total commercial | 499,664 | 481,473 | 458,526 | 440,814 | 387,534 |  
+| Less: Loans of business held for sale (6) | | | (9,214) | | |  
+| Total loans and leases | $ 946,895 | $ 936,749 | $ 906,683 | $ 896,983 | $ 876,104 |  
+  
+(1) Includes auto and specialty lending loans and leases of$50.1 billion, $52.4 billion, $50.7 billion, $43.9 billion and $38.7 billion, unsecured consumer lending loans of$383 million, $469 million, $585 million, $886 million and $1.5 billion, U.S. securities-based lending loans of $37.0 billion, $39.8 billion, $40.1 billion, $39.8 billion and $35.8 billion, non-U.S. consumer loans of $2.9 billion, $3.0 billion, $3.0 billion, $3.9 billion and $4.0 billion, student loans of $0, $0, $497 million, $564 million and $632 million, and other consumer loans of $746 million, $684 million, $1.1 billion, $1.0 billion and $761 million at December 31, 2018, 2017, 2016, 2015 and 2014, respectively.  
+  
+(2) Substantially all of other consumer at December 31, 2018 and 2017 is consumer overdrafts. Other consumer at December 31, 2016, 2015 and 2014 also includes consumer finance loans of $465 million, $564 million and $676 million,  
+  
+respectively.  
+  
+(3) Consumer loans accounted for under the fair value option were residential mortgage loans of$336 million, $567 million, $710 million, $1.6 billion and $1.9 billion, and home equity loans of$346 million, $361 million, $341 million, $250 million and $196 million at December 31, 2018, 2017, 2016, 2015 and 2014, respectively. Commercial loans accounted for under the fair value option were U.S. commercial loans of$2.5 billion, $2.6 billion, $2.9 billion, $2.3 billion and $1.9 billion, and non-U.S. commercial loans of $1.1 billion, $2.2 billion, $3.1 billion, $2.8 billion and $4.7 billion at December 31, 2018, 2017, 2016, 2015 and 2014, respectively  
+  
+(4) Includes U.S. commercial real estate loans of $56.6 billion, $54.8 billion, $54.3 billion, $53.6 billion and $45.2 billion, and non-U.S. commercial real estate loans of $4.2 billion, $3.5 billion, $3.1 billion, $3.5 billion and $2.5 billion at December 31, 2018, 2017, 2016, 2015 and 2014, respectively.  
+  
+(5) Includes products.  
+  
+(6) Represents non-U.S. credit card loans, which were included in assets of business held for sale on the Consolidated Balance Sheet.  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+  
+# 81  
+  
+card-related  

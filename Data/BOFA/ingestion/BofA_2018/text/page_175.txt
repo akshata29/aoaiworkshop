@@ -1,0 +1,73 @@
+# Fair Value of Financial Instruments  
+  
+The carrying values and fair values by fair value hierarchy of certain financial instruments where only a portion of the ending balance was carried at fair value at December 31, 2018 and 2017 are presented in the following table.  
+  
+  
+# Fair Value of Financial Instruments  
+  
+| | Carrying Value | Fair Value |||  
+||| Level 2 | Level 3 | Total |  
+| - | - | - | - | - |  
+| (Dollars in millions) | December 31, 2018 ||||  
+| Financial assets | | | | |  
+| Loans | $ 911,520 | $ 58,228 | 859,160 | $ 917,388 |  
+| Loans held-for-sale | 10,367 | 9,592 | 775 | 10,367 |  
+| Financial liabilities | | | | |  
+| Deposits (1) | 1,381,476 | 1,381,239 | | 1,381,239 |  
+| Long-term debt | 229,340 | 229,967 | 817 | 230,784 |  
+| Commercial unfunded lending commitments (2) | 966 | 169 | 5,558 | 5,727 |  
+| | December 31, 2017 ||||  
+| Financial assets | | | | |  
+| Loans | $ 904,399 | $ 68,586 | $ 849,576 | $ 918,162 |  
+| Loans held-for-sale | 11,430 | 10,521 | 909 | 11,430 |  
+| Financial liabilities | | | | |  
+| Deposits (1) | 1,309,545 | 1,309,398 | | 1,309,398 |  
+| Long-term debt | 227,402 | 235,126 | 1,863 | 236,989 |  
+| Commercial unfunded lending commitments (2) | 897 | 120 | 3,908 | 4,028 |  
+  
+(1) Includes demand deposits of $531.9 billion and $519.6 billion with no stated maturities at December 31, 2018 and 2017.  
+  
+(2) The carrying value of commercial unfunded lending commitments is included in accrued expenses and other liabilities on the Consolidated Balance Sheet. The Corporation does not estimate the fair value of consumer unfunded lending commitments because, in many instances, the Corporation can reduce or cancel these commitments by providing notice to the borrower. For more information on commitments, see .  
+  
+  
+# NOTE 23 Business Segment Information  
+  
+The Corporation reports its results of operations through the following four business segments: Consumer Banking, GWIM, Global Banking and Global Markets, with the remaining operations recorded in All Other.  
+  
+  
+# Consumer Banking  
+  
+Consumer Banking offers a diversified range of credit, banking and investment products and services to consumers and small businesses. Consumer Banking product offerings include traditional savings accounts, money market savings accounts, CDs and IRAs, checking accounts, and investment accounts and products, as well as credit and debit cards, residential mortgages and home equity loans, and direct and indirect loans to consumers and small businesses in the U.S. Consumer Banking includes the impact of servicing residential mortgages and home equity loans in the core portfolio.  
+  
+  
+# Global Wealth & Investment Management  
+  
+GWIM provides a high-touch client experience through a network of financial advisors focused on clients with over $250,000 in total investable assets, including tailored solutions to meet clients' needs through a full set of investment management, brokerage, banking and retirement products. GWIM also provides comprehensive wealth management solutions targeted to high net worth and ultra high net worth clients, as well as customized solutions to meet clients' wealth structuring, investment  
+  
+management, trust and banking needs, including specialty asset management services.  
+  
+  
+# Global Banking  
+  
+Global Banking provides a wide range of lending-related products and services, integrated working capital management and treasury solutions, and underwriting and advisory services through the Corporation's network of offices and client relationship teams. Global Banking also provides investment banking products to clients. The economics of certain investment banking and underwriting activities are shared primarily between Global Banking and Global Markets under an internal revenue-sharing arrangement. Global Banking clients generally include middle- market companies, commercial real estate firms, not-for-profit companies, large global corporations, financial institutions, leasing clients, and mid-sized U.S .- based businesses requiring customized and integrated financial advice and solutions.  
+  
+  
+# Global Markets  
+  
+Global Markets offers sales and trading services and research services to institutional clients across fixed-income, credit, currency, commodity and equity businesses. Global Markets provides market-making, financing, securities clearing, settlement and custody services globally to institutional investor clients in support of their investing and trading activities. Global Markets product coverage includes securities and derivative products in both the primary and secondary markets. Global Markets also works with commercial and corporate clients to provide risk management products. As a result of market-making activities, Global Markets may be required to manage risk in a broad range of financial products. In addition, the economics of certain investment banking and underwriting activities are shared primarily between Global Markets and Global Banking under an internal revenue- sharing arrangement.  
+  
+  
+## All Other  
+  
+All Other consists of ALM activities, equity investments, non-core mortgage loans and servicing activities, the net impact of periodic revisions to the MSR valuation model for core and non-core MSRs and the related economic hedge results, liquidating businesses and residual expense allocations. ALM activities encompass certain residential mortgages, debt securities, interest rate and foreign currency risk management activities, the impact of certain allocation methodologies and hedge ineffectiveness. The results of certain ALM activities are allocated to the business segments. Equity investments include the merchant services joint venture as well as a portfolio of equity, real estate and other alternative investments.  
+  
+  
+### Basis of Presentation  
+  
+The management accounting and reporting process derives segment and business results by utilizing allocation methodologies for revenue and expense. The net income derived for the businesses is dependent upon revenue and cost allocations using an activity-based costing model, funds transfer pricing, and other methodologies and assumptions management believes are appropriate to reflect the results of the business.  
+  
+Total revenue, net of interest expense, includes net interest income on an FTE basis and noninterest income. The adjustment of net interest income to an FTE basis results in a corresponding increase in income tax expense. The segment results also reflect certain revenue and expense methodologies that are utilized to determine net income. The net interest income of the businesses includes the results of a funds transfer pricing process that  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageNumber="163" -->  

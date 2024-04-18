@@ -1,0 +1,51 @@
+  
+|| Exhibit No. Description  | Notes | Incorporated by Reference ||||  
+|||| Form | Exhibit | Filing Date | File No. |  
+| - | - | - | - | - | - | - |  
+| | .Amendment thereto dated December 16, 2010, incorporated by reference to Exhibit 10(c) of the 2010 10-K | 1 | 10-K | 10(c) | 2/25/11 | 1-6523 |  
+| | . Amendment thereto dated June 29, 2012, incorporated by reference to Exhibit 10(I) of the 2012 10-K | 1 | 10-K | 10(I) | 2/28/13 | 1-6523 |  
+| (n) | Trust Agreement for the FleetBoston Executive Deferred Compensation Plans No. 1 and 2 dated December 17, 1997 | 1 | 10-K | 10(x) | 3/1/05 | 1-6523 |  
+| (o) | Trust Agreement for the FleetBoston Executive Supplemental Plan dated June 19, 1996 | 1 | 10-K | 10(y) | 3/1/05 | 1-6523 |  
+| (p) | Trust Agreement for the FleetBoston Retirement Income Assurance Plan and the FleetBoston Supplemental Executive Retirement | 1 | 10-K | 10(z) | 3/1/05 | 1-6523 |  
+| | Plan dated June 19, 1996 | | | | | |  
+| (q) | FleetBoston Directors Deferred Compensation and Stock Unit Plan effective January 1, 2004 | 1 | 10-K | 10(aa) | 3/1/05 | 1-6523 |  
+| (r) | BankBoston Corporation and its Subsidiaries Deferred Compensation Plan dated December 24, 2001 | 1 | 10-K | 10(cc) | 3/1/05 | 1-6523 |  
+| (s) | BankBoston Director Stock Award Plan effective July 1, 1998 | 1 | 10-K | 10(hh) | 3/1/05 | 1-6523 |  
+| (t) | BankBoston Corporation Directors' Deferred Compensation Plan effective March 1, 1988 | 1 | 10-K | 10(ii) | 3/1/05 | 1-6523 |  
+| (u) | BankBoston, N.A. Directors' Deferred Compensation Plan effective March 1, 1988 | 1 | 10-K | 10(jj) | 3/1/05 | 1-6523 |  
+| (v) | Description of BankBoston Director Retirement Benefits Exchange Program | 1 | 10-K | 10(II) | 3/1/05 | 1-6523 |  
+| (w) | Global amendment to definition of "change in control" or "change of control," together with a list of plans affected by such | 1 | 10-K | 10(00) | 3/1/05 | 1-6523 |  
+| | amendment | | | | | |  
+| (x) | Employment Agreement dated October 27, 2003 between registrant and Brian T. Moynihan | 1 | S-4 | 10(d) | 12/4/03 | 333-110924 |  
+| (y) | Cancellation Agreement dated October 26, 2005 between registrant and Brian T. Moynihan | 1 | 8-K | 10.1 | 10/26/05 | 1-6523 |  
+| (z) | Agreement Regarding Participation in the Fleet Boston Supplemental Executive Retirement Plan dated October 26, 2005 between | 1 | 8-K | 10.2 | 10/26/05 | 1-6523 |  
+| | registrant and Brian T. Moynihan | | | | | |  
+| (aa) | Bank of America Corporation Equity Incentive Plan amended and restated effective as of January 1, 2008 | 1 | 10-K | 10(zz) | 2/26/10 | 1-6523 |  
+| (bb) | Merrill Lynch & Co., Inc. Long-Term Incentive Compensation Plan amended as of January 1, 2009 and 2008 Restricted | 1 | 10-K | 10(aaa) | 2/26/10 | 1-6523 |  
+| | Units/Stock Option Grant Document for Thomas K. Montag | | | | | |  
+| (cc) | Employment Letter dated May 1, 2008 between Merrill Lynch & Co., Inc. and Thomas K. Montag and Summary of Agreement with | 1 | 10-K | 10(bbb) | 2/26/10 | 1-6523 |  
+| | respect to Post-Employment Medical Coverage | | | | | |  
+| (dd) | Aircraft Time Sharing Agreement (Multiple Aircraft) dated February 24, 2011 between Bank of America, N. A. and Brian T. Moynihan | 1 | 10-K | 10(jjj) | 2/25/11 | 1-6523 |||||  
+| | | |  
+| (ee) | Securities Purchase Agreement dated August 25, 2011 between registrant and Berkshire Hathaway Inc. (including forms of the | | 8-K | 1.1 | 8/25/11 | 1-6523 |  
+| | Certificate of Designations, Warrant and Registration Rights Agreement) | | | | | |  
+| (ff) | First Amendment to Aircraft Time Sharing Agreement dated June 15, 2015 between Bank of America, N.A. and Brian T. Moynihan | 1 | 10-Q | 10 | 7/29/15 | 1-6523 |  
+| (gg) | First Amendment to the Bank of America Deferred Compensation Plan (formerly known as the Bank of America 401(k) Restoration Plan), as amended and restated effective January 1, 2015 | 1 | 10-K | 10(vv) | 2/24/16 | 1-6523 ||||  
+| | | | |  
+| (hh) | Tax Equalization Program Guidelines | 1 | 10-K | 10(uu) | 2/24/16 | 1-6523 |  
+| (ii) | Second Amendment to Aircraft Time Sharing Agreement dated June 8, 2016 between Bank of America, N.A. and Brian T. Moynihan | 1 | 10-Q | 10 | 8/1/16 | 1-6523 |||||  
+| | | |  
+| (j) | Form of Waiver of Certain Incremental Payouts from Performance Restricted Stock Units | | 10-K | 10(rr) | 2/23/17 | 1-6523 |  
+| (kk | Third Amendment to Aircraft Time Sharing Agreement dated July 10, 2017 between Bank of America, N.A. and Brian T. Moynihan | 1 | 10-Q | 10 | 7/31/17 | 1-6523 |  
+| (II) | Amended and Restated Aircraft Time Sharing Agreement (Multiple Aircraft) dated June 26, 2018 between Bank of America, N.A. | 1 | 10-Q | 10 | 7/30/18 | 1-6523 |  
+| | and Brian T. Moynihan | | | | | |  
+| (mm) | First Amendment to the Bank of America Corporation Key Employee Equity Plan (formerly known as the Key Associate Stock Plan), as amended and restated effective May 6, 2015 | 1,2 | | | | |  
+| 21 | List of Subsidiaries | 2 | | | | |  
+| 23 | Consent of PricewaterhouseCoopers LLP | 2 | | | | |  
+| 24 | Power of Attorney | 2 | | | | |  
+| 31(a) | Certification of the Chief Executive Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 | 2| | | | |  
+| (b) | Certification of the Chief Financial Officer pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 | | | | | |  
+| 32(a) | Certification of the Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 | 2| | | | |  
+| (b) | Certification of the Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 | 2 | | | | |  
+ NN NN    
+<!-- PageNumber="175 Bank of America 2018" -->  

@@ -1,0 +1,49 @@
+We monitor differences between estimated and actual incurred loan and lease losses. This monitoring process includes periodic assessments by senior management of loan and lease portfolios and the models used to estimate incurred losses in those portfolios.  
+  
+The allowance for loan and lease losses for the consumer portfolio, as presented in Table 45, was $4.8 billion at December 31, 2018, a decrease of $581 million from December 31, 2017. The decrease was primarily in the consumer real estate portfolio, partially offset by an increase in the U.S. credit card portfolio. The reduction in the allowance for the consumer real estate portfolio was due to improved home prices, lower nonperforming loans and a decrease in loan balances in our non-core portfolio. The increase in the allowance for the U.S. credit card portfolio was driven by portfolio seasoning and loan growth.  
+  
+The allowance for loan and lease losses for the commercial portfolio, as presented in Table 45, was $4.8 billion at December 31, 2018, a decrease of $211 million from December 31, 2017 primarily driven by improvement in energy exposures. Commercial reservable criticized utilized exposure decreased to $11.1 billion at December 31, 2018 from $13.6 billion (to 2.08 percent from 2.65 percent of total commercial reservable utilized exposure) at December 31, 2017, driven by broad-based improvements including the energy sector. Nonperforming commercial loans decreased to $1.1 billion at December 31, 2018 from $1.3 billion (to 0.22 percent from 0.27 percent of outstanding commercial loans excluding loans accounted for under the fair value option)  
+  
+a t December 31, 2017. See Tables 34, 35 and 36 for more details on key commercial credit statistics.  
+  
+The allowance for loan and lease losses as a percentage of total loans and leases outstanding was 1.02 percent at December 31, 2018 compared to 1.12 percent at December 31, 2017.  
+  
+  
+# Reserve for Unfunded Lending Commitments  
+  
+In addition to the allowance for loan and lease losses, we also estimate probable losses related to unfunded lending commitments such as letters of credit, financial guarantees, unfunded bankers' acceptances and binding loan commitments, excluding commitments accounted for under the fair value option. Unfunded lending commitments are subject to the same assessment as funded loans, including estimates of probability of default and LGD. Due to the nature of unfunded commitments, the estimate of probable losses must also consider utilization. To estimate the portion of these undrawn commitments that is likely to be drawn by a borrower at the time of estimated default, analyses of our historical experience are applied to the unfunded commitments to estimate the funded exposure at default (EAD). The expected loss for unfunded lending commitments is the product of the probability of default, the LGD and the EAD, adjusted for any qualitative factors including economic uncertainty and inherent imprecision in models.  
+  
+The reserve for unfunded lending commitments was $797 million at December 31, 2018 compared to $777 million at December 31, 2017.  
+  
+Table 45 Allocation of the Allowance for Credit Losses by Product Type  
+  
+| | Amount | Percent of Total | Percent of Loans and Leases Outstanding (1) | Amount | Percent of Total | Percent of Loans and Leases Outstanding (1) |  
+| - | - | - | - | - | - | - |  
+| (Dollars in millions) | December 31, 2018 December 31, 2017 ||||||  
+| Allowance for loan and lease losses | | | | | | |  
+| Residential mortgage | $ 422 | 4.40 % | 0.20 % | $ 701 | 6.74% | 0.34 % |  
+| Home equity | 506 | 5.27 | 1.05 | 1,019 | 9.80 | 1.76 |  
+| U.S. credit card | 3,597 | 37.47 | 3.66 | 3,368 | 32.41 | 3.50 |  
+| Direct/Indirect consumer | 248 | 2.58 | 0.27 | 264 | 2.54 | 0.27 |  
+| Other consumer | 29 | 0.30 | n/m | 31 | 0.30 | n/m |  
+| Total consumer | 4,802 | 50.02 | 1.08 | 5,383 | 51.79 | 1.18 |  
+| U.S. commercial (2) | 3,010 | 31.35 | 0.96 | 3,113 | 29.95 | 1.04 |  
+| Non-U.S. commercial | 677 | 7.05 | 0.69 | 803 | 7.73 | 0.82 |  
+| Commercial real estate | 958 | 9.98 | 1.57 | 935 | 9.00 | 1.60 |  
+| Commercial lease financing | 154 | 1.60 | 0.68 | 159 | 1.53 | 0.72 |  
+| Total commercial | 4,799 | 49.98 | 0.97 | 5,010 | 48.21 | 1.05 |  
+| Allowance for loan and lease losses (3) | 9,601 | 100.00 % | 1.02 | 10,393 | 100.00 % | 1.12 |  
+| Reserve for unfunded lending commitments | 797 | | | 777 | | |  
+| Allowance for credit losses | $ 10,398 | | | $ 11,170 | | |  
+  
+(1) Ratios are calculated as allowance for loan and lease losses as a percentage of loans and leases outstanding excluding loans accounted for under the fair value option. Consumer loans accounted for under the fair value option include residential mortgage loans of $336 million and $567 million and home equity loans of$346 million and $361 million at December 31, 2018 and 2017. Commercial loans accounted for under the fair value option include U.S. commercial loans of$2.5 billion and $2.6 billion and non- U.S. commercial loans of $1.1 billion and $2.2 billion at December 31, 2018 and 2017.  
+  
+(2) Includes allowance for loan and lease losses for U.S. small business commercial loans of$474 million and $439 million at December 31, 2018 and  
+  
+2017\.  
+  
+(3) Includes $91 million and $289 million of valuation allowance presented with the allowance for loan and lease losses related to PCI loans aDecember 31, 2018 and 2017.  
+  
+n/m = not meaningful  
+  
+<!-- PageFooter="Bank of America 2018 68" -->  

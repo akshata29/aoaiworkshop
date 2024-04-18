@@ -1,0 +1,59 @@
+Preferred Stock Summary  
+===  
+  
+|| (Dollars in millions, except as noted) Series  Description | Initial Issuance Date | Total Shares Outstanding | Liquidation Preference per Share (in dollars) | Carrying Value | Per Annum Dividend Rate | Dividend per Share (in dollars) | Annual Dividend | Redemption Period (1) |  
+| - | - | - | - | - | - | - | - | - | - |  
+| Series B | 7% Cumulative Redeemable | June 1997 | 7,110 | $ 100 | $ 1 | 7.00 % | $ 7.00 | $ - | n/a |  
+| Series E (2) | Floating Rate Non- Cumulative | November 2006 | 12,691 | 25,000 | 317 | 3-mo. LIBOR + 35 bps (3) | 1.01 | 13 | On or after November 15, 2011 |  
+| Series F | Floating Rate Non- Cumulative | March 2012 | 1,409 | 100,000 | 141 | 3-mo. LIBOR + 40 bps (3) | 4,055.56 | 6 | On or after March 15, 2012 |  
+| Series G | Adjustable Rate Non- Cumulative | March 2012 | 4,926 | 100,000 | 493 | 3-mo. LIBOR + 40 bps (3) | 4,055.56 | 20 | On or after March 15, 2012 |  
+| Series L | 7.25% Non-Cumulative Perpetual Convertible | January 2008 | 3,080,182 | 1,000 | 3,080 | 7.25 % | 72.50 | 223 | n/a |  
+| Series T | 6% Non-cumulative | September 2011 | 354 | 100,000 | 35 | 6.00 % | 6,000.00 | 2 | After May 7, 2019 |  
+| Series U (4) | Fixed-to-Floating Rate Non- Cumulative | May 2013 | 40,000 | 25,000 | 1,000 | 5.2% to, but excluding, 6/1/23; 3- mo. LIBOR + 313.5 bps thereafter | 52.00 | 52 | On or after June 1, 2023 |  
+| Series V (4) | Fixed-to-Floating Rate Non- Cumulative | June 2014 | 60,000 | 25,000 | 1,500 | 5.125% to, but excluding, 6/17/19; 3-mo. LIBOR + 338.7 bps thereafter | 51.25 | 77 | On or after June 17, 2019 |  
+| Series W (2) | 6.625% Non-Cumulative | September 2014 | 44,000 | 25,000 | 1,100 | 6.625 % | 1.66 | 73 | On or after September 9, 2019 |  
+| Series X (4) | Fixed-to-Floating Rate Non- | September 2014 | 80,000 | 25,000 | 2,000 | 6.250% to, but excluding, 9/5/24; 3-mo. LIBOR + 370.5 bps thereafter | 62.50 | 125 | On or after |  
+|| Cumulative |||||||| September 5, 2024 |  
+| Series Y (2) | 6.500% Non-Cumulative | January 2015 | 44,000 | 25,000 | 1,100 | 6.500 % | 1.63 | 72 | On or after January 27, 2020 |  
+| Series Z (4) | Fixed-to-Floating Rate Non- Cumulative | October 2014 | 56,000 | 25,000 | 1,400 | 6.500% to, but excluding, 10/23/24; 3-mo. LIBOR + 417.4 bps thereafter | 65.00 | 91 | On or after October 23, 2024 |  
+| Series AA (4) | Fixed-to-Floating Rate Non- | March 2015 | 76,000 | 25,000 | 1,900 | 6.100% to, but excluding, 3/17/25; 3-mo. LIBOR + 389.8 bps thereafter | 61.00 | | On or after |  
+|| Cumulative ||||||| 116 | March 17, 2025 |  
+| Series CC (2) | 6.200% Non-Cumulative | January 2016 | 44,000 | 25,000 | 1,100 | 6.200 % | 1.55 | 68 | On or after January 29, 2021 |  
+| Series DD (4) | Fixed-to-Floating Rate Non- | March 2016 | 40,000 | 25,000 | | 6.300% to, but excluding, 3/10/26; 3-mo. LIBOR + 455.3 bps thereafter | 63.00 | | On or after |  
+|| Cumulative |||| 1,000 ||| 63 | March 10, 2026 |  
+| Series EE (2) | 6.000% Non-Cumulative | April 2016 | 36,000 | 25,000 | 900 | 6.000 % | 1.50 | 54 | On or after April 25, 2021 |  
+| Series FF (4) | Fixed-to-Floating Rate Non- Cumulative | March 2018 | 94,000 | 25,000 | 2,350 | 5.875% to, but excluding, 3/15/28; 3-mo. LIBOR + 293.1 bps thereafter | 29.38 | 69 | On or after March 15, 2028 |  
+| Series GG (2) | 6.000% Non-Cumulative | May 2018 | 54,000 | 25,000 | 1,350 | 6.000 % | 0.75 | 41 | On or after May 16, 2023 |  
+| Series HH (2) | 5.875% Non-Cumulative | July 2018 | 34,160 | 25,000 | 854 | 5.875 % | 0.73 | 25 | On or after July 24, 2023 |  
+| Series 1 (5) | Floating Rate Non- Cumulative | November 2004 | 3,275 | 30,000 | 98 | 3-mo. LIBOR + 75 bps (6) | 0.76 | 3 | On or after November 28, 2009 |  
+| Series 2 (5) | Floating Rate Non- Cumulative | March 2005 | 9,967 | 30,000 | 299 | 3-mo. LIBOR + 65 bps (6) | 0.76 | 9 | On or after November 28, 2009 |  
+| Series 4 (5) | Floating Rate Non- Cumulative | November 2005 | 7,010 | 30,000 | 210 | 3-mo. LIBOR + 75 bps (3) | 1.01 | 9 | On or after November 28, 2010 |  
+| Series 5 (5) | Floating Rate Non- Cumulative | March 2007 | 14,056 | 30,000 | 422 | 3-mo. LIBOR + 50 bps (3) | 1.01 | 17 | On or after May 21, 2012 |  
+| Issuance costs and certain adjustments || | | | (324) | | | | |  
+| Total | | | 3,843,140 | | $ 22,326 | | | | |  
+  
+(1) The Corporation may redeem series of preferred stock on or after the redemption date, in whole or in part, at its option, at the liquidation preference plus declared and unpaid dividends. Series B and Series L Preferred Stock do not have early redemption/call rights.  
+  
+(2) Ownership is held in the form of depositary shares, each representing a 1/1,000th interest in a share of preferred stock, paying a quarterly cash dividend, if and when  
+  
+declared.  
+  
+(3) Subject to 4.00% minimum rate per  
+  
+annum.  
+  
+(4) Ownership is held in the form of depositary shares, each representing a 1/25th interest in a share of preferred stock, paying a semi-annual cash dividend, if and when declared, until the first redemption date at which time, it adjusts to a quarterly cash dividend, if and when declared, thereafter.  
+  
+declared.  
+  
+(6) Subject to 3.00% minimum rate per  
+  
+annum.  
+  
+n/a = not applicable  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageNumber="139" -->  
+  
+(5) Ownership is held in the form of depositary shares, each representing a 1/1,200th interest in a share of preferred stock, paying a quarterly cash dividend, if and when  

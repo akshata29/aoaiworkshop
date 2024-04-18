@@ -1,0 +1,65 @@
+Bank of America Corporation and Subsidiaries  
+  
+  
+# Consolidated Statement of Cash Flows  
+  
+| (Dollars in millions) | 2018 | 2017 | 2016 |  
+| - | - | - | - |  
+| Operating activities | | | |  
+| Net income | 28,147 | $ 18,232 | $ 17,822 |  
+| Adjustments to reconcile net income to net cash provided by operating activities: | | | |  
+| Provision for credit losses | 3,282 | 3,396 | 3,597 |  
+| Gains on sales of debt securities | (154) | (255) | (490) |  
+| Depreciation and premises improvements amortization | 1,525 | 1,482 | 1,511 |  
+| Amortization of intangibles | 538 | 621 | 730 |  
+| Net amortization of premium/discount on debt securities | 1,824 | 2,251 | 3,134 |  
+| Deferred income taxes | 3,041 | 8,175 | 5,793 |  
+| Stock-based compensation | 1,729 | 1,649 | 1,367 |  
+| Loans held-for-sale: | | | |  
+| Originations and purchases | (28,071) | (43,506) | (33,107) |  
+| Proceeds from sales and paydowns of loans originally classified as held for sale and instruments from related securitization activities | 28,972 | 40,548 | 32,588 |  
+| Net change in: | | | |  
+| Trading and derivative instruments | (23,673) | (14,663) | (2,635) |  
+| Other assets | 11,920 | (20,090) | (14,103) |  
+| Accrued expenses and other liabilities | 13,010 | 4,673 | (35) |  
+| Other operating activities, net | (2,570) | 7,351 | 1,105 |  
+| Net cash provided by operating activities | 39,520 | 9,864 | 17,277 |  
+| Investing activities | | | |  
+| Net change in: | | | |  
+| Time deposits placed and other short-term investments | 3,659 | (1,292) | (2,117) |  
+| Federal funds sold and securities borrowed or purchased under agreements to resell | (48,384) | (14,523) | (5,742) |  
+| Debt securities carried at fair value: | | | |  
+| Proceeds from sales | 5,117 | 73,353 | 71,547 |  
+| Proceeds from paydowns and maturities | 78,513 | 93,874 | 108,592 |  
+| Purchases | (76,640) | (166,975) | (189,061) |  
+| Held-to-maturity debt securities: | | | |  
+| Proceeds from paydowns and maturities | 18,789 | 16,653 | 18,677 |  
+| Purchases | (35,980) | (25,088) | (39,899) |  
+| Loans and leases: | | | |  
+| Proceeds from sales of loans originally classified as held for investment and instruments from related securitization activities | 21,365 | 11,996 | 18,787 |  
+| Purchases | (4,629) | (6,846) | (12,283) |  
+| Other changes in loans and leases, net | (31,292) | (41,104) | (31,194) |  
+| Other investing activities, net | (1,986) | 8,411 | 408 |  
+| Net cash used in investing activities | (71,468) | (51,541) | (62,285) |  
+| Financing activities | | | |  
+| Net change in: | | | |  
+| Deposits | 71,931 | 48,611 | 63,675 |  
+| Federal funds purchased and securities loaned or sold under agreements to repurchase | 10,070 | 7,024 | (4,000) |  
+| Short-term borrowings | (12,478) | 8,538 | (4,014 ) |  
+| Long-term debt: | | | |  
+| Proceeds from issuance | 64,278 | 53,486 | 35,537 |  
+| Retirement | (53,046) | (49,480) | (51,623) |  
+| Preferred stock: | | | |  
+| Proceeds from issuance | 4,515 | | 2,947 |  
+| Redemption | (4,512) | | |  
+| Common stock repurchased | (20,094) | (12,814) | (5,112) |  
+| Cash dividends paid | (6,895) | (5,700) | (4,194) |  
+| Other financing activities, net | (651) | (397) | (63) |  
+| Net cash provided by financing activities | 53,118 | 49,268 | 33,153 |  
+| Effect of exchange rate changes on cash and cash equivalents | (1,200) | 2,105 | 240 |  
+| Net increase (decrease) in cash and cash equivalents | 19,970 | 9,696 | (11,615) |  
+| Cash and cash equivalents at January 1 | 157,434 | 147,738 | 159,353 |  
+| Cash and cash equivalents at December 31 | 177,404 | $ 157,434 | $ 147,738 |  
+| Supplemental cash flow disclosures | | | |  
+| Interest paid | 19,087 | $ 12,852 | $ 10,510 |  
+| Income taxes paid, net | 2,470 | 3,235 | 1,043 |  

@@ -1,0 +1,37 @@
+# Foreign Currency Translation  
+  
+Assets, liabilities and operations of foreign branches and subsidiaries are recorded based on the functional currency of each entity. When the functional currency of a foreign operation is the local currency, the assets, liabilities and operations are translated, for consolidation purposes, from the local currency to the U.S. dollar reporting currency at period-end rates for assets and  
+  
+liabilities and generally at average rates for results of operations. The resulting unrealized gains and losses are reported as a component of accumulated OCI, net- of-tax. When the foreign entity's functional currency is the U.S. dollar, the resulting remeasurement gains or losses on foreign currency-denominated assets or liabilities are included in earnings.  
+  
+  
+# NOTE 2 Noninterest Income  
+  
+The table below presents the Corporation's noninterest income disaggregated by revenue source for2018, 2017 and 2016. For more information, see Note 1 - Summary of Significant Accounting Principles. For a disaggregation of noninterest income by business segment and All Other, see Note 23 - Business Segment Information.  
+  
+| (Dollars in millions) | 2018 | 2017 | 2016 |  
+| - | - | - | - |  
+| Card income | | | |  
+| Interchange fees (1) | 4,093 | $ 3,942 | $ 3,960 |  
+| Other card income | 1,958 | 1,960 | 1,891 |  
+| Total card income | 6,051 | 5,902 | 5,851 |  
+| Service charges | | | |  
+| Deposit-related fees | 6,667 | 6,708 | 6,545 |  
+| Lending-related fees | 1,100 | 1,110 | 1,093 |  
+| Total service charges | 7,767 | 7,818 | 7,638 |  
+| Investment and brokerage services | | | |  
+| Asset management fees | 10,189 | 9,310 | 8,328 |  
+| Brokerage fees | 3,971 | 4,526 | 5,021 |  
+| Total investment and brokerage services | 14,160 | 13,836 | 13,349 |  
+| Investment banking income | | | |  
+| Underwriting income | 2,722 | 2,821 | 2,585 |  
+| Syndication fees | 1,347 | 1,499 | 1,388 |  
+| Financial advisory services | 1,258 | 1,691 | 1,268 |  
+| Total investment banking income | 5,327 | 6,011 | 5,241 |  
+| Trading account profits | 8,540 | 7,277 | 6,902 |  
+| Other income | 1,970 | 1,841 | 3,624 |  
+| Total noninterest income | $ 43,815 | $ 42,685 | $ 42,605 |  
+  
+(1) During 2018, 2017 and 2016, gross interchange fees were $9.5 billion, $8.8 billion and $8.2 billion and are presented net of $5.4 billion, $4.8 billion and $4.2 billion, respectively, of expenses for rewards and partner payments.  
+  
+<!-- PageFooter="Bank of America 2018 100" -->  

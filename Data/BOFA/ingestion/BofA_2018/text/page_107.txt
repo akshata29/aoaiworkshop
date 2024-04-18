@@ -1,0 +1,41 @@
+is expected. Otherwise, the loans are placed on nonaccrual status and reported as nonperforming, except for fully-insured consumer real estate loans, until there is sustained repayment performance for a reasonable period, generally six months. If accruing TDRs cease to perform in accordance with their modified contractual terms, they are placed on nonaccrual status and reported as nonperforming TDRs.  
+  
+Secured consumer loans that have been discharged in Chapter 7 bankruptcy and have not been reaffirmed by the borrower are classified as TDRs at the time of discharge. Such loans are placed on nonaccrual status and written down to the estimated collateral value less costs to sell no later than at the time of discharge. If these loans are contractually current, interest collections are generally recorded in interest income on a cash basis. Consumer real estate-secured loans for which a binding offer to restructure has been extended are also classified as TDRs. Credit card and other unsecured consumer loans that have been renegotiated in a TDR generally remain on accrual status until the loan is either paid in full or charged off, which occurs no later than the end of the month in which the loan becomes 180 days past due or, for loans that have been placed on a fixed payment plan, 120 days past due.  
+  
+A loan that had previously been modified in a TDR and is subsequently refinanced under current underwriting standards at a market rate with no concessionary terms is accounted for as a new loan and is no longer reported as a TDR.  
+  
+  
+# Loans Held-for-sale  
+  
+Loans that are intended to be sold in the foreseeable future, including residential mortgages, loan syndications, and to a lesser degree, commercial real estate, consumer finance and other loans, are reported as LHFS and are carried at the lower of aggregate cost or fair value. The Corporation accounts for certain LHFS, including residential mortgage LHFS, under the fair value option. Loan origination costs related to LHFS that the Corporation accounts for under the fair value option are recognized in noninterest expense when incurred. Loan origination costs for LHFS carried at the lower of cost or fair value are capitalized as part of the carrying value of the loans and recognized as a reduction of noninterest income upon the sale of such loans. LHFS that are on nonaccrual status and are reported as nonperforming, as defined in the policy herein, are reported separately from nonperforming loans and leases.  
+  
+  
+# Premises and Equipment  
+  
+Premises and equipment are carried at cost less accumulated depreciation and amortization. Depreciation and amortization are recognized using the straight-line method over the estimated useful lives of the assets. Estimated lives range up to 40 years for buildings, up to 12 years for furniture and equipment, and the shorter of lease term or estimated useful life for leasehold improvements.  
+  
+  
+## Goodwill and Intangible Assets  
+  
+Goodwill is the purchase premium after adjusting for the fair value of net assets acquired. Goodwill is not amortized but is reviewed for potential impairment on an annual basis, or when events or circumstances indicate a potential impairment, at the reporting unit level. A reporting unit is a business segment or one level below a business segment.  
+  
+The Corporation assesses the fair value of each reporting unit against its carrying value, including goodwill, as measured by allocated equity. For purposes of goodwill impairment testing, the Corporation utilizes allocated equity as a proxy for the carrying value of its reporting units. Allocated equity in the reporting units  
+  
+is comprised of allocated capital plus capital for the portion of goodwill and intangibles specifically assigned to the reporting unit.  
+  
+In performing its goodwill impairment testing, the Corporation first assesses qualitative factors to determine whether it is more likely than not that the fair value of a reporting unit is less than its carrying value. Qualitative factors include, among other things, macroeconomic conditions, industry and market considerations, financial performance of the respective reporting unit and other relevant entity- and reporting-unit specific considerations.  
+  
+If the Corporation concludes it is more likely than not that the fair value of a reporting unit is less than its carrying value, a quantitative assessment is performed. If the fair value of the reporting unit exceeds its carrying value, goodwill of the reporting unit is considered not impaired; however, if the carrying value of the reporting unit exceeds its fair value, an additional step is performed to measure potential impairment.  
+  
+This step involves calculating an implied fair value of goodwill which is the excess of the fair value of the reporting unit, as determined in the first step, over the aggregate fair values of the assets, liabilities and identifiable intangibles as if the reporting unit was being acquired in a business combination. If the implied fair value of goodwill exceeds the goodwill assigned to the reporting unit, there is no impairment. If the goodwill assigned to a reporting unit exceeds the implied fair value of goodwill, an impairment charge is recorded for the excess. An impairment loss recognized cannot exceed the amount of goodwill assigned to a reporting unit. An impairment loss establishes a new basis in the goodwill, and subsequent reversals of goodwill impairment losses are not permitted under applicable accounting guidance.  
+  
+For intangible assets subject to amortization, an impairment loss is recognized if the carrying value of the intangible asset is not recoverable and exceeds fair value. The carrying value of the intangible asset is considered not recoverable if it exceeds the sum of the undiscounted cash flows expected to result from the use of the asset. Intangible assets deemed to have indefinite useful lives are not subject to amortization. An impairment loss is recognized if the carrying value of the intangible asset with an indefinite life exceeds its fair value.  
+  
+  
+## Variable Interest Entities  
+  
+A VIE is an entity that lacks equity investors or whose equity investors do not have a controlling financial interest in the entity through their equity investments. The Corporation consolidates a VIE if it has both the power to direct the activities of the VIE that most significantly impact the VIE's economic performance and an obligation to absorb losses or the right to receive benefits that could potentially be significant to the VIE. On a quarterly basis, the Corporation reassesses its involvement with the VIE and evaluates the impact of changes in governing documents and its financial interests in the VIE. The consolidation status of the VIEs with which the Corporation is involved may change as a result of such reassessments.  
+  
+The Corporation primarily uses VIEs for its securitization activities, in which the Corporation transfers whole loans or debt securities into a trust or other vehicle. When the Corporation is the servicer of whole loans held in a securitization trust, including non-agency residential mortgages, home equity loans, credit cards, and other loans, the Corporation has the power to direct the most significant activities of the trust. The Corporation generally does not have the power to direct the most significant activities of a residential mortgage agency trust except in certain circumstances in which the Corporation holds substantially all of the issued securities and has the unilateral right to liquidate the trust. The power to direct the most significant activities of a commercial  
+  
+97 Bank of America 2018  

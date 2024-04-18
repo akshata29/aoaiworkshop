@@ -1,0 +1,64 @@
+leading digital banking platforms (www.bankofamerica.com) with more than36 million active users, including over26 million active mobile users. We offer industry- leading support to approximately three million small business owners. Our wealth management businesses, with client balances of approximately $2.6 trillion, provide tailored solutions to meet client needs through a full set of investment management, brokerage, banking, trust and retirement products. We are a global leader in corporate and investment banking and trading across a broad range of asset classes serving corporations, governments, institutions and individuals around the world.  
+  
+  
+# Recent Developments  
+  
+  
+# Capital Management  
+  
+During 2018, we repurchased $20.1 billion of common stock pursuant to the Board of Directors' (the Board) repurchase authorizations under our 2018 and 2017 Comprehensive Capital Analysis and Review (CCAR) plans, including repurchases to offset equity-based compensation awards. Also, in addition to the previously announced repurchases associated with the 2018 CCAR capital plan, on February 7, 2019, we announced a plan to repurchase an additional $2.5 billion of common stock through June 30, 2019, which was approved by the Board of Governors of the Federal Reserve System (Federal Reserve). For additional information, see Capital Management on page 43.  
+  
+  
+# U.K. Exit from the EU  
+  
+We conduct business in Europe, the Middle East and Africa primarily through our subsidiaries in the U.K. and Ireland. A referendum held in the U.K. in 2016 resulted in a majority vote in favor of exiting the European Union (EU). In March 2017, the U.K. notified the EU of its intent to withdraw from the EU, which is scheduled to occur on March 29, 2019. Negotiations between the U.K. and the EU regarding the terms, conditions and timing of the withdrawal are ongoing and the outcome remains uncertain. In preparation for the withdrawal, we have implemented changes to our operating model in the region, including establishing our principal EU banking and broker-dealer operations outside the U.K. The changes are expected to enable us to continue to service our clients with minimal disruption, retain operational flexibility, minimize transition risks and maximize legal entity efficiencies, independent of the outcome and timing of the withdrawal.  
+  
+  
+# LIBOR and Other Benchmark Rates  
+  
+The U.K. Financial Conduct Authority (FCA), which regulates the London InterBank Offered Rate (LIBOR), announced in July 2017 that it will no longer persuade or require banks to submit rates for LIBOR after 2021. This announcement along with financial benchmark reforms more generally and changes in the interbank lending markets have resulted in uncertainty about the future of LIBOR and certain other rates or indices used as interest rate "benchmarks." These actions and uncertainties may trigger future changes in the rules or methodologies used to calculate benchmarks or lead to the discontinuation or unavailability of benchmarks.  
+  
+The Corporation has established an enterprise-wide initiative to identify, assess and monitor risks associated with the potential discontinuation or unavailability of benchmarks, including LIBOR, and the transition to alternative reference rates. As part of this initiative, the Corporation is actively engaged with global regulators, industry working groups and trade associations to develop strategies for transitions from current benchmarks to alternative reference rates. We are updating our operational processes and models to support new alternative reference rate  
+  
+activity. In addition, we continue to analyze and evaluate legacy contracts across all products to determine the impact of adiscontinuation of LIBOR or other benchmarks and to address consequential changes to those legacy contracts. Certain actions required to mitigate risks associated with the unavailability of benchmarks and implementation of new methodologies and contractual mechanics are dependent on a consensus being reached by the industry or the markets in various jurisdictions around the world. As a result, there is uncertainty as to the solutions that will be developed to address the unavailability of LIBOR or other benchmarks, as well as the overall impact to our businesses, operations and results. Additionally, any transition from current benchmarks may alter the Corporation's risk profiles and models, valuation tools, product design and effectiveness of hedging strategies, as well as increase the costs and risks related to potential regulatory requirements.  
+  
+  
+# Financial Highlights  
+  
+  
+## Table 1 Summary Income Statement and Selected Financial Data  
+  
+| (Dollars in millions, except per share information) | 2018 | 2017 |  
+| - | - | - |  
+| Income statement | | |  
+| Net interest income | $ 47,432 | $ 44,667 |  
+| Noninterest income | 43,815 | 42,685 |  
+| Total revenue, net of interest expense | 91,247 | 87,352 |  
+| Provision for credit losses | 3,282 | 3,396 |  
+| Noninterest expense | 53,381 | 54,743 |  
+| Income before income taxes | 34,584 | 29,213 |  
+| Income tax expense | 6,437 | 10,981 |  
+| Net income | 28,147 | 18,232 |  
+| Preferred stock dividends | 1,451 | 1,614 |  
+| Net income applicable to common shareholders | $ 26,696 | $ 16,618 |  
+| Per common share information | | |  
+| Earnings | 2.64 | 1.63 |  
+| Diluted earnings | 2.61 | 1.56 |  
+| Dividends paid | 0.54 | 0.39 |  
+| Performance ratios | | |  
+| Return on average assets | 1.21 % | 0.80 % |  
+| Return on average common shareholders' equity | 11.04 | 6.72 |  
+| Return on average tangible common shareholders' equity (1) | 15.55 | 9.41 |  
+| Efficiency ratio | 58.50 | 62.67 |  
+| Balance sheet at year end | | |  
+| Total loans and leases | $ 946,895 | $ 936,749 |  
+| Total assets | 2,354,507 | 2,281,234 |  
+| Total deposits | 1,381,476 | 1,309,545 |  
+| Total common shareholders' equity | 242,999 | 244,823 |  
+| Total shareholders' equity | 265,325 | 267,146 |  
+  
+(1) Return on average tangible common shareholders' equity is a non-GAAP financial measure. For more information and a corresponding reconciliation to accounting principles generally accepted in the United States of America (GAAP) financial measures, see on page 25.  
+  
+Net income was $28.1 billion, or $2.61 per diluted share in2018 compared to $18.2 billion, or $1.56 per diluted share in2017. The improvement in net income was driven by a decrease in income tax expense due to the impacts of the Tax Cuts and Jobs Act (the Tax Act), an increase in net interest income, higher noninterest income, lower provision for credit losses and a decline in noninterest expense. Impacts from the Tax Act include a reduction in the federal corporate income tax rate to 21 percent from 35 percent. In addition, results for 2017 included a reduction in net income of $2.9 billion due to the Tax Act, driven largely by a lower valuation of certain U.S. deferred tax assets and liabilities.  
+  
+<!-- PageFooter="21 Bank of America 2018" -->  

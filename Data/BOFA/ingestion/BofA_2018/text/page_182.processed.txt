@@ -1,0 +1,49 @@
+Glossary  
+  
+Alt-A Mortgage - A type of U.S. mortgage that is considered riskier than A-paper, or "prime," and less risky than "subprime," the riskiest category. Typically, Alt-A mortgages are characterized by borrowers with less than full documentation, lower credit scores and higher LTVs.  
+  
+Assets Under Management (AUM)- The total market value of assets under the investment advisory and/or discretion of GWIM which generate asset management fees based on a percentage of the assets' market values. AUM reflects assets that are generally managed for institutional, high net worth and retail clients, and are distributed through various investment products including mutual funds, other commingled vehicles and separate accounts.  
+  
+Banking Book - All on- and off-balance sheet financial instruments of the Corporation except for those positions that are held for trading purposes.  
+  
+Brokerage and Other Assets - Non-discretionary client assets which are held in brokerage accounts or held for safekeeping.  
+  
+Committed Credit Exposure - Any funded portion of a facility plus the unfunded portion of a facility on which the lender is legally bound to advance funds during a specified period under prescribed conditions.  
+  
+Credit Derivatives - Contractual agreements that provide protection against a specified credit event on one or more referenced obligations.  
+  
+Credit Valuation Adjustment (CVA) - A portfolio adjustment required to properly reflect the counterparty credit risk exposure as part of the fair value of derivative instruments.  
+  
+Debit Valuation Adjustment (DVA) - A portfolio adjustment required to properly reflect the Corporation's own credit risk exposure as part of the fair value of derivative instruments and/or structured liabilities.  
+  
+Funding Valuation Adjustment (FVA) - A portfolio adjustment required to include funding costs on uncollateralized derivatives and derivatives where the Corporation is not permitted to use the collateral it receives.  
+  
+Interest Rate Lock Commitment (IRLC) - Commitment with a loan applicant in which the loan terms are guaranteed for a designated period of time subject to credit approval.  
+  
+Letter of Credit - A document issued on behalf of a customer to a third party promising to pay the third party upon presentation of specified documents. A letter of credit effectively substitutes the issuer's credit for that of the customer.  
+  
+Loan-to-value (LTV) - A commonly used credit quality metric. LTV is calculated as the outstanding carrying value of the loan divided by the estimated value of the property securing the loan.  
+  
+Margin Receivable - An extension of credit secured by eligible securities in certain brokerage accounts.  
+  
+Matched Book - Repurchase and resale agreements or securities borrowed and loaned transactions where the overall asset and liability position is similar in size and/or maturity. Generally, these are entered into to accommodate customers where the Corporation earns the interest rate spread.  
+  
+Mortgage Servicing Rights (MSR) - The right to service a mortgage loan when the underlying loan is sold or securitized. Servicing includes collections for principal, interest and escrow payments from borrowers and accounting for and remitting principal and interest payments to investors.  
+  
+Net Interest Yield - Net interest income divided by average total interest-earning assets.  
+  
+Nonperforming Loans and Leases - Includes loans and leases that have been placed on nonaccrual status, including nonaccruing loans whose contractual terms have been restructured in a manner that grants a concession to a borrower experiencing financial difficulties.  
+  
+Operating Margin - Income before income taxes divided by total revenue, net of interest expense.  
+  
+Prompt Corrective Action (PCA) - A framework established by the U.S. banking regulators requiring banks to maintain certain levels of regulatory capital ratios, comprised of five categories of capitalization: "well capitalized," "adequately capitalized," "undercapitalized," "significantly undercapitalized" and "critically undercapitalized." Insured depository institutions that fail to meet certain of these capital levels are subject to increasingly strict limits on their activities, including their ability to make capital distributions, pay management compensation, grow assets and take other actions.  
+  
+Subprime Loans - Although a standard industry definition for subprime loans (including subprime mortgage loans) does not exist, the Corporation defines subprime loans as specific product offerings for higher risk borrowers.  
+  
+Troubled Debt Restructurings (TDRs) - Loans whose contractual terms have been restructured in a manner that grants a concession to a borrower experiencing financial difficulties. Certain consumer loans for which a binding offer to restructure has been extended are also classified as TDRs.  
+  
+Value-at-Risk (VaR) - VaR is a model that simulates the value of a portfolio under a range of hypothetical scenarios in order to generate a distribution of potential gains and losses. VaR represents the loss the portfolio is expected to experience with a given confidence level based on historical data. A VaR model is an effective tool in estimating ranges of potential gains and losses on our trading portfolios.  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageNumber="168" -->  

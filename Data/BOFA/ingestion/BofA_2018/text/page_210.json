@@ -1,0 +1,3449 @@
+{
+    "status": "succeeded",
+    "createdDateTime": "2024-03-08T21:25:19Z",
+    "lastUpdatedDateTime": "2024-03-08T21:25:21Z",
+    "analyzeResult": {
+        "apiVersion": "2023-10-31-preview",
+        "modelId": "prebuilt-layout",
+        "stringIndexType": "utf16CodeUnit",
+        "content": "<!-- PageHeader=\"Exhibit 32(a)\" -->\n\nCERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002\n===\n\nI, Brian T. Moynihan, state and attest that:\n\n1\\. I am the Chief Executive Officer of Bank of America Corporation (the registrant).\n\n2\\. I hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that:\n\n. the Annual Report on Form 10-K of the registrant for the year endedDecember 31, 2018 (the periodic report) containing financial statements fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m or 780(d)); and\n\n\u00b7 the information contained in the periodic report fairly presents, in all material respects, the financial condition and results of operations of the registrant.\n\nDate:\n\nFebruary 26, 2019\n\n/s/ Brian T. Moynihan\n\nBrian T. Moynihan\n\nChief Executive Officer\n",
+        "pages": [
+            {
+                "pageNumber": 1,
+                "angle": 0,
+                "width": 2550,
+                "height": 3300,
+                "unit": "pixel",
+                "words": [
+                    {
+                        "content": "Exhibit",
+                        "polygon": [
+                            2216,
+                            194,
+                            2321,
+                            194,
+                            2321,
+                            230,
+                            2217,
+                            229
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 17,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "32(a)",
+                        "polygon": [
+                            2330,
+                            194,
+                            2402,
+                            195,
+                            2402,
+                            230,
+                            2330,
+                            230
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 25,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "CERTIFICATION",
+                        "polygon": [
+                            839,
+                            288,
+                            1070,
+                            287,
+                            1070,
+                            323,
+                            839,
+                            321
+                        ],
+                        "confidence": 0.989,
+                        "span": {
+                            "offset": 37,
+                            "length": 13
+                        }
+                    },
+                    {
+                        "content": "PURSUANT",
+                        "polygon": [
+                            1083,
+                            287,
+                            1247,
+                            286,
+                            1246,
+                            323,
+                            1082,
+                            323
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 51,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "TO",
+                        "polygon": [
+                            1256,
+                            286,
+                            1296,
+                            286,
+                            1295,
+                            323,
+                            1255,
+                            323
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 60,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "18",
+                        "polygon": [
+                            1308,
+                            286,
+                            1339,
+                            286,
+                            1338,
+                            323,
+                            1307,
+                            323
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 63,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "U.S.C.",
+                        "polygon": [
+                            1349,
+                            286,
+                            1435,
+                            287,
+                            1434,
+                            323,
+                            1348,
+                            323
+                        ],
+                        "confidence": 0.99,
+                        "span": {
+                            "offset": 66,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "SECTION",
+                        "polygon": [
+                            1446,
+                            287,
+                            1576,
+                            287,
+                            1575,
+                            323,
+                            1444,
+                            323
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 73,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "1350,",
+                        "polygon": [
+                            1588,
+                            287,
+                            1667,
+                            288,
+                            1666,
+                            323,
+                            1586,
+                            323
+                        ],
+                        "confidence": 0.986,
+                        "span": {
+                            "offset": 81,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "AS",
+                        "polygon": [
+                            934,
+                            324,
+                            979,
+                            324,
+                            979,
+                            356,
+                            934,
+                            356
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 87,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "ADOPTED",
+                        "polygon": [
+                            988,
+                            324,
+                            1134,
+                            323,
+                            1134,
+                            357,
+                            988,
+                            356
+                        ],
+                        "confidence": 0.977,
+                        "span": {
+                            "offset": 90,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "PURSUANT",
+                        "polygon": [
+                            1145,
+                            323,
+                            1310,
+                            323,
+                            1309,
+                            357,
+                            1145,
+                            357
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 98,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "TO",
+                        "polygon": [
+                            1319,
+                            323,
+                            1359,
+                            323,
+                            1359,
+                            357,
+                            1318,
+                            357
+                        ],
+                        "confidence": 0.997,
+                        "span": {
+                            "offset": 107,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "SECTION",
+                        "polygon": [
+                            1370,
+                            323,
+                            1500,
+                            323,
+                            1499,
+                            356,
+                            1369,
+                            357
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 110,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "906",
+                        "polygon": [
+                            1511,
+                            323,
+                            1564,
+                            324,
+                            1564,
+                            356,
+                            1510,
+                            356
+                        ],
+                        "confidence": 0.999,
+                        "span": {
+                            "offset": 118,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "OF",
+                        "polygon": [
+                            949,
+                            360,
+                            994,
+                            359,
+                            994,
+                            391,
+                            949,
+                            391
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 122,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "THE",
+                        "polygon": [
+                            1003,
+                            359,
+                            1062,
+                            358,
+                            1062,
+                            392,
+                            1003,
+                            391
+                        ],
+                        "confidence": 0.999,
+                        "span": {
+                            "offset": 125,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "SARBANES-OXLEY",
+                        "polygon": [
+                            1073,
+                            358,
+                            1352,
+                            357,
+                            1351,
+                            392,
+                            1073,
+                            392
+                        ],
+                        "confidence": 0.969,
+                        "span": {
+                            "offset": 129,
+                            "length": 14
+                        }
+                    },
+                    {
+                        "content": "ACT",
+                        "polygon": [
+                            1360,
+                            357,
+                            1422,
+                            357,
+                            1421,
+                            392,
+                            1359,
+                            392
+                        ],
+                        "confidence": 0.999,
+                        "span": {
+                            "offset": 144,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "OF",
+                        "polygon": [
+                            1431,
+                            357,
+                            1471,
+                            358,
+                            1470,
+                            392,
+                            1430,
+                            392
+                        ],
+                        "confidence": 0.997,
+                        "span": {
+                            "offset": 148,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "2002",
+                        "polygon": [
+                            1481,
+                            358,
+                            1551,
+                            358,
+                            1551,
+                            392,
+                            1480,
+                            392
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 151,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "I,",
+                        "polygon": [
+                            99,
+                            415,
+                            115,
+                            415,
+                            115,
+                            450,
+                            99,
+                            450
+                        ],
+                        "confidence": 0.766,
+                        "span": {
+                            "offset": 161,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "Brian",
+                        "polygon": [
+                            127,
+                            415,
+                            194,
+                            415,
+                            194,
+                            449,
+                            127,
+                            450
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 164,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "T.",
+                        "polygon": [
+                            205,
+                            415,
+                            229,
+                            415,
+                            229,
+                            449,
+                            205,
+                            449
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 170,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "Moynihan,",
+                        "polygon": [
+                            241,
+                            415,
+                            376,
+                            415,
+                            375,
+                            448,
+                            241,
+                            449
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 173,
+                            "length": 9
+                        }
+                    },
+                    {
+                        "content": "state",
+                        "polygon": [
+                            387,
+                            415,
+                            450,
+                            415,
+                            450,
+                            448,
+                            386,
+                            448
+                        ],
+                        "confidence": 0.997,
+                        "span": {
+                            "offset": 183,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "and",
+                        "polygon": [
+                            460,
+                            415,
+                            508,
+                            415,
+                            507,
+                            447,
+                            460,
+                            448
+                        ],
+                        "confidence": 0.999,
+                        "span": {
+                            "offset": 189,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "attest",
+                        "polygon": [
+                            518,
+                            415,
+                            592,
+                            415,
+                            591,
+                            447,
+                            517,
+                            447
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 193,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "that:",
+                        "polygon": [
+                            600,
+                            415,
+                            658,
+                            414,
+                            658,
+                            446,
+                            599,
+                            447
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 200,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "1\\.",
+                        "polygon": [
+                            193,
+                            470,
+                            215,
+                            470,
+                            214,
+                            501,
+                            192,
+                            501
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 207,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "I",
+                        "polygon": [
+                            253,
+                            470,
+                            258,
+                            470,
+                            257,
+                            501,
+                            252,
+                            501
+                        ],
+                        "confidence": 0.113,
+                        "span": {
+                            "offset": 211,
+                            "length": 1
+                        }
+                    },
+                    {
+                        "content": "am",
+                        "polygon": [
+                            281,
+                            470,
+                            321,
+                            470,
+                            320,
+                            501,
+                            280,
+                            501
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 213,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "the",
+                        "polygon": [
+                            342,
+                            470,
+                            383,
+                            470,
+                            382,
+                            502,
+                            341,
+                            501
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 216,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "Chief",
+                        "polygon": [
+                            404,
+                            470,
+                            475,
+                            470,
+                            474,
+                            502,
+                            403,
+                            502
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 220,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "Executive",
+                        "polygon": [
+                            495,
+                            469,
+                            622,
+                            469,
+                            622,
+                            503,
+                            495,
+                            502
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 226,
+                            "length": 9
+                        }
+                    },
+                    {
+                        "content": "Officer",
+                        "polygon": [
+                            645,
+                            469,
+                            732,
+                            469,
+                            732,
+                            503,
+                            644,
+                            503
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 236,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "of",
+                        "polygon": [
+                            753,
+                            469,
+                            778,
+                            469,
+                            778,
+                            503,
+                            752,
+                            503
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 244,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "Bank",
+                        "polygon": [
+                            799,
+                            469,
+                            866,
+                            469,
+                            865,
+                            503,
+                            798,
+                            503
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 247,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "of",
+                        "polygon": [
+                            886,
+                            469,
+                            911,
+                            469,
+                            911,
+                            503,
+                            885,
+                            503
+                        ],
+                        "confidence": 0.998,
+                        "span": {
+                            "offset": 252,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "America",
+                        "polygon": [
+                            928,
+                            469,
+                            1037,
+                            469,
+                            1037,
+                            503,
+                            928,
+                            503
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 255,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "Corporation",
+                        "polygon": [
+                            1060,
+                            469,
+                            1213,
+                            469,
+                            1213,
+                            503,
+                            1060,
+                            503
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 263,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "(the",
+                        "polygon": [
+                            1236,
+                            469,
+                            1292,
+                            469,
+                            1292,
+                            503,
+                            1236,
+                            503
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 275,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "registrant).",
+                        "polygon": [
+                            249,
+                            508,
+                            396,
+                            506,
+                            396,
+                            539,
+                            249,
+                            537
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 280,
+                            "length": 12
+                        }
+                    },
+                    {
+                        "content": "2\\.",
+                        "polygon": [
+                            191,
+                            560,
+                            216,
+                            560,
+                            214,
+                            593,
+                            189,
+                            593
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 294,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "I",
+                        "polygon": [
+                            253,
+                            560,
+                            258,
+                            560,
+                            257,
+                            593,
+                            251,
+                            593
+                        ],
+                        "confidence": 0.769,
+                        "span": {
+                            "offset": 298,
+                            "length": 1
+                        }
+                    },
+                    {
+                        "content": "hereby",
+                        "polygon": [
+                            271,
+                            560,
+                            361,
+                            560,
+                            360,
+                            593,
+                            269,
+                            593
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 300,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "certify,",
+                        "polygon": [
+                            372,
+                            560,
+                            456,
+                            560,
+                            454,
+                            593,
+                            370,
+                            593
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 307,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "pursuant",
+                        "polygon": [
+                            468,
+                            560,
+                            584,
+                            560,
+                            583,
+                            592,
+                            466,
+                            593
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 316,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "to",
+                        "polygon": [
+                            593,
+                            560,
+                            618,
+                            560,
+                            616,
+                            592,
+                            592,
+                            592
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 325,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "18",
+                        "polygon": [
+                            631,
+                            560,
+                            661,
+                            560,
+                            659,
+                            592,
+                            629,
+                            592
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 328,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "U.S.C.",
+                        "polygon": [
+                            673,
+                            560,
+                            758,
+                            560,
+                            757,
+                            592,
+                            671,
+                            592
+                        ],
+                        "confidence": 0.989,
+                        "span": {
+                            "offset": 331,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "Section",
+                        "polygon": [
+                            770,
+                            560,
+                            868,
+                            560,
+                            867,
+                            592,
+                            769,
+                            592
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 338,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "1350,",
+                        "polygon": [
+                            881,
+                            560,
+                            952,
+                            560,
+                            951,
+                            592,
+                            880,
+                            592
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 346,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "as",
+                        "polygon": [
+                            965,
+                            560,
+                            995,
+                            560,
+                            994,
+                            593,
+                            963,
+                            592
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 352,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "adopted",
+                        "polygon": [
+                            1007,
+                            560,
+                            1112,
+                            560,
+                            1111,
+                            593,
+                            1005,
+                            593
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 355,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "pursuant",
+                        "polygon": [
+                            1125,
+                            560,
+                            1241,
+                            560,
+                            1240,
+                            593,
+                            1124,
+                            593
+                        ],
+                        "confidence": 0.99,
+                        "span": {
+                            "offset": 363,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "to",
+                        "polygon": [
+                            1250,
+                            560,
+                            1275,
+                            560,
+                            1273,
+                            593,
+                            1249,
+                            593
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 372,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "Section",
+                        "polygon": [
+                            1286,
+                            560,
+                            1384,
+                            560,
+                            1383,
+                            593,
+                            1285,
+                            593
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 375,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "906",
+                        "polygon": [
+                            1396,
+                            560,
+                            1444,
+                            560,
+                            1443,
+                            593,
+                            1394,
+                            593
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 383,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "of",
+                        "polygon": [
+                            1455,
+                            560,
+                            1481,
+                            560,
+                            1479,
+                            593,
+                            1454,
+                            593
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 387,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "the",
+                        "polygon": [
+                            1489,
+                            560,
+                            1530,
+                            560,
+                            1529,
+                            593,
+                            1488,
+                            593
+                        ],
+                        "confidence": 0.999,
+                        "span": {
+                            "offset": 390,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "Sarbanes-Oxley",
+                        "polygon": [
+                            1542,
+                            560,
+                            1755,
+                            559,
+                            1754,
+                            593,
+                            1541,
+                            593
+                        ],
+                        "confidence": 0.989,
+                        "span": {
+                            "offset": 394,
+                            "length": 14
+                        }
+                    },
+                    {
+                        "content": "Act",
+                        "polygon": [
+                            1763,
+                            559,
+                            1807,
+                            559,
+                            1806,
+                            593,
+                            1762,
+                            593
+                        ],
+                        "confidence": 0.998,
+                        "span": {
+                            "offset": 409,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "of",
+                        "polygon": [
+                            1817,
+                            559,
+                            1842,
+                            559,
+                            1842,
+                            593,
+                            1816,
+                            593
+                        ],
+                        "confidence": 0.998,
+                        "span": {
+                            "offset": 413,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "2002,",
+                        "polygon": [
+                            1852,
+                            559,
+                            1929,
+                            559,
+                            1929,
+                            593,
+                            1851,
+                            593
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 416,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "that:",
+                        "polygon": [
+                            247,
+                            595,
+                            311,
+                            596,
+                            311,
+                            626,
+                            247,
+                            625
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 422,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": ".",
+                        "polygon": [
+                            310,
+                            654,
+                            327,
+                            654,
+                            327,
+                            674,
+                            310,
+                            673
+                        ],
+                        "confidence": 0.68,
+                        "span": {
+                            "offset": 429,
+                            "length": 1
+                        }
+                    },
+                    {
+                        "content": "the",
+                        "polygon": [
+                            366,
+                            648,
+                            413,
+                            648,
+                            411,
+                            683,
+                            364,
+                            683
+                        ],
+                        "confidence": 0.998,
+                        "span": {
+                            "offset": 431,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "Annual",
+                        "polygon": [
+                            420,
+                            648,
+                            513,
+                            648,
+                            511,
+                            683,
+                            419,
+                            683
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 435,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "Report",
+                        "polygon": [
+                            524,
+                            648,
+                            613,
+                            648,
+                            611,
+                            683,
+                            522,
+                            683
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 442,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "on",
+                        "polygon": [
+                            623,
+                            648,
+                            655,
+                            649,
+                            653,
+                            683,
+                            621,
+                            683
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 449,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "Form",
+                        "polygon": [
+                            666,
+                            649,
+                            733,
+                            649,
+                            732,
+                            683,
+                            664,
+                            683
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 452,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "10-K",
+                        "polygon": [
+                            746,
+                            649,
+                            807,
+                            649,
+                            805,
+                            683,
+                            744,
+                            683
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 457,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "of",
+                        "polygon": [
+                            816,
+                            649,
+                            842,
+                            649,
+                            840,
+                            683,
+                            814,
+                            683
+                        ],
+                        "confidence": 0.997,
+                        "span": {
+                            "offset": 462,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "the",
+                        "polygon": [
+                            850,
+                            649,
+                            891,
+                            649,
+                            889,
+                            683,
+                            848,
+                            683
+                        ],
+                        "confidence": 0.998,
+                        "span": {
+                            "offset": 465,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "registrant",
+                        "polygon": [
+                            902,
+                            649,
+                            1026,
+                            649,
+                            1024,
+                            683,
+                            900,
+                            683
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 469,
+                            "length": 10
+                        }
+                    },
+                    {
+                        "content": "for",
+                        "polygon": [
+                            1034,
+                            649,
+                            1070,
+                            649,
+                            1068,
+                            683,
+                            1032,
+                            683
+                        ],
+                        "confidence": 0.999,
+                        "span": {
+                            "offset": 480,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "the",
+                        "polygon": [
+                            1079,
+                            649,
+                            1120,
+                            649,
+                            1118,
+                            683,
+                            1078,
+                            683
+                        ],
+                        "confidence": 0.999,
+                        "span": {
+                            "offset": 484,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "year",
+                        "polygon": [
+                            1130,
+                            649,
+                            1189,
+                            649,
+                            1187,
+                            683,
+                            1128,
+                            683
+                        ],
+                        "confidence": 0.992,
+                        "span": {
+                            "offset": 488,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "endedDecember",
+                        "polygon": [
+                            1198,
+                            649,
+                            1403,
+                            650,
+                            1401,
+                            683,
+                            1196,
+                            683
+                        ],
+                        "confidence": 0.992,
+                        "span": {
+                            "offset": 493,
+                            "length": 13
+                        }
+                    },
+                    {
+                        "content": "31,",
+                        "polygon": [
+                            1411,
+                            650,
+                            1448,
+                            650,
+                            1446,
+                            683,
+                            1409,
+                            683
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 507,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "2018",
+                        "polygon": [
+                            1456,
+                            650,
+                            1514,
+                            650,
+                            1512,
+                            683,
+                            1454,
+                            683
+                        ],
+                        "confidence": 0.983,
+                        "span": {
+                            "offset": 511,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "(the",
+                        "polygon": [
+                            1525,
+                            650,
+                            1575,
+                            650,
+                            1573,
+                            684,
+                            1524,
+                            683
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 516,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "periodic",
+                        "polygon": [
+                            1586,
+                            650,
+                            1690,
+                            650,
+                            1688,
+                            684,
+                            1584,
+                            684
+                        ],
+                        "confidence": 0.983,
+                        "span": {
+                            "offset": 521,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "report)",
+                        "polygon": [
+                            1701,
+                            650,
+                            1788,
+                            650,
+                            1786,
+                            684,
+                            1699,
+                            684
+                        ],
+                        "confidence": 0.947,
+                        "span": {
+                            "offset": 530,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "containing",
+                        "polygon": [
+                            1799,
+                            650,
+                            1933,
+                            650,
+                            1932,
+                            684,
+                            1797,
+                            684
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 538,
+                            "length": 10
+                        }
+                    },
+                    {
+                        "content": "financial",
+                        "polygon": [
+                            1943,
+                            650,
+                            2052,
+                            650,
+                            2051,
+                            684,
+                            1942,
+                            684
+                        ],
+                        "confidence": 0.988,
+                        "span": {
+                            "offset": 549,
+                            "length": 9
+                        }
+                    },
+                    {
+                        "content": "statements",
+                        "polygon": [
+                            2064,
+                            650,
+                            2210,
+                            650,
+                            2208,
+                            684,
+                            2062,
+                            684
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 559,
+                            "length": 10
+                        }
+                    },
+                    {
+                        "content": "fully",
+                        "polygon": [
+                            2219,
+                            650,
+                            2273,
+                            650,
+                            2271,
+                            684,
+                            2217,
+                            684
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 570,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "complies",
+                        "polygon": [
+                            2283,
+                            650,
+                            2405,
+                            650,
+                            2405,
+                            684,
+                            2281,
+                            684
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 576,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "with",
+                        "polygon": [
+                            368,
+                            685,
+                            423,
+                            685,
+                            423,
+                            719,
+                            367,
+                            718
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 585,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "the",
+                        "polygon": [
+                            433,
+                            685,
+                            472,
+                            685,
+                            471,
+                            719,
+                            432,
+                            719
+                        ],
+                        "confidence": 0.999,
+                        "span": {
+                            "offset": 590,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "requirements",
+                        "polygon": [
+                            479,
+                            685,
+                            657,
+                            684,
+                            657,
+                            719,
+                            478,
+                            719
+                        ],
+                        "confidence": 0.991,
+                        "span": {
+                            "offset": 594,
+                            "length": 12
+                        }
+                    },
+                    {
+                        "content": "of",
+                        "polygon": [
+                            667,
+                            684,
+                            692,
+                            684,
+                            691,
+                            719,
+                            666,
+                            719
+                        ],
+                        "confidence": 0.997,
+                        "span": {
+                            "offset": 607,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "Section",
+                        "polygon": [
+                            701,
+                            684,
+                            798,
+                            683,
+                            797,
+                            719,
+                            700,
+                            719
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 610,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "13(a)",
+                        "polygon": [
+                            810,
+                            683,
+                            877,
+                            683,
+                            876,
+                            720,
+                            809,
+                            719
+                        ],
+                        "confidence": 0.989,
+                        "span": {
+                            "offset": 618,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "or",
+                        "polygon": [
+                            887,
+                            683,
+                            914,
+                            683,
+                            913,
+                            720,
+                            886,
+                            720
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 624,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "15(d)",
+                        "polygon": [
+                            924,
+                            683,
+                            990,
+                            683,
+                            989,
+                            720,
+                            923,
+                            720
+                        ],
+                        "confidence": 0.957,
+                        "span": {
+                            "offset": 627,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "of",
+                        "polygon": [
+                            1000,
+                            683,
+                            1026,
+                            683,
+                            1025,
+                            720,
+                            999,
+                            720
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 633,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "the",
+                        "polygon": [
+                            1033,
+                            683,
+                            1074,
+                            683,
+                            1073,
+                            720,
+                            1032,
+                            720
+                        ],
+                        "confidence": 0.997,
+                        "span": {
+                            "offset": 636,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "Securities",
+                        "polygon": [
+                            1084,
+                            683,
+                            1213,
+                            683,
+                            1213,
+                            720,
+                            1083,
+                            720
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 640,
+                            "length": 10
+                        }
+                    },
+                    {
+                        "content": "Exchange",
+                        "polygon": [
+                            1224,
+                            683,
+                            1355,
+                            683,
+                            1354,
+                            720,
+                            1224,
+                            720
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 651,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "Act",
+                        "polygon": [
+                            1364,
+                            683,
+                            1408,
+                            683,
+                            1407,
+                            719,
+                            1363,
+                            720
+                        ],
+                        "confidence": 0.997,
+                        "span": {
+                            "offset": 660,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "of",
+                        "polygon": [
+                            1417,
+                            683,
+                            1442,
+                            683,
+                            1441,
+                            719,
+                            1416,
+                            719
+                        ],
+                        "confidence": 0.998,
+                        "span": {
+                            "offset": 664,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "1934",
+                        "polygon": [
+                            1452,
+                            683,
+                            1515,
+                            683,
+                            1514,
+                            719,
+                            1451,
+                            719
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 667,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "(15",
+                        "polygon": [
+                            1526,
+                            683,
+                            1567,
+                            684,
+                            1566,
+                            719,
+                            1525,
+                            719
+                        ],
+                        "confidence": 0.997,
+                        "span": {
+                            "offset": 672,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "U.S.C.",
+                        "polygon": [
+                            1578,
+                            684,
+                            1663,
+                            684,
+                            1662,
+                            719,
+                            1577,
+                            719
+                        ],
+                        "confidence": 0.968,
+                        "span": {
+                            "offset": 676,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "78m",
+                        "polygon": [
+                            1674,
+                            684,
+                            1730,
+                            684,
+                            1729,
+                            719,
+                            1673,
+                            719
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 683,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "or",
+                        "polygon": [
+                            1740,
+                            684,
+                            1767,
+                            684,
+                            1766,
+                            719,
+                            1739,
+                            719
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 687,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "780(d));",
+                        "polygon": [
+                            1775,
+                            684,
+                            1877,
+                            685,
+                            1876,
+                            718,
+                            1774,
+                            719
+                        ],
+                        "confidence": 0.759,
+                        "span": {
+                            "offset": 690,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "and",
+                        "polygon": [
+                            1888,
+                            685,
+                            1941,
+                            685,
+                            1941,
+                            718,
+                            1887,
+                            718
+                        ],
+                        "confidence": 0.999,
+                        "span": {
+                            "offset": 699,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "\u00b7",
+                        "polygon": [
+                            309,
+                            744,
+                            331,
+                            744,
+                            332,
+                            766,
+                            309,
+                            767
+                        ],
+                        "confidence": 0.176,
+                        "span": {
+                            "offset": 704,
+                            "length": 1
+                        }
+                    },
+                    {
+                        "content": "the",
+                        "polygon": [
+                            364,
+                            738,
+                            412,
+                            738,
+                            412,
+                            774,
+                            364,
+                            774
+                        ],
+                        "confidence": 0.998,
+                        "span": {
+                            "offset": 706,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "information",
+                        "polygon": [
+                            427,
+                            739,
+                            572,
+                            739,
+                            572,
+                            775,
+                            427,
+                            774
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 710,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "contained",
+                        "polygon": [
+                            588,
+                            739,
+                            716,
+                            739,
+                            716,
+                            775,
+                            588,
+                            775
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 722,
+                            "length": 9
+                        }
+                    },
+                    {
+                        "content": "in",
+                        "polygon": [
+                            733,
+                            739,
+                            752,
+                            739,
+                            752,
+                            775,
+                            733,
+                            775
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 732,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "the",
+                        "polygon": [
+                            768,
+                            739,
+                            808,
+                            739,
+                            808,
+                            775,
+                            768,
+                            775
+                        ],
+                        "confidence": 0.999,
+                        "span": {
+                            "offset": 735,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "periodic",
+                        "polygon": [
+                            823,
+                            739,
+                            927,
+                            739,
+                            927,
+                            776,
+                            823,
+                            775
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 739,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "report",
+                        "polygon": [
+                            941,
+                            739,
+                            1019,
+                            739,
+                            1019,
+                            776,
+                            941,
+                            776
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 748,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "fairly",
+                        "polygon": [
+                            1031,
+                            739,
+                            1095,
+                            739,
+                            1095,
+                            776,
+                            1031,
+                            776
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 755,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "presents,",
+                        "polygon": [
+                            1109,
+                            739,
+                            1229,
+                            739,
+                            1229,
+                            776,
+                            1109,
+                            776
+                        ],
+                        "confidence": 0.986,
+                        "span": {
+                            "offset": 762,
+                            "length": 9
+                        }
+                    },
+                    {
+                        "content": "in",
+                        "polygon": [
+                            1246,
+                            739,
+                            1266,
+                            739,
+                            1266,
+                            776,
+                            1246,
+                            776
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 772,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "all",
+                        "polygon": [
+                            1282,
+                            739,
+                            1309,
+                            739,
+                            1309,
+                            776,
+                            1282,
+                            776
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 775,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "material",
+                        "polygon": [
+                            1326,
+                            739,
+                            1429,
+                            739,
+                            1429,
+                            776,
+                            1326,
+                            776
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 779,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "respects,",
+                        "polygon": [
+                            1445,
+                            739,
+                            1563,
+                            739,
+                            1563,
+                            776,
+                            1445,
+                            776
+                        ],
+                        "confidence": 0.976,
+                        "span": {
+                            "offset": 788,
+                            "length": 9
+                        }
+                    },
+                    {
+                        "content": "the",
+                        "polygon": [
+                            1579,
+                            739,
+                            1620,
+                            739,
+                            1620,
+                            775,
+                            1579,
+                            776
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 798,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "financial",
+                        "polygon": [
+                            1633,
+                            739,
+                            1742,
+                            739,
+                            1742,
+                            775,
+                            1633,
+                            775
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 802,
+                            "length": 9
+                        }
+                    },
+                    {
+                        "content": "condition",
+                        "polygon": [
+                            1757,
+                            739,
+                            1875,
+                            739,
+                            1875,
+                            775,
+                            1757,
+                            775
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 812,
+                            "length": 9
+                        }
+                    },
+                    {
+                        "content": "and",
+                        "polygon": [
+                            1891,
+                            739,
+                            1938,
+                            739,
+                            1938,
+                            775,
+                            1891,
+                            775
+                        ],
+                        "confidence": 0.998,
+                        "span": {
+                            "offset": 822,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "results",
+                        "polygon": [
+                            1955,
+                            739,
+                            2041,
+                            739,
+                            2041,
+                            774,
+                            1955,
+                            775
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 826,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "of",
+                        "polygon": [
+                            2056,
+                            739,
+                            2081,
+                            739,
+                            2081,
+                            774,
+                            2056,
+                            774
+                        ],
+                        "confidence": 0.998,
+                        "span": {
+                            "offset": 834,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "operations",
+                        "polygon": [
+                            2094,
+                            738,
+                            2232,
+                            738,
+                            2232,
+                            773,
+                            2094,
+                            774
+                        ],
+                        "confidence": 0.989,
+                        "span": {
+                            "offset": 837,
+                            "length": 10
+                        }
+                    },
+                    {
+                        "content": "of",
+                        "polygon": [
+                            2246,
+                            738,
+                            2273,
+                            738,
+                            2273,
+                            773,
+                            2246,
+                            773
+                        ],
+                        "confidence": 0.998,
+                        "span": {
+                            "offset": 848,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "the",
+                        "polygon": [
+                            2284,
+                            738,
+                            2330,
+                            738,
+                            2330,
+                            773,
+                            2284,
+                            773
+                        ],
+                        "confidence": 0.999,
+                        "span": {
+                            "offset": 851,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "registrant.",
+                        "polygon": [
+                            367,
+                            777,
+                            506,
+                            775,
+                            506,
+                            808,
+                            366,
+                            807
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 855,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "Date:",
+                        "polygon": [
+                            113,
+                            875,
+                            194,
+                            875,
+                            193,
+                            906,
+                            113,
+                            905
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 868,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "February",
+                        "polygon": [
+                            253,
+                            875,
+                            373,
+                            875,
+                            373,
+                            906,
+                            252,
+                            906
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 875,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "26,",
+                        "polygon": [
+                            383,
+                            875,
+                            428,
+                            875,
+                            428,
+                            905,
+                            382,
+                            905
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 884,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "2019",
+                        "polygon": [
+                            434,
+                            875,
+                            500,
+                            875,
+                            500,
+                            905,
+                            434,
+                            905
+                        ],
+                        "confidence": 0.988,
+                        "span": {
+                            "offset": 888,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "/s/",
+                        "polygon": [
+                            1250,
+                            875,
+                            1286,
+                            874,
+                            1285,
+                            905,
+                            1249,
+                            905
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 894,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "Brian",
+                        "polygon": [
+                            1295,
+                            874,
+                            1362,
+                            874,
+                            1361,
+                            905,
+                            1294,
+                            905
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 898,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "T.",
+                        "polygon": [
+                            1372,
+                            874,
+                            1396,
+                            874,
+                            1396,
+                            906,
+                            1372,
+                            905
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 904,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "Moynihan",
+                        "polygon": [
+                            1409,
+                            874,
+                            1540,
+                            876,
+                            1540,
+                            906,
+                            1408,
+                            906
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 907,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "Brian",
+                        "polygon": [
+                            1250,
+                            909,
+                            1323,
+                            909,
+                            1322,
+                            943,
+                            1249,
+                            943
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 917,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "T.",
+                        "polygon": [
+                            1332,
+                            909,
+                            1357,
+                            909,
+                            1356,
+                            943,
+                            1331,
+                            943
+                        ],
+                        "confidence": 0.989,
+                        "span": {
+                            "offset": 923,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "Moynihan",
+                        "polygon": [
+                            1369,
+                            909,
+                            1501,
+                            910,
+                            1501,
+                            943,
+                            1368,
+                            943
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 926,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "Chief",
+                        "polygon": [
+                            1250,
+                            944,
+                            1325,
+                            945,
+                            1325,
+                            977,
+                            1250,
+                            977
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 936,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "Executive",
+                        "polygon": [
+                            1333,
+                            945,
+                            1461,
+                            945,
+                            1461,
+                            976,
+                            1334,
+                            977
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 942,
+                            "length": 9
+                        }
+                    },
+                    {
+                        "content": "Officer",
+                        "polygon": [
+                            1471,
+                            945,
+                            1564,
+                            944,
+                            1564,
+                            977,
+                            1472,
+                            977
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 952,
+                            "length": 7
+                        }
+                    }
+                ],
+                "lines": [
+                    {
+                        "content": "<!-- PageHeader=\"Exhibit 32(a)\" -->",
+                        "polygon": [
+                            2216,
+                            193,
+                            2401,
+                            194,
+                            2400,
+                            229,
+                            2216,
+                            228
+                        ],
+                        "spans": [
+                            {
+                                "offset": 0,
+                                "length": 35
+                            }
+                        ]
+                    },
+                    {
+                        "content": "CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350,",
+                        "polygon": [
+                            839,
+                            286,
+                            1666,
+                            286,
+                            1666,
+                            323,
+                            839,
+                            322
+                        ],
+                        "spans": [
+                            {
+                                "offset": 37,
+                                "length": 49
+                            }
+                        ]
+                    },
+                    {
+                        "content": "AS ADOPTED PURSUANT TO SECTION 906",
+                        "polygon": [
+                            934,
+                            323,
+                            1563,
+                            322,
+                            1563,
+                            356,
+                            934,
+                            356
+                        ],
+                        "spans": [
+                            {
+                                "offset": 87,
+                                "length": 34
+                            }
+                        ]
+                    },
+                    {
+                        "content": "OF THE SARBANES-OXLEY ACT OF 2002\n===",
+                        "polygon": [
+                            948,
+                            357,
+                            1550,
+                            357,
+                            1550,
+                            391,
+                            948,
+                            391
+                        ],
+                        "spans": [
+                            {
+                                "offset": 122,
+                                "length": 37
+                            }
+                        ]
+                    },
+                    {
+                        "content": "I, Brian T. Moynihan, state and attest that:",
+                        "polygon": [
+                            99,
+                            415,
+                            657,
+                            414,
+                            657,
+                            447,
+                            99,
+                            449
+                        ],
+                        "spans": [
+                            {
+                                "offset": 161,
+                                "length": 44
+                            }
+                        ]
+                    },
+                    {
+                        "content": "1\\. I am the Chief Executive Officer of Bank of America Corporation (the",
+                        "polygon": [
+                            192,
+                            468,
+                            1291,
+                            468,
+                            1291,
+                            503,
+                            192,
+                            502
+                        ],
+                        "spans": [
+                            {
+                                "offset": 207,
+                                "length": 72
+                            }
+                        ]
+                    },
+                    {
+                        "content": "registrant).",
+                        "polygon": [
+                            246,
+                            506,
+                            395,
+                            506,
+                            395,
+                            538,
+                            246,
+                            538
+                        ],
+                        "spans": [
+                            {
+                                "offset": 280,
+                                "length": 12
+                            }
+                        ]
+                    },
+                    {
+                        "content": "2\\. I hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002,",
+                        "polygon": [
+                            189,
+                            558,
+                            1928,
+                            558,
+                            1928,
+                            592,
+                            189,
+                            592
+                        ],
+                        "spans": [
+                            {
+                                "offset": 294,
+                                "length": 127
+                            }
+                        ]
+                    },
+                    {
+                        "content": "that:",
+                        "polygon": [
+                            247,
+                            595,
+                            310,
+                            596,
+                            309,
+                            626,
+                            247,
+                            625
+                        ],
+                        "spans": [
+                            {
+                                "offset": 422,
+                                "length": 5
+                            }
+                        ]
+                    },
+                    {
+                        "content": ".",
+                        "polygon": [
+                            311,
+                            654,
+                            327,
+                            655,
+                            327,
+                            674,
+                            310,
+                            674
+                        ],
+                        "spans": [
+                            {
+                                "offset": 429,
+                                "length": 1
+                            }
+                        ]
+                    },
+                    {
+                        "content": "the Annual Report on Form 10-K of the registrant for the year endedDecember 31, 2018 (the periodic report) containing financial statements fully complies",
+                        "polygon": [
+                            364,
+                            647,
+                            2404,
+                            649,
+                            2404,
+                            683,
+                            364,
+                            682
+                        ],
+                        "spans": [
+                            {
+                                "offset": 431,
+                                "length": 153
+                            }
+                        ]
+                    },
+                    {
+                        "content": "with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m or 780(d)); and",
+                        "polygon": [
+                            367,
+                            682,
+                            1940,
+                            682,
+                            1940,
+                            718,
+                            367,
+                            719
+                        ],
+                        "spans": [
+                            {
+                                "offset": 585,
+                                "length": 117
+                            }
+                        ]
+                    },
+                    {
+                        "content": "\u00b7",
+                        "polygon": [
+                            310,
+                            744,
+                            331,
+                            744,
+                            330,
+                            766,
+                            309,
+                            767
+                        ],
+                        "spans": [
+                            {
+                                "offset": 704,
+                                "length": 1
+                            }
+                        ]
+                    },
+                    {
+                        "content": "the information contained in the periodic report fairly presents, in all material respects, the financial condition and results of operations of the",
+                        "polygon": [
+                            364,
+                            738,
+                            2329,
+                            738,
+                            2329,
+                            774,
+                            364,
+                            775
+                        ],
+                        "spans": [
+                            {
+                                "offset": 706,
+                                "length": 148
+                            }
+                        ]
+                    },
+                    {
+                        "content": "registrant.",
+                        "polygon": [
+                            366,
+                            775,
+                            505,
+                            775,
+                            505,
+                            807,
+                            366,
+                            808
+                        ],
+                        "spans": [
+                            {
+                                "offset": 855,
+                                "length": 11
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Date:",
+                        "polygon": [
+                            114,
+                            875,
+                            193,
+                            875,
+                            191,
+                            906,
+                            113,
+                            904
+                        ],
+                        "spans": [
+                            {
+                                "offset": 868,
+                                "length": 5
+                            }
+                        ]
+                    },
+                    {
+                        "content": "February 26, 2019",
+                        "polygon": [
+                            251,
+                            875,
+                            499,
+                            874,
+                            499,
+                            904,
+                            252,
+                            905
+                        ],
+                        "spans": [
+                            {
+                                "offset": 875,
+                                "length": 17
+                            }
+                        ]
+                    },
+                    {
+                        "content": "/s/ Brian T. Moynihan",
+                        "polygon": [
+                            1249,
+                            874,
+                            1539,
+                            874,
+                            1539,
+                            905,
+                            1249,
+                            904
+                        ],
+                        "spans": [
+                            {
+                                "offset": 894,
+                                "length": 21
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Brian T. Moynihan",
+                        "polygon": [
+                            1249,
+                            908,
+                            1500,
+                            909,
+                            1500,
+                            943,
+                            1249,
+                            942
+                        ],
+                        "spans": [
+                            {
+                                "offset": 917,
+                                "length": 17
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Chief Executive Officer",
+                        "polygon": [
+                            1250,
+                            944,
+                            1563,
+                            944,
+                            1563,
+                            976,
+                            1250,
+                            976
+                        ],
+                        "spans": [
+                            {
+                                "offset": 936,
+                                "length": 23
+                            }
+                        ]
+                    }
+                ],
+                "spans": [
+                    {
+                        "offset": 0,
+                        "length": 960
+                    }
+                ]
+            }
+        ],
+        "tables": [],
+        "paragraphs": [
+            {
+                "spans": [
+                    {
+                        "offset": 0,
+                        "length": 35
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            2216,
+                            193,
+                            2401,
+                            194,
+                            2401,
+                            229,
+                            2216,
+                            228
+                        ]
+                    }
+                ],
+                "role": "pageHeader",
+                "content": "<!-- PageHeader=\"Exhibit 32(a)\" -->"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 37,
+                        "length": 122
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            839,
+                            286,
+                            1666,
+                            286,
+                            1666,
+                            391,
+                            839,
+                            391
+                        ]
+                    }
+                ],
+                "role": "title",
+                "content": "CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002\n==="
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 161,
+                        "length": 44
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            99,
+                            415,
+                            657,
+                            414,
+                            657,
+                            448,
+                            99,
+                            449
+                        ]
+                    }
+                ],
+                "content": "I, Brian T. Moynihan, state and attest that:"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 207,
+                        "length": 85
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            192,
+                            468,
+                            1291,
+                            468,
+                            1291,
+                            538,
+                            192,
+                            538
+                        ]
+                    }
+                ],
+                "content": "1\\. I am the Chief Executive Officer of Bank of America Corporation (the registrant)."
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 294,
+                        "length": 133
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            189,
+                            558,
+                            1928,
+                            558,
+                            1928,
+                            626,
+                            189,
+                            626
+                        ]
+                    }
+                ],
+                "content": "2\\. I hereby certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that:"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 429,
+                        "length": 273
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            310,
+                            647,
+                            2404,
+                            649,
+                            2404,
+                            721,
+                            310,
+                            719
+                        ]
+                    }
+                ],
+                "content": ". the Annual Report on Form 10-K of the registrant for the year endedDecember 31, 2018 (the periodic report) containing financial statements fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m or 780(d)); and"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 704,
+                        "length": 162
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            309,
+                            738,
+                            2329,
+                            738,
+                            2329,
+                            808,
+                            309,
+                            808
+                        ]
+                    }
+                ],
+                "content": "\u00b7 the information contained in the periodic report fairly presents, in all material respects, the financial condition and results of operations of the registrant."
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 868,
+                        "length": 5
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            114,
+                            875,
+                            193,
+                            875,
+                            191,
+                            906,
+                            113,
+                            904
+                        ]
+                    }
+                ],
+                "content": "Date:"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 875,
+                        "length": 17
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            251,
+                            875,
+                            499,
+                            874,
+                            499,
+                            904,
+                            252,
+                            905
+                        ]
+                    }
+                ],
+                "content": "February 26, 2019"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 894,
+                        "length": 21
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            1249,
+                            874,
+                            1539,
+                            874,
+                            1539,
+                            905,
+                            1249,
+                            904
+                        ]
+                    }
+                ],
+                "content": "/s/ Brian T. Moynihan"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 917,
+                        "length": 17
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            1249,
+                            908,
+                            1500,
+                            909,
+                            1500,
+                            943,
+                            1249,
+                            942
+                        ]
+                    }
+                ],
+                "content": "Brian T. Moynihan"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 936,
+                        "length": 23
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            1250,
+                            944,
+                            1563,
+                            944,
+                            1563,
+                            976,
+                            1250,
+                            976
+                        ]
+                    }
+                ],
+                "content": "Chief Executive Officer"
+            }
+        ],
+        "contentFormat": "markdown",
+        "sections": [
+            {
+                "spans": [
+                    {
+                        "offset": 37,
+                        "length": 122
+                    },
+                    {
+                        "offset": 161,
+                        "length": 44
+                    },
+                    {
+                        "offset": 207,
+                        "length": 85
+                    },
+                    {
+                        "offset": 294,
+                        "length": 133
+                    },
+                    {
+                        "offset": 429,
+                        "length": 273
+                    },
+                    {
+                        "offset": 704,
+                        "length": 162
+                    },
+                    {
+                        "offset": 868,
+                        "length": 5
+                    },
+                    {
+                        "offset": 875,
+                        "length": 17
+                    },
+                    {
+                        "offset": 894,
+                        "length": 21
+                    },
+                    {
+                        "offset": 917,
+                        "length": 17
+                    },
+                    {
+                        "offset": 936,
+                        "length": 23
+                    }
+                ],
+                "elements": [
+                    "/paragraphs/1",
+                    "/paragraphs/2",
+                    "/paragraphs/3",
+                    "/paragraphs/4",
+                    "/paragraphs/5",
+                    "/paragraphs/6",
+                    "/paragraphs/7",
+                    "/paragraphs/8",
+                    "/paragraphs/9",
+                    "/paragraphs/10",
+                    "/paragraphs/11"
+                ]
+            }
+        ]
+    }
+}

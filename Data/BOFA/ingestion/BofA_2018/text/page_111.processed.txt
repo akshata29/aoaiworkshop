@@ -1,0 +1,56 @@
+# NOTE 3 Derivatives  
+  
+  
+# Derivative Balances  
+  
+Derivatives are entered into on behalf of customers, for trading or to support risk management activities. Derivatives used in risk management activities include derivatives that may or may not be designated in qualifying hedge accounting relationships. Derivatives that are not designated in qualifying hedge accounting relationships are referred to as other risk management derivatives. For more information on the Corporation's derivatives and hedging  
+  
+activities, see Note 1 - Summary of Significant Accounting Principles The following tables present derivative instruments included on the Consolidated Balance Sheet in derivative assets and liabilities at December 31, 2018 and 2017. Balances are presented on a gross basis, prior to the application of counterparty and cash collateral netting. Total derivative assets and liabilities are adjusted on an aggregate basis to take into consideration the effects of legally enforceable master netting agreements and have been reduced by cash collateral received or paid.  
+  
+| (Dollars in billions) | December 31, 2018 |||||||  
+|| Contract/ Notional (1) | Gross Derivative Assets ||| Gross Derivative Liabilities |||  
+||| Trading and Other Risk Management Derivatives | Qualifying Accounting Hedges | Total | Trading and Other Risk Management Derivatives | Qualifying Accounting Hedges | Total |  
+| - | - | - | - | - | - | - | - |  
+| Interest rate contracts | | | | | | | |  
+| Swaps | $ 15,977.9 | $ 141.0 | $ 3.2 | $ 144.2 | $ 138.9 | 2.0 | $ 140.9 |  
+| Futures and forwards | 3,656.6 | 4.7 :selected: | :unselected: | 4.7 :selected: | 5.0 | :unselected: | 5.0 |  
+| Written options | 1,584.9 | :unselected: | :unselected: | :unselected: | 28.6 | :unselected: | 28.6 |  
+| Purchased options | 1,614.0 | 30.8 | :unselected: | 30.8 | - :unselected: | :unselected: | - :unselected: |  
+| Foreign exchange contracts | | | | | | | |  
+| Swaps | 1,704.8 | 38.8 | 1.4 | 40.2 | 42.2 | 2.3 | 44.5 |  
+| Spot, futures and forwards | 4,276.0 | 39.8 | 0.4 | 40.2 | 39.3 | 0.3 | 39.6 |  
+| Written options | 256.7 | :unselected: | :unselected: | :unselected: | 5.0 | :unselected: | 5.0 |  
+| Purchased options | 240.4 | 4.6 :selected: | :unselected: | 4.6 :selected: | - :unselected: | :unselected: | - :unselected: |  
+| Equity contracts | | | | | | | |  
+| Swaps | 253.6 | 7.7 | - :unselected: :unselected: | 7.7 :selected: | 8.4 | :unselected: | 8.4 |  
+| Futures and forwards | 100.0 | 2.1 | :unselected: | 2.1 :selected: | 0.3 | :unselected: | 0.3 |  
+| Written options | 597.1 | :unselected: | :unselected: | :unselected: | 27.5 | :unselected: | 27.5 |  
+| Purchased options | 549.4 | 36.0 | :unselected: | 36.0 | - :unselected: | :unselected: | :unselected: |  
+| Commodity contracts | | | | | | | |  
+| Swaps | 43.1 | 2.7 | :unselected: | 2.7 :selected: | 4.5 | :unselected: | 4.5 |  
+| Futures and forwards | 51.7 | 3.2 | :unselected: | 3.2 | 0.5 | :unselected: | 0.5 |  
+| Written options | 27.5 | :unselected: | :unselected: | :unselected: | 2.2 | :unselected: | 2.2 |  
+| Purchased options | 23.4 | 1.7 | - :unselected: | 1.7 :selected: | - :unselected: | - :unselected: | - :unselected: |  
+| Credit derivatives (2, 3) | | | | | | | |  
+| Purchased credit derivatives: | | | | | | | |  
+| Credit default swaps | 408.1 | 5.3 | :unselected: | 5.3 | 4.9 | :unselected: | 4.9 |  
+| Total return swaps/options | 84.5 | 0.4 | - :unselected: | 0.4 | 1.0 | :unselected: | 1.0 |  
+| Written credit derivatives: | | | | | | | |  
+| Credit default swaps | 371.9 | 4.4 | :unselected: | 4.4 | 4.3 | :unselected: | 4.3 |  
+| Total return swaps/options | 87.3 | 0.6 | :unselected: | 0.6 | 0.6 | :unselected: | 0.6 |  
+| Gross derivative assets/liabilities | | $ 323.8 | $ 5.0 | 328.8 | $ 313.2 | $ 4.6 | 317.8 |  
+| Less: Legally enforceable master netting agreements | | | | (252.7) | | | (252.7) |  
+| Less: Cash collateral received/paid | | | | (32.4) | | | (27.2) |  
+| Total derivative assets/liabilities | | | | 43.7 | | | 37.9 |  
+  
+(1) Represents the total contract/notional amount of derivative assets and liabilities  
+  
+outstanding.  
+  
+(2) The net derivative liability and notional amount of written credit derivatives for which the Corporation held purchased credit derivatives with identical underlying referenced names were185 million and $342.8 billion at December 31, 2018.  
+  
+(3) Derivative assets and liabilities for credit default swaps (CDS) reflect a central clearing counterparty's amendments to legally re-characterize daily cash variation margin from collateral, which secures an outstanding exposure, to settlement, which discharges an outstanding exposure, effective in 2018.  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+101  

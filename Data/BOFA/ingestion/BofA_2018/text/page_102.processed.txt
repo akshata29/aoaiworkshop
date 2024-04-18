@@ -1,0 +1,47 @@
+# Bank of America Corporation and Subsidiaries Notes to Consolidated Financial Statements  
+  
+  
+## NOTE 1 Summary of Significant Accounting Principles  
+  
+Bank of America Corporation, a bank holding company and a financial holding company, provides a diverse range of financial services and products throughout the U.S. and in certain international markets. The term "the Corporation" as used herein may refer to Bank of America Corporation, individually, Bank of America Corporation and its subsidiaries, or certain of Bank of America Corporation's subsidiaries or affiliates.  
+  
+  
+# Principles of Consolidation and Basis of Presentation  
+  
+The Consolidated Financial Statements include the accounts of the Corporation and its majority-owned subsidiaries and those variable interest entities (VIEs) where the Corporation is the primary beneficiary. Intercompany accounts and transactions have been eliminated. Results of operations of acquired companies are included from the dates of acquisition and for VIEs, from the dates that the Corporation became the primary beneficiary. Assets held in an agency or fiduciary capacity are not included in the Consolidated Financial Statements. The Corporation accounts for investments in companies for which it owns a voting interest and for which it has the ability to exercise significant influence over operating and financing decisions using the equity method of accounting. These investments are included in other assets. Equity method investments are subject to impairment testing, and the Corporation's proportionate share of income or loss is included in other income.  
+  
+The preparation of the Consolidated Financial Statements in conformity with accounting principles generally accepted in the United States of America (GAAP) requires management to make estimates and assumptions that affect reported amounts and disclosures. Realized results could materially differ from those estimates and assumptions. Certain prior-period amounts have been reclassified to conform to current-period presentation.  
+  
+  
+# New Accounting Standards  
+  
+Effective January 1, 2018, the Corporation adopted the following new accounting standards on a prospective basis.  
+  
+. Revenue Recognition - The new accounting standard addresses the recognition of revenue from contracts with customers. For additional information, see Revenue Recognition Accounting Policies in this Note, and .  
+  
+· Hedge Accounting - The new accounting standard simplifies and expands the ability to apply hedge accounting to certain risk management activities. For additional information, see .  
+  
+. Recognition and Measurement of Financial Assets and Liabilities- The new accounting standard relates to the recognition and measurement of financial instruments, including equity investments. For additional information, see and .  
+  
+. Tax Effects in Accumulated Other Comprehensive Income- The new accounting standard addresses certain tax effects stranded in accumulated other comprehensive income (OCI) related to the 2017 Tax Cuts and Job Act (the Tax Act). For additional information, see .  
+  
+Effective January 1, 2018, the Corporation adopted the following new accounting standards on a retrospective basis, resulting in restatement of all prior periods presented in the Consolidated Statement of Income and the Consolidated Statement of Cash Flows. The changes in presentation are not material to the individual line items affected.  
+  
+· Presentation of Pension Costs - The new accounting standard requires separate presentation of the service cost component of pension expense from all other components of net pension benefit/cost in the Consolidated Statement of Income. As a result, the service cost component continues to be presented in personnel expense while other components of net pension benefit/cost (e.g., interest cost, actual return on plan assets, amortization of prior service cost) are now presented in other general operating expense. For additional information, see  
+  
+. Classification of Cash Flows and Restricted Cash - The new accounting standards address the classification of certain cash receipts and cash payments in the statement of cash flows as well as the presentation and disclosure of restricted cash. For more information on restricted cash, see .  
+  
+  
+## Lease Accounting  
+  
+On January 1, 2019, the Corporation adopted the new accounting standards that require lessees to recognize operating leases on the Consolidated Balance Sheet as right-of-use assets and lease liabilities based on the value of the discounted future lease payments. Lessor accounting is largely unchanged. Expanded disclosures about the nature and terms of lease agreements will be required prospectively. The Corporation elected to apply certain transition elections which allow for the continued application of the previous determination of whether a contract that existed at transition is or contains a lease, the associated lease classification, and the recognition of leases on January 1, 2019 through a cumulative-effect adjustment to retained earnings, with no adjustment to comparative prior periods presented. Upon adoption, the Corporation recognized right-of-use assets and lease liabilities of $9.7 billion. Adoption of the standard did not have a significant effect on the Corporation's regulatory capital measures.  
+  
+  
+# Accounting Standards Issued and Not Yet Adopted  
+  
+  
+## Accounting for Financial Instruments -- Credit Losses  
+  
+The Financial Accounting Standards Board issued a new accounting standard that will be effective for the Corporation on January 1, 2020. The standard replaces the existing measurement of the allowance for credit losses that is based on management's best estimate of probable credit losses inherent in the Corporation's lending activities with management's best estimate of lifetime expected credit losses inherent in the Corporation's financial assets that are recognized at amortized cost. The standard will also expand credit quality disclosures. While the standard changes the measurement of the allowance for credit losses, it does not change the Corporation's credit risk of its lending portfolios. The credit loss estimation models and processes to be used in implementing the new standard have largely been designed and developed. The validation of the models and testing of controls are in process and expected to be completed during 2019. Currently, the impact of this new accounting standard may be an increase in the Corporation's allowance for credit losses at the date of adoption which would have a resulting negative adjustment to retained earnings. The ultimate impact will be dependent on the characteristics of the  
+  
+<!-- PageFooter="Bank of America 2018 92" -->  

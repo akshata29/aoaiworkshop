@@ -1,0 +1,36 @@
+employees. Current and potential future limitations on executive compensation imposed by legislation or regulation could adversely affect our ability to attract and maintain qualified employees. Furthermore, a substantial portion of our annual incentive compensation paid to our senior employees has in recent years taken the form of long-term equity-based awards. Therefore, the ultimate value of this compensation depends on the price of our common stock when the awards vest. If we are unable to continue to attract and retain qualified individuals, our business prospects and competitive position could be adversely affected.  
+  
+We could suffer losses if our models and strategies fail to properly anticipate and manage risk.  
+  
+We use proprietary models and strategies extensively to measure and assess capital requirements for credit, country, market, operational and strategic risks and to assess and control our operations and financial condition. These models require oversight and periodic re-validation and are subject to inherent limitations due to the use of historical trends and simplifying assumptions, and uncertainty regarding economic and financial outcomes. Our models may not be sufficiently predictive of future results due to limited historical patterns, extreme or unanticipated market movements or customer behavior and illiquidity, especially during severe market downturns or stress events, and may not be effective if we fail to detect flaws in our models during our review process, our models contain erroneous data, valuations, formulas or algorithms or our applications running the models do not perform as expected. The models that we use to assess and control our market risk exposures also reflect assumptions about the degree of correlation among prices of various asset classes or other market indicators. Market conditions in recent years have involved unprecedented dislocations and highlight the limitations inherent in using historical data to manage risk. We could suffer losses if models and strategies fail to properly anticipate and manage risks.  
+  
+Failure to properly manage and aggregate data may result in our inability to manage risk and business needs and inaccurate financial, regulatory and operational reporting.  
+  
+We rely on our ability to manage, aggregate, interpret and use data in an accurate, timely and complete manner for effective risk reporting and management. Our policies, programs, processes and practices govern how data is managed, aggregated, interpreted and used. While we continuously update our policies, programs, processes and practices, and implement emerging technologies, such as artificial intelligence, our data management and aggregation processes are subject to failure, including human error or system failure. Failure to manage data effectively and to aggregate data in an accurate, timely and complete manner may limit our ability to manage current and emerging risk, to produce  
+  
+accurate financial, regulatory and operational reporting as well as to manage changing business needs.  
+  
+Reforms to and uncertainty regarding the London InterBank Offered Rate (LIBOR) and certain other indices may adversely affect our business, financial condition and results of operations.  
+  
+The U.K. FCA announced in July 2017, that it will no longer persuade or require banks to submit rates for LIBOR after 2021. This announcement, in conjunction with financial benchmark reforms more generally and changes in the interbank lending markets, have resulted in uncertainty about the future of LIBOR and certain other rates or indices which are used as interest rate "benchmarks" in many of our products and contracts, including floating-rate notes and other adjustable-rate products. These actions and uncertainties may have the effect of triggering future changes in the rules or methodologies used to calculate benchmarks or lead to the discontinuation or unavailability of benchmarks. ICE Benchmark Administration is the administrator of LIBOR and maintains a reference panel of contributor banks, which includes BANA London branch for certain LIBOR rates. Uncertainty as to the nature and effect of such reforms and actions, and the potential or actual discontinuation of benchmark quotes, may adversely affect the value of, return on and trading market for our financial assets and liabilities that are based on or are linked to benchmarks, including any LIBOR-based securities, loans and derivatives, or our financial condition or results of operations. Additionally, there can be no assurance that we and other market participants will be adequately prepared for an actual discontinuation of benchmarks, including LIBOR, that existing assets and liabilities based on or linked to benchmarks will transition successfully to alternative reference rates or benchmarks or of the timing of adoption and degree of integration of such alternative reference rates or benchmarks in the markets. The discontinuation of benchmarks, including LIBOR, may have an unpredictable impact on the contractual mechanics of outstanding securities, loans, derivatives or other products (including, but not limited to, interest rates to be paid to or by us), require renegotiation of outstanding financial assets and liabilities, adversely affect the return on such outstanding products, cause significant disruption to financial markets that are relevant to our business segments, particularly Global Banking and Global Markets, increase the risk of litigation and/or increase expenses related to the transition to alternative reference rates or benchmarks, among other adverse consequences. Additionally, any transition from current benchmarks may alter the Corporation's risk profiles and models, valuation tools, product design and effectiveness of hedging strategies, as well as increase the costs and risks related to potential regulatory requirements. Reforms to and uncertainty regarding transitions from current benchmarks may adversely affect our business, financial condition or results of operations.  
+  
+  
+# Item 1B. Unresolved Staff Comments  
+  
+None  
+  
+  
+## Item 2. Properties As of December 31, 2018, our principal offices and other materially important properties consisted of the following:  
+  
+| Facility Name | Location | General Character of the Physical Property | Primary Business Segment | Property Status | Property Square Feet (1) |  
+| - | - | - | - | - | - |  
+| Bank of America Corporate Center | Charlotte, NC | 60 Story Building | Principal Executive Offices | Owned | 1,212,177 |  
+| Bank of America Tower at One Bryant Park | New York, NY | 55 Story Building | GWIM, Global Banking and Global Markets | Leased (2) | 1,836,575 |  
+| Bank of America Merrill Lynch Financial Centre | London, UK | 4 Building Campus | Global Banking and Global Markets | Leased | 562,595 |  
+| Cheung Kong Center | Hong Kong | 62 Story Building | Global Banking and Global Markets | Leased | 149,790 |  
+  
+(1) For leased properties, property square feet represents the square footage occupied by the Corporation.  
+  
+(2) The Corporation has a 49.9 percent joint venture interest in this property.  
+  
+<!-- PageFooter="17 Bank of America 2018" -->  

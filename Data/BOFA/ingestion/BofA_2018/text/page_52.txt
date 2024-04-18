@@ -1,0 +1,44 @@
+# Revisions to Basel 3 to Address Current Expected Credit Loss Accounting  
+  
+On December 18, 2018, the U.S. banking regulators issued a final rule to address the regulatory capital impact of using the current expected credit loss methodology to measure credit reserves under a new accounting standard that is effective on January 1, 2020. For more information on this standard, see Note 1 - Summary of Significant Accounting Principles to the Consolidated Financial Statements. The final rule provides an option to phase in the impact to regulatory capital over a three-year period on a straight-line basis. It also updates the existing regulatory capital framework by creating a new defined term, adjusted allowance for credit losses, which would include credit losses on all financial instruments measured at amortized cost with the exception of purchased credit-deteriorated assets. The final rule continues to allow a limited amount of credit losses to be recognized in Tier 2 capital and maintains the existing limits under the Standardized and Advanced approaches.  
+  
+  
+## Single-Counterparty Credit Limits  
+  
+On June 14, 2018, the Federal Reserve published a final rule establishing single- counterparty credit limits (SCCL) for BHCs with total consolidated assets of $250 billion or more. The SCCL rule is designed to ensure that the maximum possible loss that a BHC could incur due to the default of a single counterparty or a group of connected counterparties would not endanger the BHC's survival, thereby reducing the probability of future financial crises. Beginning January 1, 2020, G-SIBs must calculate SCCL on a daily basis by dividing the aggregate net credit exposure to a given counterparty by the G-SIB's Tier 1 capital, ensuring that exposures to other G-SIBs and nonbank financial institutions regulated by the Federal Reserve do not breach 15 percent of Tier 1 capital and exposures to most other counterparties do not breach 25 percent of Tier 1 capital. Certain exposures, including exposures to the U.S. government, U.S. government-sponsored entities and qualifying central counterparties, are exempt from the credit limits.  
+  
+  
+# Broker-dealer Regulatory Capital and Securities Regulation  
+  
+The Corporation's principal U.S. broker-dealer subsidiaries are Merrill Lynch, Pierce, Fenner & Smith Incorporated (MLPF&S) and Merrill Lynch Professional Clearing Corp (MLPCC). MLPCC is a fully-guaranteed subsidiary of MLPF&S and provides clearing and settlement services. Both entities are subject to the net capital requirements of Securities and Exchange Commission (SEC) Rule 15c3-1. Both entities are also registered as futures commission merchants and are subject to the Commodity Futures Trading Commission Regulation 1.17.  
+  
+MLPF&S has elected to compute the minimum capital requirement in accordance with the Alternative Net Capital Requirement as permitted by SEC Rule 15c3-1. At December 31, 2018, MLPF&S' regulatory net capital as defined by Rule 15c3-1 was $13.4 billion and exceeded the minimum requirement of $2.0 billion by $11.4 billion. MLPCC's net capital of $4.4 billion exceeded the minimum requirement of $617 million by $3.8 billion.  
+  
+In accordance with the Alternative Net Capital Requirements, MLPF&S is required to maintain tentative net capital in excess of $1.0 billion, net capital in excess of $500 million and notify the SEC in the event its tentative net capital is less than $5.0 billion. At December 31, 2018, MLPF&S had tentative net capital and net capital in excess of the minimum and notification requirements.  
+  
+As a result of resolution planning, the current business of MLPF&S is expected to be reorganized into two affiliated broker-  
+  
+dealers: MLPF&S and BofA Securities, Inc., a newly formed broker-dealer. Under the contemplated reorganization, which is expected to occur during 2019, BofA Securities, Inc. would become the legal entity for the institutional services that are now provided by MLPF&S. MLPF&S' retail services would remain with MLPF&S. The contemplated reorganization is subject to regulatory approval. For more information on resolution planning, see Item 1. Business. - . Resolution Planning.  
+  
+Merrill Lynch International (MLI), a U.K. investment firm, is regulated by the Prudential Regulation Authority and the FCA, and is subject to certain regulatory capital requirements. At December 31, 2018, MLI's capital resources were $35.0 billion, which exceeded the minimum Pillar 1 requirement of $12.7 billion.  
+  
+  
+## Liquidity Risk  
+  
+  
+### Funding and Liquidity Risk Management  
+  
+Our primary liquidity risk management objective is to meet expected or unexpected cash flow and collateral needs while continuing to support our businesses and customers under a range of economic conditions. To achieve that objective, we analyze and monitor our liquidity risk under expected and stressed conditions, maintain liquidity and access to diverse funding sources, including our stable deposit base, and seek to align liquidity-related incentives and risks.  
+  
+We define liquidity as readily available assets, limited to cash and high-quality, liquid, unencumbered securities that we can use to meet our contractual and contingent financial obligations as those obligations arise. We manage our liquidity position through line of business and ALM activities, as well as through our legal entity funding strategy, on both a forward and current (including intraday) basis under both expected and stressed conditions. We believe that a centralized approach to funding and liquidity management enhances our ability to monitor liquidity requirements, maximizes access to funding sources, minimizes borrowing costs and facilitates timely responses to liquidity events.  
+  
+The Board approves our liquidity risk policy and the Financial Contingency and Recovery Plan. The ERC establishes our liquidity risk tolerance levels. The MRC is responsible for overseeing liquidity risks and directing management to maintain exposures within the established tolerance levels. The MRC reviews and monitors our liquidity position and stress testing results, approves certain liquidity risk limits and reviews the impact of strategic decisions on our liquidity. For more information, see Managing Risk on page 40. Under this governance framework, we have developed certain funding and liquidity risk management practices which include: maintaining liquidity at the parent company and selected subsidiaries, including our bank subsidiaries and other regulated entities; determining what amounts of liquidity are appropriate for these entities based on analysis of debt maturities and other potential cash outflows, including those that we may experience during stressed market conditions; diversifying funding sources, considering our asset profile and legal entity structure; and performing contingency planning.  
+  
+  
+# NB Holdings Corporation  
+  
+We have intercompany arrangements with certain key subsidiaries under which we transferred certain assets of Bank of America Corporation, as the parent company, which is a separate and distinct legal entity from our banking and nonbank subsidiaries, and agreed to transfer certain additional parent company assets not needed to satisfy anticipated near-term expenditures, to NB Holdings Corporation, a wholly-owned holding company subsidiary  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageNumber="47" -->  

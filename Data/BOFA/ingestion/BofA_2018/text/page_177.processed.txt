@@ -1,0 +1,70 @@
+The table below presents noninterest income and the components thereto for2018, 2017 and 2016 for each business segment, as well as All Other. For more information, see Note 1 - Summary of Significant Accounting Principlesand Note 2 - Noninterest Income.  
+  
+  
+# Noninterest Income by Business Segment and All Other  
+  
+| (Dollars in millions) | Total Corporation ||| Consumer Banking ||| Global Wealth & Investment Management |||  
+|| 2018 | 2017 | 2016 | 2018 | 2017 | 2016 | 2018 | 2017 | 2016 |  
+| - | - | - | - | - | - | - | - | - | - |  
+| Card income | | | | | | | | | |  
+| Interchange fees | $ 4,093 | $ 3,942 | $ 3,960 | $ 3,383 | $ 3,224 | $ 3,271 | $ 82 | $ 109 | $ 106 |  
+| Other card income | 1,958 | 1,960 | 1,891 | 1,906 | 1,846 | 1,664 | 46 | 44 | 44 |  
+| Total card income | 6,051 | 5,902 | 5,851 | 5,289 | 5,070 | 4,935 | 128 | 153 | 150 |  
+| Service charges | | | | | | | | | |  
+| Deposit-related fees | 6,667 | 6,708 | 6,545 | 4,300 | 4,266 | 4,142 | 73 | 76 | 74 |  
+| Lending-related fees | 1,100 | 1,110 | 1,093 | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | |  
+| Total service charges | 7,767 | 7,818 | 7,638 | 4,300 | 4,266 | 4,142 | 73 | 76 | 74 |  
+| Investment and brokerage services | | | | | | | | | |  
+| Asset management fees | 10,189 | 9,310 | 8,328 | 147 | 133 | 120 | 10,042 | 9,177 | 8,208 |  
+| Brokerage fees | 3,971 | 4,526 | 5,021 | 172 | 184 | 200 | 1,917 | 2,217 | 2,666 |  
+| Total investment and brokerage services | 14,160 | 13,836 | 13,349 | 319 | 317 | 320 | 11,959 | 11,394 | 10,874 |  
+| Investment banking income | | | | | | | | | |  
+| Underwriting income | 2,722 | 2,821 | 2,585 | (1) | :unselected: | 2 | 335 | 316 | 225 |  
+| Syndication fees | 1,347 | 1,499 | 1,388 | 1 :unselected: | - :unselected: | :unselected: | :unselected: | 1 :unselected: | 1 |  
+| Financial advisory services | 1,258 | 1,691 | 1,268 | :unselected: | - :unselected: | :unselected: | 2 | 2 | 1 |  
+| Total investment banking income | 5,327 | 6,011 | 5,241 | (1) | - :unselected: | 2 | 337 | 318 | 227 |  
+| Trading account profits | 8,540 | 7,277 | 6,902 | 8 | 3 | | 112 | 144 | 175 |  
+| Other income | 1,970 | 1,841 | 3,624 | 485 | 558 | 1,042 | 435 | 332 | 391 |  
+| Total noninterest income | 43,815 | $ 42,685 | $ 42,605 | $ 10,400 | $ 10,214 | $ 10,441 | $ 13,044 | $ 12,417 | $ 11,891 |  
+  
+| | Global Banking ||| Global Markets ||| All Other (1) |||  
+|| 2018 | 2017 | 2016 | 2018 | 2017 | 2016 | 2018 | 2017 | 2016 |  
+| - | - | - | - | - | - | - | - | - | - |  
+| Card income | | | | | | | | | |  
+| Interchange fees | 533 | 506 | $ 483 | 95 | $ 94 | $ 79 | :unselected: | $ | 21 |  
+| Other card income | 8 | 12 | 20 | (2) | (2) | (5) | :unselected: | 60 | 168 |  
+| Total card income | 541 | 518 | 503 | 93 | 92 | 74 | - :unselected: | 69 | 189 |  
+| Service charges | | | | | | | | | |  
+| Deposit-related fees | 2,111 | 2,197 | 2,170 | 161 | 147 | 143 | 22 | 22 | 16 |  
+| Lending-related fees | 916 | 928 | 924 | 184 | 182 | 169 | - | :unselected: | |  
+| Total service charges | 3,027 | 3,125 | 3,094 | 345 | 329 | 312 | 22 | 22 | 16 |  
+| Investment and brokerage services | | | | | | | | | |  
+| Asset management fees | | | | :unselected: | :unselected: | :unselected: | 1 :unselected: | :unselected: | :unselected: |  
+| Brokerage fees | 94 | 97 | 74 | 1,780 | 2,049 | 2,102 | 8 | (21) | (21) |  
+| Total investment and brokerage services | 94 | 97 | 74 | 1,780 | 2,049 | 2,102 | 8 | (21) | (21) |  
+| Investment banking income | | | | | | | | | |  
+| Underwriting income | 502 | 51 | 426 | 2,084 | 2,249 | 2,100 | (198) | (255) | (168) |  
+| Syndication fees | 1,237 | 1,403 | 1,302 | 109 | 95 | 85 | | 1 | |  
+| Financial advisory services | 1,152 | 1,557 | 1,156 | 103 | 132 | 111 | 1 | :unselected: | :unselected: |  
+| Total investment banking income | 2,891 | 3,471 | 2,884 | 2,296 | 2,476 | 2,296 | (196) | (254) | (168) |  
+| Trading account profits | 260 | 134 | 133 | 7,932 | 6,710 | 6,550 | 228 | 286 | 44 |  
+| Other income | 1,950 | 2,150 | 2,286 | 446 | 551 | 199 | (1,346) | (1,750) | (294) |  
+| Total noninterest income | $ 8,763 | $ 9,495 | $ 8,974 | $ 12,892 | $ 12,207 | $ 11,533 | $ (1,284) | $ (1,648) | $ (234) |  
+  
+(1) All Other includes eliminations of intercompany  
+  
+transactions.  
+  
+The tables below present a reconciliation of the four business segments' total revenue, net of interest expense, on an FTE basis, and net income to the Consolidated Statement of Income, and total assets to the Consolidated Balance Sheet.  
+  
+| (Dollars in millions) | 2018 | 2017 | 2016 |  
+| - | - | - | - |  
+| Segments' total revenue, net of interest expense | $ 92,568 | $ 89,061 | $ 83,916 |  
+| Adjustments (1): | | | |  
+| ALM activities | 588 | 312 | (299) |  
+| Liquidating businesses, eliminations and other | (1,299) | (1,096) | 984 |  
+| FTE basis adjustment | (610) | (925) | (900) |  
+| Consolidated revenue, net of interest expense | $ 91,247 | $ 87,352 | $ 83,701 |  
+| Segments' total net income | 28,260 | 21,541 | 19,493 |  
+| Adjustments, net-of-tax (1): | | | |  
+| ALM activities | (46) | (355) | (651) |  

@@ -1,0 +1,51 @@
+  
+|| Exhibit No. Description  | Notes | Incorporated by Reference ||||  
+|||| Form | Exhibit | Filing Date | File No. |  
+| - | - | - | - | - | - | - |  
+| | .Fourth Supplemental Indenture thereto dated as of February 23, 2017 between registrant and The Bank of New York Mellon | | 10-K | 4(i) | 2/23/17 | 1-6523 |  
+| | Trust Company, N.A. | | | | | |  
+| (i) | Indenture dated as of June 27, 2018 between the registrant and The Bank of New York Mellon Trust Company, N.A. | | S-3 | 4.3 | 6/27/18 | 333-224523 |  
+| (k) | Form of Global Senior Medium-Term Note, Series N | | S-3 | 4.4 | 6/27/18 | 333-224523 |  
+| (I) | Form of Master Global Senior Medium-Term Note, Series N | | S-3 | 4.5 | 6/27/18 | 333-224523 |  
+| (m) | Indenture dated as of June 27, 2018 between the registrant and The Bank of New York Mellon Trust Company, N.A. | | S-3 | 4.6 | 6/27/18 | 333-224523 |  
+| (n) | Form of Global Subordinated Medium-Term Note, Series N | | S-3 | 4.7 | 6/27/18 | 333-224523 |  
+| | Registrant and its subsidiaries have other long-term debt agreements, but these are omitted pursuant to Item 601(b)(4)(iii) of Regulation S-K. Copies of these agreements will be furnished to the Commission on request | | | | | |  
+| 10(a) | Bank of America Pension Restoration Plan, as amended and restated effective January 1, 2009 | 1 | 10-K | 10(c) | 2/27/09 | 1-6523 |  
+| | .Amendment thereto dated December 18, 2009 | 1 | 10-K | 10(c) | 2/26/10 | 1-6523 |  
+| | .Amendment thereto dated December 16, 2010 | 1 | 10-K | 10(c) | 2/25/11 | 1-6523 |  
+| | .Amendment thereto dated June 29, 2012 | 1 | 10-K | 10(a) | 2/28/13 | 1-6523 |  
+| (b) | NationsBank Corporation Benefit Security Trust dated as of June 27, 1990 | 1 | 10-K | 10(t) | 3/27/91 | 1-6523 |  
+| | .First Supplement thereto dated as of November 30, 1992 | 1 | 10-K | 10(v) | 3/24/93 | 1-6523 |  
+| | .Trustee Removal/Appointment Agreement dated as of December 19, 1995 | 1 | 10-K | 10(0) | 3/29/96 | 1-6523 |  
+| (c) | Bank of America Deferred Compensation Plan (formerly known as the Bank of America 401(k) Restoration Plan) as amended and | 1 | 10-K | 10(c) | 2/25/15 | 1-6523 |  
+| | restated effective January 1, 2015 | | | | | |  
+| (d) | Bank of America Executive Incentive Compensation Plan, as amended and restated effective December 10, 2002 | 1 | 10-K | 10(g) | 3/3/03 | 1-6523 |  
+| | Amendment to Bank of America Executive Incentive Compensation Plan, dated January 23, 2013 | 1 | 10-K | 10(d) | 2/28/13 | 1-6523 |  
+| (e) | Bank of America Director Deferral Plan, as amended and restated effective January 1, 2005 | 1 | 10-K | 10(g) | 2/28/07 | 1-6523 |  
+| (f) | Bank of America Director Deferral Plan, as amended and restated effective January 1, 2019 | 1,2 | | | | |  
+| (g) | Bank of America Corporation Directors' Stock Plan as amended and restated effective April 26, 2006, and the following forms of | 1 | 8-K | 10.2 | 12/14/05 | 1-6523 |  
+| | award agreements: | | | | | |  
+| | .Form of Restricted Stock Award Agreement ; | 1 | 10-K | 10(h) | 3/1/05 | 1-6523 |  
+| | .Form of Directors' Stock Plan Conditional Restricted Stock Award Agreement for Non-U.S. Director | 1 | 10-Q | 10(a) | 8/4/11 | 1-6523 |  
+| (h) | Bank of America Corporation Key Associate Stock Plan, as amended and restated effective April 28, 2010 and the following forms | 1 | 8-K | 10.2 | 5/3/10 | 1-6523 |  
+| | of award agreement under the plan: | | | | | |  
+| | .Form of Stock Option Award Agreement for non-executives (February 2008 grant) | 1 | 10-K | 10(i) | 2/26/10 | 1-6523 |  
+| | .Form of Restricted Stock Units Award Agreement (February 2013 and subsequent grants), including grants to named executive | 1 | 10-Q | 10(a) | 5/5/13 | 1-6523 |  
+| | officers | | | | | |  
+| | .Form of Performance Restricted Stock Units Award Agreement (February 2014 and subsequent grants), including grants to named executive officers | 1 | 10-Q | 10(a) | 5/1/14 | 1-6523 |  
+| | Bank of America Corporation Key Employee Equity Plan (formerly known as the Key Associate Stock Plan), as amended and | 1 | 8-K | 10.2 | 5/7/15 | 1-6523 |  
+| | restated effective May 6, 2015 | | | | | |  
+| | .Form of Cash-settled Restricted Stock Units Award Agreement (February 2016 and subsequent grants) | 1 | 10-Q | 10(a) | 5/2/16 | 1-6523 |  
+| | .Form of Time-based Restricted Stock Units Award Agreement (February 2016) | 1 | 10-Q | 10(b) | 5/2/16 | 1-6523 |  
+| | .Form of Performance Restricted Stock Units Award Agreement (February 2016) | 1 | 10-Q | 10(c) | 5/2/16 | 1-6523 |  
+| | .Form of Time-based Restricted Stock Units Award Agreement (February 2017 and subsequent grants) | 1 | 10-Q | 10(a) | 5/2/17 | 1-6523 |  
+| | .Form of Performance Restricted Stock Units Award Agreement (February 2017) | 1 | 10-Q | 10(b) | 5/2/17 | 1-6523 |  
+| | .Form of Performance Restricted Stock Units Award Agreement (February 2018) | 1 | 10-Q | 10 | 4/30/18 | 1-6523 |  
+| | .Form of Restricted Stock Award Agreement for Non-Employee Directors | 1,2 | | | | |  
+| (i) | Amendment to various plans in connection with FleetBoston Financial Corporation merger dated October 27, 2003 | 1 | 10-K | 10(v) | 3/1/04 | 1-6523 |  
+| (i) | FleetBoston Supplemental Executive Retirement Plan effective December 31, 2004 | 1 | 10-K | 10(r) | 3/1/05 | 1-6523 |  
+| (k) | FleetBoston Executive Deferred Compensation Plan No. 2 effective December 16, 2003 | 1 | 10-K | 10(u) | 3/1/05 | 1-6523 |  
+| (1) | FleetBoston Executive Supplemental Plan effective December 31, 2004 | 1 | 10-K | 10(v) | 3/1/05 | 1-6523 |  
+| (m) | Retirement Income Assurance Plan for Legacy Fleet, as amended and restated effective January 1, 2009 | 1 | 10-K | 10(p) | 2/26/10 | 1-6523 |  
+  
+Bank of America 2018 174  

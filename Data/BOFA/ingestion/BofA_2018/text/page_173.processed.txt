@@ -1,0 +1,65 @@
+# Loans Reported as Trading Account Assets  
+  
+The Corporation elects to account for certain loans that are held for the purpose of trading and are risk-managed on a fair value basis under the fair value option.  
+  
+  
+# Other Assets  
+  
+The Corporation elects to account for certain long-term fixed-rate margin loans that are hedged with derivatives under the fair value option. Election of the fair value option allows the Corporation to reduce the accounting volatility that would otherwise result from the asymmetry created by accounting for the financial instruments at historical cost and the derivatives at fair value.  
+  
+  
+## Securities Financing Agreements  
+  
+The Corporation elects to account for certain securities financing agreements, including resale and repurchase agreements, under the fair value option based on the tenor of the agreements, which reflects the magnitude of the interest rate risk. The majority of securities financing agreements collateralized by U.S. government securities are not accounted for under the fair value option as these contracts are generally short-dated and therefore the interest rate risk is not significant.  
+  
+  
+# Long-term Deposits  
+  
+The Corporation elects to account for certain long-term fixed-rate and rate-linked deposits that are hedged with derivatives that do not qualify for hedge accounting under the fair value option. Election of the fair value option allows the Corporation to reduce  
+  
+the accounting volatility that would otherwise result from the asymmetry created by accounting for the financial instruments at historical cost and the derivatives at fair value. The Corporation has not elected to carry other long-term deposits at fair value because they are not hedged using derivatives.  
+  
+  
+# Short-term Borrowings  
+  
+The Corporation elects to account for certain short-term borrowings, primarily short- term structured liabilities, under the fair value option because this debt is risk- managed on a fair value basis.  
+  
+The Corporation elects to account for certain asset-backed secured financings, which are also classified in short-term borrowings, under the fair value option. Election of the fair value option allows the Corporation to reduce the accounting volatility that would otherwise result from the asymmetry created by accounting for the asset-backed secured financings at historical cost and the corresponding mortgage LHFS securing these financings at fair value.  
+  
+  
+# Long-term Debt  
+  
+The Corporation elects to account for certain long-term debt, primarily structured liabilities, under the fair value option. This long-term debt is either risk-managed on a fair value basis or the related hedges do not qualify for hedge accounting.  
+  
+  
+# Fair Value Option Elections  
+  
+The table below provides information about the fair value carrying amount and the contractual principal outstanding of assets and liabilities accounted for under the fair value option at December 31, 2018 and 2017.  
+  
+  
+# Fair Value Option Elections  
+  
+| (Dollars in millions) | December 31, 2018 ||| December 31, 2017 |||  
+|| Fair Value Carrying Amount | Contractual Principal Outstanding | Fair Value Carrying Amount Less Unpaid Principal | Fair Value Carrying Amount | Contractual Principal Outstanding | Fair Value Carrying Amount Less Unpaid Principal |  
+| - | - | - | - | - | - | - |  
+| Federal funds sold and securities borrowed or purchased under agreements to resell | $ 56,399 | 56,376 | $ 23 | $ 52,906 | $ 52,907 | $ (1) |  
+| Loans reported as trading account assets (1) | 6,195 | 13,088 | (6,893) | 5,735 | 11,804 | (6,069) |  
+| Trading inventory - other | 13,778 | n/a | n/a | 12,027 | n/a | n/a |  
+| Consumer and commercial loans | 4,349 | 4,399 | (50) | 5,710 | 5,744 | (34) |  
+| Loans held-for-sale (1) | 2,942 | 4,749 | (1,807) | 2,156 | 3,717 | (1,561) |  
+| Other assets | 3 | n/a | n/a | 3 | n/a | n/a |  
+| Long-term deposits | 492 | 454 | 38 | 449 | 421 | 28 |  
+| Federal funds purchased and securities loaned or sold under agreements to repurchase | 28,875 | 28,881 | (6) | 36,182 | 36,187 | (5) |  
+| Short-term borrowings | 1,648 | 1,648 | - | 1,494 | 1,494 | - |  
+| Unfunded loan commitments | 169 | n/a | n/a | 120 | n/a | n/a |  
+| Long-term debt (2) | 27,637 | 29,147 | (1,510) | 31,786 | 31,512 | 274 |  
+  
+(1) A significant portion of the loans reported as trading account assets and LHFS are distressed loans that were purchased at a deep discount to par, and the remainder are loans with a fair value near contractual principal outstanding.  
+  
+(2) Includes structured liabilities with a fair value of$27.3 billion and $31.4 billion, and contractual principal outstanding of$28.8 billion and $31.1 billion at December 31, 2018 and 2017.  
+  
+n/a = not applicable  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+161  

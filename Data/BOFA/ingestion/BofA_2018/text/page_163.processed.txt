@@ -1,0 +1,48 @@
+rates. Principal and interest cash flows are discounted using an observable discount rate for similar instruments with adjustments that management believes a market participant would consider in determining fair value for the specific security. Other instruments are valued using a net asset value approach which considers the value of the underlying securities. Underlying assets are valued using external pricing services, where available, or matrix pricing based on the vintages and ratings. Situations of illiquidity generally are triggered by the market's perception of credit uncertainty regarding a single company or a specific market sector. In these instances, fair value is determined based on limited available market information and other factors, principally from reviewing the issuer's financial statements and changes in credit ratings made by one or more rating agencies.  
+  
+  
+# Derivative Assets and Liabilities  
+  
+The fair values of derivative assets and liabilities traded in the OTC market are determined using quantitative models that utilize multiple market inputs including interest rates, prices and indices to generate continuous yield or pricing curves and volatility factors to value the position. The majority of market inputs are actively quoted and can be validated through external sources, including brokers, market transactions and third-party pricing services. When third-party pricing services are used, the methods and assumptions are reviewed by the Corporation. Estimation risk is greater for derivative asset and liability positions that are either option-based or have longer maturity dates where observable market inputs are less readily available, or are unobservable, in which case, quantitative-based extrapolations of rate, price or index scenarios are used in determining fair values. The fair values of derivative assets and liabilities include adjustments for market liquidity, counterparty credit quality and other instrument-specific factors, where appropriate. In addition, the Corporation incorporates within its fair value measurements of OTC derivatives a valuation adjustment to reflect the credit risk associated with the net position. Positions are netted by counterparty, and fair value for net long exposures is adjusted for counterparty credit risk while the fair value for net short exposures is adjusted for the Corporation's own credit risk. The Corporation also incorporates FVA within its fair value measurements to include funding costs on uncollateralized derivatives and derivatives where the Corporation is not permitted to use the collateral it receives. An estimate of severity of loss is also used in the determination of fair value, primarily based on market data.  
+  
+  
+# Loans and Loan Commitments  
+  
+The fair values of loans and loan commitments are based on market prices, where available, or discounted cash flow analyses using market-based credit spreads of comparable debt instruments or credit derivatives of the specific borrower or comparable borrowers. Results of discounted cash flow analyses may be adjusted, as appropriate, to reflect other market conditions or the perceived credit risk of the borrower.  
+  
+  
+## Mortgage Servicing Rights  
+  
+The fair values of MSRs are primarily determined using an option-adjusted spread (OAS) valuation approach, which factors in prepayment risk to determine the fair value of MSRs. This approach consists of projecting servicing cash flows under multiple interest rate scenarios and discounting these cash flows using risk- adjusted discount rates.  
+  
+151 Bank of America 2018  
+  
+  
+### Loans Held-for-sale  
+  
+The fair values of LHFS are based on quoted market prices, where available, or are determined by discounting estimated cash flows using interest rates approximating the Corporation's current origination rates for similar loans adjusted to reflect the inherent credit risk. The borrower-specific credit risk is embedded within the quoted market prices or is implied by considering loan performance when selecting comparables.  
+  
+  
+#### Short-term Borrowings and Long-term Debt  
+  
+The Corporation issues structured liabilities that have coupons or repayment terms linked to the performance of debt or equity securities, indices, currencies or commodities. The fair values of these structured liabilities are estimated using quantitative models for the combined derivative and debt portions of the notes. These models incorporate observable and, in some instances, unobservable inputs including security prices, interest rate yield curves, option volatility, currency, commodity or equity rates and correlations among these inputs. The Corporation also considers the impact of its own credit spread in determining the discount rate used to value these liabilities. The credit spread is determined by reference to observable spreads in the secondary bond market.  
+  
+  
+# Securities Financing Agreements  
+  
+The fair values of certain reverse repurchase agreements, repurchase agreements and securities borrowed transactions are determined using quantitative models, including discounted cash flow models that require the use of multiple market inputs including interest rates and spreads to generate continuous yield or pricing curves, and volatility factors. The majority of market inputs are actively quoted and can be validated through external sources, including brokers, market transactions and third-party pricing services.  
+  
+  
+## Deposits  
+  
+The fair values of deposits are determined using quantitative models, including discounted cash flow models that require the use of multiple market inputs including interest rates and spreads to generate continuous yield or pricing curves, and volatility factors. The majority of market inputs are actively quoted and can be validated through external sources, including brokers, market transactions and third-party pricing services. The Corporation considers the impact of its own credit spread in the valuation of these liabilities. The credit risk is determined by reference to observable credit spreads in the secondary cash market.  
+  
+  
+## Asset-backed Secured Financings  
+  
+The fair values of asset-backed secured financings are based on external broker bids, where available, or are determined by discounting estimated cash flows using interest rates approximating the Corporation's current origination rates for similar loans adjusted to reflect the inherent credit risk.  
+  
+  
+# Recurring Fair Value  
+  
+Assets and liabilities carried at fair value on a recurring basis atDecember 31, 2018 and 2017, including financial instruments which the Corporation accounts for under the fair value option, are summarized in the following tables.  

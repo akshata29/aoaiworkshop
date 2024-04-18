@@ -1,0 +1,59 @@
+<!-- PageHeader="NOTE 14 Accumulated Other Comprehensive Income (Loss)" -->  
+  
+The table below presents the changes in accumulated OCI after-tax for2016, 2017 and 2018.  
+  
+| (Dollars in millions) | Debt and Equity Securities | Debit Valuation Adjustments | Derivatives | Employee Benefit Plans | Foreign Currency | Total |  
+| - | - | - | - | - | - | - |  
+| Balance, December 31, 2015 | $ 78 | $ (611) | $ (1,077) | $ (2,956) | $ (792) | $ (5,358) |  
+| Net change | (1,345) | (156) | 182 | (524) | (87) | (1,930) |  
+| Balance, December 31, 2016 | $ (1,267) | $ (767) | $ (895) | $ (3,480) | $ (879) | $ (7,288) |  
+| Net change | 61 | (293) | 64 | 288 | 86 | 206 |  
+| Balance, December 31, 2017 | $ (1,206) | $ (1,060) | $ (831) | $ (3,192) | $ (793) | $ (7,082) |  
+| Accounting change related to certain tax effects (1) | (393) | (220) | (189) | (707) | 239 | (1,270) |  
+| Cumulative adjustment for hedge accounting change (2) | - | - | 57 | - | | 57 |  
+| Net change | (3,953) | 749 | (53) | (405) | (254) | (3,916) |  
+| Balance, December 31, 2018 | $ (5,552) | $ (531) | $ (1,016) | $ (4,304) | $ (808) | $ (12,211) |  
+  
+(1) Effective January 1, 2018, the Corporation adopted the accounting standard on tax effects in accumulated OCI related to the Tax Act. Accordingly, certain tax effects were reclassified from accumulated OCI to retained earnings. For additional information, see Note 1 - Summary of Significant Accounting Principles.  
+  
+(2) Reflects the Corporation's adoption of the new hedge accounting standard. For additional information, seeNote 1 - Summary of Significant Accounting Principles.  
+  
+The table below presents the net change in fair value recorded in accumulated OCI, net realized gains and losses reclassified into earnings and other changes for each component of OCI pre- and after-tax for 2018, 2017 and 2016.  
+  
+| Changes in OCI Components Pre- and After-tax ||||||||||  
+| (Dollars in millions) | Pretax | Tax effect | After- tax | Pretax | Tax effect | After- tax | Pretax | Tax effect | After- tax |  
+|| 2018 ||| 2017 ||| 2016 |||  
+| - | - | - | - | - | - | - | - | - | - |  
+| Debt and equity securities: | | | | | | | | | |  
+| Net increase (decrease) in fair value | $ (5,189) | $ 1,329 | $ (3,860) | $ 240 | $ 14 | $ 254 | $ (1,694) | $ 641 | $ (1,053) |  
+| Net realized (gains) reclassified into earnings (1) | (123) | 30 | (93) | (304) | 111 | (193) | (471) | 179 | (292) |  
+| Net change | (5,312) | 1,359 | (3,953) | (64) | 125 | 61 | (2,165) | 820 | (1,345) |  
+| Debit valuation adjustments: | | | | | | | | | |  
+| Net increase (decrease) in fair value | 952 | (224) | 728 | (490) | 171 | (319) | (271) | 104 | (167) |  
+| Net realized losses reclassified into earnings (1) | 26 | (5) | 21 | 42 | (16) | 26 | 17 | (6) | 11 |  
+| Net change | 978 | (229) | 749 | (448) | 155 | (293) | (254) | 98 | (156) |  
+| Derivatives: | | | | | | | | | |  
+| Net (decrease) in fair value | (232) | 74 | (158) | (50) | 1 | (49) | (299) | 113 | (186) |  
+| Reclassifications into earnings: | | | | | | | | | |  
+| Net interest income | 165 | (40) | 125 | 327 | (122) | 205 | 553 | (205) | 348 |  
+| Personnel expense | (27) | 7 | (20) | (148) | 56 | (92) | 32 | (12) | 20 |  
+| Net realized losses reclassified into earnings | 138 | (33) | 105 | 179 | (66) | 113 | 585 | (217) | 368 |  
+| Net change | (94) | 41 | (53) | 129 | (65) | 64 | 286 | (104) | 182 |  
+| Employee benefit plans: | | | | | | | | | |  
+| Net increase (decrease) in fair value | (703) | 164 | (539) | 223 | (55) | 168 | (921) | 329 | (592) |  
+| Net actuarial losses and other reclassified into earnings (2) | 171 | (46) | 125 | 179 | (61) | 118 | 97 | (36) | 61 |  
+| Settlements, curtailments and other | 11 | (2) | 9 | 3 | (1) | 2 | 15 | (8) - | 7 |  
+| Net change | (521) | 116 | (405) | 405 | (117) | 288 | (809) | 285 | (524) |  
+| Foreign currency: | | | | | | | | | |  
+| Net (decrease) in fair value | (8) | (195) | (203) | (439) | 430 | (9) | 514 | (601) | (87) |  
+| Net realized (gains) losses reclassified into earnings (1) | (149) | 98 | (51) | (606) | 701 | 95 | | - | |  
+| Net change | (157) | (97) | (254) | (1,045) | 1,131 | 86 | 514 | (601) | (87) |  
+| Total other comprehensive income (loss) | $ (5,106) | $ 1,190 | $ (3,916) | $ (1,023) | $ 1,229 | $ 206 | $ (2,428) | $ 498 | $ (1,930) |  
+  
+(1) Reclassifications of pretax debt and equity securities, DVA and foreign currency (gains) losses are recorded in other income in the Consolidated Statement of Income.  
+  
+(2) Reclassifications of pretax employee benefit plan costs are recorded in other general operating expense in the Consolidated Statement of  
+  
+Income.  
+  
+<!-- PageFooter="Bank of America 2018 140" -->  

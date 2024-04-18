@@ -1,0 +1,63 @@
+ Offsetting of Derivatives (1)  
+  
+| | Derivative Assets | Derivative Liabilities | Derivative Assets | Derivative Liabilities |  
+| - | - | - | - | - |  
+| (Dollars in billions) | December 31, 2018 || December 31, 2017 ||  
+| Interest rate contracts | | | | |  
+| Over-the-counter | $ 174.2 | $ 169.4 | $ 211.7 | $ 206.0 |  
+| Over-the-counter cleared | 4.8 | 4.0 | 1.9 | 1.8 |  
+| Foreign exchange contracts | | | | |  
+| Over-the-counter | 82.5 | 86.3 | 78.7 | 80.8 |  
+| Over-the-counter cleared | 0.9 | 0.9 | 0.9 | 0.7 |  
+| Equity contracts | | | | |  
+| Over-the-counter | 24.6 | 14.6 | 18.3 | 16.2 |  
+| Exchange-traded | 16.1 | 15.1 | 9.1 | 8.5 |  
+| Commodity contracts | | | | |  
+| Over-the-counter | 3.5 | 4.5 | 2.9 | 4.4 |  
+| Exchange-traded | 1.0 | 0.9 | 0.7 | 0.8 |  
+| Credit derivatives | | | | |  
+| Over-the-counter | 7.7 | 8.2 | 9.1 | 9.6 |  
+| Over-the-counter cleared | 2.5 | 2.3 | 6.1 | 6.0 |  
+| Total gross derivative assets/liabilities, before netting | | | | |  
+| Over-the-counter | 292.5 | 283.0 | 320.7 | 317.0 |  
+| Exchange-traded :unselected: | 17.1 | 16.0 | 9.8 | 9.3 |  
+| Over-the-counter cleared | 8.2 | 7.2 | 8.9 | 8.5 |  
+| Less: Legally enforceable master netting agreements and cash collateral received/paid | | | | |  
+| Over-the-counter | (264.4) | (259.2) | (296.9) | (294.6) |  
+| Exchange-traded | (13.5) | (13.5) | (8.6) | (8.6) |  
+| Over-the-counter cleared | (7.2) | (7.2) | (8.3) | (8.5) |  
+| Derivative assets/liabilities, after netting | 32.7 | 26.3 | 25.6 | 23.1 |  
+| Other gross derivative assets/liabilities (2) | 11.0 | 11.6 | 12.2 | 11.2 |  
+| Total derivative assets/liabilities | 43.7 | 37.9 | 37.8 | 34.3 |  
+| Less: Financial instruments collateral (3) | (16.3) | (8.6) | (11.2) | (10.4) |  
+| Total net derivative assets/liabilities | $ 27.4 | $ 29.3 | $ 26.6 | $ 23.9 |  
+  
+(1) OTC derivatives include bilateral transactions between the Corporation and a particular counterparty. OTC-cleared derivatives include bilateral transactions between the Corporation and a counterparty where the transaction is cleared through a clearinghouse. Exchange-traded derivatives include listed options transacted on an exchange.  
+  
+(2) Consists of derivatives entered into under master netting agreements where the enforceability of these agreements is uncertain under bankruptcy laws in some countries or industries.  
+  
+(3) Amounts are limited to the derivative asset/liability balance and, accordingly, do not include excess collateral received/pledged. Financial instruments collateral includes securities collateral received or pledged and cash securities held and posted at third- party custodians that are not offset on the Consolidated Balance Sheet but shown as a reduction to derive net derivative assets and liabilities.  
+  
+  
+# ALM and Risk Management Derivatives  
+  
+The Corporation's ALM and risk management activities include the use of derivatives to mitigate risk to the Corporation including derivatives designated in qualifying hedge accounting relationships and derivatives used in other risk management activities. Interest rate, foreign exchange, equity, commodity and credit contracts are utilized in the Corporation's ALM and risk management activities.  
+  
+The Corporation maintains an overall interest rate risk management strategy that incorporates the use of interest rate contracts, which are generally non- leveraged generic interest rate and basis swaps, options, futures and forwards, to minimize significant fluctuations in earnings caused by interest rate volatility. The Corporation's goal is to manage interest rate sensitivity and volatility so that movements in interest rates do not significantly adversely affect earnings or capital. As a result of interest rate fluctuations, hedged fixed-rate assets and liabilities appreciate or depreciate in fair value. Gains or losses on the derivative instruments that are linked to the hedged fixed-rate assets and liabilities are expected to substantially offset this unrealized appreciation or depreciation.  
+  
+Market risk, including interest rate risk, can be substantial in the mortgage business. Market risk in the mortgage business is the risk that values of mortgage assets or revenues will be adversely affected by changes in market conditions such as interest rate movements. To mitigate the interest rate risk in mortgage banking production income, the Corporation utilizes forward loan sale commitments and other derivative instruments, including purchased options, and certain debt securities. The  
+  
+Corporation also utilizes derivatives such as interest rate options, interest rate swaps, forward settlement contracts and eurodollar futures to hedge certain market risks of MSRs. For more information on MSRs, see Note 20 - Fair Value Measurements.  
+  
+The Corporation uses foreign exchange contracts to manage the foreign exchange risk associated with certain foreign currency-denominated assets and liabilities, as well as the Corporation's investments in non-U.S. subsidiaries. Foreign exchange contracts, which include spot and forward contracts, represent agreements to exchange the currency of one country for the currency of another country at an agreed-upon price on an agreed-upon settlement date. Exposure to loss on these contracts will increase or decrease over their respective lives as currency exchange and interest rates fluctuate.  
+  
+The Corporation purchases credit derivatives to manage credit risk related to certain funded and unfunded credit exposures. Credit derivatives include CDS, total return swaps and swaptions. These derivatives are recorded on the Consolidated Balance Sheet at fair value with changes in fair value recorded in other income.  
+  
+  
+## Derivatives Designated as Accounting Hedges  
+  
+The Corporation uses various types of interest rate and foreign exchange derivative contracts to protect against changes in the fair value of its assets and liabilities due to fluctuations in interest rates and exchange rates (fair value hedges). The Corporation also uses these types of contracts to protect against changes in the cash flows of its assets and liabilities, and other forecasted transactions (cash flow hedges). The Corporation hedges its net investment in consolidated non-U.S. operations determined to have functional currencies other than the U.S. dollar using forward  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageNumber="103" -->  

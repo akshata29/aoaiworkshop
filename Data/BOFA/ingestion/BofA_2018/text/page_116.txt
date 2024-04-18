@@ -1,0 +1,59 @@
+Credit derivatives are classified as investment and non-investment grade based on the credit quality of the underlying referenced obligation. The Corporation considers ratings of BBB- or higher as investment grade. Non-investment grade includes non-rated credit derivative instruments. The Corporation discloses  
+  
+internal categorizations of investment grade and non-investment grade consistent with how risk is managed for these instruments.  
+  
+Credit derivative instruments where the Corporation is the seller of credit protection and their expiration at December 31, 2018 and 2017 are summarized in the following table.  
+  
+| Credit Derivative Instruments ||||||  
+| | Less than One Year | One to Three Years | Three to Five Years | Over Five Years | Total |  
+| - | - | - | - | - | - |  
+| | December 31, 2018 |||||  
+| (Dollars in millions) | Carrying Value ||| ||  
+| Credit default swaps: | | | | | |  
+| Investment grade | 2 | 44 | 436 | 488 | $ 970 |  
+| Non-investment grade | 132 | 636 | 914 | 1,691 | 3,373 |  
+| Total | 134 | 680 | 1,350 | 2,179 | 4,343 |  
+| Total return swaps/options: | | | | | |  
+| Investment grade | 105 | | 1 | 1 | 105 |  
+| Non-investment grade | 472 | 21 | | | 493 |  
+| Total | 577 | 21 | - | - | 598 |  
+| Total credit derivatives | 711 | $ 701 | $ 1,350 | $ 2,179 | $ 4,941 |  
+| Credit-related notes: | | | | | |  
+| Investment grade | - | $ - | $ 4 | 532 | 536 |  
+| Non-investment grade | 1 | 1 1 | 1 | 1,500 | 1,503 |  
+| Total credit-related notes | 1 | 1 $ 1 | $ 5 | $ 2,032 | 2,039 |  
+| | Maximum Payout/Notional |||||  
+| Credit default swaps: | | | | | |  
+| Investment grade | 53,758 | $ 95,699 | 95,274 | $ 20,054 | 264,785 |  
+| Non-investment grade | 24,297 | 33,881 | 34,530 | 14,426 | 107,134 |  
+| Total | 78,055 | 129,580 | 129,804 | 34,480 | 371,919 |  
+| Total return swaps/options: | | | | | |  
+| Investment grade | 60,042 | 822 | 59 | 72 | 60,995 |  
+| Non-investment grade | 24,524 | 1,649 | 39 | 70 | 26,282 |  
+| Total | 84,566 | 2,471 | 98 | 142 | 87,277 |  
+| Total credit derivatives | $ 162,621 | $ 132,051 | $ 129,902 | $ 34,622 | $ 459,196 |  
+| | | | December 31, 2017 | | |  
+| | | | Carrying Value | | |  
+| Credit default swaps: | | | | | |  
+| Investment grade | $ 4 | $ 3 | $ 61 | $ 245 | $ 313 |  
+| Non-investment grade | 203 | 453 | 484 | 2,133 | 3,273 |  
+| Total | 207 | 456 | 545 | 2,378 | 3,586 |  
+| Total return swaps/options: | | | | | |  
+| Investment grade | 30 | | | 1 | 30 |  
+| Non-investment grade | 150 | | - | 3 | 153 |  
+| Total | 180 | | | 3 | 183 |  
+| Total credit derivatives | $ 387 | $ 456 | $ 545 | $ 2,381 | $ 3,769 |  
+| Credit-related notes: | | | | | |  
+| Investment grade | | $ | $ 7 | $ 689 | $ 696 |  
+| Non-investment grade | 12 | 4 | 34 | 1,548 | 1,598 |  
+| Total credit-related notes | $ 12 | $ 4 | $ 41 | $ 2,237 | $ 2,294 |  
+| | Maximum Payout/Notional |||||  
+| Credit default swaps: | | | | | |  
+| Investment grade | $ 61,388 | $ 115,480 | $ 107,081 | $ 21,579 | $ 305,528 |  
+| Non-investment grade | 39,312 | 49,843 | 39,098 | 14,420 | 142,673 |  
+| Total | 100,700 | 165,323 | 146,179 | 35,999 | 448,201 |  
+| Total return swaps/options: | | | | | |  
+| Investment grade | 37,394 | 2,581 | | 143 | 40,118 |  
+| Non-investment grade | 13,751 | 514 | 143 | 697 | 15,105 |  
+| Total | 51,145 | 3,095 | 143 | 840 | 55,223 |  
+| Total credit derivatives | $ 151,845 | $ 168,418 | $ 146,322 | $ 36,839 | $ 503,424 |  

@@ -1,0 +1,1298 @@
+{
+    "status": "succeeded",
+    "createdDateTime": "2024-03-08T21:15:47Z",
+    "lastUpdatedDateTime": "2024-03-08T21:15:48Z",
+    "analyzeResult": {
+        "apiVersion": "2023-10-31-preview",
+        "modelId": "prebuilt-layout",
+        "stringIndexType": "utf16CodeUnit",
+        "content": "125\n\n(4) All other assets includes subordinate securities. The retained senior and subordinate securities were valued using quoted market prices or observable market inputs (Level 2 of the fair value hierarchy).\n\n(5) Total assets of VIEs includes loans the Corporation transferred with which it has continuing involvement, which may include servicing the loan.\n\nBank of America 2018\n",
+        "pages": [
+            {
+                "pageNumber": 1,
+                "angle": 0.02268240973353386,
+                "width": 2550,
+                "height": 3300,
+                "unit": "pixel",
+                "words": [
+                    {
+                        "content": "125",
+                        "polygon": [
+                            111,
+                            281,
+                            156,
+                            281,
+                            156,
+                            302,
+                            111,
+                            302
+                        ],
+                        "confidence": 0.999,
+                        "span": {
+                            "offset": 0,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "(4)",
+                        "polygon": [
+                            99,
+                            83,
+                            122,
+                            83,
+                            122,
+                            105,
+                            99,
+                            105
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 5,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "All",
+                        "polygon": [
+                            130,
+                            83,
+                            152,
+                            83,
+                            152,
+                            105,
+                            130,
+                            105
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 9,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "other",
+                        "polygon": [
+                            161,
+                            83,
+                            207,
+                            83,
+                            207,
+                            106,
+                            161,
+                            105
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 13,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "assets",
+                        "polygon": [
+                            215,
+                            83,
+                            272,
+                            83,
+                            272,
+                            106,
+                            215,
+                            106
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 19,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "includes",
+                        "polygon": [
+                            281,
+                            83,
+                            353,
+                            83,
+                            353,
+                            106,
+                            281,
+                            106
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 26,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "subordinate",
+                        "polygon": [
+                            361,
+                            83,
+                            465,
+                            83,
+                            465,
+                            106,
+                            361,
+                            106
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 35,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "securities.",
+                        "polygon": [
+                            473,
+                            83,
+                            567,
+                            83,
+                            567,
+                            106,
+                            473,
+                            106
+                        ],
+                        "confidence": 0.984,
+                        "span": {
+                            "offset": 47,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "The",
+                        "polygon": [
+                            572,
+                            83,
+                            605,
+                            83,
+                            605,
+                            107,
+                            572,
+                            106
+                        ],
+                        "confidence": 0.998,
+                        "span": {
+                            "offset": 59,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "retained",
+                        "polygon": [
+                            614,
+                            83,
+                            685,
+                            83,
+                            685,
+                            107,
+                            614,
+                            107
+                        ],
+                        "confidence": 0.989,
+                        "span": {
+                            "offset": 63,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "senior",
+                        "polygon": [
+                            694,
+                            83,
+                            748,
+                            83,
+                            748,
+                            107,
+                            694,
+                            107
+                        ],
+                        "confidence": 0.978,
+                        "span": {
+                            "offset": 72,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "and",
+                        "polygon": [
+                            756,
+                            83,
+                            788,
+                            83,
+                            788,
+                            107,
+                            756,
+                            107
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 79,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "subordinate",
+                        "polygon": [
+                            798,
+                            83,
+                            901,
+                            83,
+                            901,
+                            107,
+                            798,
+                            107
+                        ],
+                        "confidence": 0.972,
+                        "span": {
+                            "offset": 83,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "securities",
+                        "polygon": [
+                            909,
+                            83,
+                            993,
+                            83,
+                            993,
+                            107,
+                            909,
+                            107
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 95,
+                            "length": 10
+                        }
+                    },
+                    {
+                        "content": "were",
+                        "polygon": [
+                            1001,
+                            83,
+                            1045,
+                            83,
+                            1045,
+                            107,
+                            1001,
+                            107
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 106,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "valued",
+                        "polygon": [
+                            1052,
+                            83,
+                            1111,
+                            83,
+                            1111,
+                            107,
+                            1052,
+                            107
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 111,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "using",
+                        "polygon": [
+                            1120,
+                            83,
+                            1166,
+                            83,
+                            1166,
+                            107,
+                            1120,
+                            107
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 118,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "quoted",
+                        "polygon": [
+                            1175,
+                            83,
+                            1235,
+                            83,
+                            1235,
+                            107,
+                            1175,
+                            107
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 124,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "market",
+                        "polygon": [
+                            1245,
+                            82,
+                            1305,
+                            82,
+                            1305,
+                            107,
+                            1245,
+                            107
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 131,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "prices",
+                        "polygon": [
+                            1314,
+                            82,
+                            1366,
+                            82,
+                            1366,
+                            107,
+                            1314,
+                            107
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 138,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "or",
+                        "polygon": [
+                            1374,
+                            82,
+                            1393,
+                            82,
+                            1393,
+                            107,
+                            1374,
+                            107
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 145,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "observable",
+                        "polygon": [
+                            1400,
+                            82,
+                            1497,
+                            82,
+                            1497,
+                            107,
+                            1400,
+                            107
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 148,
+                            "length": 10
+                        }
+                    },
+                    {
+                        "content": "market",
+                        "polygon": [
+                            1506,
+                            82,
+                            1567,
+                            82,
+                            1567,
+                            107,
+                            1506,
+                            107
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 159,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "inputs",
+                        "polygon": [
+                            1575,
+                            82,
+                            1627,
+                            82,
+                            1627,
+                            107,
+                            1575,
+                            107
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 166,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "(Level",
+                        "polygon": [
+                            1636,
+                            82,
+                            1689,
+                            82,
+                            1689,
+                            107,
+                            1636,
+                            107
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 173,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "2",
+                        "polygon": [
+                            1698,
+                            82,
+                            1709,
+                            82,
+                            1709,
+                            107,
+                            1698,
+                            107
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 180,
+                            "length": 1
+                        }
+                    },
+                    {
+                        "content": "of",
+                        "polygon": [
+                            1717,
+                            82,
+                            1735,
+                            82,
+                            1735,
+                            107,
+                            1717,
+                            107
+                        ],
+                        "confidence": 0.997,
+                        "span": {
+                            "offset": 182,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "the",
+                        "polygon": [
+                            1742,
+                            82,
+                            1769,
+                            82,
+                            1769,
+                            107,
+                            1742,
+                            107
+                        ],
+                        "confidence": 0.999,
+                        "span": {
+                            "offset": 185,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "fair",
+                        "polygon": [
+                            1777,
+                            82,
+                            1806,
+                            82,
+                            1806,
+                            107,
+                            1777,
+                            107
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 189,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "value",
+                        "polygon": [
+                            1813,
+                            82,
+                            1864,
+                            82,
+                            1864,
+                            106,
+                            1813,
+                            107
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 194,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "hierarchy).",
+                        "polygon": [
+                            129,
+                            107,
+                            226,
+                            109,
+                            225,
+                            131,
+                            129,
+                            129
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 200,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "(5)",
+                        "polygon": [
+                            100,
+                            146,
+                            127,
+                            146,
+                            126,
+                            168,
+                            100,
+                            168
+                        ],
+                        "confidence": 0.992,
+                        "span": {
+                            "offset": 213,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "Total",
+                        "polygon": [
+                            132,
+                            146,
+                            173,
+                            146,
+                            172,
+                            168,
+                            131,
+                            168
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 217,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "assets",
+                        "polygon": [
+                            181,
+                            146,
+                            238,
+                            146,
+                            237,
+                            169,
+                            180,
+                            168
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 223,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "of",
+                        "polygon": [
+                            245,
+                            146,
+                            262,
+                            146,
+                            261,
+                            169,
+                            244,
+                            169
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 230,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "VIEs",
+                        "polygon": [
+                            268,
+                            146,
+                            310,
+                            146,
+                            309,
+                            169,
+                            267,
+                            169
+                        ],
+                        "confidence": 0.988,
+                        "span": {
+                            "offset": 233,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "includes",
+                        "polygon": [
+                            318,
+                            146,
+                            390,
+                            146,
+                            390,
+                            169,
+                            317,
+                            169
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 238,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "loans",
+                        "polygon": [
+                            398,
+                            146,
+                            445,
+                            145,
+                            444,
+                            170,
+                            397,
+                            169
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 247,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "the",
+                        "polygon": [
+                            452,
+                            145,
+                            479,
+                            145,
+                            479,
+                            170,
+                            451,
+                            170
+                        ],
+                        "confidence": 0.999,
+                        "span": {
+                            "offset": 253,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "Corporation",
+                        "polygon": [
+                            487,
+                            145,
+                            590,
+                            145,
+                            589,
+                            170,
+                            486,
+                            170
+                        ],
+                        "confidence": 0.989,
+                        "span": {
+                            "offset": 257,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "transferred",
+                        "polygon": [
+                            597,
+                            145,
+                            693,
+                            145,
+                            693,
+                            170,
+                            596,
+                            170
+                        ],
+                        "confidence": 0.988,
+                        "span": {
+                            "offset": 269,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "with",
+                        "polygon": [
+                            701,
+                            145,
+                            735,
+                            145,
+                            735,
+                            170,
+                            700,
+                            170
+                        ],
+                        "confidence": 0.992,
+                        "span": {
+                            "offset": 281,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "which",
+                        "polygon": [
+                            742,
+                            145,
+                            793,
+                            145,
+                            793,
+                            170,
+                            742,
+                            170
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 286,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "it",
+                        "polygon": [
+                            802,
+                            145,
+                            811,
+                            145,
+                            811,
+                            170,
+                            801,
+                            170
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 292,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "has",
+                        "polygon": [
+                            818,
+                            145,
+                            850,
+                            145,
+                            849,
+                            170,
+                            818,
+                            170
+                        ],
+                        "confidence": 0.998,
+                        "span": {
+                            "offset": 295,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "continuing",
+                        "polygon": [
+                            857,
+                            145,
+                            947,
+                            145,
+                            947,
+                            170,
+                            856,
+                            170
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 299,
+                            "length": 10
+                        }
+                    },
+                    {
+                        "content": "involvement,",
+                        "polygon": [
+                            955,
+                            145,
+                            1065,
+                            145,
+                            1065,
+                            170,
+                            955,
+                            170
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 310,
+                            "length": 12
+                        }
+                    },
+                    {
+                        "content": "which",
+                        "polygon": [
+                            1073,
+                            145,
+                            1124,
+                            145,
+                            1124,
+                            170,
+                            1073,
+                            170
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 323,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "may",
+                        "polygon": [
+                            1132,
+                            145,
+                            1169,
+                            145,
+                            1169,
+                            170,
+                            1132,
+                            170
+                        ],
+                        "confidence": 0.999,
+                        "span": {
+                            "offset": 329,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "include",
+                        "polygon": [
+                            1176,
+                            145,
+                            1239,
+                            146,
+                            1239,
+                            170,
+                            1176,
+                            170
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 333,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "servicing",
+                        "polygon": [
+                            1246,
+                            146,
+                            1324,
+                            146,
+                            1324,
+                            170,
+                            1246,
+                            170
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 341,
+                            "length": 9
+                        }
+                    },
+                    {
+                        "content": "the",
+                        "polygon": [
+                            1332,
+                            146,
+                            1363,
+                            146,
+                            1363,
+                            170,
+                            1331,
+                            170
+                        ],
+                        "confidence": 0.999,
+                        "span": {
+                            "offset": 351,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "loan.",
+                        "polygon": [
+                            128,
+                            168,
+                            176,
+                            169,
+                            175,
+                            189,
+                            127,
+                            188
+                        ],
+                        "confidence": 0.968,
+                        "span": {
+                            "offset": 355,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "Bank",
+                        "polygon": [
+                            179,
+                            282,
+                            233,
+                            282,
+                            232,
+                            305,
+                            178,
+                            305
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 362,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "of",
+                        "polygon": [
+                            239,
+                            282,
+                            258,
+                            282,
+                            258,
+                            304,
+                            238,
+                            304
+                        ],
+                        "confidence": 0.998,
+                        "span": {
+                            "offset": 367,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "America",
+                        "polygon": [
+                            264,
+                            282,
+                            345,
+                            281,
+                            345,
+                            305,
+                            263,
+                            304
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 370,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "2018",
+                        "polygon": [
+                            352,
+                            281,
+                            405,
+                            281,
+                            405,
+                            305,
+                            352,
+                            305
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 378,
+                            "length": 4
+                        }
+                    }
+                ],
+                "lines": [
+                    {
+                        "content": "125",
+                        "polygon": [
+                            112,
+                            281,
+                            155,
+                            281,
+                            155,
+                            302,
+                            111,
+                            302
+                        ],
+                        "spans": [
+                            {
+                                "offset": 0,
+                                "length": 3
+                            }
+                        ]
+                    },
+                    {
+                        "content": "(4) All other assets includes subordinate securities. The retained senior and subordinate securities were valued using quoted market prices or observable market inputs (Level 2 of the fair value",
+                        "polygon": [
+                            98,
+                            81,
+                            1863,
+                            81,
+                            1863,
+                            106,
+                            98,
+                            106
+                        ],
+                        "spans": [
+                            {
+                                "offset": 5,
+                                "length": 194
+                            }
+                        ]
+                    },
+                    {
+                        "content": "hierarchy).",
+                        "polygon": [
+                            127,
+                            106,
+                            225,
+                            108,
+                            225,
+                            130,
+                            127,
+                            128
+                        ],
+                        "spans": [
+                            {
+                                "offset": 200,
+                                "length": 11
+                            }
+                        ]
+                    },
+                    {
+                        "content": "(5) Total assets of VIEs includes loans the Corporation transferred with which it has continuing involvement, which may include servicing the",
+                        "polygon": [
+                            99,
+                            145,
+                            1362,
+                            145,
+                            1362,
+                            170,
+                            99,
+                            169
+                        ],
+                        "spans": [
+                            {
+                                "offset": 213,
+                                "length": 141
+                            }
+                        ]
+                    },
+                    {
+                        "content": "loan.",
+                        "polygon": [
+                            125,
+                            168,
+                            175,
+                            170,
+                            174,
+                            189,
+                            124,
+                            188
+                        ],
+                        "spans": [
+                            {
+                                "offset": 355,
+                                "length": 5
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Bank of America 2018",
+                        "polygon": [
+                            178,
+                            281,
+                            404,
+                            280,
+                            404,
+                            304,
+                            178,
+                            305
+                        ],
+                        "spans": [
+                            {
+                                "offset": 362,
+                                "length": 20
+                            }
+                        ]
+                    }
+                ],
+                "spans": [
+                    {
+                        "offset": 0,
+                        "length": 383
+                    }
+                ]
+            }
+        ],
+        "tables": [],
+        "paragraphs": [
+            {
+                "spans": [
+                    {
+                        "offset": 0,
+                        "length": 3
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            111,
+                            281,
+                            155,
+                            281,
+                            155,
+                            302,
+                            111,
+                            302
+                        ]
+                    }
+                ],
+                "content": "125"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 5,
+                        "length": 206
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            98,
+                            81,
+                            1863,
+                            81,
+                            1863,
+                            130,
+                            98,
+                            130
+                        ]
+                    }
+                ],
+                "content": "(4) All other assets includes subordinate securities. The retained senior and subordinate securities were valued using quoted market prices or observable market inputs (Level 2 of the fair value hierarchy)."
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 213,
+                        "length": 147
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            99,
+                            145,
+                            1362,
+                            145,
+                            1362,
+                            189,
+                            99,
+                            189
+                        ]
+                    }
+                ],
+                "content": "(5) Total assets of VIEs includes loans the Corporation transferred with which it has continuing involvement, which may include servicing the loan."
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 362,
+                        "length": 20
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            178,
+                            281,
+                            404,
+                            280,
+                            404,
+                            304,
+                            178,
+                            305
+                        ]
+                    }
+                ],
+                "content": "Bank of America 2018"
+            }
+        ],
+        "contentFormat": "markdown",
+        "sections": [
+            {
+                "spans": [
+                    {
+                        "offset": 0,
+                        "length": 3
+                    },
+                    {
+                        "offset": 5,
+                        "length": 206
+                    },
+                    {
+                        "offset": 213,
+                        "length": 147
+                    },
+                    {
+                        "offset": 362,
+                        "length": 20
+                    }
+                ],
+                "elements": [
+                    "/paragraphs/0",
+                    "/paragraphs/1",
+                    "/paragraphs/2",
+                    "/paragraphs/3"
+                ]
+            }
+        ]
+    }
+}

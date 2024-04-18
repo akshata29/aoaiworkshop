@@ -1,0 +1,55 @@
+ Table 11 Analysis of Changes in Net Interest Income - FTE Basis  
+  
+| | Due to Change in (1) || | Due to Change in (1) || Net Change |  
+|| Volume | Rate | Net Change | Volume | Rate ||  
+| - | - | - | - | - | - | - |  
+| (Dollars in millions) | From 2017 to 2018 From 2016 to 2017 ||||||  
+| Increase (decrease) in interest income | | | | | | |  
+| Interest-bearing deposits with the Federal Reserve, non-U.S. central banks and other banks | 109 | 695 | 804 | $ (32) | $ 549 | 517 |  
+| Time deposits placed and other short-term investments | (53) | 28 | (25) | 48 | 53 | 101 |  
+| Federal funds sold and securities borrowed or purchased under agreements to resell | 230 | 1,140 | 1,370 | 36 | 803 | 839 |  
+| Trading account assets | 134 | 149 | 283 | (22) | 77 | 55 |  
+| Debt securities | 44 | 1,167 | 1,211 | 438 | 925 | 1,363 |  
+| Loans and leases: | | | | | | |  
+| Residential mortgage | 329 | 134 | 463 | 335 | 8 | 343 |  
+| Home equity | (350) | 315 | (35) | (360) | 255 | (105) |  
+| U.S. credit card | 339 | 449 | 788 | 290 | 331 | 621 |  
+| Non-U.S. credit card (2) | (358) | | (358) | (544) | (24) | (568) |  
+| Direct/Indirect and other consumer | (82) | 452 | 370 | 48 | 315 | 363 |  
+| Total consumer | | | 1,228 | | | 654 |  
+| U.S. commercial | 402 | 1,770 | 2,172 | 468 | 1,196 | 1,664 |  
+| Non-U.S. commercial | 71 | 583 | 654 | 48 | 181 | 229 |  
+| Commercial real estate | 70 | 432 | 502 | 29 | 314 | 343 |  
+| Commercial lease financing | (5) | (3) | (8) | 19 | 60 | 79 |  
+| Total commercial | | | 3,320 | | | 2,315 |  
+| Total loans and leases | | | 4,548 | | | 2,969 |  
+| Other earning assets | (18) | 1,094 | 1,076 | 721 | 7 | 728 |  
+| Total interest income | | | $ 9,267 | | | $ 6,572 |  
+| Increase (decrease) in interest expense | | | | | | |  
+| U.S. interest-bearing deposits: | | | | | | |  
+| Savings | $ | $ 1 | $ 1 | $ | $ | $ |  
+| NOW and money market deposit accounts | 74 | 1,689 | 1,763 | 20 | 559 | 579 |  
+| Consumer CDs and IRAs | (13) | 49 | 36 | (12) | | (12) |  
+| Negotiable CDs, public funds and other deposits | 132 | 505 | 637 | 20 | 174 | 194 |  
+| Total U.S. interest-bearing deposits | | | 2,437 | | | 761 |  
+| Non-U.S. interest-bearing deposits: | | | | | | |  
+| Banks located in non-U.S. countries | (1) | 19 | 18 | (12) | 1 | (11) |  
+| Governments and official institutions | (2) | (8) | (10) | (3) | 4 | 1 |  
+| Time, savings and other | 26 | 93 | 119 | 24 | 141 | 165 |  
+| Total non-U.S. interest-bearing deposits | | | 127 | | | 155 |  
+| Total interest-bearing deposits | | | 2,564 | | | 916 |  
+| Federal funds purchased, securities loaned or sold under agreements to repurchase, short-term borrowings and other interest-bearing liabilities | (71) | 2,764 | 2,693 | 184 | 1,029 | 1,213 |  
+| Trading account liabilities | 140 | 14 | 154 | 206 | (20) | 186 |  
+| Long-term debt | 151 | 1,255 | 1,406 | (85) | 746 | 661 |  
+| Total interest expense | | | 6,817 | | | 2,976 |  
+| Net increase in net interest income (3) | | | $ 2,450 | | | $ 3,596 |  
+  
+(1) The changes for each category of interest income and expense are divided between the portion of change attributable to the variance in volume and the portion of change attributable to the variance in rate for that category. The unallocated change in rate or volume variance is allocated between the rate and volume variances.  
+  
+(2) The Corporation sold its non-U.S. credit card business in the second quarter of  
+  
+2017\.  
+  
+(3) Includes changes in FTE basis adjustments of a$315 million decrease from 2017 to 2018 and a$25 million increase from 2016 to 2017.  
+  
+<!-- PageFooter="29 Bank of America 2018" -->  

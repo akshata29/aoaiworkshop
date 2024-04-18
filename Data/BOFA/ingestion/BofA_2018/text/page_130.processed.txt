@@ -1,0 +1,64 @@
+ Impaired Loans - Credit Card and Other Consumer  
+  
+| (Dollars in millions) | Unpaid Principal Balance | Carrying Value (1) | Related Allowance | Unpaid Principal Balance | Carrying Value (1) | Related Allowance | Average Carrying Value (2) |||  
+|| December 31, 2018 ||| December 31, 2017 ||| 2018 | 2017 | 2016 |  
+| - | - | - | - | - | - | - | - | - | - |  
+| With no recorded allowance | | | | | | | | | |  
+| Direct/Indirect consumer | $ 72 | $ 33 | $ | $ 58 | $ 28 | $ | $ 30 | $ 21 | $ 20 |  
+| With an allowance recorded | | | | | | | | | |  
+| U.S. credit card | $ 522 | 533 | 154 | $ 454 | $ 461 | $ 125 | $ 491 | $ 464 | $ 556 |  
+| Non-U.S. credit card (3) | n/a | n/a | n/a | n/a | n/a | n/a | n/a | 47 | 111 |  
+| Direct/Indirect consumer | :unselected: | :unselected: | :unselected: | 1 | 1 | | 1 | 2 | 10 |  
+| Total | | | | | | | | | |  
+| U.S. credit card | $ 522 | $ 533 | $ 154 | $ 454 | $ 46 | $ 125 | $ 491 | $ 464 | $ 556 |  
+| Non-U.S. credit card (3) | n/a | n/a | n/a | n/a | n/a | n/a | n/a | 47 | 111 |  
+| Direct/Indirect consumer | 72 | 33 | :unselected: | 59 | 29 | | 31 | 23 | 30 |  
+  
+(1) Includes accrued interest and  
+  
+fees  
+  
+(2) The related interest income recognized, which included interest accrued and collected on the outstanding balances of accruing impaired loans as well as interest cash collections on nonaccruing impaired loans for which the principal was considered collectible, was not significant in 2018, 2017 and 2016.  
+  
+(3) In 2017, the Corporation sold its non-U.S. consumer credit card business.  
+  
+n/a = not applicable  
+  
+The table below provides information on the Corporation's primary modification programs for the Credit Card and Other Consumer TDR portfolio aDecember 31, 2018 and 2017.  
+  
+| Credit Card and Other Consumer - TDRs by Program Type at December 31 |||||||  
+| (Dollars in millions) | U.S. Credit Card || Direct/Indirect Consumer || Total TDRs by Program Type ||  
+|| 2018 | 2017 | 2018 | 2017 | 2018 | 2017 |  
+| - | - | - | - | - | - | - |  
+| Internal programs | $ 259 | $ 203 | $ | $ 1 | $ 259 | $ 204 |  
+| External programs | 273 | 257 | | | 273 | 257 |  
+| Other | 1 | 1 | 33 | 28 | 34 | 29 |  
+| Total | $ 533 | $ 461 | $ 33 | $ 29 | $ 566 | $ 490 |  
+| Percent of balances current or less than 30 days past due | 85% | 87% | 81% | 88% | 85% | 87% |  
+  
+The table below provides information on the Corporation's Credit Card and Other Consumer TDR portfolio including theDecember 31, 2018, 2017 and 2016 unpaid principal balance, carrying value, and average pre- and post-modification interest rates of loans that were modified in TDRs during 2018, 2017 and 2016.  
+  
+  
+# Credit Card and Other Consumer - TDRs Entered into During 2018, 2017 and 2016  
+  
+| | Unpaid Principal Balance | Carrying Value (1) | Pre-Modification Interest Rate | Post-Modification Interest Rate |  
+| - | - | - | - | - |  
+| (Dollars in millions) | December 31, 2018 ||||  
+| U.S. credit card | $ 278 | $ 292 | 19.49 % | 5.24 % |  
+| Direct/Indirect consumer | 42 | 23 | 5.10 | 4.95 |  
+| Total | $ 320 | $ 315 | 18.45 | 5.22 |  
+| | December 31, 2017 ||||  
+| U.S. credit card | $ 203 | $ 213 | 18.47 % | 5.32 % |  
+| Direct/Indirect consumer | 37 | 22 | 4.81 | 4.30 |  
+| Total | $ 240 | $ 235 | 17.17 | 5.22 |  
+| | December 31, 2016 ||||  
+| U.S. credit card | $ 163 | $ 172 | 17.54 % | 5.47 % |  
+| Non-U.S. credit card | 66 | 75 | 23.99 | 0.52 |  
+| Direct/Indirect consumer | 21 | 13 | 3.44 | 3.29 |  
+| Total | $ 250 | $ 260 | 18.73 | 3.93 |  
+  
+(1) Includes accrued interest and fees  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageNumber="119" -->  

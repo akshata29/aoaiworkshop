@@ -1,0 +1,46 @@
+<!-- PageNumber="Table 20" -->  
+  
+<!-- PageHeader="Senior Debt Ratings" -->  
+  
+| | Moody's Investors Service ||| Standard & Poor's Global Ratings ||| Fitch Ratings |||  
+|| Long-term | Short-term | Outlook | Long-term | Short-term | Outlook | Long-term | Short-term | Outlook |  
+| - | - | - | - | - | - | - | - | - | - |  
+| Bank of America Corporation | A3 | P-2 | Review for upgrade | A- | A-2 | Stable | A+ | F1 | Stable |  
+| Bank of America, N.A. | Aa3 | P-1 | Review for upgrade (1) | A+ | A-1 | Stable | AA- | F1+ | Stable |  
+| Merrill Lynch, Pierce, Fenner & Smith Incorporated | NR | NR | NR | A+ | A-1 | Stable | AA- | F1+ | Stable |  
+| Merrill Lynch International | NR | NR | NR | A+ | A-1 | Stable | A+ | F1 | Stable |  
+  
+(1) Review for upgrade only applies to BANA's long-term rating.  
+  
+NR = not rated  
+  
+A reduction in certain of our credit ratings or the ratings of certain asset-backed securitizations may have a material adverse effect on our liquidity, potential loss of access to credit markets, the related cost of funds, our businesses and on certain trading revenues, particularly in those businesses where counterparty creditworthiness is critical. In addition, under the terms of certain OTC derivative contracts and other trading agreements, in the event of downgrades of our or our rated subsidiaries' credit ratings, the counterparties to those agreements may require us to provide additional collateral, or to terminate these contracts or agreements, which could cause us to sustain losses and/or adversely impact our liquidity. If the short-term credit ratings of our parent company, bank or broker- dealer subsidiaries were downgraded by one or more levels, the potential loss of access to short-term funding sources such as repo financing and the effect on our incremental cost of funds could be material.  
+  
+While certain potential impacts are contractual and quantifiable, the full scope of the consequences of a credit rating downgrade to a financial institution is inherently uncertain, as it depends upon numerous dynamic, complex and inter-related factors and assumptions, including whether any downgrade of a company's long-term credit ratings precipitates downgrades to its short-term credit ratings, and assumptions about the potential behaviors of various customers, investors and counterparties. For more information on potential impacts of credit rating downgrades, see Liquidity Risk - Liquidity Stress Analysis on page 48.  
+  
+For more information on additional collateral and termination payments that could be required in connection with certain OTC derivative contracts and other trading agreements as a result of such a credit rating downgrade, see Note 3 - Derivatives to the Consolidated Financial Statements and Item 1A. Risk Factors.  
+  
+  
+# Common Stock Dividends  
+  
+For a summary of our declared quarterly cash dividends on common stock during 2018 and through February 26, 2019, see Note 13 - Shareholders' Equity to the Consolidated Financial Statements.  
+  
+  
+## Credit Risk Management  
+  
+Credit risk is the risk of loss arising from the inability or failure of a borrower or counterparty to meet its obligations. Credit risk can also arise from operational failures that result in an erroneous advance, commitment or investment of funds. We define the credit exposure to a borrower or counterparty as the loss potential arising from all product classifications including loans and leases, deposit overdrafts, derivatives, assets held-for-sale and unfunded lending commitments which include loan commitments, letters of credit and financial guarantees. Derivative positions are recorded at fair value and assets held-for-sale are recorded at either fair value or the lower of cost or fair value. Certain loans and unfunded commitments are accounted for under the fair value option. Credit  
+  
+<!-- PageFooter="51 Bank of America 2018" -->  
+  
+risk for categories of assets carried at fair value is not accounted for as part of the allowance for credit losses but as part of the fair value adjustments recorded in earnings. For derivative positions, our credit risk is measured as the net cost in the event the counterparties with contracts in which we are in a gain position fail to perform under the terms of those contracts. We use the current fair value to represent credit exposure without giving consideration to future mark-to-market changes. The credit risk amounts take into consideration the effects of legally enforceable master netting agreements and cash collateral. Our consumer and commercial credit extension and review procedures encompass funded and unfunded credit exposures. For more information on derivatives and credit extension commitments, see Note 3 - Derivatives and Note 12 - Commitments and Contingencies to the Consolidated Financial Statements.  
+  
+We manage credit risk based on the risk profile of the borrower or counterparty, repayment sources, the nature of underlying collateral, and other support given current events, conditions and expectations. We classify our portfolios as either consumer or commercial and monitor credit risk in each as discussed below.  
+  
+We refine our underwriting and credit risk management practices as well as credit standards to meet the changing economic environment. To mitigate losses and enhance customer support in our consumer businesses, we have in place collection programs and loan modification and customer assistance infrastructures. We utilize a number of actions to mitigate losses in the commercial businesses including increasing the frequency and intensity of portfolio monitoring, hedging activity and our practice of transferring management of deteriorating commercial exposures to independent special asset officers as credits enter criticized categories.  
+  
+For more information on our credit risk management activities, seeConsumer Portfolio Credit Risk Management below, Commercial Portfolio Credit Risk Management on page 59, Non-U.S. Portfolio on page 65, Provision for Credit Losses on page 67, Allowance for Credit Losses on page 67, and Note 5 - Outstanding Loans and Leases and Note 6 - Allowance for Credit Losses to the Consolidated Financial Statements.  
+  
+  
+## Consumer Portfolio Credit Risk Management  
+  
+Credit risk management for the consumer portfolio begins with initial underwriting and continues throughout a borrower's credit cycle. Statistical techniques in conjunction with experiential judgment are used in all aspects of portfolio management including underwriting, product pricing, risk appetite, setting credit limits, and establishing operating processes and metrics to quantify and balance risks and returns. Statistical models are built using detailed behavioral information from external sources such as credit bureaus and/or internal historical experience and are a component of our consumer credit risk management process. These models are used in part to assist in making both new and  

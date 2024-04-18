@@ -1,0 +1,74 @@
+The gross realized gains and losses on sales of AFS debt securities for2018, 2017 and 2016 are presented in the table below.  
+  
+  
+# Gains and Losses on Sales of AFS Debt Securities  
+  
+| (Dollars in millions) | 2018 | 2017 | 2016 |  
+| - | - | - | - |  
+| Gross gains | $ 169 | $ 352 | $ 520 |  
+| Gross losses | (15) | (97) | (30) |  
+| Net gains on sales of AFS debt securities | $ 154 | $ 255 | $ 490 |  
+| Income tax expense attributable to realized net gains on sales of AFS debt securities | 37 | 97 | $ 186 |  
+  
+The table below presents the fair value and the associated gross unrealized losses on AFS debt securities and whether these securities have had gross unrealized losses for less than 12 months or for 12 months or longer at December 31, 2018 and 2017.  
+  
+| Temporarily Impaired and Other-than-temporarily Impaired AFS Debt Securities |||||||  
+| | Less than Twelve Months || Twelve Months or Longer || Total ||  
+|| Fair Value | Gross Unrealized Losses | Fair Value | Gross Unrealized Losses | Fair Value | Gross Unrealized Losses |  
+| - | - | - | - | - | - | - |  
+| (Dollars in millions) | December 31, 2018 ||||||  
+| Temporarily impaired AFS debt securities | | | | | | |  
+| Mortgage-backed securities: | | | | | | |  
+| Agency | $ 14,771 | $ (49) | $ 99,211 | $ (3,379) | $ 113,982 | $ (3,428) |  
+| Agency-collateralized mortgage obligations | 3 | | 4,452 | (110) | 4,455 | (110) |  
+| Commercial | 1,344 | (8) | 11,991 | (394) | 13,335 | (402) |  
+| Non-agency residential | 106 | (8) | 49 | (3) | 155 | (11) |  
+| Total mortgage-backed securities | 16,224 | (65) | 115,703 | (3,886) | 131,927 | (3,951) |  
+| U.S. Treasury and agency securities | 288 | (1) | 51,374 | (1,377) | 51,662 | (1,378) |  
+| Non-U.S. securities | 773 | (5) | 21 | (1) | 794 | (6) |  
+| Other taxable securities, substantially all asset-backed securities | 183 | (1) | 185 | (5) | 368 | (6) |  
+| Total taxable securities | 17,468 | (72) | 167,283 | (5,269) | 184,751 | (5,341) |  
+| Tax-exempt securities | 232 | (2) | 2,148 | (70) | 2,380 | (72) |  
+| Total temporarily impaired AFS debt securities | 17,700 | (74) | 169,431 | (5,339) | 187,131 | (5,413) |  
+| Other-than-temporarily impaired AFS debt securities (1) | | | | | | |  
+| Non-agency residential mortgage-backed securities | 131 | | 3 | | 134 | |  
+| Total temporarily impaired and other-than-temporarily impaired AFS debt securities | $ 17,831 | $ (74) | $ 169,434 | $ (5,339) | $ 187,265 | $ (5,413) |  
+| | December 31, 2017 ||||||  
+| Temporarily impaired AFS debt securities | | | | | | |  
+| Mortgage-backed securities: | | | | | | |  
+| Agency | $ 73,535 | $ (352) | $ 72,612 | $ (1,344 ) | $ 146,147 | $ (1,696) |  
+| Agency-collateralized mortgage obligations | 2,743 | (29) | 1,684 | (52) | 4,427 | (81) |  
+| Commercial | 5,575 | (50) | 4,586 | (158) | 10,161 | (208) |  
+| Non-agency residential | 335 | (7) :selected: | | | 335 | (7) |  
+| Total mortgage-backed securities | 82,188 | (438) | 78,882 | (1,554) | 161,070 | (1,992) |  
+| U.S. Treasury and agency securities | 27,537 | (251) | 24,035 | (767) | 51,572 | (1,018) |  
+| Non-U.S. securities | 772 | (1) | - | | 772 | (1) |  
+| Other taxable securities, substantially all asset-backed securities | | | 92 | (2) | 92 | (2) |  
+| Total taxable securities | 110,497 | (690) | 103,009 | (2,323) | 213,506 | (3,013) |  
+| Tax-exempt securities | 1,090 | (2) | 7,100 | (102) | 8,190 | (104) |  
+| Total temporarily impaired AFS debt securities | 111,587 | (692) | 110,109 | (2,425) | 221,696 | (3,117) |  
+| Other-than-temporarily impaired AFS debt securities (1) | | | | | | |  
+| Non-agency residential mortgage-backed securities | 58 | (1) :unselected: | | | 58 | (1) |  
+| Total temporarily impaired and other-than-temporarily impaired AFS debt securities | $ 111,645 | $ (693) | $ 110,109 | $ (2,425) | $ 221,754 | $ (3,118) |  
+  
+(1) Includes other than temporarily impaired AFS debt securities on which an OTTI loss, primarily related to changes in interest rates, remains in accumulated  
+  
+  
+# Other Debt Securities Carried at Fair Value  
+  
+| (Dollars in millions) | December 31 ||  
+|| 2018 | 2017 |  
+| - | - | - |  
+| Mortgage-backed securities | $ 1,606 | $ 2,769 |  
+| U.S. Treasury and agency securities | 1,282 | |  
+| Non-U.S. securities (1) | 5,844 | 9,488 |  
+| Other taxable securities, substantially all asset-backed securities | 3 | 229 |  
+| Total | $ 8,735 | $ 12,486 |  
+  
+(1) These securities are primarily used to satisfy certain international regulatory liquidity requirements.  
+  
+OCI.  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageFooter="109" -->  

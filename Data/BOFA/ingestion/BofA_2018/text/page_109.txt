@@ -1,0 +1,45 @@
+# Revenue Recognition  
+  
+The following summarizes the Corporation's revenue recognition accounting policies for certain noninterest income activities.  
+  
+  
+# Card Income  
+  
+Card income includes annual, late and over-limit fees as well as fees earned from interchange, cash advances and other miscellaneous transactions and is presented net of direct costs. Interchange fees are recognized upon settlement of the credit and debit card payment transactions and are generally determined on a percentage basis for credit cards and fixed rates for debit cards based on the corresponding payment network's rates. Substantially all card fees are recognized at the transaction date, except for certain time-based fees such as annual fees, which are recognized over 12 months. Fees charged to cardholders that are estimated to be uncollectible are reserved in the allowance for loan and lease losses. Included in direct cost are rewards and credit card partner payments. Rewards paid to cardholders are related to points earned by the cardholder that can be redeemed for a broad range of rewards including cash, travel and gift cards. The points to be redeemed are estimated based on past redemption behavior, card product type, account transaction activity and other historical card performance. The liability is reduced as the points are redeemed. The Corporation also makes payments to credit card partners. The payments are based on revenue-sharing agreements that are generally driven by cardholder transactions and partner sales volumes. As part of the revenue-sharing agreements, the credit card partner provides the Corporation exclusive rights to market to the credit card partner's members or customers on behalf of the Corporation.  
+  
+  
+# Service Charges  
+  
+Service charges include deposit and lending-related fees. Deposit-related fees consist of fees earned on consumer and commercial  
+  
+deposit activities and are generally recognized when the transactions occur or as the service is performed. Consumer fees are earned on consumer deposit accounts for account maintenance and various transaction-based services, such as ATM transactions, wire transfer activities, check and money order processing and insufficient funds/overdraft transactions. Commercial deposit-related fees are from the Corporation's Global Transaction Services business and consist of commercial deposit and treasury management services, including account maintenance and other services, such as payroll, sweep account and other cash management services. Lending-related fees generally represent transactional fees earned from certain loan commitments, financial guarantees and SBLCs.  
+  
+  
+## Investment and Brokerage Services  
+  
+Investment and brokerage services consist of asset management and brokerage fees. Asset management fees are earned from the management of client assets under advisory agreements or the full discretion of the Corporation's financial advisors (collectively referred to as assets under management (AUM)). Asset management fees are earned as a percentage of the client's AUM and generally range from 50 basis points (bps) to 150 bps of the AUM. In cases where a third party is used to obtain a client's investment allocation, the fee remitted to the third party is recorded net and is not reflected in the transaction price, as the Corporation is an agent for those services.  
+  
+Brokerage fees include income earned from transaction-based services that are performed as part of investment management services and are based on a fixed price per unit or as a percentage of the total transaction amount. Brokerage fees also include distribution fees and sales commissions that are primarily in the  
+  
+Global Wealth & Investment Management (GWIM) segment and are earned over time. In addition, primarily in the Global Markets segment, brokerage fees are earned when the Corporation fills customer orders to buy or sell various financial products or when it acknowledges, affirms, settles and clears transactions and/or submits trade information to the appropriate clearing broker. Certain customers pay brokerage, clearing and/or exchange fees imposed by relevant regulatory bodies or exchanges in order to execute or clear trades. These fees are recorded net and are not reflected in the transaction price, as the Corporation is an agent for those services.  
+  
+  
+# Investment Banking Income  
+  
+Investment banking income includes underwriting income and financial advisory services income. Underwriting consists of fees earned for the placement of a customer's debt or equity securities. The revenue is generally earned based on a percentage of the fixed number of shares or principal placed. Once the number of shares or notes is determined and the service is completed, the underwriting fees are recognized. The Corporation incurs certain out-of-pocket expenses, such as legal costs, in performing these services. These expenses are recovered through the revenue the Corporation earns from the customer and are included in operating expenses. Syndication fees represent fees earned as the agent or lead lender responsible for structuring, arranging and administering a loan syndication.  
+  
+Financial advisory services consist of fees earned for assisting customers with transactions related to mergers and acquisitions and financial restructurings. Revenue varies depending on the size and number of services performed for each contract and is generally contingent on successful execution of the transaction. Revenue is typically recognized once the transaction is completed and all services have been rendered. Additionally, the Corporation may earn a fixed fee in merger and acquisition transactions to provide a fairness opinion, with the fees recognized when the opinion is delivered to the customer.  
+  
+  
+# Other Revenue Measurement and Recognition Policies  
+  
+The Corporation did not disclose the value of any open performance obligations at December 31, 2018, as its contracts with customers generally have a fixed term that is less than one year, an open term with a cancellation period that is less thanone year, or provisions that allow the Corporation to recognize revenue at the amount it has the right to invoice.  
+  
+  
+## Earnings Per Common Share  
+  
+Earnings per common share (EPS) is computed by dividing net income allocated to common shareholders by the weighted-average common shares outstanding, excluding unvested common shares subject to repurchase or cancellation. Net income allocated to common shareholders is net income adjusted for preferred stock dividends including dividends declared, accretion of discounts on preferred stock including accelerated accretion when preferred stock is repaid early, and cumulative dividends related to the current dividend period that have not been declared as of period end, less income allocated to participating securities. Diluted EPS is computed by dividing income allocated to common shareholders plus dividends on dilutive convertible preferred stock and preferred stock that can be tendered to exercise warrants, by the weighted-average common shares outstanding plus amounts representing the dilutive effect of stock options outstanding, restricted stock, restricted stock units (RSUs), outstanding warrants and the dilution resulting from the conversion of convertible preferred stock, if applicable.  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageNumber="99" -->  

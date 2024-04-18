@@ -1,0 +1,77 @@
+ Table 13 Bank of America Corporation Regulatory Capital under Basel 3 (1)  
+  
+| | Standardized Approach | Advanced Approaches | Current Regulatory Minimum (2) | 2019 Regulatory Minimum (3) |  
+| - | - | - | - | - |  
+| (Dollars in millions, except as noted) | December 31, 2018 ||||  
+| Risk-based capital metrics: | | | | |  
+| Common equity tier 1 capital | $ 167,272 | 167,272 | | |  
+| Tier 1 capital | 189,038 | 189,038 | | |  
+| Total capital (4) | 221,304 | 212,878 | | |  
+| Risk-weighted assets (in billions) | 1,437 | 1,409 | | |  
+| Common equity tier 1 capital ratio | 11.6 % | 11.9% | 8.25% | 9.5% |  
+| Tier 1 capital ratio | 13.2 | 13.4 | 9.75 | 11.0 |  
+| Total capital ratio | 15.4 | 15.1 | 11.75 | 13.0 |  
+| Leverage-based metrics: | | | | |  
+| Adjusted quarterly average assets (in billions) (5) | 2,258 | $ 2,258 | | |  
+| Tier 1 leverage ratio | 8.4% | 8.4% | 4.0 | 4.0 |  
+| SLR leverage exposure (in billions) | | 2,791 | | |  
+| SLR | | 6.8 % | 5.0 | 5.0 |  
+| | December 31, 2017 ||| |  
+| Risk-based capital metrics: | | | | |  
+| Common equity tier 1 capital | $ 168,461 | $ 168,461 | | |  
+| Tier 1 capital | 190,189 | 190,189 | | |  
+| Total capital (4) | 224,209 | 215,311 | | |  
+| Risk-weighted assets (in billions) | 1,443 | 1,459 | | |  
+| Common equity tier 1 capital ratio | 11.7 % | 11.5% | 7.25% | 9.5% |  
+| Tier 1 capital ratio | 13.2 | 13.0 | 8.75 | 11.0 |  
+| Total capital ratio | 15.5 | 14.8 | 10.75 | 13.0 |  
+| Leverage-based metrics: | | | | |  
+| Adjusted quarterly average assets (in billions) (5) | $ 2,223 | $ 2,223 | | |  
+| Tier 1 leverage ratio | 8.6 % | 8.6 % | 4.0 | 4.0 |  
+  
+(1) Basel 3 transition provisions for regulatory capital adjustments and deductions were fully phased in as of January 1, 2018. Prior periods are presented on a fully phased-in  
+  
+basis  
+  
+(2) The December 31, 2018 and 2017 amounts include a transition capital conservation buffer of1.875 percent and 1.25 percent and a transition G-SIB surcharge of 1.875 percent and 1.5 percent. The countercyclical capital buffer for both periods  
+  
+is zero.  
+  
+(3) The 2019 regulatory minimums include a capital conservation buffer of2.5 percent and G-SIB surcharge of 2.5 percent. The countercyclical capital buffer iszero. We became subject to these regulatory minimums on January 1, 2019. The SLR minimum includes a leverage buffer of 2.0 percent and was applicable beginning on January 1, 2018.  
+  
+(4) Total capital under the Advanced approaches differs from the Standardized approach due to differences in the amount permitted in Tier 2 capital related to the qualifying allowance for credit losses.  
+  
+(5) Reflects adjusted average total assets for the three months endedDecember 31, 2018 and  
+  
+2017\.  
+  
+CET1 capital was $167.3 billion at December 31, 2018, a decrease of $1.2 billion from December 31, 2017, driven by common stock repurchases, dividends and market value declines on AFS debt securities included in accumulated OCI, partially offset by earnings. During 2018, Total capital under the Advanced approaches decreased $2.4 billion driven by the same factors as CET1 capital and a decrease in subordinated debt included in Tier  
+  
+2 capital. Standardized risk-weighted assets, which yielded the lower CET1 capital ratio for December 31, 2018, decreased $5.5 billion during 2018 to $1,437 billion primarily due to sales of non-core mortgage loans and a decrease in market risk, partially offset by an increase in commercial loans.  
+  
+Table 14 shows the capital composition at December 31, 2018 and 2017.  
+  
+Table 14 Capital Composition under Basel 3 (1)  
+  
+| (Dollars in millions) | December 31 ||  
+|| 2018 | 2017 |  
+| - | - | - |  
+| Total common shareholders' equity | $ 242,999 | $ 244,823 |  
+| Goodwill, net of related deferred tax liabilities | (68,572) | (68,576) |  
+| Deferred tax assets arising from net operating loss and tax credit carryforwards | (5,981) | (6,555) |  
+| Intangibles, other than mortgage servicing rights and goodwill, net of related deferred tax liabilities | (1,294) | (1,743) |  
+| Other | 120 | 512 |  
+| Common equity tier 1 capital | 167,272 | 168,461 |  
+| Qualifying preferred stock, net of issuance cost | 22,326 | 22,323 |  
+| Other | (560) | (595) |  
+| Tier 1 capital | 189,038 | 190,189 |  
+| Tier 2 capital instruments | 21,887 | 22,938 |  
+| Eligible credit reserves included in Tier 2 capital | 1,972 | 2,272 |  
+| Other | (19) | (88) |  
+| Total capital under the Advanced approaches | $ 212,878 | $ 215,311 |  
+  
+(1) Basel 3 transition provisions for regulatory capital adjustments and deductions were fully phased in as of January 1, 2018. Prior periods are presented on a fully phased-in  
+  
+basis.  
+  
+<!-- PageFooter="45 Bank of America 2018" -->  

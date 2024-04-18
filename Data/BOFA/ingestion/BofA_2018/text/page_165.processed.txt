@@ -1,0 +1,71 @@
+  
+| (Dollars in millions) | December 31, 2017 |||||  
+|| Fair Value Measurements ||| Netting Adjustments (1) | Assets/Liabilities at Fair Value |  
+|| Level 1 | Level 2 | Level 3 |||  
+| - | - | - | - | - | - |  
+| Assets | | | | | |  
+| Time deposits placed and other short-term investments | $ 2,234 | $ | $ :unselected: | $ :unselected: | $ 2,234 |  
+| Federal funds sold and securities borrowed or purchased under agreements to resell | :unselected: | 52,906 | :unselected: | :unselected: | 52,906 |  
+| Trading account assets: | | | | | |  
+| U.S. Treasury and agency securities (2) | 38,720 | 1,922 | | :unselected: | 40,642 |  
+| Corporate securities, trading loans and other | :unselected: | 28,714 | 1,864 | :unselected: | 30,578 |  
+| Equity securities | 60,747 | 23,958 | 235 | :unselected: | 84,940 |  
+| Non-U.S. sovereign debt | 6,545 | 15,839 | 556 | :unselected: | 22,940 |  
+| Mortgage trading loans, MBS and ABS: | | | | | |  
+| U.S. government-sponsored agency guaranteed | :unselected: | 20,586 | | :unselected: | 20,586 |  
+| Mortgage trading loans, ABS and other MBS | :unselected: | 8,174 | 1,498 | :unselected: | 9,672 |  
+| Total trading account assets (3) | 106,012 | 99,193 | 4,153 | - :unselected: | 209,358 |  
+| Derivative assets | 6,305 | 341,178 | 4,067 | (313,788) | 37,762 |  
+| AFS debt securities: | | | | | |  
+| U.S. Treasury and agency securities | 51,915 | 1,608 | :unselected: :unselected: | :unselected: | 53,523 |  
+| Mortgage-backed securities: | :unselected: | | | | |  
+| Agency | :unselected: | 192,929 | :unselected: | :unselected: | 192,929 |  
+| Agency-collateralized mortgage obligations | :unselected: | 6,804 | :unselected: | :unselected: | 6,804 |  
+| Non-agency residential | :unselected: | 2,669 | :unselected: | :unselected: | 2,669 |  
+| Commercial | :unselected: | 13,684 | :unselected: | :unselected: | 13,684 |  
+| Non-U.S. securities | 772 | 5,880 | 25 | :unselected: | 6,677 |  
+| Other taxable securities | :unselected: :unselected: | 5,261 | 509 | :unselected: | 5,770 |  
+| Tax-exempt securities | :unselected: | 20,106 | 469 | :unselected: | 20,575 |  
+| Total AFS debt securities | 52,687 | 248,941 | 1,003 | - :unselected: | 302,631 |  
+| Other debt securities carried at fair value: | | | | | |  
+| Mortgage-backed securities: | | | | | |  
+| Non-agency residential | :unselected: | 2,769 | | :unselected: | 2,769 |  
+| Non-U.S. securities | 8,191 | 1,297 | :unselected: | :unselected: | 9,488 |  
+| Other taxable securities | :unselected: | 229 | :unselected: | :unselected: | 229 |  
+| Total other debt securities carried at fair value | 8,191 | 4,295 | - :unselected: | :unselected: | 12,486 |  
+| Loans and leases | :unselected: | 5,139 | 571 | :unselected: | 5,710 |  
+| Loans held-for-sale | :unselected: | 1,466 | 690 | :unselected: | 2,156 |  
+| Other assets (4) | 19,367 | 789 | 2,425 | :unselected: | 22,581 |  
+| Total assets (5) | $ 194,796 | $ 753,907 | $ 12,909 | $ (313,788) | $ 647,824 |  
+| Liabilities | :unselected: | | | | |  
+| Interest-bearing deposits in U.S. offices | $ :unselected: | $ 449 | $ :unselected: | $ :unselected: | $ 449 |  
+| Federal funds purchased and securities loaned or sold under agreements to repurchase | :unselected: | 36,182 | :unselected: | :unselected: | 36,182 |  
+| Trading account liabilities: | | | | | |  
+| U.S. Treasury and agency securities | 17,266 | 734 | :unselected: | :unselected: | 18,000 |  
+| Equity securities | 33,019 | 3,885 | :unselected: | :unselected: | 36,904 |  
+| Non-U.S. sovereign debt | 11,976 | 7,382 | :unselected: | :unselected: | 19,358 |  
+| Corporate securities and other | :unselected: | 6,901 | 24 | :unselected: | 6,925 |  
+| Total trading account liabilities | 62,261 | 18,902 | 24 | - :unselected: | 81,187 |  
+| Derivative liabilities | 6,029 | 334,261 | 5,781 | (311,771) | 34,300 |  
+| Short-term borrowings | | 1,494 | :unselected: | :unselected: | 1,494 |  
+| Accrued expenses and other liabilities | 21,887 | 945 | 8 | :unselected: | 22,840 |  
+| Long-term debt | | 29,923 | 1,863 | :unselected: | 31,786 |  
+| Total liabilities (5) | $ 90,177 | $ 422,156 | $ 7,676 | $ (311,771) | $ 208,238 |  
+  
+(1) Amounts represent the impact of legally enforceable master netting agreements and also cash collateral held or placed with the same counterparties.  
+  
+(2) Includes $21.3 obligations.  
+  
+(3) Includes securities with a fair value of$16.8 billion that were segregated in compliance with securities regulations or deposited with clearing organizations. This amount is included in the parenthetical disclosure on the Consolidated Balance Sheet.  
+  
+(4) Includes MSRs of $2.3 billion which are classified as Level 3  
+  
+assets.  
+  
+(5) Total recurring Level 3 assets were 0.57 percent of total consolidated assets, and total recurring Level 3 liabilities were.38 percent of total consolidated liabilities.  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageNumber="153" -->  
+  
+billion of GSE  

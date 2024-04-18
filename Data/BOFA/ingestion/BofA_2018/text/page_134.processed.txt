@@ -1,0 +1,64 @@
+<!-- PageHeader="The table below presents the allowance and the carrying value of outstanding loans and leases by portfolio segment atDecember 31, 2018 and 2017." -->  
+  
+  
+# Allowance and Carrying Value by Portfolio Segment  
+  
+| | Consumer Real Estate | Credit Card and Other Consumer | Commercial | Total |  
+| - | - | - | - | - |  
+| (Dollars in millions) | December 31, 2018 ||||  
+| Impaired loans and troubled debt restructurings (1) | | | | |  
+| Allowance for loan and lease losses | $ 258 | $ 154 | $ 196 | $ 608 |  
+| Carrying value (2) | 8,556 | 566 | 2,433 | 11,555 |  
+| Allowance as a percentage of carrying value | 3.02% | 27.21 % | 8.06% | 5.26 % |  
+| Loans collectively evaluated for impairment | | | | |  
+| Allowance for loan and lease losses | 579 | 3,720 | 4,603 | 8,902 |  
+| Carrying value (2, 3) | 243,642 | 189,140 | 493,564 | 926,346 |  
+| Allowance as a percentage of carrying value (3) | 0.24% | 1.97 % | 0.93 % | 0.96 % |  
+| Purchased credit-impaired loans | | | | |  
+| Valuation allowance | 91 | n/a | n/a | $ 91 |  
+| Carrying value gross of valuation allowance | 4,645 | n/a | n/a | 4,645 |  
+| Valuation allowance as a percentage of carrying value | 1.96 % | n/a | n/a | 1.96 % |  
+| Total | | | | |  
+| Allowance for loan and lease losses | 928 | 3,874 | 4,799 | 9,601 |  
+| Carrying value (2, 3) | 256,843 | 189,706 | 495,997 | 942,546 |  
+| Allowance as a percentage of carrying value (3) | 0.36 % | 2.04% | 0.97 % | 1.02 % |  
+| | December 31, 2017 ||||  
+| Impaired loans and troubled debt restructurings (1) | | | | |  
+| Allowance for loan and lease losses | $ 348 | $ 125 | $ 190 | $ 663 |  
+| Carrying value (2) | 12,554 | 490 | 2,407 | 15,451 |  
+| Allowance as a percentage of carrying value | 2.77 % | 25.51 % | 7.89 % | 4.29 % |  
+| Loans collectively evaluated for impairment | | | | |  
+| Allowance for loan and lease losses | 1,083 | $ 3,538 | $ 4,820 | $ 9,441 |  
+| Carrying value (2, 3) | 238,284 | 192,303 | 474,284 | 904,871 |  
+| Allowance as a percentage of carrying value (3) | 0.45% | 1.84 % | 1.02 % | 1.04 % |  
+| Purchased credit-impaired loans | | | | |  
+| Valuation allowance | 289 | n/a | n/a | $ 289 |  
+| Carrying value gross of valuation allowance | 10,717 | n/a | n/a | 10,717 |  
+| Valuation allowance as a percentage of carrying value | 2.70% | n/a | n/a | 2.70 % |  
+| Total | | | | |  
+| Allowance for loan and lease losses | $ 1,720 | $ 3,663 | $ 5,010 | $ 10,393 |  
+| Carrying value (2, 3) | 261,555 | 192,793 | 476,691 | 931,039 |  
+| Allowance as a percentage of carrying value (3) | 0.66 % | 1.90 % | 1.05 % | 1.12 % |  
+  
+(1) Impaired loans include nonperforming commercial loans and all TDRs, including both commercial and consumer TDRs. Impaired loans exclude nonperforming consumer loans unless they are TDRs, and all consumer and commercial loans accounted for under the fair value option.  
+  
+(2) Amounts are presented gross of the allowance for loan and lease losses.  
+  
+(3) Outstanding loan and lease balances and ratios do not include loans accounted for under the fair value option o$4.3 billion and $5.7 billion at December 31, 2018 and 2017.  
+  
+n/a = not applicable  
+  
+  
+# NOTE 7 Securitizations and Other Variable Interest  
+  
+  
+# Entities  
+  
+The Corporation utilizes VIEs in the ordinary course of business to support its own and its customers' financing and investing needs. The Corporation routinely securitizes loans and debt securities using VIEs as a source of funding for the Corporation and as a means of transferring the economic risk of the loans or debt securities to third parties. The assets are transferred into a trust or other securitization vehicle such that the assets are legally isolated from the creditors of the Corporation and are not available to satisfy its obligations. These assets can only be used to settle obligations of the trust or other securitization vehicle. The Corporation also administers, structures or invests in other VIEs including CDOs, investment vehicles and other entities. For more information on the Corporation's use of VIEs, see Note 1 - Summary of Significant Accounting Principles  
+  
+The tables in this Note present the assets and liabilities of consolidated and unconsolidated VIEs at December 31, 2018 and 2017 in situations where the Corporation has continuing involvement with transferred assets or if the Corporation otherwise has a variable interest in the VIE. The tables also present the Corporation's maximum loss exposure at December 31, 2018 and 2017 resulting from its involvement with consolidated VIEs and unconsolidated VIEs in which the Corporation holds a variable interest. The Corporation's maximum loss exposure is based on the unlikely event that all of the assets in the VIEs become worthless and incorporates not only potential losses associated with assets recorded on the Consolidated Balance Sheet but also potential losses associated with off-balance sheet commitments, such as unfunded liquidity commitments and other contractual arrangements. The Corporation's maximum loss exposure does not include losses previously recognized through write-downs of assets.  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+  
+## 123  

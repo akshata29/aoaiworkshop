@@ -1,0 +1,35 @@
+Business Segment Operations  
+  
+  
+# Segment Description and Basis of Presentation  
+  
+We report our results of operations through the following four business segments:Consumer Banking, GWIM, Global Bankingand Global Markets, with the remaining operations recorded in All Other. We manage our segments and report their results on an FTE basis. For more information on our presentation of financial information on an FTE basis, see Supplemental Financial Data on page 24. The primary activities, products and businesses of the business segments andAll Other are shown below.  
+  
+<figure>  
+  
+![](figures/0)  
+  
+<!-- FigureContent="Bank of America Corporation Consumer Banking Global Wealth & Investment Management Global Banking Global Markets All Other  
+| Deposits · Consumer | | . Merrill Lynch Global Wealth | | · Investment Banking · Global corporate Banking · Global | | + Fixed Income, Currencies and Commodities Markets + Equity Markets | | · ALM Activities . Non-Core Mortgage Loans · MSR Valuations · Liquidating Businesses | |  
+| Deposits || Management U.S. Trust, Bank of America Private Wealth ||||||||||||||||||  
+| - | - | - | - | - | - | - | - | - | - |  
+|   
+| · Merrill Edge ||||||||||||||||||||  
+|   
+| . Small Business ||||||||||  
+| Client Management || Management || Commercial Banking ||||| |  
+| Consumer Lending | | | | · Business Banking ||| | . Equity Investments | |  
+| Consumer and Small Business Credit card |||||| | | · Corporate Activities and Residual Expense Allocations | |  
+| · Debit card · Core consumer || | | | | | | · Accounting Reclassifications and Eliminations + Initial Impact of | |  
+| Real Estate Loans ||||||||||  
+| · Consumer Vehicle Lending ||||| | | | Tax Act | |  
+  
+We periodically review capital allocated to our businesses and allocate capital annually during the strategic and capital planning processes. We utilize a methodology that considers the effect of regulatory capital requirements in addition to internal risk-based capital models. Our internal risk-based capital models use a risk-adjusted methodology incorporating each segment's credit, market, interest rate, business and operational risk components. For more information on the nature of these risks, see Managing Risk on page 40. The capital allocated to the business segments  
+  
+is referred to as allocated capital. Allocated equity in the reporting  
+  
+units is comprised of allocated capital plus capital for the portion of goodwill and intangibles specifically assigned to the reporting unit. For more information, including the definition of reporting unit, see Note 8 - Goodwill and Intangible Assets to the Consolidated Financial Statements.  
+  
+For more information on the basis of presentation for business segments and reconciliations to consolidated total revenue, net income and year-end total assets, see Note 23 - Business Segment Information to the Consolidated Financial Statements.  
+  
+<!-- PageFooter="Bank of America 2018 30" -->  

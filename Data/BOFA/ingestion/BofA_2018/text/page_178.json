@@ -1,0 +1,1555 @@
+{
+    "status": "succeeded",
+    "createdDateTime": "2024-03-08T21:21:15Z",
+    "lastUpdatedDateTime": "2024-03-08T21:21:21Z",
+    "analyzeResult": {
+        "apiVersion": "2023-10-31-preview",
+        "modelId": "prebuilt-layout",
+        "stringIndexType": "utf16CodeUnit",
+        "content": "\n|||||\n| - | - | - | - |\n| Liquidating businesses, eliminations and other | (67) | (2,954) | (1,020) |\n| Consolidated net income | $ 28,147 | $ 18,232 | $ 17,822 |\n\n(1) Adjustments include consolidated income, expense and asset amounts not specifically allocated to individual business segments.\n\nBank of America 2018\n\n165\n",
+        "pages": [
+            {
+                "pageNumber": 1,
+                "angle": -0.03099999949336052,
+                "width": 2550,
+                "height": 3300,
+                "unit": "pixel",
+                "words": [
+                    {
+                        "content": "Liquidating",
+                        "polygon": [
+                            129,
+                            99,
+                            239,
+                            99,
+                            239,
+                            125,
+                            129,
+                            125
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 27,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "businesses,",
+                        "polygon": [
+                            247,
+                            99,
+                            363,
+                            99,
+                            363,
+                            125,
+                            247,
+                            125
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 39,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "eliminations",
+                        "polygon": [
+                            372,
+                            99,
+                            489,
+                            99,
+                            489,
+                            124,
+                            371,
+                            125
+                        ],
+                        "confidence": 0.989,
+                        "span": {
+                            "offset": 51,
+                            "length": 12
+                        }
+                    },
+                    {
+                        "content": "and",
+                        "polygon": [
+                            497,
+                            100,
+                            532,
+                            100,
+                            532,
+                            124,
+                            496,
+                            124
+                        ],
+                        "confidence": 0.999,
+                        "span": {
+                            "offset": 64,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "other",
+                        "polygon": [
+                            540,
+                            100,
+                            592,
+                            100,
+                            592,
+                            124,
+                            539,
+                            124
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 68,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "(67)",
+                        "polygon": [
+                            1909,
+                            99,
+                            1954,
+                            99,
+                            1954,
+                            125,
+                            1909,
+                            125
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 76,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "(2,954)",
+                        "polygon": [
+                            2079,
+                            99,
+                            2159,
+                            100,
+                            2159,
+                            125,
+                            2079,
+                            126
+                        ],
+                        "confidence": 0.962,
+                        "span": {
+                            "offset": 83,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "(1,020)",
+                        "polygon": [
+                            2281,
+                            99,
+                            2363,
+                            99,
+                            2363,
+                            125,
+                            2281,
+                            126
+                        ],
+                        "confidence": 0.976,
+                        "span": {
+                            "offset": 93,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "Consolidated",
+                        "polygon": [
+                            152,
+                            150,
+                            293,
+                            148,
+                            292,
+                            174,
+                            151,
+                            174
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 105,
+                            "length": 12
+                        }
+                    },
+                    {
+                        "content": "net",
+                        "polygon": [
+                            301,
+                            148,
+                            334,
+                            148,
+                            333,
+                            174,
+                            300,
+                            174
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 118,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "income",
+                        "polygon": [
+                            341,
+                            148,
+                            421,
+                            149,
+                            421,
+                            174,
+                            340,
+                            174
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 122,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "$",
+                        "polygon": [
+                            1790,
+                            150,
+                            1803,
+                            151,
+                            1801,
+                            171,
+                            1789,
+                            170
+                        ],
+                        "confidence": 0.968,
+                        "span": {
+                            "offset": 131,
+                            "length": 1
+                        }
+                    },
+                    {
+                        "content": "28,147",
+                        "polygon": [
+                            1871,
+                            150,
+                            1945,
+                            149,
+                            1945,
+                            173,
+                            1870,
+                            172
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 133,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "$",
+                        "polygon": [
+                            1995,
+                            149,
+                            2009,
+                            150,
+                            2009,
+                            171,
+                            1994,
+                            170
+                        ],
+                        "confidence": 0.957,
+                        "span": {
+                            "offset": 142,
+                            "length": 1
+                        }
+                    },
+                    {
+                        "content": "18,232",
+                        "polygon": [
+                            2080,
+                            149,
+                            2147,
+                            149,
+                            2147,
+                            172,
+                            2079,
+                            172
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 144,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "$",
+                        "polygon": [
+                            2198,
+                            150,
+                            2213,
+                            150,
+                            2213,
+                            170,
+                            2198,
+                            170
+                        ],
+                        "confidence": 0.982,
+                        "span": {
+                            "offset": 153,
+                            "length": 1
+                        }
+                    },
+                    {
+                        "content": "17,822",
+                        "polygon": [
+                            2278,
+                            148,
+                            2351,
+                            148,
+                            2352,
+                            171,
+                            2278,
+                            172
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 155,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "(1)",
+                        "polygon": [
+                            99,
+                            183,
+                            122,
+                            183,
+                            122,
+                            205,
+                            99,
+                            205
+                        ],
+                        "confidence": 0.955,
+                        "span": {
+                            "offset": 165,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "Adjustments",
+                        "polygon": [
+                            130,
+                            183,
+                            240,
+                            183,
+                            241,
+                            206,
+                            130,
+                            205
+                        ],
+                        "confidence": 0.989,
+                        "span": {
+                            "offset": 169,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "include",
+                        "polygon": [
+                            253,
+                            183,
+                            316,
+                            182,
+                            316,
+                            206,
+                            253,
+                            206
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 181,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "consolidated",
+                        "polygon": [
+                            328,
+                            182,
+                            439,
+                            182,
+                            439,
+                            206,
+                            328,
+                            206
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 189,
+                            "length": 12
+                        }
+                    },
+                    {
+                        "content": "income,",
+                        "polygon": [
+                            452,
+                            182,
+                            520,
+                            182,
+                            520,
+                            206,
+                            452,
+                            206
+                        ],
+                        "confidence": 0.988,
+                        "span": {
+                            "offset": 202,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "expense",
+                        "polygon": [
+                            533,
+                            182,
+                            608,
+                            182,
+                            608,
+                            206,
+                            533,
+                            206
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 210,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "and",
+                        "polygon": [
+                            620,
+                            182,
+                            652,
+                            182,
+                            653,
+                            206,
+                            621,
+                            206
+                        ],
+                        "confidence": 0.997,
+                        "span": {
+                            "offset": 218,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "asset",
+                        "polygon": [
+                            665,
+                            182,
+                            713,
+                            182,
+                            713,
+                            206,
+                            665,
+                            206
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 222,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "amounts",
+                        "polygon": [
+                            724,
+                            182,
+                            800,
+                            182,
+                            801,
+                            207,
+                            725,
+                            206
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 228,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "not",
+                        "polygon": [
+                            813,
+                            182,
+                            840,
+                            182,
+                            841,
+                            207,
+                            814,
+                            207
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 236,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "specifically",
+                        "polygon": [
+                            852,
+                            182,
+                            949,
+                            182,
+                            949,
+                            207,
+                            853,
+                            207
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 240,
+                            "length": 12
+                        }
+                    },
+                    {
+                        "content": "allocated",
+                        "polygon": [
+                            960,
+                            182,
+                            1039,
+                            182,
+                            1040,
+                            207,
+                            961,
+                            207
+                        ],
+                        "confidence": 0.988,
+                        "span": {
+                            "offset": 253,
+                            "length": 9
+                        }
+                    },
+                    {
+                        "content": "to",
+                        "polygon": [
+                            1051,
+                            182,
+                            1068,
+                            182,
+                            1069,
+                            207,
+                            1052,
+                            207
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 263,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "individual",
+                        "polygon": [
+                            1081,
+                            182,
+                            1163,
+                            182,
+                            1164,
+                            207,
+                            1082,
+                            207
+                        ],
+                        "confidence": 0.991,
+                        "span": {
+                            "offset": 266,
+                            "length": 10
+                        }
+                    },
+                    {
+                        "content": "business",
+                        "polygon": [
+                            1175,
+                            182,
+                            1256,
+                            182,
+                            1256,
+                            206,
+                            1176,
+                            207
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 277,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "segments.",
+                        "polygon": [
+                            130,
+                            209,
+                            228,
+                            208,
+                            228,
+                            227,
+                            130,
+                            228
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 286,
+                            "length": 9
+                        }
+                    },
+                    {
+                        "content": "Bank",
+                        "polygon": [
+                            178,
+                            296,
+                            232,
+                            296,
+                            232,
+                            321,
+                            178,
+                            320
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 297,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "of",
+                        "polygon": [
+                            239,
+                            296,
+                            258,
+                            296,
+                            258,
+                            321,
+                            239,
+                            321
+                        ],
+                        "confidence": 0.998,
+                        "span": {
+                            "offset": 302,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "America",
+                        "polygon": [
+                            264,
+                            296,
+                            346,
+                            295,
+                            345,
+                            321,
+                            263,
+                            321
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 305,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "2018",
+                        "polygon": [
+                            353,
+                            295,
+                            404,
+                            295,
+                            404,
+                            321,
+                            352,
+                            321
+                        ],
+                        "confidence": 0.992,
+                        "span": {
+                            "offset": 313,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "165",
+                        "polygon": [
+                            111,
+                            295,
+                            155,
+                            295,
+                            155,
+                            318,
+                            111,
+                            317
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 319,
+                            "length": 3
+                        }
+                    }
+                ],
+                "lines": [
+                    {
+                        "content": "Liquidating businesses, eliminations and other",
+                        "polygon": [
+                            128,
+                            98,
+                            591,
+                            98,
+                            591,
+                            124,
+                            128,
+                            124
+                        ],
+                        "spans": [
+                            {
+                                "offset": 27,
+                                "length": 46
+                            }
+                        ]
+                    },
+                    {
+                        "content": "(67)",
+                        "polygon": [
+                            1909,
+                            99,
+                            1953,
+                            100,
+                            1952,
+                            124,
+                            1910,
+                            125
+                        ],
+                        "spans": [
+                            {
+                                "offset": 76,
+                                "length": 4
+                            }
+                        ]
+                    },
+                    {
+                        "content": "(2,954)",
+                        "polygon": [
+                            2079,
+                            99,
+                            2158,
+                            99,
+                            2158,
+                            124,
+                            2079,
+                            125
+                        ],
+                        "spans": [
+                            {
+                                "offset": 83,
+                                "length": 7
+                            }
+                        ]
+                    },
+                    {
+                        "content": "(1,020)",
+                        "polygon": [
+                            2280,
+                            99,
+                            2362,
+                            98,
+                            2362,
+                            124,
+                            2280,
+                            125
+                        ],
+                        "spans": [
+                            {
+                                "offset": 93,
+                                "length": 7
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Consolidated net income",
+                        "polygon": [
+                            150,
+                            148,
+                            420,
+                            148,
+                            420,
+                            173,
+                            150,
+                            174
+                        ],
+                        "spans": [
+                            {
+                                "offset": 105,
+                                "length": 23
+                            }
+                        ]
+                    },
+                    {
+                        "content": "$",
+                        "polygon": [
+                            1791,
+                            150,
+                            1801,
+                            151,
+                            1802,
+                            171,
+                            1789,
+                            170
+                        ],
+                        "spans": [
+                            {
+                                "offset": 131,
+                                "length": 1
+                            }
+                        ]
+                    },
+                    {
+                        "content": "28,147",
+                        "polygon": [
+                            1870,
+                            149,
+                            1944,
+                            149,
+                            1944,
+                            172,
+                            1870,
+                            172
+                        ],
+                        "spans": [
+                            {
+                                "offset": 133,
+                                "length": 6
+                            }
+                        ]
+                    },
+                    {
+                        "content": "$",
+                        "polygon": [
+                            1996,
+                            149,
+                            2008,
+                            150,
+                            2008,
+                            171,
+                            1994,
+                            170
+                        ],
+                        "spans": [
+                            {
+                                "offset": 142,
+                                "length": 1
+                            }
+                        ]
+                    },
+                    {
+                        "content": "18,232",
+                        "polygon": [
+                            2078,
+                            149,
+                            2147,
+                            148,
+                            2147,
+                            171,
+                            2078,
+                            172
+                        ],
+                        "spans": [
+                            {
+                                "offset": 144,
+                                "length": 6
+                            }
+                        ]
+                    },
+                    {
+                        "content": "$",
+                        "polygon": [
+                            2201,
+                            150,
+                            2211,
+                            150,
+                            2212,
+                            170,
+                            2198,
+                            170
+                        ],
+                        "spans": [
+                            {
+                                "offset": 153,
+                                "length": 1
+                            }
+                        ]
+                    },
+                    {
+                        "content": "17,822",
+                        "polygon": [
+                            2278,
+                            148,
+                            2351,
+                            148,
+                            2351,
+                            171,
+                            2278,
+                            172
+                        ],
+                        "spans": [
+                            {
+                                "offset": 155,
+                                "length": 6
+                            }
+                        ]
+                    },
+                    {
+                        "content": "(1) Adjustments include consolidated income, expense and asset amounts not specifically allocated to individual business",
+                        "polygon": [
+                            98,
+                            181,
+                            1255,
+                            181,
+                            1255,
+                            206,
+                            98,
+                            206
+                        ],
+                        "spans": [
+                            {
+                                "offset": 165,
+                                "length": 120
+                            }
+                        ]
+                    },
+                    {
+                        "content": "segments.",
+                        "polygon": [
+                            130,
+                            208,
+                            227,
+                            207,
+                            228,
+                            227,
+                            130,
+                            228
+                        ],
+                        "spans": [
+                            {
+                                "offset": 286,
+                                "length": 9
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Bank of America 2018",
+                        "polygon": [
+                            178,
+                            295,
+                            403,
+                            294,
+                            403,
+                            320,
+                            178,
+                            320
+                        ],
+                        "spans": [
+                            {
+                                "offset": 297,
+                                "length": 20
+                            }
+                        ]
+                    },
+                    {
+                        "content": "165",
+                        "polygon": [
+                            111,
+                            295,
+                            154,
+                            296,
+                            154,
+                            318,
+                            111,
+                            318
+                        ],
+                        "spans": [
+                            {
+                                "offset": 319,
+                                "length": 3
+                            }
+                        ]
+                    }
+                ],
+                "spans": [
+                    {
+                        "offset": 0,
+                        "length": 323
+                    }
+                ]
+            }
+        ],
+        "tables": [
+            {
+                "rowCount": 2,
+                "columnCount": 4,
+                "cells": [
+                    {
+                        "rowIndex": 0,
+                        "columnIndex": 0,
+                        "content": "Liquidating businesses, eliminations and other",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    86,
+                                    87,
+                                    1434,
+                                    87,
+                                    1436,
+                                    127,
+                                    86,
+                                    127
+                                ]
+                            }
+                        ],
+                        "spans": [
+                            {
+                                "offset": 27,
+                                "length": 46
+                            }
+                        ],
+                        "elements": [
+                            "/paragraphs/0"
+                        ]
+                    },
+                    {
+                        "rowIndex": 0,
+                        "columnIndex": 1,
+                        "content": "(67)",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    1434,
+                                    87,
+                                    1983,
+                                    89,
+                                    1983,
+                                    127,
+                                    1436,
+                                    127
+                                ]
+                            }
+                        ],
+                        "spans": [
+                            {
+                                "offset": 76,
+                                "length": 4
+                            }
+                        ],
+                        "elements": [
+                            "/paragraphs/1"
+                        ]
+                    },
+                    {
+                        "rowIndex": 0,
+                        "columnIndex": 2,
+                        "content": "(2,954)",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    1983,
+                                    89,
+                                    2180,
+                                    89,
+                                    2180,
+                                    127,
+                                    1983,
+                                    127
+                                ]
+                            }
+                        ],
+                        "spans": [
+                            {
+                                "offset": 83,
+                                "length": 7
+                            }
+                        ],
+                        "elements": [
+                            "/paragraphs/2"
+                        ]
+                    },
+                    {
+                        "rowIndex": 0,
+                        "columnIndex": 3,
+                        "content": "(1,020)",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    2180,
+                                    89,
+                                    2386,
+                                    89,
+                                    2386,
+                                    127,
+                                    2180,
+                                    127
+                                ]
+                            }
+                        ],
+                        "spans": [
+                            {
+                                "offset": 93,
+                                "length": 7
+                            }
+                        ],
+                        "elements": [
+                            "/paragraphs/3"
+                        ]
+                    },
+                    {
+                        "rowIndex": 1,
+                        "columnIndex": 0,
+                        "content": "Consolidated net income",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    86,
+                                    127,
+                                    1436,
+                                    127,
+                                    1436,
+                                    178,
+                                    88,
+                                    175
+                                ]
+                            }
+                        ],
+                        "spans": [
+                            {
+                                "offset": 105,
+                                "length": 23
+                            }
+                        ],
+                        "elements": [
+                            "/paragraphs/4"
+                        ]
+                    },
+                    {
+                        "rowIndex": 1,
+                        "columnIndex": 1,
+                        "content": "$ 28,147",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    1436,
+                                    127,
+                                    1983,
+                                    127,
+                                    1983,
+                                    175,
+                                    1436,
+                                    178
+                                ]
+                            }
+                        ],
+                        "spans": [
+                            {
+                                "offset": 131,
+                                "length": 8
+                            }
+                        ],
+                        "elements": [
+                            "/paragraphs/5"
+                        ]
+                    },
+                    {
+                        "rowIndex": 1,
+                        "columnIndex": 2,
+                        "content": "$ 18,232",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    1983,
+                                    127,
+                                    2180,
+                                    127,
+                                    2180,
+                                    175,
+                                    1983,
+                                    175
+                                ]
+                            }
+                        ],
+                        "spans": [
+                            {
+                                "offset": 142,
+                                "length": 8
+                            }
+                        ],
+                        "elements": [
+                            "/paragraphs/6"
+                        ]
+                    },
+                    {
+                        "rowIndex": 1,
+                        "columnIndex": 3,
+                        "content": "$ 17,822",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    2180,
+                                    127,
+                                    2386,
+                                    127,
+                                    2386,
+                                    175,
+                                    2180,
+                                    175
+                                ]
+                            }
+                        ],
+                        "spans": [
+                            {
+                                "offset": 153,
+                                "length": 8
+                            }
+                        ],
+                        "elements": [
+                            "/paragraphs/7"
+                        ]
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            95,
+                            89,
+                            2376,
+                            87,
+                            2373,
+                            186,
+                            94,
+                            188
+                        ]
+                    }
+                ],
+                "spans": [
+                    {
+                        "offset": 1,
+                        "length": 162
+                    }
+                ]
+            }
+        ],
+        "paragraphs": [
+            {
+                "spans": [
+                    {
+                        "offset": 27,
+                        "length": 46
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            86,
+                            87,
+                            1434,
+                            87,
+                            1436,
+                            127,
+                            86,
+                            127
+                        ]
+                    }
+                ],
+                "content": "Liquidating businesses, eliminations and other"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 76,
+                        "length": 4
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            1434,
+                            87,
+                            1983,
+                            89,
+                            1983,
+                            127,
+                            1436,
+                            127
+                        ]
+                    }
+                ],
+                "content": "(67)"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 83,
+                        "length": 7
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            1983,
+                            89,
+                            2180,
+                            89,
+                            2180,
+                            127,
+                            1983,
+                            127
+                        ]
+                    }
+                ],
+                "content": "(2,954)"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 93,
+                        "length": 7
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            2180,
+                            89,
+                            2386,
+                            89,
+                            2386,
+                            127,
+                            2180,
+                            127
+                        ]
+                    }
+                ],
+                "content": "(1,020)"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 105,
+                        "length": 23
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            86,
+                            127,
+                            1436,
+                            127,
+                            1436,
+                            178,
+                            88,
+                            175
+                        ]
+                    }
+                ],
+                "content": "Consolidated net income"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 131,
+                        "length": 8
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            1436,
+                            127,
+                            1983,
+                            127,
+                            1983,
+                            175,
+                            1436,
+                            178
+                        ]
+                    }
+                ],
+                "content": "$ 28,147"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 142,
+                        "length": 8
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            1983,
+                            127,
+                            2180,
+                            127,
+                            2180,
+                            175,
+                            1983,
+                            175
+                        ]
+                    }
+                ],
+                "content": "$ 18,232"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 153,
+                        "length": 8
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            2180,
+                            127,
+                            2386,
+                            127,
+                            2386,
+                            175,
+                            2180,
+                            175
+                        ]
+                    }
+                ],
+                "content": "$ 17,822"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 165,
+                        "length": 130
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            98,
+                            181,
+                            1255,
+                            181,
+                            1255,
+                            228,
+                            98,
+                            228
+                        ]
+                    }
+                ],
+                "content": "(1) Adjustments include consolidated income, expense and asset amounts not specifically allocated to individual business segments."
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 297,
+                        "length": 20
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            178,
+                            294,
+                            403,
+                            294,
+                            403,
+                            320,
+                            178,
+                            320
+                        ]
+                    }
+                ],
+                "content": "Bank of America 2018"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 319,
+                        "length": 3
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            111,
+                            295,
+                            154,
+                            295,
+                            154,
+                            318,
+                            111,
+                            318
+                        ]
+                    }
+                ],
+                "content": "165"
+            }
+        ],
+        "contentFormat": "markdown",
+        "sections": [
+            {
+                "spans": [
+                    {
+                        "offset": 1,
+                        "length": 162
+                    },
+                    {
+                        "offset": 165,
+                        "length": 130
+                    },
+                    {
+                        "offset": 297,
+                        "length": 20
+                    },
+                    {
+                        "offset": 319,
+                        "length": 3
+                    }
+                ],
+                "elements": [
+                    "/tables/0",
+                    "/paragraphs/8",
+                    "/paragraphs/9",
+                    "/paragraphs/10"
+                ]
+            }
+        ]
+    }
+}

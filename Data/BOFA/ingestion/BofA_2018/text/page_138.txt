@@ -1,0 +1,68 @@
+# Home Equity Loans  
+  
+The Corporation retains interests in home equity securitization trusts, primarily senior securities, to which it transferred home equity loans. In addition, the Corporation may be obligated to provide subordinate funding to the trusts during a rapid amortization event. This obligation is included in the maximum loss exposure in the table above. The charges that will ultimately be recorded as a result of the rapid amortization events depend on the undrawn portion of the home equity lines of credit (HELOCs), performance of the loans, the amount of subsequent draws and the timing of related cash flows.  
+  
+  
+## Credit Card Securitizations  
+  
+The Corporation securitizes originated and purchased credit card loans. The Corporation's continuing involvement with the securitization trust includes servicing the receivables, retaining an undivided interest (seller's interest) in the receivables, and holding certain retained interests including subordinate interests in accrued interest and fees on the securitized receivables and cash reserve accounts.  
+  
+During 2018, 2017 and 2016, new senior debt securities issued to third-party investors from the credit card securitization trust were $4.0 billion, $3.1 billion and $750 million, respectively.  
+  
+At December 31, 2018 and 2017, the Corporation held subordinate securities issued by the credit card securitization trust with a notional principal amount of $7.7 billion and $7.4 billion. These securities serve as a form of credit enhancement to the senior debt securities and have a stated interest rate of zero percent. During 2018, 2017 and 2016, the credit card securitization trust issued$650 million, $500 million and $121 million, respectively, of these subordinate securities.  
+  
+  
+# Resecuritization Trusts  
+  
+The Corporation transfers securities, typically MBS, into resecuritization VIEs at the request of customers seeking  
+  
+securities with specific characteristics. Generally, there are no significant ongoing activities performed in a resecuritization trust, and no single investor has the unilateral ability to liquidate the trust.  
+  
+The Corporation resecuritized $22.8 billion, $25.1 billion and $23.4 billion of securities in 2018, 2017 and 2016, respectively. Securities transferred into resecuritization VIEs were measured at fair value with changes in fair value recorded in trading account profits prior to the resecuritization and no gain or loss on sale was recorded. During 2018, 2017 and 2016, resecuritization proceeds included securities with an initial fair value of $4.1 billion, $3.3 billion and $3.3 billion, respectively. Substantially all of the other securities received as resecuritization proceeds were classified as trading securities and were categorized as Level 2 within the fair value hierarchy.  
+  
+  
+## Municipal Bond Trusts  
+  
+The Corporation administers municipal bond trusts that hold highly-rated, long-term, fixed-rate municipal bonds. The trusts obtain financing by issuing floating-rate trust certificates that reprice on a weekly or other short-term basis to third-party investors.  
+  
+The Corporation's liquidity commitments to unconsolidated municipal bond trusts, including those for which the Corporation was transferor, totaled $2.1 billion and $1.6 billion at December 31, 2018 and 2017. The weighted-average remaining life of bonds held in the trusts at December 31, 2018 was 7.3 years. There were no material write-downs or downgrades of assets or issuers during 2018, 2017 and 2016.  
+  
+  
+# Other Variable Interest Entities  
+  
+The table below summarizes select information related to other VIEs in which the Corporation held a variable interest at December 31, 2018 and 2017.  
+  
+| Other VIEs |||||||  
+| | Consolidated | Unconsolidated | Total | Consolidated | Unconsolidated | Total |  
+| - | - | - | - | - | - | - |  
+| | December 31 ||||||  
+| (Dollars in millions) | | 2018 | | | 2017 | |  
+| Maximum loss exposure | $ 4,177 | $ 24,498 | $ 28,675 | $ 4,660 | $ 19,785 | $ 24,445 |  
+| On-balance sheet assets | | | | | | |  
+| Trading account assets | $ 2,335 | 860 | 3,195 | 2,709 | $ 346 | 3,055 |  
+| Debt securities carried at fair value | | 84 | 84 | | 160 | 160 |  
+| Loans and leases | 1,949 | 3,940 | 5,889 | 2,152 | 3,596 | 5,748 |  
+| Allowance for loan and lease losses | (2) | (30) | (32) | (3) | (32) | (35) |  
+| All other assets | 53 | 18,885 | 18,938 | 89 | 15,216 | 15,305 |  
+| Total | $ 4,335 | $ 23,739 | $ 28,074 | $ 4,947 | $ 19,286 | $ 24,233 |  
+| On-balance sheet liabilities | | | | | | |  
+| Long-term debt | 152 | - | $ 152 | $ 270 | $ | $ 270 |  
+| All other liabilities | 7 | 4,231 | 4,238 | 18 | 3,417 | 3,435 |  
+| Total | 159 | 4,231 | $ 4,390 | $ 288 | $ 3,417 | $ 3,705 |  
+| Total assets of VIEs | 4,335 | 94,746 | $ 99,081 | $ 4,947 | $ 69,746 | $ 74,693 |  
+  
+  
+# Customer VIEs  
+  
+Customer VIEs include credit-linked, equity-linked and commodity-linked note VIEs, repackaging VIEs and asset acquisition VIEs, which are typically created on behalf of customers who wish to obtain market or credit exposure to a specific company, index, commodity or financial instrument.  
+  
+The Corporation's maximum loss exposure to consolidated and unconsolidated customer VIEs totaled $2.1 billion and $2.3 billion at December 31, 2018 and 2017, including the notional amount of derivatives to which the Corporation is a counterparty,  
+  
+net of losses previously recorded, and the Corporation's investment, if any, in securities issued by the VIEs.  
+  
+  
+# Collateralized Debt Obligation VIEs  
+  
+The Corporation receives fees for structuring CDO VIEs, which hold diversified pools of fixed-income securities, typically corporate debt or ABS, which the CDO VIEs fund by issuing multiple tranches of debt and equity securities. CDOs are generally managed by third-party portfolio managers. The Corporation typically transfers assets to these CDOs, holds securities issued by the CDOs and may be a derivative counterparty to the CDOs. The Corporation's maximum loss exposure to consolidated and  
+  
+<!-- PageFooter="Bank of America 2018 126" -->  

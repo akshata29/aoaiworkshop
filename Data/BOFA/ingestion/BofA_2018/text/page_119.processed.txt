@@ -1,0 +1,68 @@
+# NOTE 4 Securities  
+  
+The table below presents the amortized cost, gross unrealized gains and losses, and fair value of AFS debt securities, other debt securities carried at fair value and HTM debt securities at December 31, 2018 and 2017.  
+  
+  
+# Debt Securities  
+  
+| | Amortized Cost | Gross Unrealized Gains | Gross Unrealized Losses | Fair Value |  
+| - | - | - | - | - |  
+| (Dollars in millions) | December 31, 2018 ||||  
+| Available-for-sale debt securities | | | | |  
+| Mortgage-backed securities: | | | | |  
+| Agency | $ 125,116 | $ 138 | $ (3,428) | $ 121,826 |  
+| Agency-collateralized mortgage obligations | 5,621 | 19 | (110) | 5,530 |  
+| Commercial | 14,469 | 11 | (402) | 14,078 |  
+| Non-agency residential (1) | 1,792 | 136 | (11) | 1,917 |  
+| Total mortgage-backed securities | 146,998 | 304 | (3,951) | 143,351 |  
+| U.S. Treasury and agency securities | 56,239 | 62 | (1,378) | 54,923 |  
+| Non-U.S. securities | 9,307 | 5 | (6) | 9,306 |  
+| Other taxable securities, substantially all asset-backed securities | 4,387 | 29 | (6) | 4,410 |  
+| Total taxable securities | 216,931 | 400 | (5,341) | 211,990 |  
+| Tax-exempt securities | 17,349 | 99 | (72) | 17,376 |  
+| Total available-for-sale debt securities | 234,280 | 499 | (5,413) | 229,366 |  
+| Other debt securities carried at fair value | 8,595 | 172 | (32) | 8,735 |  
+| Total debt securities carried at fair value | 242,875 | 671 | (5,445) | 238,101 |  
+| Held-to-maturity debt securities, substantially all U.S. agency mortgage-backed securities (2) | 203,652 | 747 | (3,964) | 200,435 |  
+| Total debt securities (3, 4) | $ 446,527 | $ 1,418 | $ (9,409) | $ 438,536 |  
+| | December 31, 2017 ||||  
+| Available-for-sale debt securities | | | | |  
+| Mortgage-backed securities: | | | | |  
+| Agency | $ 194,119 | $ 506 | $ (1,696) | $ 192,929 |  
+| Agency-collateralized mortgage obligations | 6,846 | 39 | (81) | 6,804 |  
+| Commercial | 13,864 | 28 | (208) | 13,684 |  
+| Non-agency residential (1) | 2,410 | 267 | (8) | 2,669 |  
+| Total mortgage-backed securities | 217,239 | 840 | (1,993) | 216,086 |  
+| U.S. Treasury and agency securities | 54,523 | 18 | (1,018) | 53,523 |  
+| Non-U.S. securities | 6,669 | 9 | (1) | 6,677 |  
+| Other taxable securities, substantially all asset-backed securities | 5,699 | 73 | (2) | 5,770 |  
+| Total taxable securities | 284,130 | 940 | (3,014) | 282,056 |  
+| Tax-exempt securities | 20,541 | 138 | (104) | 20,575 |  
+| Total available-for-sale debt securities | 304,671 | 1,078 | (3,118) | 302,631 |  
+| Other debt securities carried at fair value | 12,273 | 252 | (39) | 12,486 |  
+| Total debt securities carried at fair value | 316,944 | 1,330 | (3,157) | 315,117 |  
+| Held-to-maturity debt securities, substantially all U.S. agency mortgage-backed securities | 125,013 | 111 | (1,825) | 123,299 |  
+| Total debt securities (3, 4) | $ 441,957 | $ 1,441 | $ (4,982) | $ 438,416 |  
+| Available-for-sale marketable equity securities (5) | $ 27 | $ - | $ (2) | $ 25 |  
+  
+(1) At December 31, 2018 and 2017, the underlying collateral type included approximately 68 percent and 62 percent prime, 4 percent and 13 percent Alt-A, and 28 percent and 25 percent  
+  
+subprime.  
+  
+(2) During 2018, the Corporation transferred AFS debt securities with an amortized cost of $64.5 billion to held to maturity.  
+  
+(3) Includes securities pledged as collateral of $40.6 billion and $35.8 billion at December 31, 2018 and 2017.  
+  
+(4) The Corporation had debt securities from FNMA and FHLMC that each exceeded 10 percent of shareholders' equity, with an amortized cost of $161.2 billion and $52.2 billion, and a fair value of$158.5 billion and $51.4 billion at December 31, 2018, and an amortized cost of $163.6 billion and $50.3 billion, and a fair value of$162.1 billion and $50.0 billion at December 31, 2017.  
+  
+(5) Classified in other assets on the Consolidated Balance Sheet.  
+  
+At December 31, 2018, the accumulated net unrealizedloss on AFS debt securities included in accumulated OCI was $3.7 billion, net of the related income tax benefit of $1.2 billion. The Corporation had nonperforming AFS debt securities of $11 million and $99 million at December 31, 2018 and 2017.  
+  
+Effective January 1, 2018, the Corporation adopted an accounting standard applicable to equity securities. For additional information, see Note 1 - Summary of Significant Accounting Principles. At December 31, 2018, the Corporation held equity securities at an aggregate fair value of $893 million and other equity securities, as valued under the measurement alternative,  
+  
+at cost of $219 million, both of which are included in other assets. AtDecember 31, 2018, the Corporation also held equity securities at fair value of $1.2 billion included in time deposits placed and other short-term investments.  
+  
+The following table presents the components of other debt securities carried at fair value where the changes in fair value are reported in other income. In 2018, the Corporation recorded unrealized mark-to-market net losses of $73 million and realized net gains of $140 million, and unrealized mark-to-market net gains of $243 million and realized net losses of $49 million in 2017. These amounts exclude hedge results.  
+  
+<!-- PageFooter="Bank of America 2018 108" -->  

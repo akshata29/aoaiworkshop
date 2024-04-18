@@ -1,0 +1,46 @@
+Pretax Amounts included in Accumulated OCI  
+===  
+  
+| (Dollars in millions) | Qualified Pension Plan || Non-U.S. Pension Plans || Nonqualified and Other Pension Plans || Postretirement Health and Life Plans || Total ||  
+|| 2018 | 2017 | 2018 | 2017 | 2018 | 2017 | 2018 | 2017 | 2018 | 2017 |  
+| - | - | - | - | - | - | - | - | - | - | - |  
+| Net actuarial loss (gain) | $ 4,386 | $ 3,992 | $ 454 | $ 196 | $ 912 | $ 1,014 | $ (75) | $ (30) | $ 5,677 | $ 5,172 |  
+| Prior service cost (credits) | | :unselected: | 18 | 4 | :unselected: | :unselected: | (9) :selected: | (11) | 9 | (7) |  
+| Amounts recognized in accumulated OCI | $ 4,386 | $ 3,992 | $ 472 | $ 200 | $ 912 | $ 1,014 | $ (84) | $ (41) | $ 5,686 | $ 5,165 |  
+  
+  
+# Pretax Amounts Recognized in OCI  
+  
+| (Dollars in millions) | Qualified Pension Plan || Non-U.S. Pension Plans || Nonqualified and Other Pension Plans || Postretirement Health and Life Plans || Total ||  
+|| 2018 | 2017 | 2018 | 2017 | 2018 | 2017 | 2018 | 2017 | 2018 | 2017 |  
+| - | - | - | - | - | - | - | - | - | - | - |  
+| Current year actuarial loss (gain) | $ 541 | $ (283) | $ 270 | $ (12) | $ (59) | $ 95 | $ (73) | $ (7) | $ 679 | $ (207) |  
+| Amortization of actuarial gain (loss) and prior service cost | (147) | (154) | (11) | (8) | (43) | (34) | 30 | 21 | (171) | (175) |  
+| Current year prior service cost (credit) | | | 13 | :unselected: | :unselected: | :unselected: | | (23) | 13 | (23) |  
+| Amounts recognized in OCI | $ 394 | $ (437) | $ 272 | $ (20) | $ (102) | $ 61 | $ (43) | $ (9) | $ 521 | $ (405) |  
+  
+  
+# Plan Assets  
+  
+The Qualified Pension Plan has been established as a retirement vehicle for participants, and trusts have been established to secure benefits promised under the Qualified Pension Plan. The Corporation's policy is to invest the trust assets in a prudent manner for the exclusive purpose of providing benefits to participants and defraying reasonable expenses of administration. The Corporation's investment strategy is designed to provide a total return that, over the long term, increases the ratio of assets to liabilities. The strategy attempts to maximize the investment return on assets at a level of risk deemed appropriate by the Corporation while complying with ERISA and any applicable regulations and laws. The investment strategy utilizes asset allocation as a principal determinant for establishing the risk/return profile of the assets. Asset allocation ranges are established, periodically reviewed and adjusted as funding levels and liability characteristics change. Active and passive investment managers are employed to help enhance the risk/return profile of the assets. An additional aspect of the investment strategy used to minimize risk (part of the asset allocation plan) includes matching the exposure of participant- selected investment measures.  
+  
+The assets of the Non-U.S. Pension Plans are primarily attributable to a U.K. pension plan. This U.K. pension plan's assets are invested prudently so that the benefits promised to members are provided with consideration given to the nature and the duration  
+  
+of the plan's liabilities. The selected asset allocation strategy is designed to achieve a higher return than the lowest risk strategy.  
+  
+The expected rate of return on plan assets assumption was developed through analysis of historical market returns, historical asset class volatility and correlations, current market conditions, anticipated future asset allocations, the funds' past experience, and expectations on potential future market returns. The expected return on plan assets assumption is determined using the calculated market-related value for the Qualified Pension Plan and the Other Pension Plan and the fair value for the Non-U.S. Pension Plans and Postretirement Health and Life Plans. The expected return on plan assets assumption represents a long-term average view of the performance of the assets in the Qualified Pension Plan, the Non-U.S. Pension Plans, the Other Pension Plan, and Postretirement Health and Life Plans, a return that may or may not be achieved during any one calendar year. The Other Pension Plan is invested solely in an annuity contract which is primarily invested in fixed- income securities structured such that asset maturities match the duration of the plan's obligations.  
+  
+The target allocations for 2019 by asset category for the Qualified Pension Plan, Non-U.S. Pension Plans, and Nonqualified and Other Pension Plans are presented in the following table. Equity securities for the Qualified Pension Plan include common stock of the Corporation in the amounts of $221 million (1.22 percent of total plan assets) and $261 million (1.33 percent of total plan assets) at December 31, 2018 and 2017.  
+  
+  
+# 2019 Target Allocation  
+  
+| Asset Category | Percentage |||  
+|| Qualified Pension Plan | Non-U.S. Pension Plans | Nonqualified and Other Pension Plans |  
+| - | - | - | - |  
+| Equity securities | 20-50 | 5-35 | 0-5 |  
+| Debt securities | 45-75 | 40-80 | 95-100 |  
+| Real estate | 0-10 | 0-15 | 0-5 |  
+| Other | 0-5 | 5-30 | 0-5 |  
+  
+<!-- PageFooter="145 Bank of America 2018" -->  

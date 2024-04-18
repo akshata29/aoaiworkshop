@@ -1,0 +1,52 @@
+Ambac v. Countrywide II  
+  
+On December 30, 2014, Ambac filed a complaint in New York Supreme Court against the same defendants, claiming fraudulent inducement against Countrywide, and successor and vicarious liability against the Corporation. Ambac seeks damages in excess of $600 million, plus punitive damages. On December 19, 2016, the Court granted in part and denied in part Countrywide's motion to dismiss the complaint.  
+  
+  
+# Ambac v. Countrywide IV  
+  
+On July 21, 2015, Ambac filed an action in New York Supreme Court against Countrywide asserting the same claims for fraudulent inducement that Ambac asserted in the now-dismissed Ambac v. Countrywide III. The complaint seeks damages in excess of $350 million, plus punitive damages.  
+  
+  
+# Ambac v. First Franklin  
+  
+On April 16, 2012, Ambac filed an action against BANA, First Franklin and various Merrill Lynch entities, including Merrill Lynch, Pierce, Fenner & Smith Incorporated (MLPF&S), in New York Supreme Court relating to guaranty insurance Ambac provided on a First Franklin securitization sponsored by Merrill Lynch. The complaint alleges fraudulent inducement and breach of contract, including breach of contract claims against BANA based upon its servicing of the loans in the securitization. Ambac seeks as damages hundreds of millions of dollars that Ambac alleges it has paid or will pay in claims.  
+  
+  
+# Deposit Insurance Assessment  
+  
+On January 9, 2017, the FDIC filed suit against BANA in U.S. District Court for the District of Columbia alleging failure to pay a December 15, 2016 invoice for additional deposit insurance assessments and interest in the amount of $542 million for the quarters ending June 30, 2013 through December 31, 2014. On April 7, 2017, the FDIC amended its complaint to add a claim for additional deposit insurance and interest in the amount of $583 million for the quarters ending March 31, 2012 through March 31, 2013. The FDIC asserts these claims based on BANA's alleged underreporting of counterparty exposures that resulted in underpayment of assessments for those quarters. BANA disagrees with the FDIC's interpretation of the regulations as they existed during the relevant time period and is defending itself against the FDIC's claims. Pending final resolution, BANA has pledged security satisfactory to the FDIC related to the disputed additional assessment amounts.  
+  
+On March 27, 2018, the U.S. District Court for the District of Columbia denied BANA's partial motion to dismiss certain of the FDIC's claims.  
+  
+  
+# Interchange and Related Litigation  
+  
+In 2005, a group of merchants filed a series of putative class actions and individual actions directed at interchange fees associated with Visa and MasterCard payment card transactions. These actions, which were consolidated in the U.S. District Court for the Eastern District of New York under the caption In re Payment Card Interchange Fee and Merchant Discount Anti-Trust Litigation (Interchange), named Visa, MasterCard and several banks and bank holding companies, including the Corporation, as defendants. Plaintiffs alleged that defendants conspired to fix the level of default interchange rates and that certain rules of Visa and MasterCard were unreasonable restraints of trade. Plaintiffs sought compensatory and treble damages and injunctive relief.  
+  
+On October 19, 2012, defendants reached a settlement with respect to the putative class actions that the U.S. Court of Appeals for the Second Circuit rejected. In 2018, defendants reached a  
+  
+settlement with the representatives of the putative Rule 23(b)(3) damages class to contribute an additional $900 million to the approximately $5.3 billion held in escrow from the prior settlement. The Corporation's additional contribution is not material to the Corporation. The District Court granted preliminary approval of the settlement with the putative Rule 23(b)(3) damages class in January 2019.  
+  
+In addition, the putative Rule 23(b)(2) class action seeking injunctive relief is pending, and a number of individual merchant actions continue against the defendants, including one against the Corporation. As a result of various loss- sharing agreements, however, the Corporation remains liable for a portion of any settlement or judgment in individual suits where it is not named as a defendant.  
+  
+  
+# LIBOR, Other Reference Rates, Foreign Exchange (FX) and Bond Trading Matters  
+  
+Government authorities in the U.S. and various international jurisdictions continue to conduct investigations, to make inquiries of, and to pursue proceedings against, the Corporation and its subsidiaries regarding FX and other reference rates as well as government, sovereign, supranational and agency bonds in connection with conduct and systems and controls. The Corporation is cooperating with these inquiries and investigations and responding to the proceedings.  
+  
+  
+## Foreign Exchange (FX)  
+  
+The Corporation, BANA and MLPF&S were named as defendants along with other FX market participants in a putative class action filed in the U.S. District Court for the Southern District of New York, in which plaintiffs allege that they sustained losses as a result of the defendants' alleged conspiracy to manipulate the prices of OTC FX transactions and FX transactions on an exchange. Plaintiffs assert antitrust claims and claims for violations of the Commodity Exchange Act (CEA) and seek compensatory and treble damages, as well as declaratory and injunctive relief. On October 1, 2015, the Corporation, BANA and MLPF&S executed a final settlement agreement, in which they agreed to pay participating class members $187.5 million to settle the litigation. In 2018, the District Court granted final approval to the settlement.  
+  
+  
+## LIBOR  
+  
+The Corporation, BANA and certain Merrill Lynch entities have been named as defendants along with most of the other London InterBank Offered Rate (LIBOR) panel banks in a number of individual and putative class actions by persons alleging they sustained losses on U.S. dollar LIBOR-based financial instruments as a result of collusion or manipulation by defendants regarding the setting of U.S. dollar LIBOR. Plaintiffs assert a variety of claims, including antitrust, CEA, Racketeer Influenced and Corrupt Organizations (RICO), Securities Exchange Act of 1934, common law fraud and breach of contract claims, and seek compensatory, treble and punitive damages, and injunctive relief. All cases naming the Corporation and its affiliates relating to U.S. dollar LIBOR are pending in the U.S. District Court for the Southern District of New York.  
+  
+The District Court has dismissed all RICO claims, and dismissed all manipulation claims based on alleged trader conduct against Bank of America entities. The District Court has also substantially limited the scope of antitrust, CEA and various other claims, including by dismissing in their entirety certain individual and putative class plaintiffs' antitrust claims for lack of standing and/or personal jurisdiction. Plaintiffs whose antitrust claims were dismissed by the District Court are pursuing appeals in the Second Circuit. Certain individual and putative class actions remain  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageNumber="136" -->  

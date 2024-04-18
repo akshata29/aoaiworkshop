@@ -1,0 +1,47 @@
+<!-- PageHeader="Global Banking" -->  
+  
+| (Dollars in millions) | 2018 | 2017 | % Change |  
+| - | - | - | - |  
+| Net interest income | $ 10,881 | $ 10,504 | 4 % |  
+| Noninterest income: | | | |  
+| Service charges | 3,027 | 3,125 | (3) |  
+| Investment banking fees | 2,891 | 3,471 | (17) |  
+| All other income | 2,845 | 2,899 | (2) |  
+| Total noninterest income | 8,763 | 9,495 | (8) |  
+| Total revenue, net of interest expense | 19,644 | 19,999 | (2) |  
+| Provision for credit losses | 8 | 212 | (96) |  
+| Noninterest expense | 8,591 | 8,596 | - |  
+| Income before income taxes | 11,045 | 11,191 | (1) |  
+| Income tax expense | 2,872 | 4,238 | (32) |  
+| Net income | $ 8,173 | $ 6,953 | 18 |  
+| Effective tax rate | 26.0% | 37.9% | |  
+| Net interest yield | 2.98 | 2.93 | |  
+| Return on average allocated capital | 20 | 17 | |  
+| Efficiency ratio | 43.73 | 42.98 | |  
+| Balance Sheet | | | |  
+| Average | | | |  
+| Total loans and leases | $ 354,236 | $ 346,089 | 2 % |  
+| Total earning assets | 364,748 | 358,302 | 2 |  
+| Total assets | 424,353 | 416,038 | 2 |  
+| Total deposits | 336,337 | 312,859 | 8 |  
+| Allocated capital | 41,000 | 40,000 | 3 |  
+| Year end | | | |  
+| Total loans and leases | 365,717 | $ 350,668 | 4 % |  
+| Total earning assets | 377,812 | 365,560 | 3 |  
+| Total assets | 441,477 | 424,533 | 4 |  
+| Total deposits | 360,248 | 329,273 | 9 |  
+  
+Global Banking, which includes Global Corporate Banking, Global Commercial Banking, Business Banking and Global Investment Banking, provides a wide range of lending-related products and services, integrated working capital management and treasury solutions, and underwriting and advisory services through our network of offices and client relationship teams. Our lending products and services include commercial loans, leases, commitment facilities, trade finance, commercial real estate lending and asset-based lending. Our treasury solutions business includes treasury management, foreign exchange and short-term investing options. We also provide investment banking products to our clients such as debt and equity underwriting and distribution, and merger-related and other advisory services. Underwriting debt and equity issuances, fixed-income and equity research, and certain market-based activities are executed through our global broker-dealer affiliates, which are our primary dealers in several countries. Within Global Banking, Global Commercial Banking clients generally include middle-market companies, commercial real estate firms and not-for-profit companies. Global Corporate Banking clients generally include large global corporations, financial institutions and leasing clients. Business Banking clients include mid-sized U.S .- based businesses requiring customized and integrated financial advice and solutions.  
+  
+Net income for Global Banking increased $1.2 billion to $8.2 billion in 2018 compared to 2017 primarily driven by lower income tax expense from the reduction in the federal income tax rate and lower provision for credit losses, partially offset by lower revenue. Noninterest expense was relatively unchanged.  
+  
+Revenue decreased $355 million to $19.6 billion driven by lower noninterest income, partially offset by higher net interest income. Net interest income increased $377 million to $10.9 billion primarily due to the impact of higher interest rates, as well as loan and deposit growth. Noninterest income decreased $732 million to $8.8 billion primarily due to lower investment banking fees. The provision for credit losses improved $204 million to $8 million primarily driven by Global Banking's portion of a 2017 single-name non-U.S. commercial charge-off and continued improvement in the commercial portfolio.  
+  
+The return on average allocated capital was20 percent, up from 17 percent, as higher net income was partially offset by an increased capital allocation. For more information on capital allocated to the business segments, see Business Segment Operations on page 30.  
+  
+  
+# Global Corporate, Global Commercial and Business Banking  
+  
+Global Corporate, Global Commercial and Business Banking each include Business Lending and Global Transaction Services activities. Business Lending includes various lending-related products and services, and related hedging activities, including commercial loans, leases, commitment facilities, trade finance, real estate lending and asset-based lending. Global Transaction Services includes deposits, treasury management, credit card, foreign exchange and short-term investment products.  
+  
+<!-- PageFooter="35 Bank of America 2018" -->  

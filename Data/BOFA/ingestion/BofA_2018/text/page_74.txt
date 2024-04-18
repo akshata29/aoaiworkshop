@@ -1,0 +1,79 @@
+Table 46 presents a rollforward of the allowance for credit losses, which includes the allowance for loan and lease losses and the reserve for unfunded lending commitments, for 2018 and 2017.  
+  
+  
+# Table 46 Allowance for Credit Losses  
+  
+| (Dollars in millions) | 2018 | 2017 |  
+| - | - | - |  
+| Allowance for loan and lease losses, January 1 | $ 10,393 | $ 11,237 |  
+| Loans and leases charged off | | |  
+| Residential mortgage | (207) | (188) |  
+| Home equity | (483) | (582) |  
+| U.S. credit card | (3,345) | (2,968) |  
+| Non-U.S. credit card (1) | | (103) |  
+| Direct/Indirect consumer | (495) | (491) |  
+| Other consumer | (197) | (212) |  
+| Total consumer charge-offs | (4,727) | (4,544) |  
+| U.S. commercial (2) | (575) | (589) |  
+| Non-U.S. commercial | (82) | (446) |  
+| Commercial real estate | (10) | (24) |  
+| Commercial lease financing | (8) | (16) |  
+| Total commercial charge-offs | (675) | (1,075) |  
+| Total loans and leases charged off | (5,402) | (5,619) |  
+| Recoveries of loans and leases previously charged off | | |  
+| Residential mortgage | 179 | 288 |  
+| Home equity | 485 | 369 |  
+| U.S. credit card | 508 | 455 |  
+| Non-U.S. credit card (1) | | 28 |  
+| Direct/Indirect consumer | 300 | 277 |  
+| Other consumer | 15 | 49 |  
+| Total consumer recoveries | 1,487 | 1,466 |  
+| U.S. commercial (3) | 120 | 142 |  
+| Non-U.S. commercial | 14 | 6 |  
+| Commercial real estate | 9 | 15 |  
+| Commercial lease financing | 9 | 11 |  
+| Total commercial recoveries | 152 | 174 |  
+| Total recoveries of loans and leases previously charged off | 1,639 | 1,640 |  
+| Net charge-offs | (3,763) | (3,979) |  
+| Write-offs of PCI loans | (273) | (207) |  
+| Provision for loan and lease losses | 3,262 | 3,381 |  
+| Other (4) | (18) | (39) |  
+| Allowance for loan and lease losses, December 31 | 9,601 | 10,393 |  
+| Reserve for unfunded lending commitments, January 1 | 777 | 762 |  
+| Provision for unfunded lending commitments | 20 | 15 |  
+| Reserve for unfunded lending commitments, December 31 | 797 | 777 |  
+| Allowance for credit losses, December 31 | $ 10,398 | $ 11,170 |  
+| Loan and allowance ratios: | | |  
+| Loans and leases outstanding at December 31 (5) | $ 942,546 | $ 931,039 |  
+| Allowance for loan and lease losses as a percentage of total loans and leases outstanding at December 31 (5) | 1.02 % | 1.12 % |  
+| Consumer allowance for loan and lease losses as a percentage of total consumer loans and leases outstanding at December 31 (6) | 1.08 | 1.18 |  
+| Commercial allowance for loan and lease losses as a percentage of total commercial loans and leases outstanding at December 31 (7) | 0.97 | 1.05 |  
+| Average loans and leases outstanding (5) | 927,531 | $ 911,988 |  
+| Net charge-offs as a percentage of average loans and leases outstanding (5, 8) | 0.41 % | 0.44 % |  
+| Net charge-offs and PCI write-offs as a percentage of average loans and leases outstanding (5) | 0.44 | 0.46 |  
+| Allowance for loan and lease losses as a percentage of total nonperforming loans and leases at December 31 (5) | 194 | 16 |  
+| Ratio of the allowance for loan and lease losses at December 31 to net charge-offs (8) | 2.55 | 2.61 |  
+| Ratio of the allowance for loan and lease losses at December 31 to net charge-offs and PCI write-offs | 2.38 | 2.48 |  
+| Amounts included in allowance for loan and lease losses for loans and leases that are excluded from nonperforming loans and leases at December 31 (9) | $ 4,031 | $ 3,971 |  
+| Allowance for loan and lease losses as a percentage of total nonperforming loans and leases, excluding the allowance for loan and lease losses for loans and leases that are excluded from nonperforming loans and leases at December 31 (5, 9) | 113% | 99% |  
+| (1) Represents net charge-offs related to the non-U.S. credit card loan portfolio, which was sold in 2017. | | |  
+  
+(2) Includes U.S. small business commercial charge-offs of $287 million and $258 million in 2018 and  
+  
+2017\.  
+  
+(3) Includes U.S. small business commercial recoveries of $47 million and $43 million in 2018 and  
+  
+2017\.  
+  
+reclassifications.  
+  
+(5) Outstanding loan and lease balances and ratios do not include loans accounted for under the fair value option o$4.3 billion and $5.7 billion at December 31, 2018 and 2017. Average loans accounted for under the fair value option were$5.5 billion and $6.7 billion in 2018 and 2017.  
+  
+(6) Excludes consumer loans accounted for under the fair value option of$682 million and $928 million at December 31, 2018 and 2017.  
+  
+(7) Excludes commercial loans accounted for under the fair value option of$3.7 billion and $4.8 billion at December 31, 2018 and  
+  
+<!-- PageNumber="2017\." -->  
+  
+(4) Primarily represents the net impact of portfolio sales, consolidations and deconsolidations, foreign currency translation adjustments, transfers to held for sale and certain other  

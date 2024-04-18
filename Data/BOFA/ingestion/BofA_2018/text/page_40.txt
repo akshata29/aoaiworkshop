@@ -1,0 +1,51 @@
+<!-- PageHeader="The table below and following discussion present a summary of the results, which exclude certain investment banking activities inGlobal Banking." -->  
+  
+  
+# Global Corporate, Global Commercial and Business Banking  
+  
+| | Global Corporate Banking || Global Commercial Banking || Business Banking || Total ||  
+|| 2018 | 2017 | 2018 | 2017 | 2018 | 2017 | 2018 | 2017 |  
+| - | - | - | - | - | - | - | - | - |  
+| (Dollars in millions) | | | | | | | | |  
+| Revenue | | | | | | | | |  
+| Business Lending | $ 4,122 | $ 4,387 | $ 4,039 | $ 4,280 | $ 393 | $ 404 | $ 8,554 | $ 9,071 |  
+| Global Transaction Services | 3,656 | 3,322 | 3,288 | 3,017 | 973 | 849 | 7,917 | 7,188 |  
+| Total revenue, net of interest expense | $ 7,778 | $ 7,709 | $ 7,327 | $ 7,297 | $ 1,366 | $ 1,253 | $ 16,471 | $ 16,259 |  
+| Balance Sheet | | | | | | | | |  
+| Average | | | | | | | | |  
+| Total loans and leases | $ 163,516 | $ 158,292 | $ 174,279 | $ 170,101 | $ 16,432 | $ 17,682 | $ 354,227 | $ 346,075 |  
+| Total deposits | 163,559 | 148,704 | 135,337 | 127,720 | 37,462 | 36,435 | 336,358 | 312,859 |  
+| Year end | | | | | | | | |  
+| Total loans and leases | $ 174,378 | $ 163,184 | $ 175,937 | $ 169,997 | $ 15,402 | $ 17,500 | $ 365,717 | $ 350,681 |  
+| Total deposits | 173,183 | 155,614 | 149,118 | 137,538 | 37,973 | 36,120 | 360,274 | 329,272 |  
+  
+Business Lending revenue decreased $517 million in 2018 compared to 2017. The decrease was primarily driven by the impact of tax reform on certain tax- advantaged investments and lower leasing-related revenues.  
+  
+Global Transaction Services revenue increased $729 million to $7.9 billion in 2018 compared to 2017 driven by higher short-term rates and increased deposits.  
+  
+Average loans and leases increased two percent in 2018 compared to 2017 driven by growth in the commercial and industrial, and commercial real estate portfolios. Average deposits increased eight percent due to growth in domestic and international interest-bearing balances.  
+  
+  
+# Global Investment Banking  
+  
+Client teams and product specialists underwrite and distribute debt, equity and loan products, and provide advisory services and tailored risk management solutions. The economics of certain investment banking and underwriting activities are shared primarily between Global Banking originates certain deal-related transactions with our corporate and commercial clients that are executed and distributed by Global Markets. To provide a complete discussion of our consolidated investment banking fees, the following table presents total Corporation investment banking Global Banking Global Banking originates certain deal-related transactions with our corporate and commercial clients that are executed and distributed by Global Markets. To provide a complete discussion of our consolidated investment banking fees, the following table presents total Corporation investment banking fees and the portion attributable to Global Banking.and Global Banking originates certain deal- related transactions with our corporate and commercial clients that are executed and distributed by Global Markets. To provide a complete discussion of our consolidated investment banking fees, the following table presents total Corporation investment banking fees and the portion attributable to Global Banking. Global Markets Global Banking originates certain deal-related transactions with our corporate and commercial clients that are executed and distributed by Global Markets. To provide a complete discussion of our consolidated investment banking fees, the following table presents total Corporation investment banking fees and the portion attributable to Global Banking. under an internal revenue-sharing arrangement. Global Banking originates certain deal-related transactions with our corporate and commercial clients that are executed and distributed by Global Markets. To provide a complete discussion of our consolidated investment banking fees, the following table presents total Corporation investment banking fees and the portion attributable to Global Banking.  
+  
+fees and the portion attributable to Global Banking.  
+  
+  
+# Investment Banking Fees  
+  
+| (Dollars in millions) | Global Banking || Total Corporation ||  
+|| 2018 | 2017 | 2018 | 2017 |  
+| - | - | - | - | - |  
+| Products | | | | |  
+| Advisory | $ 1,152 | $ 1,557 | 1,258 | $ 1,691 |  
+| Debt issuance | 1,327 | 1,506 | 3,084 | 3,635 |  
+| Equity issuance | 412 | 408 | 1,183 | 940 |  
+| Gross investment banking fees | 2,891 | 3,471 | 5,525 | 6,266 |  
+| Self-led deals | (68) | (113) | (198) | (255) |  
+| Total investment banking fees | $ 2,823 | $ 3,358 | 5,327 | $ 6,011 |  
+  
+Total Corporation investment banking fees, excluding self-led deals, of $5.3 billion, which are primarily included within Global Banking and Global Markets, decreased 11 percent in 2018 compared to 2017 primarily due to declines in advisory fees and debt underwriting, the latter of which was driven by lower fee pools.  
+  
+<!-- PageFooter="Bank of America 2018 36" -->  

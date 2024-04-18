@@ -1,0 +1,75 @@
+# First-lien Mortgage VIEs  
+  
+| (Dollars in millions) | Residential Mortgage ||||||||  
+|| ||| Agency || Non-agency |||| ||| Commercial Mortgage ||  
+|||| Prime || Subprime || Alt-A |||||  
+|| December 31 |||||||||||  
+|| 2018 | 2017 | 2018 | 2017 | 2018 | 2017 | 2018 | 2017 || 2018 | 2017 |  
+| - | - | - | - | - | - | - | - | - | - | - | - |  
+| Unconsolidated VIEs | | | | | | | | || | |  
+| Maximum loss exposure (1) | $ 16,011 | $ 19,110 | $ 448 | $ 689 | $ 1,897 | $ 2,643 | $ 217 | $ 403 || $ 767 | $ 585 |  
+| On-balance sheet assets | | | | | | | | || | |  
+| Senior securities: | | | | | | | | || | |  
+| Trading account assets | $ 460 | $ 716 | $ 30 | $ 6 | $ 36 | $ 10 | $ 90 | $ 50 || $ 97 | $ 108 |  
+| Debt securities carried at fair value | 9,381 | 15,036 | | | | | | || | - :unselected: |  
+|||| 246 | 477 | 1,470 | 2,221 | 125 | 351 || :unselected: ||  
+| Held-to-maturity securities | 6,170 | 3,348 | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: || 528 | 274 |  
+| All other assets | | 10 | 3 | 5 | 37 | 38 | 2 | | 2 | 40 | 88 |  
+| Total retained positions | $ 16,011 | $ 19,110 | $ 279 | $ 488 | $ 1,543 | $ 2,269 | $ 217 | $ 403 || $ 665 | $ 470 |  
+|| Principal balance outstanding (2) $  187,512 | $ 232,761 | $ 8,954 | $ 10,549 | $ 8,719 | $ 10,254 | $ 23,467 | $ 28,129 || $ 43,593 | $ 26,504 |  
+| Consolidated VIEs | | | | | | | | || | |  
+| Maximum loss exposure (1) | $ 13,296 | $ 14,502 | $ 7 | $ 57 | $ - :unselected: | $ - :unselected: | $ :unselected: | $ 1 :unselected: || $ 76 | $ - :unselected: |  
+| On-balance sheet assets | | | | | | | | || | |  
+| Trading account assets | 1,318 | $ 232 | 150 | $ 571 | $ - :unselected: | $ :unselected: | $ :unselected: | $ :unselected: || $ 76 | $ :unselected: |  
+| Loans and leases, net | 11,858 | 14,030 | :unselected: | :unselected: | - :unselected: | :unselected: | :unselected: | :unselected: || :unselected: | :unselected: |  
+| All other assets | 143 | 240 | :unselected: | :unselected: | - :unselected: | :unselected: | :unselected: | :unselected: || :unselected: | :unselected: |  
+| Total assets | $ 13,319 | $ 14,502 | $ 150 | $ 571 | $ :unselected: | $ :unselected: | $ - :unselected: | $ :unselected: || $ 76 | $ :unselected: |  
+| Total liabilities | 26 | $ 3 | $ 143 | $ :unselected: | $ :unselected: | $ :unselected: | $ :unselected: | $ :unselected: || $ :unselected: | $ :unselected: |  
+  
+(1) Maximum loss exposure includes obligations under loss-sharing reinsurance and other arrangements for non-agency residential mortgage and commercial mortgage securitizations, but excludes the reserve for representations and warranties obligations and corporate guarantees and also excludes servicing advances and other servicing rights and obligations. For additional information, see Note 12 - Commitments and Contingenciesand Note 20 - Fair Value Measurements.  
+  
+(2) Principal balance outstanding includes loans where the Corporation was the transferor to securitization VIEs with which it has continuing involvement, which may include servicing the loans.  
+  
+  
+# Other Asset-backed Securitizations  
+  
+The table below summarizes select information related to home equity, credit card and other asset-backed VIEs in which the Corporation held a variable interest at December 31, 2018 and 2017.  
+  
+  
+## Home Equity Loan, Credit Card and Other Asset-backed VIEs  
+  
+| (Dollars in millions) | Home Equity (1) || Credit Card (2, 3) || Resecuritization Trusts || Municipal Bond Trusts ||  
+|| December 31 2018 ||||||||  
+|| 2018 | 2017 | 2018 | 2017 | 2018 | 2017 | 2018 | 2017 |  
+| - | - | - | - | - | - | - | - | - |  
+| Unconsolidated VIEs | | | | | | | | |  
+| Maximum loss exposure | $ 908 | $ 1,522 | $ :unselected: | $ :unselected: | $ 7,647 | $ 8,204 | $ 2,150 | $ 1,631 |  
+| On-balance sheet assets | | | | | | | | |  
+| Senior securities (4): | | | | | | | | |  
+| Trading account assets | :unselected: | $ :unselected: | :unselected: | $ :unselected: | $ 1,419 | $ 869 | 26 | $ 33 |  
+| Debt securities carried at fair value | 27 | 36 | :unselected: | :unselected: | 1,337 | 1,661 | :unselected: | :unselected: |  
+| Held-to-maturity securities | :unselected: | :unselected: | :unselected: | :unselected: | 4,891 | 5,644 | :unselected: | :unselected: |  
+| All other assets (4) | :unselected: | :unselected: | :unselected: | :unselected: | :unselected: | 30 | :unselected: | :unselected: |  
+| Total retained positions | $ 27 | $ 36 | $ - :unselected: | $ :unselected: | $ 7,647 | $ 8,204 | $ 26 | $ 33 |  
+| Total assets of VIEs (5) | $ 1,813 | $ 2,432 | $ - :unselected: | $ :unselected: | $ 16,949 | $ 19,281 | 2,829 | $ 2,287 |  
+| Consolidated VIEs | | | | | | | | |  
+| Maximum loss exposure | $ 85 | $ 112 | $ 18,800 | $ 24,337 | $ 128 | $ 628 | $ 1,540 | $ 1,453 |  
+| On-balance sheet assets | | | | | | | | |  
+| Trading account assets | - :unselected: | $ - :unselected: | $ - :unselected: | $ :unselected: | $ 366 | $ 1,557 | 1,553 | $ 1,452 |  
+| Loans and leases | 133 | 177 | 29,906 | 32,554 | :unselected: | :unselected: | :unselected: | :unselected: |  
+| Allowance for loan and lease losses | (5) | (9 | (901) | (988) | :unselected: | :unselected: | :unselected: | :unselected: |  
+| All other assets | 4 | 6 | 136 | 1,385 | :unselected: | :unselected: | 1 :unselected: | 1 |  
+| Total assets | $ 132 | $ 174 | $ 29,141 | $ 32,951 | $ 366 | $ 1,557 | 1,554 | $ 1,453 |  
+| On-balance sheet liabilities | | | | | | | | |  
+| Short-term borrowings | :selected: :unselected: | $ :unselected: | :unselected: | :unselected: | $ :unselected: | $ :unselected: | 742 | $ 312 |  
+| Long-term debt | 55 :selected: | 76 | 10,321 | 8,598 | 238 | 929 | 12 :selected: | :unselected: |  
+| All other liabilities | :unselected: | :unselected: | 20 | 16 | :unselected: | :unselected: | :unselected: | :unselected: |  
+| Total liabilities | $ 55 | $ 76 | $ 10,341 | $ 8,614 | $ 238 | $ 929 | $ 754 | $ 312 |  
+  
+(1) For unconsolidated home equity loan VIEs, the maximum loss exposure includes outstanding trust certificates issued by trusts in rapid amortization, net of recorded reserves. For both consolidated and unconsolidated home equity loan VIEs, the maximum loss exposure excludes the reserve for representations and warranties obligations and corporate guarantees. For additional information, see Note 12 - Commitments and Contingencies  
+  
+(2) At December 31, 2018 and 2017, loans and leases in the consolidated credit card trust included $11.0 billion and $15.6 billion of seller's  
+  
+interest.  
+  
+(3) At December 31, 2018 and 2017, all other assets in the consolidated credit card trust included certain short-term investments and unbilled accrued interest and fees.  

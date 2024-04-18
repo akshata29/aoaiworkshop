@@ -1,0 +1,69 @@
+  
+| (Dollars in millions) | December 31 ||  
+|| 2018 | 2017 |  
+| - | - | - |  
+| Segments' total assets | $ 2,158,182 | $ 2,087,192 |  
+| Adjustments (1): | | |  
+| ALM activities, including securities portfolio | 670,057 | 625,483 |  
+| Elimination of segment asset allocations to match liabilities | (540,801) | (520,448) |  
+| Other | 67,069 | 89,007 |  
+| Consolidated total assets | $ 2,354,507 | $ 2,281,234 |  
+  
+(1) Adjustments include consolidated income, expense and asset amounts not specifically allocated to individual business segments.  
+  
+  
+# NOTE 24 Parent Company Information  
+  
+The following tables present the Parent Company-only financial information. This financial information is presented in accordance with bank regulatory reporting requirements.  
+  
+| Condensed Statement of Income ||||  
+| (Dollars in millions) | 2018 | 2017 | 2016 |  
+| - | - | - | - |  
+| Income | | | |  
+| Dividends from subsidiaries: | | | |  
+| Bank holding companies and related subsidiaries | 28,575 | $ 12,088 | $ 4,127 |  
+| Nonbank companies and related subsidiaries | 91 | 202 | 77 |  
+| Interest from subsidiaries | 8,425 | 7,043 | 2,996 |  
+| Other income (loss) | (1,025) | 28 | 111 |  
+| Total income | 36,066 | 19,361 | 7,311 |  
+| Expense | | | |  
+| Interest on borrowed funds from related subsidiaries | 235 | 189 | 969 |  
+| Other interest expense | 6,425 | 5,555 | 5,096 |  
+| Noninterest expense | 1,600 | 1,672 | 2,704 |  
+| Total expense | 8,260 | 7,416 | 8,769 |  
+| Income (loss) before income taxes and equity in undistributed earnings of subsidiaries | 27,806 | 11,945 | (1,458) |  
+| Income tax expense (benefit) | (281) | 950 | (2,311) |  
+| Income before equity in undistributed earnings of subsidiaries | 28,087 | 10,995 | 853 |  
+| Equity in undistributed earnings (losses) of subsidiaries: | | | |  
+| Bank holding companies and related subsidiaries | 306 | 8,725 | 16,817 |  
+| Nonbank companies and related subsidiaries | (246) | (1,488) | 152 |  
+| Total equity in undistributed earnings of subsidiaries | 60 | 7,237 | 16,969 |  
+| Net income | $ 28,147 | $ 18,232 | $ 17,822 |  
+  
+  
+# Condensed Balance Sheet  
+  
+| (Dollars in millions) | December 31 ||  
+|| 2018 | 2017 |  
+| - | - | - |  
+| Assets | | |  
+| Cash held at bank subsidiaries (1) | $ 5,141 | $ 4,747 |  
+| Securities | 628 | 596 |  
+| Receivables from subsidiaries: | | |  
+| Bank holding companies and related subsidiaries | 152,905 | 146,566 |  
+| Banks and related subsidiaries | 195 | 146 |  
+| Nonbank companies and related subsidiaries | 969 | 4,745 |  
+| Investments in subsidiaries: | | |  
+| Bank holding companies and related subsidiaries | 293,045 | 296,506 |  
+| Nonbank companies and related subsidiaries | 3,432 | 5,225 |  
+| Other assets | 14,696 | 14,554 |  
+| Total assets | $ 471,011 | $ 473,085 |  
+| Liabilities and shareholders' equity | | |  
+| Accrued expenses and other liabilities | 8,828 | 10,286 |  
+| Payables to subsidiaries: | | |  
+| Banks and related subsidiaries | 349 | 359 |  
+| Nonbank companies and related subsidiaries | 13,301 | 9,341 |  
+| Long-term debt | 183,208 | 185,953 |  
+| Total liabilities | 205,686 | 205,939 |  
+| Shareholders' equity | 265,325 | 267,146 |  
+| Total liabilities and shareholders' equity | $ 471,011 | $ 473,085 |  

@@ -1,0 +1,1878 @@
+{
+    "status": "succeeded",
+    "createdDateTime": "2024-03-08T21:24:43Z",
+    "lastUpdatedDateTime": "2024-03-08T21:24:45Z",
+    "analyzeResult": {
+        "apiVersion": "2023-10-31-preview",
+        "modelId": "prebuilt-layout",
+        "stringIndexType": "utf16CodeUnit",
+        "content": "<!-- PageHeader=\"Exhibit 23\" -->\n\nCONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM\n===\n\nWe hereby consent to the incorporation by reference in the Registration Statements on Form S-3 (Nos. 333-224523 and 333-213265) and on Form S-8 (Nos. 333-212376; 333-204453; 333-198405; 333-157085; 333-133566; 333-121513; 333-102043; 333-02875; 333-167797; and 333-153771) of Bank of America Corporation of our report dated February 26, 2019 relating to the financial statements and the effectiveness of internal control over financial reporting, which appears in this Form 10-K.\n\nPricewaterhouse Coopers LLP\n\nCharlotte, North Carolina February 26, 2019\n",
+        "pages": [
+            {
+                "pageNumber": 1,
+                "angle": 0,
+                "width": 2550,
+                "height": 3300,
+                "unit": "pixel",
+                "words": [
+                    {
+                        "content": "Exhibit",
+                        "polygon": [
+                            2253,
+                            195,
+                            2355,
+                            196,
+                            2353,
+                            229,
+                            2252,
+                            228
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 17,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "23",
+                        "polygon": [
+                            2364,
+                            196,
+                            2401,
+                            197,
+                            2401,
+                            229,
+                            2362,
+                            229
+                        ],
+                        "confidence": 0.997,
+                        "span": {
+                            "offset": 25,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "CONSENT",
+                        "polygon": [
+                            605,
+                            270,
+                            790,
+                            269,
+                            790,
+                            310,
+                            605,
+                            310
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 34,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "OF",
+                        "polygon": [
+                            798,
+                            269,
+                            849,
+                            269,
+                            849,
+                            311,
+                            798,
+                            310
+                        ],
+                        "confidence": 0.998,
+                        "span": {
+                            "offset": 42,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "INDEPENDENT",
+                        "polygon": [
+                            858,
+                            269,
+                            1130,
+                            269,
+                            1130,
+                            311,
+                            858,
+                            311
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 45,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "REGISTERED",
+                        "polygon": [
+                            1138,
+                            269,
+                            1377,
+                            269,
+                            1377,
+                            311,
+                            1138,
+                            311
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 57,
+                            "length": 10
+                        }
+                    },
+                    {
+                        "content": "PUBLIC",
+                        "polygon": [
+                            1394,
+                            269,
+                            1527,
+                            269,
+                            1527,
+                            311,
+                            1394,
+                            311
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 68,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "ACCOUNTING",
+                        "polygon": [
+                            1541,
+                            269,
+                            1788,
+                            269,
+                            1788,
+                            311,
+                            1541,
+                            311
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 75,
+                            "length": 10
+                        }
+                    },
+                    {
+                        "content": "FIRM",
+                        "polygon": [
+                            1802,
+                            269,
+                            1900,
+                            269,
+                            1900,
+                            310,
+                            1802,
+                            311
+                        ],
+                        "confidence": 0.99,
+                        "span": {
+                            "offset": 86,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "We",
+                        "polygon": [
+                            167,
+                            419,
+                            215,
+                            419,
+                            215,
+                            455,
+                            167,
+                            455
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 96,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "hereby",
+                        "polygon": [
+                            226,
+                            419,
+                            316,
+                            419,
+                            316,
+                            454,
+                            226,
+                            455
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 99,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "consent",
+                        "polygon": [
+                            325,
+                            419,
+                            429,
+                            419,
+                            429,
+                            454,
+                            325,
+                            454
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 106,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "to",
+                        "polygon": [
+                            438,
+                            419,
+                            462,
+                            419,
+                            462,
+                            454,
+                            438,
+                            454
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 114,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "the",
+                        "polygon": [
+                            471,
+                            419,
+                            509,
+                            419,
+                            508,
+                            454,
+                            471,
+                            454
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 117,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "incorporation",
+                        "polygon": [
+                            516,
+                            419,
+                            694,
+                            418,
+                            693,
+                            454,
+                            515,
+                            454
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 121,
+                            "length": 13
+                        }
+                    },
+                    {
+                        "content": "by",
+                        "polygon": [
+                            705,
+                            418,
+                            732,
+                            418,
+                            731,
+                            453,
+                            704,
+                            453
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 135,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "reference",
+                        "polygon": [
+                            739,
+                            418,
+                            867,
+                            418,
+                            866,
+                            453,
+                            738,
+                            453
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 138,
+                            "length": 9
+                        }
+                    },
+                    {
+                        "content": "in",
+                        "polygon": [
+                            874,
+                            418,
+                            900,
+                            418,
+                            899,
+                            453,
+                            873,
+                            453
+                        ],
+                        "confidence": 0.997,
+                        "span": {
+                            "offset": 148,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "the",
+                        "polygon": [
+                            910,
+                            418,
+                            950,
+                            418,
+                            950,
+                            453,
+                            909,
+                            453
+                        ],
+                        "confidence": 0.999,
+                        "span": {
+                            "offset": 151,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "Registration",
+                        "polygon": [
+                            962,
+                            418,
+                            1118,
+                            418,
+                            1117,
+                            453,
+                            961,
+                            453
+                        ],
+                        "confidence": 0.99,
+                        "span": {
+                            "offset": 155,
+                            "length": 12
+                        }
+                    },
+                    {
+                        "content": "Statements",
+                        "polygon": [
+                            1129,
+                            418,
+                            1279,
+                            418,
+                            1279,
+                            453,
+                            1128,
+                            453
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 168,
+                            "length": 10
+                        }
+                    },
+                    {
+                        "content": "on",
+                        "polygon": [
+                            1288,
+                            418,
+                            1320,
+                            418,
+                            1319,
+                            453,
+                            1287,
+                            453
+                        ],
+                        "confidence": 0.997,
+                        "span": {
+                            "offset": 179,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "Form",
+                        "polygon": [
+                            1332,
+                            418,
+                            1399,
+                            418,
+                            1398,
+                            453,
+                            1331,
+                            453
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 182,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "S-3",
+                        "polygon": [
+                            1409,
+                            418,
+                            1454,
+                            418,
+                            1453,
+                            453,
+                            1408,
+                            453
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 187,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "(Nos.",
+                        "polygon": [
+                            1464,
+                            417,
+                            1533,
+                            418,
+                            1532,
+                            453,
+                            1463,
+                            453
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 191,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "333-224523",
+                        "polygon": [
+                            1544,
+                            418,
+                            1703,
+                            418,
+                            1701,
+                            453,
+                            1543,
+                            453
+                        ],
+                        "confidence": 0.992,
+                        "span": {
+                            "offset": 197,
+                            "length": 10
+                        }
+                    },
+                    {
+                        "content": "and",
+                        "polygon": [
+                            1712,
+                            418,
+                            1760,
+                            418,
+                            1759,
+                            453,
+                            1711,
+                            453
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 208,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "333-213265)",
+                        "polygon": [
+                            1771,
+                            418,
+                            1939,
+                            418,
+                            1938,
+                            453,
+                            1769,
+                            453
+                        ],
+                        "confidence": 0.989,
+                        "span": {
+                            "offset": 212,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "and",
+                        "polygon": [
+                            1948,
+                            418,
+                            1997,
+                            418,
+                            1996,
+                            453,
+                            1947,
+                            453
+                        ],
+                        "confidence": 0.998,
+                        "span": {
+                            "offset": 224,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "on",
+                        "polygon": [
+                            2007,
+                            418,
+                            2039,
+                            418,
+                            2037,
+                            453,
+                            2006,
+                            453
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 228,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "Form",
+                        "polygon": [
+                            2050,
+                            418,
+                            2117,
+                            418,
+                            2115,
+                            454,
+                            2048,
+                            453
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 231,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "S-8",
+                        "polygon": [
+                            2127,
+                            418,
+                            2172,
+                            418,
+                            2171,
+                            454,
+                            2126,
+                            454
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 236,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "(Nos.",
+                        "polygon": [
+                            2183,
+                            418,
+                            2251,
+                            418,
+                            2250,
+                            454,
+                            2181,
+                            454
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 240,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "333-212376;",
+                        "polygon": [
+                            2262,
+                            418,
+                            2430,
+                            418,
+                            2430,
+                            454,
+                            2260,
+                            454
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 246,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "333-204453;",
+                        "polygon": [
+                            167,
+                            453,
+                            337,
+                            453,
+                            337,
+                            488,
+                            167,
+                            488
+                        ],
+                        "confidence": 0.991,
+                        "span": {
+                            "offset": 258,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "333-198405;",
+                        "polygon": [
+                            350,
+                            453,
+                            516,
+                            452,
+                            516,
+                            488,
+                            350,
+                            488
+                        ],
+                        "confidence": 0.988,
+                        "span": {
+                            "offset": 270,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "333-157085;",
+                        "polygon": [
+                            529,
+                            452,
+                            694,
+                            452,
+                            694,
+                            488,
+                            529,
+                            488
+                        ],
+                        "confidence": 0.987,
+                        "span": {
+                            "offset": 282,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "333-133566;",
+                        "polygon": [
+                            707,
+                            452,
+                            873,
+                            452,
+                            872,
+                            488,
+                            707,
+                            488
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 294,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "333-121513;",
+                        "polygon": [
+                            886,
+                            452,
+                            1051,
+                            452,
+                            1051,
+                            489,
+                            885,
+                            488
+                        ],
+                        "confidence": 0.985,
+                        "span": {
+                            "offset": 306,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "333-102043;",
+                        "polygon": [
+                            1065,
+                            452,
+                            1230,
+                            452,
+                            1229,
+                            489,
+                            1064,
+                            489
+                        ],
+                        "confidence": 0.989,
+                        "span": {
+                            "offset": 318,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "333-02875;",
+                        "polygon": [
+                            1243,
+                            452,
+                            1392,
+                            452,
+                            1391,
+                            489,
+                            1243,
+                            489
+                        ],
+                        "confidence": 0.984,
+                        "span": {
+                            "offset": 330,
+                            "length": 10
+                        }
+                    },
+                    {
+                        "content": "333-167797;",
+                        "polygon": [
+                            1405,
+                            452,
+                            1571,
+                            452,
+                            1570,
+                            489,
+                            1405,
+                            489
+                        ],
+                        "confidence": 0.975,
+                        "span": {
+                            "offset": 341,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "and",
+                        "polygon": [
+                            1583,
+                            452,
+                            1630,
+                            452,
+                            1630,
+                            489,
+                            1582,
+                            489
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 353,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "333-153771)",
+                        "polygon": [
+                            1644,
+                            452,
+                            1812,
+                            453,
+                            1812,
+                            489,
+                            1643,
+                            489
+                        ],
+                        "confidence": 0.978,
+                        "span": {
+                            "offset": 357,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "of",
+                        "polygon": [
+                            1823,
+                            453,
+                            1849,
+                            453,
+                            1848,
+                            489,
+                            1822,
+                            489
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 369,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "Bank",
+                        "polygon": [
+                            1859,
+                            453,
+                            1926,
+                            453,
+                            1926,
+                            489,
+                            1858,
+                            489
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 372,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "of",
+                        "polygon": [
+                            1937,
+                            453,
+                            1962,
+                            453,
+                            1961,
+                            489,
+                            1936,
+                            489
+                        ],
+                        "confidence": 0.997,
+                        "span": {
+                            "offset": 377,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "America",
+                        "polygon": [
+                            1969,
+                            453,
+                            2078,
+                            454,
+                            2077,
+                            489,
+                            1968,
+                            489
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 380,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "Corporation",
+                        "polygon": [
+                            2090,
+                            454,
+                            2244,
+                            454,
+                            2243,
+                            489,
+                            2089,
+                            489
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 388,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "of",
+                        "polygon": [
+                            2256,
+                            454,
+                            2281,
+                            455,
+                            2281,
+                            489,
+                            2255,
+                            489
+                        ],
+                        "confidence": 0.998,
+                        "span": {
+                            "offset": 400,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "our",
+                        "polygon": [
+                            2291,
+                            455,
+                            2335,
+                            455,
+                            2334,
+                            489,
+                            2290,
+                            489
+                        ],
+                        "confidence": 0.999,
+                        "span": {
+                            "offset": 403,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "report",
+                        "polygon": [
+                            2346,
+                            455,
+                            2425,
+                            455,
+                            2425,
+                            489,
+                            2345,
+                            489
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 407,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "dated",
+                        "polygon": [
+                            169,
+                            490,
+                            245,
+                            490,
+                            244,
+                            525,
+                            168,
+                            525
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 414,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "February",
+                        "polygon": [
+                            256,
+                            490,
+                            374,
+                            490,
+                            373,
+                            525,
+                            256,
+                            525
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 420,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "26,",
+                        "polygon": [
+                            384,
+                            490,
+                            423,
+                            490,
+                            422,
+                            525,
+                            383,
+                            525
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 429,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "2019",
+                        "polygon": [
+                            434,
+                            490,
+                            494,
+                            489,
+                            493,
+                            525,
+                            433,
+                            525
+                        ],
+                        "confidence": 0.989,
+                        "span": {
+                            "offset": 433,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "relating",
+                        "polygon": [
+                            501,
+                            489,
+                            604,
+                            489,
+                            603,
+                            525,
+                            500,
+                            525
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 438,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "to",
+                        "polygon": [
+                            613,
+                            489,
+                            638,
+                            489,
+                            637,
+                            525,
+                            612,
+                            525
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 447,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "the",
+                        "polygon": [
+                            646,
+                            489,
+                            687,
+                            489,
+                            686,
+                            525,
+                            645,
+                            525
+                        ],
+                        "confidence": 0.999,
+                        "span": {
+                            "offset": 450,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "financial",
+                        "polygon": [
+                            696,
+                            489,
+                            805,
+                            489,
+                            804,
+                            525,
+                            695,
+                            525
+                        ],
+                        "confidence": 0.992,
+                        "span": {
+                            "offset": 454,
+                            "length": 9
+                        }
+                    },
+                    {
+                        "content": "statements",
+                        "polygon": [
+                            815,
+                            489,
+                            961,
+                            489,
+                            960,
+                            525,
+                            814,
+                            525
+                        ],
+                        "confidence": 0.988,
+                        "span": {
+                            "offset": 464,
+                            "length": 10
+                        }
+                    },
+                    {
+                        "content": "and",
+                        "polygon": [
+                            970,
+                            489,
+                            1017,
+                            489,
+                            1017,
+                            525,
+                            969,
+                            525
+                        ],
+                        "confidence": 0.997,
+                        "span": {
+                            "offset": 475,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "the",
+                        "polygon": [
+                            1028,
+                            489,
+                            1068,
+                            489,
+                            1067,
+                            525,
+                            1027,
+                            525
+                        ],
+                        "confidence": 0.998,
+                        "span": {
+                            "offset": 479,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "effectiveness",
+                        "polygon": [
+                            1078,
+                            489,
+                            1252,
+                            489,
+                            1252,
+                            525,
+                            1077,
+                            525
+                        ],
+                        "confidence": 0.983,
+                        "span": {
+                            "offset": 483,
+                            "length": 13
+                        }
+                    },
+                    {
+                        "content": "of",
+                        "polygon": [
+                            1262,
+                            489,
+                            1287,
+                            489,
+                            1286,
+                            525,
+                            1261,
+                            525
+                        ],
+                        "confidence": 0.998,
+                        "span": {
+                            "offset": 497,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "internal",
+                        "polygon": [
+                            1296,
+                            489,
+                            1392,
+                            489,
+                            1391,
+                            525,
+                            1295,
+                            525
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 500,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "control",
+                        "polygon": [
+                            1402,
+                            489,
+                            1490,
+                            489,
+                            1489,
+                            525,
+                            1401,
+                            525
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 509,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "over",
+                        "polygon": [
+                            1500,
+                            489,
+                            1558,
+                            489,
+                            1558,
+                            525,
+                            1499,
+                            525
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 517,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "financial",
+                        "polygon": [
+                            1566,
+                            489,
+                            1675,
+                            489,
+                            1674,
+                            524,
+                            1565,
+                            525
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 522,
+                            "length": 9
+                        }
+                    },
+                    {
+                        "content": "reporting,",
+                        "polygon": [
+                            1686,
+                            489,
+                            1809,
+                            489,
+                            1808,
+                            524,
+                            1685,
+                            524
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 532,
+                            "length": 10
+                        }
+                    },
+                    {
+                        "content": "which",
+                        "polygon": [
+                            1819,
+                            489,
+                            1895,
+                            489,
+                            1894,
+                            524,
+                            1818,
+                            524
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 543,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "appears",
+                        "polygon": [
+                            1905,
+                            489,
+                            2012,
+                            489,
+                            2011,
+                            524,
+                            1904,
+                            524
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 549,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "in",
+                        "polygon": [
+                            2022,
+                            489,
+                            2043,
+                            489,
+                            2042,
+                            524,
+                            2021,
+                            524
+                        ],
+                        "confidence": 0.997,
+                        "span": {
+                            "offset": 557,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "this",
+                        "polygon": [
+                            2053,
+                            489,
+                            2098,
+                            489,
+                            2097,
+                            524,
+                            2052,
+                            524
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 560,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "Form",
+                        "polygon": [
+                            2109,
+                            489,
+                            2177,
+                            489,
+                            2176,
+                            524,
+                            2108,
+                            524
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 565,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "10-K.",
+                        "polygon": [
+                            2188,
+                            489,
+                            2259,
+                            490,
+                            2259,
+                            524,
+                            2188,
+                            524
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 570,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "Pricewaterhouse",
+                        "polygon": [
+                            103,
+                            552,
+                            687,
+                            578,
+                            690,
+                            695,
+                            103,
+                            662
+                        ],
+                        "confidence": 0.593,
+                        "span": {
+                            "offset": 577,
+                            "length": 15
+                        }
+                    },
+                    {
+                        "content": "Coopers",
+                        "polygon": [
+                            710,
+                            578,
+                            1016,
+                            573,
+                            1019,
+                            689,
+                            712,
+                            695
+                        ],
+                        "confidence": 0.312,
+                        "span": {
+                            "offset": 593,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "LLP",
+                        "polygon": [
+                            1072,
+                            570,
+                            1322,
+                            555,
+                            1322,
+                            666,
+                            1076,
+                            686
+                        ],
+                        "confidence": 0.678,
+                        "span": {
+                            "offset": 601,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "Charlotte,",
+                        "polygon": [
+                            99,
+                            750,
+                            229,
+                            750,
+                            229,
+                            782,
+                            98,
+                            782
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 606,
+                            "length": 10
+                        }
+                    },
+                    {
+                        "content": "North",
+                        "polygon": [
+                            241,
+                            750,
+                            311,
+                            750,
+                            311,
+                            782,
+                            241,
+                            782
+                        ],
+                        "confidence": 0.998,
+                        "span": {
+                            "offset": 617,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "Carolina",
+                        "polygon": [
+                            322,
+                            750,
+                            436,
+                            751,
+                            436,
+                            781,
+                            322,
+                            782
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 623,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "February",
+                        "polygon": [
+                            99,
+                            785,
+                            221,
+                            785,
+                            221,
+                            818,
+                            99,
+                            819
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 632,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "26,",
+                        "polygon": [
+                            230,
+                            785,
+                            270,
+                            785,
+                            269,
+                            818,
+                            229,
+                            818
+                        ],
+                        "confidence": 0.997,
+                        "span": {
+                            "offset": 641,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "2019",
+                        "polygon": [
+                            280,
+                            785,
+                            350,
+                            785,
+                            350,
+                            818,
+                            279,
+                            818
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 645,
+                            "length": 4
+                        }
+                    }
+                ],
+                "lines": [
+                    {
+                        "content": "<!-- PageHeader=\"Exhibit 23\" -->",
+                        "polygon": [
+                            2251,
+                            195,
+                            2400,
+                            195,
+                            2400,
+                            229,
+                            2251,
+                            227
+                        ],
+                        "spans": [
+                            {
+                                "offset": 0,
+                                "length": 32
+                            }
+                        ]
+                    },
+                    {
+                        "content": "CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM\n===",
+                        "polygon": [
+                            605,
+                            268,
+                            1899,
+                            268,
+                            1899,
+                            310,
+                            605,
+                            310
+                        ],
+                        "spans": [
+                            {
+                                "offset": 34,
+                                "length": 60
+                            }
+                        ]
+                    },
+                    {
+                        "content": "We hereby consent to the incorporation by reference in the Registration Statements on Form S-3 (Nos. 333-224523 and 333-213265) and on Form S-8 (Nos. 333-212376;",
+                        "polygon": [
+                            166,
+                            418,
+                            2429,
+                            417,
+                            2429,
+                            453,
+                            166,
+                            454
+                        ],
+                        "spans": [
+                            {
+                                "offset": 96,
+                                "length": 161
+                            }
+                        ]
+                    },
+                    {
+                        "content": "333-204453; 333-198405; 333-157085; 333-133566; 333-121513; 333-102043; 333-02875; 333-167797; and 333-153771) of Bank of America Corporation of our report",
+                        "polygon": [
+                            167,
+                            451,
+                            2424,
+                            452,
+                            2424,
+                            488,
+                            167,
+                            487
+                        ],
+                        "spans": [
+                            {
+                                "offset": 258,
+                                "length": 155
+                            }
+                        ]
+                    },
+                    {
+                        "content": "dated February 26, 2019 relating to the financial statements and the effectiveness of internal control over financial reporting, which appears in this Form 10-K.",
+                        "polygon": [
+                            167,
+                            489,
+                            2258,
+                            488,
+                            2258,
+                            523,
+                            167,
+                            524
+                        ],
+                        "spans": [
+                            {
+                                "offset": 414,
+                                "length": 161
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Pricewaterhouse Coopers LLP",
+                        "polygon": [
+                            103,
+                            551,
+                            1322,
+                            556,
+                            1321,
+                            695,
+                            103,
+                            691
+                        ],
+                        "spans": [
+                            {
+                                "offset": 577,
+                                "length": 27
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Charlotte, North Carolina",
+                        "polygon": [
+                            97,
+                            749,
+                            435,
+                            749,
+                            435,
+                            781,
+                            97,
+                            781
+                        ],
+                        "spans": [
+                            {
+                                "offset": 606,
+                                "length": 25
+                            }
+                        ]
+                    },
+                    {
+                        "content": "February 26, 2019",
+                        "polygon": [
+                            98,
+                            785,
+                            349,
+                            784,
+                            349,
+                            817,
+                            98,
+                            818
+                        ],
+                        "spans": [
+                            {
+                                "offset": 632,
+                                "length": 17
+                            }
+                        ]
+                    }
+                ],
+                "spans": [
+                    {
+                        "offset": 0,
+                        "length": 650
+                    }
+                ]
+            }
+        ],
+        "tables": [],
+        "paragraphs": [
+            {
+                "spans": [
+                    {
+                        "offset": 0,
+                        "length": 32
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            2251,
+                            195,
+                            2400,
+                            195,
+                            2400,
+                            229,
+                            2251,
+                            229
+                        ]
+                    }
+                ],
+                "role": "pageHeader",
+                "content": "<!-- PageHeader=\"Exhibit 23\" -->"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 34,
+                        "length": 60
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            605,
+                            268,
+                            1899,
+                            268,
+                            1899,
+                            310,
+                            605,
+                            310
+                        ]
+                    }
+                ],
+                "role": "title",
+                "content": "CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM\n==="
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 96,
+                        "length": 479
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            166,
+                            418,
+                            2429,
+                            417,
+                            2429,
+                            523,
+                            166,
+                            524
+                        ]
+                    }
+                ],
+                "content": "We hereby consent to the incorporation by reference in the Registration Statements on Form S-3 (Nos. 333-224523 and 333-213265) and on Form S-8 (Nos. 333-212376; 333-204453; 333-198405; 333-157085; 333-133566; 333-121513; 333-102043; 333-02875; 333-167797; and 333-153771) of Bank of America Corporation of our report dated February 26, 2019 relating to the financial statements and the effectiveness of internal control over financial reporting, which appears in this Form 10-K."
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 577,
+                        "length": 27
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            103,
+                            551,
+                            1322,
+                            556,
+                            1321,
+                            695,
+                            103,
+                            691
+                        ]
+                    }
+                ],
+                "content": "Pricewaterhouse Coopers LLP"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 606,
+                        "length": 43
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            97,
+                            749,
+                            435,
+                            749,
+                            435,
+                            818,
+                            97,
+                            818
+                        ]
+                    }
+                ],
+                "content": "Charlotte, North Carolina February 26, 2019"
+            }
+        ],
+        "styles": [
+            {
+                "confidence": 1,
+                "spans": [
+                    {
+                        "offset": 577,
+                        "length": 27
+                    }
+                ],
+                "isHandwritten": true
+            }
+        ],
+        "contentFormat": "markdown",
+        "sections": [
+            {
+                "spans": [
+                    {
+                        "offset": 34,
+                        "length": 60
+                    },
+                    {
+                        "offset": 96,
+                        "length": 479
+                    },
+                    {
+                        "offset": 577,
+                        "length": 27
+                    },
+                    {
+                        "offset": 606,
+                        "length": 43
+                    }
+                ],
+                "elements": [
+                    "/paragraphs/1",
+                    "/paragraphs/2",
+                    "/paragraphs/3",
+                    "/paragraphs/4"
+                ]
+            }
+        ]
+    }
+}

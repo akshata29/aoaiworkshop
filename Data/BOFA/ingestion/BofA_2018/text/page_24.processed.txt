@@ -1,0 +1,75 @@
+# Net Interest Income  
+  
+Net interest income increased $2.8 billion to $47.4 billion in 2018 compared to 2017. Net interest yield on a fully taxable-equivalent (FTE) basis increased five basis points (bps) to 2.42 percent for 2018. These increases were primarily driven by higher interest rates as well as loan and deposit growth, partially offset by tightening spreads, higher Global Markets funding costs and the impact of the sale of the non- U.S. consumer credit card business in 2017. For more information on net interest yield and the FTE basis, see Supplemental Financial Data on page 24, and for more information on interest rate risk management, see Interest Rate Risk Management for the Banking Book on page 74.  
+  
+  
+# Noninterest Income  
+  
+Table 2 Noninterest Income  
+  
+| (Dollars in millions) | 2018 | 2017 |  
+| - | - | - |  
+| Card income | $ 6,051 | $ 5,902 |  
+| Service charges | 7,767 | 7,818 |  
+| Investment and brokerage services | 14,160 | 13,836 |  
+| Investment banking income | 5,327 | 6,011 |  
+| Trading account profits | 8,540 | 7,277 |  
+| Other income | 1,970 | 1,841 |  
+| Total noninterest income | $ 43,815 | $ 42,685 |  
+  
+Noninterest income increased $1.1 billion to $43.8 billion in 2018 compared to 2017. The following highlights the significant changes.  
+  
+· Card income increased $149 million primarily driven by an increase in credit and debit card spending, as well as increased late fees and annual fees, partially offset by higher rewards costs, lower cash advance fees, and the impact of the sale of the non-U.S. consumer credit card business in 2017.  
+  
+· Investment and brokerage services income increased $324 million primarily due to assets under management (AUM) flows and higher market valuations, partially offset by the impact of changing market dynamics on transactional revenue and AUM pricing.  
+  
+· Investment banking income decreased $684 million  
+  
+· Trading account profits increased $1.3 billion primarily due to increased client activity in equity financing and derivatives, higher market interest rates and strong trading performance in equity derivatives, partially offset by weakness in credit products.  
+  
+. Other income increased $129 million primarily due to gains on sales of consumer real estate loans, primarily non-core, of $731 million, offset by a $729 million charge related to the redemption of certain trust preferred securities in 2018. Other income for 2017 included a downward valuation adjustment of $946 million on tax-advantaged energy investments in connection with the Tax Act and a $793 million pretax gain recognized in connection with the sale of the non- U.S. consumer credit card business.  
+  
+  
+# Provision for Credit Losses  
+  
+The provision for credit losses decreased $114 million to $3.3 billion in 2018 compared to 2017, primarily reflecting a 2017 single-name non-U.S. commercial charge-off and improvement in the commercial portfolio. In the consumer portfolio, the impact of the sale of the non-U.S. consumer credit card business in 2017 was more than offset by a slower pace of improvement in the consumer real estate portfolio, and portfolio seasoning and loan growth in the U.S. credit card portfolio. For more information on the provision for credit losses, see Provision for Credit Losses on page 67.  
+  
+  
+# Noninterest Expense  
+  
+  
+## Table 3 Noninterest Expense  
+  
+| (Dollars in millions) | 2018 | 2017 |  
+| - | - | - |  
+| Personnel | $ 31,880 | $ 31,931 |  
+| Occupancy | 4,066 | 4,009 |  
+| Equipment | 1,705 | 1,692 |  
+| Marketing | 1,674 | 1,746 |  
+| Professional fees | 1,699 | 1,888 |  
+| Data processing | 3,222 | 3,139 |  
+| Telecommunications | 699 | 699 |  
+| Other general operating | 8,436 | 9,639 |  
+| Total noninterest expense | $ 53,381 | $ 54,743 |  
+  
+Noninterest expense decreased $1.4 billion to $53.4 billion in 2018 compared to 2017. The decrease was primarily due to lower other general operating expense, primarily driven by a decline in litigation and Federal Deposit Insurance Corporation (FDIC) expense as well as a $316 million impairment charge in 2017 related to certain data centers.  
+  
+  
+# Income Tax Expense  
+  
+  
+# Table 4 Income Tax Expense  
+  
+| (Dollars in millions) | 2018 | 2017 |  
+| - | - | - |  
+| Income before income taxes | 34,584 | $ 29,213 |  
+| Income tax expense | 6,437 | 10,981 |  
+| Effective tax rate | 18.6% | 37.6% |  
+  
+Tax expense for 2018 reflected the new 21 percent federal income tax rate and the other provisions of the Tax Act, as well as our recurring tax preference benefits.  
+  
+Tax expense for 2017 included a charge of $1.9 billion reflecting the initial impact of the Tax Act, including a tax charge of $2.3 billion related primarily to a lower valuation of certain deferred tax assets and liabilities and a $347 million tax benefit on the pretax loss from the lower valuation of our tax-advantaged energy investments. Other than the impact of the Tax Act, the effective tax rate for 2017 was driven by our recurring tax preference benefits as well as an expense from the sale of the non-U.S. consumer credit card business, largely offset by benefits related to stock-based compensation and the restructuring of certain subsidiaries.  
+  
+We expect the effective tax rate for 2019 to be approximately 19 percent, absent unusual items.  
+  
+<!-- PageFooter="Bank of America 2018 22" -->  

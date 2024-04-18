@@ -1,0 +1,64 @@
+See Note 19 - Income Taxes to the Consolidated Financial Statements for a table of significant tax attributes and additional information. For more information, see page 13 under Item 1A. Risk Factors - Regulatory, Compliance and Legal  
+  
+  
+# Goodwill and Intangible Assets  
+  
+The nature of and accounting for goodwill and intangible assets are discussed in Note 1 - Summary of Significant Accounting Principles and Note 8 - Goodwill and Intangible Assets. Beginning with our annual goodwill impairment test as ofJune 30, 2018, we conducted a qualitative assessment, rather than a quantitative assessment as previously performed, that is more fully described in Note 1 - Summary of Significant Accounting Principles to the Consolidated Financial Statements.  
+  
+We completed our annual goodwill impairment test as ofJune 30, 2018 for all of our reporting units that had goodwill. We performed that test by assessing qualitative factors to determine whether it is more likely than not that the fair value of each reporting unit is less than its respective carrying value. Factors considered in the qualitative assessments include, among other things, macroeconomic conditions, industry and market considerations, financial performance of the respective reporting unit and other relevant entity- and reporting-unit specific considerations. If based on the results of the qualitative assessment, it is more likely than not that the fair value of a reporting unit is less than its carrying value, a quantitative assessment is performed.  
+  
+Based on our qualitative assessments, we determined that for each reporting unit with goodwill, it was more likely than not that its respective fair value exceeded its carrying value, indicating there was no impairment. For more information regarding goodwill balances at June 30, 2018, see Note 8 - Goodwill and Intangible Assets to the Consolidated Financial Statements.  
+  
+  
+# Representations and Warranties Liability  
+  
+The methodology used to estimate the liability for obligations under representations and warranties related to transfers of residential mortgage loans is a function of the type of representations and warranties provided in the sales contracts and considers a variety of factors. These factors, which incorporate judgment, are subject to change based on our specific experience. Our experience in negotiating settlements with trustees and other counterparties is an important input in determining our estimate of the liability. We also consider actual defaults, estimated future defaults, historical loss experience, estimated home prices and other economic conditions. Changes to any one of these factors could impact the estimate of our liability.  
+  
+The representations and warranties provision may vary significantly each period as the methodology used to estimate the expense continues to be refined. The estimate of the liability for representations and warranties is sensitive to future defaults, loss severity and the net repurchase rate. An assumed simultaneous increase or decrease of 10 percent in estimated future defaults, loss severity and the net repurchase rate would result in an increase or decrease of approximately $200 million in the representations and warranties liability as ofDecember 31, 2018. These sensitivities are hypothetical and are intended to provide an indication of the impact of a significant change in these key assumptions on the representations and warranties liability. In reality, changes in one assumption may result in changes in other assumptions, which may or may not counteract the sensitivity.  
+  
+For more information on representations and warranties exposure, seeNote 12 - Commitments and Contingencies to the Consolidated Financial Statements.  
+  
+<!-- PageFooter="79 Bank of America 2018" -->  
+  
+  
+## 2017 Compared to 2016  
+  
+The following discussion and analysis provide a comparison of our results of operations for 2017 and 2016. This discussion should be read in conjunction with the Consolidated Financial Statements and related Notes.  
+  
+  
+# Overview  
+  
+  
+# Net Income  
+  
+Net income was $18.2 billion, or $1.56 per diluted share in2017 compared to $17.8 billion, or $1.49 per diluted share in2016. The results for 2017 included a charge of $2.9 billion related to the Tax Act. The pretax results for 2017 compared to 2016 were driven by higher revenue, largely the result of an increase in net interest income, lower provision for credit losses and a decline in noninterest expense.  
+  
+  
+# Net Interest Income  
+  
+Net interest income increased $3.6 billion to $44.7 billion in 2017 compared to 2016. Net interest yield on an FTE basis increased 12 bps to 2.37 percent for 2017. These increases were primarily driven by the benefits from higher interest rates and loan and deposit growth, partially offset by the sale of the non-U.S. consumer credit card business in the second quarter of 2017.  
+  
+  
+# Noninterest Income  
+  
+Noninterest income increased $80 million to $42.7 billion in 2017 compared to 2016. The following highlights the significant changes.  
+  
+· Service charges increased $180 million primarily driven by the impact of pricing strategies and higher treasury services related revenue.  
+  
+· Investment and brokerage services income increased $487 million primarily driven by the impact of AUM flows and higher market valuations, partially offset by the impact of changing market dynamics on transactional revenue and AUM pricing.  
+  
+Investment banking income increased $770 million primarily due to higher advisory fees and higher debt and equity issuance fees.  
+  
+. Trading account profits increased $375 million primarily due to increased client financing activity in equities, partially offset by weaker performance across most fixed-income products.  
+  
+· Other income decreased $1.8 billion primarily due to lower mortgage banking income, with declines in both MSR results and production. Included in 2017 was a $793 million pretax gain recognized in connection with the sale of the non-U.S. consumer credit card business and a downward valuation adjustment of $946 million on tax-advantaged energy investments in connection with the Tax Act.  
+  
+  
+# Provision for Credit Losses  
+  
+The provision for credit losses decreased $201 million to $3.4 billion for 2017 compared to 2016 primarily due to reductions in energy exposures in the commercial portfolio and credit quality improvements in the consumer real estate portfolio. This was partially offset by portfolio seasoning and loan growth in the U.S. credit card portfolio and a single-name non-U.S. commercial charge-off.  
+  
+  
+# Noninterest Expense  
+  
+Noninterest expense decreased $340 million to $54.7 billion for 2017 compared to 2016. The decrease was primarily due to lower operating costs, a reduction from the sale of the non-U.S. consumer credit card business and lower litigation expense, partially offset by a $316 million impairment charge related to certain data centers that were in the process of being sold and  

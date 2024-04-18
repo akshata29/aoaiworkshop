@@ -1,0 +1,47 @@
+During 2018, the Corporation sold nonperforming and PCI consumer real estate loans with a carrying value of $5.3 billion, including $4.4 billion of PCI loans, compared to $1.3 billion, including $803 million of PCI loans, in 2017.  
+  
+The table below presents the Corporation's nonperforming loans and leases including nonperforming TDRs,  
+  
+and loans accruing past due 90 days or more at December 31, 2018 and 2017. Nonperforming LHFS are excluded from nonperforming loans and leases as they are recorded at either fair value or the lower of cost or fair value. For more information on the criteria for classification as nonperforming, see Note 1 - Summary of Significant Accounting Principles.  
+  
+  
+# Credit Quality  
+  
+| (Dollars in millions) | Nonperforming Loans and Leases || Accruing Past Due 90 Days or More ||  
+|| December 31 ||||  
+|| 2018 | 2017 | 2018 | 2017 |  
+| - | - | - | - | - |  
+| Consumer real estate | | | | |  
+| Core portfolio | | | | |  
+| Residential mortgage (1) | 1,010 | $ 1,087 | $ 274 | $ 417 |  
+| Home equity | 955 | 1,079 | :unselected: | :unselected: |  
+| Non-core portfolio | | | | |  
+| Residential mortgage (1) | 883 | 1,389 | 1,610 | 2,813 |  
+| Home equity | 938 | 1,565 | :unselected: :unselected: | :unselected: |  
+| Credit card and other consumer | | | | |  
+| U.S. credit card | n/a | n/a | 994 | 900 |  
+| Direct/Indirect consumer | 56 | 46 | 38 | 40 |  
+| Total consumer | 3,842 | 5,166 | 2,916 | 4,170 |  
+| Commercial | | | | |  
+| U.S. commercial | 794 | 814 | 197 | 144 |  
+| Non-U.S. commercial | 80 | 299 | :unselected: | 3 |  
+| Commercial real estate | 156 | 112 | 4 | 4 |  
+| Commercial lease financing | 18 | 24 | 29 | 19 |  
+| U.S. small business commercial | 54 | 55 | 84 | 75 |  
+| Total commercial | 1,102 | 1,304 | 314 | 245 |  
+| Total loans and leases | $ 4,944 | $ 6,470 | $ 3,230 | $ 4,415 |  
+  
+(1) Residential mortgage loans in the core and non-core portfolios accruing past due90 days or more are fully-insured loans. At December 31, 2018 and 2017, residential mortgage includes $1.4 billion and $2.2 billion of loans on which interest has been curtailed by the FHA and therefore are no longer accruing interest, although principal is still insured, and $498 million and $1.0 billion of loans on which interest is still accruing.  
+  
+n/a = not applicable  
+  
+  
+# Credit Quality Indicators  
+  
+The Corporation monitors credit quality within its Consumer Real Estate, Credit Card and Other Consumer, and Commercial portfolio segments based on primary credit quality indicators. For more information on the portfolio segments, see Note 1 - Summary of Significant Accounting Principles. Within the Consumer Real Estate portfolio segment, the primary credit quality indicators are refreshed LTV and refreshed FICO score. Refreshed LTV measures the carrying value of the loan as a percentage of the value of the property securing the loan, refreshed quarterly. Home equity loans are evaluated using CLTV which measures the carrying value of the Corporation's loan and available line of credit combined with any outstanding senior liens against the property as a percentage of the value of the property securing the loan, refreshed quarterly. FICO score measures the creditworthiness of the borrower based on the financial obligations of the borrower and the borrower's credit history. FICO scores are typically refreshed quarterly or more  
+  
+frequently. Certain borrowers (e.g., borrowers that have had debts discharged in a bankruptcy proceeding) may not have their FICO scores updated. FICO scores are also a primary credit quality indicator for the Credit Card and Other Consumer portfolio segment and the business card portfolio within U.S. small business commercial. Within the Commercial portfolio segment, loans are evaluated using the internal classifications of pass rated or reservable criticized as the primary credit quality indicators. The term reservable criticized refers to those commercial loans that are internally classified or listed by the Corporation as Special Mention, Substandard or Doubtful, which are asset quality categories defined by regulatory authorities. These assets have an elevated level of risk and may have a high probability of default or total loss. Pass rated refers to all loans not considered reservable criticized. In addition to these primary credit quality indicators, the Corporation uses other credit quality indicators for certain types of loans.  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageNumber="113" -->  

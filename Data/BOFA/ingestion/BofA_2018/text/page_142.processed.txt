@@ -1,0 +1,30 @@
+Class of Collateral Pledged  
+===  
+  
+| | Securities Sold Under Agreements to Repurchase | Securities Loaned | Other | Total |  
+| - | - | - | - | - |  
+| (Dollars in millions) | December 31, 2018 ||||  
+| U.S. government and agency securities | $ 164,664 | $ | $ | $ 164,664 |  
+| Corporate securities, trading loans and other | 11,400 | 2,163 | 287 | 13,850 |  
+| Equity securities | 14,090 | 10,869 | 19,572 | 44,531 |  
+| Non-U.S. sovereign debt | 81,329 | 4,207 | 47 | 85,583 |  
+| Mortgage trading loans and ABS | 5,131 | | | 5,131 |  
+| Total | $ 276,614 | $ 17,239 | $ 19,906 | 313,759 |  
+| | December 31, 2017 ||||  
+| U.S. government and agency securities | $ 158,299 | $ | $ 409 | 158,708 |  
+| Corporate securities, trading loans and other | 12,787 | 2,669 | 624 | 16,080 |  
+| Equity securities | 23,975 | 13,523 | 21,628 | 59,126 |  
+| Non-U.S. sovereign debt | 90,857 | 5,495 | 50 | 96,402 |  
+| Mortgage trading loans and ABS | 4,977 | | | 4,977 |  
+| Total | $ 290,895 | $ 21,687 | $ 22,711 | $ 335,293 |  
+  
+Under repurchase agreements, the Corporation is required to post collateral with a market value equal to or in excess of the principal amount borrowed. For securities loaned transactions, the Corporation receives collateral in the form of cash, letters of credit or other securities. To determine whether the market value of the underlying collateral remains sufficient, collateral is generally valued daily, and the Corporation may be required to deposit additional collateral or may receive or return collateral pledged when appropriate. Repurchase agreements and securities loaned transactions are generally either overnight, continuous (i.e., no stated term) or short-term. The Corporation manages liquidity risks related to these agreements by sourcing funding from a diverse  
+  
+group of counterparties, providing a range of securities collateral and pursuing longer durations, when appropriate.  
+  
+  
+# Restricted Cash  
+  
+At December 31, 2018 and 2017, the Corporation held restricted cash included within cash and cash equivalents on the Consolidated Balance Sheet of $22.6 billion and $18.8 billion, predominantly related to cash held on deposit with the Federal Reserve Bank and non-U.S. central banks to meet reserve requirements and cash segregated in compliance with securities regulations.  
+  
+Bank of America 2018 130  

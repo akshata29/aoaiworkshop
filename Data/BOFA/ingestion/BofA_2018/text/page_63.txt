@@ -1,0 +1,58 @@
+# Table  
+  
+  
+# 29 U.S. Credit Card State Concentrations  
+  
+| (Dollars in millions) | Accruing Past Due Outstandings 90 Days or More December 31 Net Charge-offs ||||||  
+|| 2018 | 2017 | 2018 | 2017 | 2018 | 2017 |  
+| - | - | - | - | - | - | - |  
+| California | $ 16,062 | $ 15,254 | $ 163 | $ 136 | $ 479 | $ 412 |  
+| Florida | 8,840 | 8,359 | 119 | 94 | 332 | 259 |  
+| Texas | 7,730 | 7,451 | 84 | 76 | 224 | 194 |  
+| New York | 6,066 | 5,977 | 81 | 91 | 268 | 218 |  
+| Washington | 4,558 | 4,350 | 24 | 20 | 63 | 56 |  
+| Other | 55,082 | 54,894 | 523 | 483 | 1,471 | 1,374 |  
+| Total U.S. credit card portfolio | $ 98,338 | $ 96,285 | $ 994 | $ 900 | $ 2,837 | $ 2,513 |  
+  
+  
+# Direct/Indirect Consumer  
+  
+At December 31, 2018, 55 percent of the direct/indirect portfolio was included in Consumer Banking (consumer auto and specialty lending - automotive, marine, aircraft, recreational vehicle loans and consumer personal loans) and 45 percent was included in GWIM (principally securities-based lending loans).  
+  
+Outstandings in the direct/indirect portfolio decreased $5.2 billion in 2018 to $91.2 billion primarily due to declines in  
+  
+securities-based lending due to higher paydowns, and in our auto portfolio as paydowns outpaced originations. Net charge-offs decreased $19 million to $195 million in 2018 due largely to clarifying regulatory guidance related to bankruptcy and repossession issued during 2017.  
+  
+Table 30 presents certain state concentrations for the direct/indirect consumer loan portfolio.  
+  
+  
+## Table 30 Direct/Indirect State Concentrations  
+  
+| (Dollars in millions) | Outstandings || Accruing Past Due 90 Days or More || Net Charge-offs ||  
+|| December 31 |||||  
+|| | 2018 | 2017 | 2018 | 2017 | 2018 | 2017 |  
+| - | - | - | - | - | - | - |  
+| California | $ 11,734 | $ 12,897 | $ 4 | $ 3 | $ 21 | $ 21 |  
+| Florida | 10,240 | 11,184 | 4 | 5 | 36 | 43 |  
+| Texas | 9,876 | 10,676 | 6 | 5 | 30 | 38 |  
+| New York | 6,296 | 6,557 | 2 | 2 | 9 | 7 |  
+| New Jersey | 3,308 | 3,449 | 1 | 1 | 2 | 6 |  
+| Other | 49,712 | 51,579 | 21 | 24 | 97 | 99 |  
+| Total direct/indirect loan portfolio | $ 91,166 | $ 96,342 | $ 38 | $ 40 | $ 195 | $ 214 |  
+  
+  
+# Nonperforming Consumer Loans, Leases and Foreclosed Properties Activity  
+  
+Table 31 presents nonperforming consumer loans, leases and foreclosed properties activity during 2018 and 2017. During 2018, nonperforming consumer loans declined $1.3 billion to $3.8 billion primarily driven by loan sales of $969 million.  
+  
+At December 31, 2018, $1.1 billion, or 29 percent, of nonperforming loans were 180 days or more past due and had been written down to their estimated property value less costs to sell. In addition, at December 31, 2018, $1.9 billion, or 49 percent, of nonperforming consumer loans were modified and are now current after successful trial periods, or are current loans classified as nonperforming loans in accordance with applicable policies.  
+  
+Foreclosed properties increased $8 million in 2018 to $244 million as additions outpaced liquidations. PCI loans are excluded from nonperforming loans as these loans were written down to fair value at the acquisition date; however, once we acquire the underlying real estate upon foreclosure of the delinquent PCI loan,  
+  
+it is included in foreclosed properties. Certain delinquent government-guaranteed loans (principally FHA-insured loans) are excluded from our nonperforming loans and foreclosed properties activity as we expect we will be reimbursed once the property is conveyed to the guarantor for principal and, up to certain limits, costs incurred during the foreclosure process and interest accrued during the holding period.  
+  
+We classify junior-lien home equity loans as nonperforming when the first-lien loan becomes 90 days past due even if the junior-lien loan is performing. At December 31, 2018 and 2017, $221 million and $330 million of such junior-lien home equity loans were included in nonperforming loans and leases.  
+  
+Nonperforming loans also include certain loans that have been modified in TDRs where economic concessions have been granted to borrowers experiencing financial difficulties. Nonperforming TDRs, excluding those modified loans in the PCI loan portfolio, are included in Table 31.  
+  
+<!-- PageFooter="Bank of America 2018 58" -->  

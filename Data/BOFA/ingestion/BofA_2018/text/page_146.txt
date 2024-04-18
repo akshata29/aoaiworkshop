@@ -1,0 +1,48 @@
+a 49 percent ownership. The carrying value of the Corporation's investment in the merchant services joint venture was $2.8 billion and $2.9 billion at December 31, 2018 and 2017, and is recorded in other assets on the Consolidated Balance Sheet and in All Other.  
+  
+At December 31, 2018 and 2017, the maximum potential exposure for sponsored transactions totaled $348.1 billion and $346.4 billion. However, the Corporation believes that the maximum potential exposure is not representative of the actual potential loss exposure and does not expect to make material payments in connection with these guarantees.  
+  
+  
+# Exchange and Clearing House Member Guarantees  
+  
+The Corporation is a member of various securities and derivative exchanges and clearinghouses, both in the U.S. and other countries. As a member, the Corporation may be required to pay a pro-rata share of the losses incurred by some of these organizations as a result of another member default and under other loss scenarios. The Corporation's potential obligations may be limited to its membership interests in such exchanges and clearinghouses, to the amount (or multiple) of the Corporation's contribution to the guarantee fund or, in limited instances, to the full pro-rata share of the residual losses after applying the guarantee fund. The Corporation's maximum potential exposure under these membership agreements is difficult to estimate; however, the Corporation has assessed the probability of making any such payments as remote.  
+  
+  
+## Prime Brokerage and Securities Clearing Services  
+  
+In connection with its prime brokerage and clearing businesses, the Corporation performs securities clearance and settlement services with other brokerage firms and clearinghouses on behalf of its clients. Under these arrangements, the Corporation stands ready to meet the obligations of its clients with respect to securities transactions. The Corporation's obligations in this respect are secured by the assets in the clients' accounts and the accounts of their customers as well as by any proceeds received from the transactions cleared and settled by the firm on behalf of clients or their customers. The Corporation's maximum potential exposure under these arrangements is difficult to estimate; however, the potential for the Corporation to incur material losses pursuant to these arrangements is remote.  
+  
+  
+### Other Guarantees  
+  
+The Corporation has entered into additional guarantee agreements and commitments, including sold risk participation swaps, liquidity facilities, lease-end obligation agreements, partial credit guarantees on certain leases, real estate joint venture guarantees, divested business commitments and sold put options that require gross settlement. The maximum potential future payment under these agreements was approximately $5.9 billion at both December 31, 2018 and 2017. The estimated maturity dates of these obligations extend up to 2040. The Corporation has made no material payments under these guarantees. For more information on maximum potential future payments under VIE-related liquidity commitments at December 31, 2018, see Note 7 - Securitizations and Other Variable Interest Entities.  
+  
+In the normal course of business, the Corporation periodically guarantees the obligations of its affiliates in a variety of transactions including ISDA-related transactions and non-ISDA related transactions such as commodities trading, repurchase agreements, prime brokerage agreements and other transactions.  
+  
+  
+### Payment Protection Insurance  
+  
+On June 1, 2017, the Corporation sold its non-U.S. consumer credit card business. Included in the calculation of the gain on sale, the  
+  
+Corporation recorded an obligation to indemnify the purchaser for substantially all payment protection insurance exposure above reserves assumed by the purchaser.  
+  
+  
+# Representations and Warranties Obligations and Corporate Guarantees  
+  
+The Corporation securitizes first-lien residential mortgage loans generally in the form of RMBS guaranteed by the GSEs or by GNMA in the case of FHA-insured, VA-guaranteed and Rural Housing Service-guaranteed mortgage loans, and sells pools of first-lien residential mortgage loans in the form of whole loans. In addition, in prior years, legacy companies and certain subsidiaries sold pools of first-lien residential mortgage loans and home equity loans as private-label securitizations or in the form of whole loans. In connection with these transactions, the Corporation or certain of its subsidiaries or legacy companies make and have made various representations and warranties. Breaches of these representations and warranties have resulted in and may continue to result in the requirement to repurchase mortgage loans or to otherwise make whole or provide indemnification or other remedies to sponsors, investors, securitization trusts, guarantors, insurers or other parties (collectively, repurchases).  
+  
+  
+## Unresolved Repurchase Claims  
+  
+Unresolved representations and warranties repurchase claims represent the notional amount of repurchase claims made by counterparties, typically the outstanding principal balance or the unpaid principal balance at the time of default. In the case of first-lien mortgages, the claim amount is often significantly greater than the expected loss amount due to the benefit of collateral and, in some cases, mortgage insurance or mortgage guarantee payments. Claims received from a counterparty remain outstanding until the underlying loan is repurchased, the claim is rescinded by the counterparty, the Corporation determines that the applicable statute of limitations has expired, or representations and warranties claims with respect to the applicable trust are settled, and fully and finally released.  
+  
+The notional amount of unresolved repurchase claims atDecember 31, 2018 and 2017 was $14.4 billion and $17.6 billion. This balance included $6.2 billion and $6.9 billion of claims related to loans in specific private-label securitization groups or tranches where the Corporation owns substantially all of the outstanding securities or will otherwise realize the benefit of any repurchase claims paid. The balance also includes $1.5 billion of repurchase claims related to a single monoline insurer and is the subject of litigation.  
+  
+During 2018, the Corporation received $283 million in new repurchase claims, including $201 million in claims that were deemed time-barred. During2018, $3.5 billion in claims were resolved, including $2.2 billion of claims that were deemed time-barred and $1.1 billion related to settlements. Although the pace of new claims has declined, it is possible the Corporation will receive additional claims or file requests in the future.  
+  
+  
+### Reserve and Related Provision  
+  
+The reserve for representations and warranties obligations and corporate guarantees at December 31, 2018 and 2017 was $2.0 billion and $1.9 billion and is included in accrued expenses and other liabilities on the Consolidated Balance Sheet and the related provision is included in other income in the Consolidated Statement of Income. The representations and warranties reserve represents the Corporation's best estimate of probable incurred losses. This reserve considers a number of provisional settlements with sponsors, investors and trustees, some of which  
+  
+<!-- PageFooter="Bank of America 2018 134" -->  

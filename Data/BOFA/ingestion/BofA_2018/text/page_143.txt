@@ -1,0 +1,58 @@
+ NOTE 11 Long-term Debt  
+  
+Long-term debt consists of borrowings having an original maturity of one year or more. The table below presents the balance of long-term debt atDecember 31, 2018 and 2017, and the related contractual rates and maturity dates as ofDecember 31, 2018.  
+  
+| (Dollars in millions) | Weighted-average Rate | Interest Rates | Maturity Dates | December 31 ||  
+||||| 2018 | 2017 |  
+| - | - | - | - | - | - |  
+| Notes issued by Bank of America Corporation | | | | | |  
+| Senior notes: | | | | | |  
+| Fixed | 3.39 % | 0.39 - 8.40 % | 2019 - 2049 | $ 120,548 | $ 119,548 |  
+| Floating | 2.09 | 0.06 - 7.26 | 2019 - 2044 | 25,574 | 21,048 |  
+| Senior structured notes (1) | | | | 13,768 | 15,460 |  
+| Subordinated notes: | | | | | |  
+| Fixed | 4.91 | 2.94 - 8.57 | 2019 - 2045 | 20,843 | 22,004 |  
+| Floating | 2.16 | 1.14 - 3.55 | 2019 - 2026 | 1,742 | 4,058 |  
+| Junior subordinated notes (2): | | | | | |  
+| Fixed | 6.71 | 6.45 - 8.05 | 2027 - 2066 | 732 | 3,282 |  
+| Floating | 3.54 | 3.54 | 2056 | 1 | 553 |  
+| Total notes issued by Bank of America Corporation | | | | 183,208 | 185,953 |  
+| Notes issued by Bank of America, N.A. | | | | | |  
+| Senior notes: | | | | | |  
+| Fixed | | | | - | 4,686 |  
+| Floating | 2.96 | 2.90 - 2.96 | 2020 - 2041 | 1,770 | 1,033 |  
+| Subordinated notes | 6.00 | 6.00 | 2036 | 1,617 | 1,679 |  
+| Advances from Federal Home Loan Banks: | | | | | |  
+| Fixed | 5.10 | 0.01 - 7.72 | 2019 - 2034 | 130 | 146 |  
+| Floating | 2.49 | 2.24 - 2.80 | 2019 - 2020 | 14,751 | 5,000 |  
+| Securitizations and other BANA VIEs (3) | | | | 10,326 | 8,641 |  
+| Other | | | | 442 | 433 |  
+| Total notes issued by Bank of America, N.A. | | | | 29,036 | 21,618 |  
+| Other debt | | | | | |  
+| Structured liabilities | | | | 16,478 | 18,574 |  
+| Nonbank VIEs (3) | | | | 618 | 1,232 |  
+| Other | | | | | 25 |  
+| Total other debt | | | | 17,096 | 19,831 |  
+| Total long-term debt | | | | $ 229,340 | $ 227,402 |  
+  
+(1) Includes total loss-absorbing capacity compliant debt.  
+  
+(2) Includes amounts related to trust preferred securities. For additional information, see Trust Preferred Securities in this Note.  
+  
+(3) Represents the total long-term debt included in the liabilities of consolidated VIEs on the Consolidated Balance Sheet.  
+  
+Bank of America Corporation and Bank of America, N.A. maintain various U.S. and non-U.S. debt programs to offer both senior and subordinated notes. The notes may be denominated in U.S. dollars or foreign currencies. At December 31, 2018 and 2017, the amount of foreign currency-denominated debt translated into U.S. dollars included in total long-term debt was $48.6 billion and $51.8 billion. Foreign currency contracts may be used to convert certain foreign currency-denominated debt into U.S. dollars.  
+  
+At December 31, 2018, long-term debt of consolidated VIEs in the table above included debt from credit card and all other VIEs of $10.3 billion and $623 million. Long-term debt of VIEs is collateralized by the assets of the VIEs. For additional information, see Note 7 - Securitizations and Other Variable Interest Entities  
+  
+The weighted-average effective interest rates for total long-term debt (excluding senior structured notes), total fixed-rate debt and total floating-rate debt were 3.29 percent, 3.66 percent and 2.26 percent, respectively, at December 31, 2018, and 3.44 percent, 3.87 percent and 1.49 percent, respectively, at December 31, 2017. The Corporation's ALM activities maintain an overall interest rate risk management strategy that incorporates the use of interest rate contracts to manage fluctuations in earnings that are caused by interest rate volatility. The Corporation's goal is to manage interest rate sensitivity so that movements in interest rates do not significantly adversely affect earnings and capital. The weighted-average rates are the contractual interest rates on the debt and do not reflect the impacts of derivative transactions.  
+  
+Debt outstanding of $3.8 billion at December 31, 2018 was issued by BofA Finance LLC, a 100 percent owned finance subsidiary of Bank of America Corporation, the parent company, and is fully and unconditionally guaranteed by the parent company.  
+  
+During 2018, the Corporation had total long-term debt maturities and redemptions in the aggregate of $53.3 billion consisting of $29.8 billion for Bank of America Corporation, $11.2 billion for Bank of America, N.A. and$12.3 billion of other debt. During 2017, the Corporation had total long-term debt maturities and redemptions in the aggregate of $48.8 billion consisting of $29.1 billion for Bank of America Corporation, $13.3 billion for Bank of America, N.A. and $6.4 billion of other debt.  
+  
+The following table shows the carrying value for aggregate annual contractual maturities of long-term debt as of December 31, 2018. Included in the table are certain structured notes issued by the Corporation that contain provisions whereby the borrowings are redeemable at the option of the holder (put options) at specified dates prior to maturity. Other structured notes have coupon or repayment terms linked to the performance of debt or equity securities, indices, currencies or commodities, and the maturity may be accelerated based on the value of a referenced index or security. In both cases, the Corporation or a subsidiary may be required to settle the obligation for cash or other securities prior to the contractual maturity date. These borrowings are reflected in the table as maturing at their contractual maturity date.  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageNumber="131" -->  

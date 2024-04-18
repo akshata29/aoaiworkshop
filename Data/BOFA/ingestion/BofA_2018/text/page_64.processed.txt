@@ -1,0 +1,64 @@
+Table 31 Nonperforming Consumer Loans, Leases and Foreclosed Properties Activity  
+  
+| (Dollars in millions) | 2018 | 2017 |  
+| - | - | - |  
+| Nonperforming loans and leases, January 1 | $ 5,166 | $ 6,004 |  
+| Additions | 2,440 | 3,254 |  
+| Reductions: | | |  
+| Paydowns and payoffs | (958) | (1,052) |  
+| Sales | (969) | (511) |  
+| Returns to performing status (1) | (1,283) | (1,438) |  
+| Charge-offs | (401) | (676) |  
+| Transfers to foreclosed properties | (151) | (217) |  
+| Transfers to loans held-for-sale | (2) | (198) |  
+| Total net reductions to nonperforming loans and leases | (1,324) | (838) |  
+| Total nonperforming loans and leases, December 31 | 3,842 | 5,166 |  
+| Foreclosed properties, December 31 (2) | 244 | 236 |  
+| Nonperforming consumer loans, leases and foreclosed properties, December 31 | $ 4,086 | $ 5,402 |  
+| Nonperforming consumer loans and leases as a percentage of outstanding consumer loans and leases (3) | 0.86 % | 1.14 % |  
+| Nonperforming consumer loans, leases and foreclosed properties as a percentage of outstanding consumer loans, leases and foreclosed properties (3) | 0.92 | 1.19 |  
+  
+(1) Consumer loans may be returned to performing status when all principal and interest is current and full repayment of the remaining contractual principal and interest is expected, or when the loan otherwise becomes well-secured and is in the process of collection.  
+  
+(2) Foreclosed property balances do not include properties insured by certain government-guaranteed loans, principally FHA-insured, $$488 million and $801 million at December 31, 2018 and  
+  
+2017\.  
+  
+(3) Outstanding consumer loans and leases exclude loans accounted for under the fair value option.  
+  
+Table 32 presents TDRs for the consumer real estate portfolio. Performing TDR balances are excluded from nonperforming loans and leases inTable 31.  
+  
+Table 32 Consumer Real Estate Troubled Debt Restructurings  
+  
+| (Dollars in millions) | December 31, 2018 ||| December 31, 2017 |||  
+|| Nonperforming | Performing | Total | Nonperforming | Performing | Total |  
+| - | - | - | - | - | - | - |  
+| Residential mortgage (1, 2) | $ 1,209 | $ 4,988 | $ 6,197 | $ 1,535 | $ 8,163 | $ 9,698 |  
+| Home equity (3) | 1,107 | 1,252 | 2,359 | 1,457 | 1,399 | 2,856 |  
+| Total consumer real estate troubled debt restructurings | $ 2,316 | $ 6,240 | $ 8,556 | $ 2,992 | $ 9,562 | $ 12,554 |  
+  
+(1) At December 31, 2018 and 2017, residential mortgage TDRs deemed collateral dependent totaled$1.6 billion and $2.8 billion, and included $960 million and $1.2 billion of loans classified as nonperforming and$605 million and $1.6 billion of loans classified as performing.  
+  
+(2) Residential mortgage performing TDRs included $2.8 billion and $3.7 billion of loans that were fully-insured atDecember 31, 2018 and 2017.  
+  
+(3) At December 31, 2018 and 2017, home equity TDRs deemed collateral dependent totaled$1.3 billion and $1.6 billion, and included $961 million and $1.2 billion of loans classified as nonperforming and$322 million and $388 million of loans classified as performing.  
+  
+In addition to modifying consumer real estate loans, we work with customers who are experiencing financial difficulty by modifying credit card and other consumer loans. Credit card and other consumer loan modifications generally involve a reduction in the customer's interest rate on the account and placing the customer on a fixed payment plan not exceeding 60 months, all of which are considered TDRs (the renegotiated TDR portfolio).  
+  
+Modifications of credit card and other consumer loans are made through renegotiation programs utilizing direct customer contact, but may also utilize external renegotiation programs. The renegotiated TDR portfolio is excluded in large part from Table 31 as substantially all of the loans remain on accrual status until either charged off or paid in full. At December 31, 2018 and 2017, our renegotiated TDR portfolio was $566 million and $490 million, of which $481 million and $426 million were current or less than 30 days past due under the modified terms. The increase in the renegotiated TDR portfolio was primarily driven by new renegotiated enrollments outpacing runoff of existing portfolios.  
+  
+  
+# Commercial Portfolio Credit Risk Management  
+  
+Credit risk management for the commercial portfolio begins with an assessment of the credit risk profile of the borrower or counterparty based on an analysis of its financial position. As part of the overall credit risk assessment, our commercial credit exposures are assigned a risk rating and are subject to approval based on defined credit approval standards. Subsequent to loan origination, risk ratings are monitored on an ongoing basis, and if necessary, adjusted to reflect changes in the financial condition,  
+  
+cash flow, risk profile or outlook of a borrower or counterparty. In making credit decisions, we consider risk rating, collateral, country, industry and single-name concentration limits while also balancing these considerations with the total borrower or counterparty relationship. We use a variety of tools to continuously monitor the ability of a borrower or counterparty to perform under its obligations. We use risk rating aggregations to measure and evaluate concentrations within portfolios. In addition, risk ratings are a factor in determining the level of allocated capital and the allowance for credit losses.  
+  
+As part of our ongoing risk mitigation initiatives, we attempt to work with clients experiencing financial difficulty to modify their loans to terms that better align with their current ability to pay. In situations where an economic concession has been granted to a borrower experiencing financial difficulty, we identify these loans as TDRs. For more information on our accounting policies regarding delinquencies, nonperforming status and net charge-offs for the commercial portfolio, see Note 1 - Summary of Significant Accounting Principles to the Consolidated Financial Statements.  
+  
+  
+# Management of Commercial Credit Risk Concentrations  
+  
+Commercial credit risk is evaluated and managed with the goal that concentrations of credit exposure continue to be aligned with our risk appetite. We review, measure and manage concentrations of credit exposure by industry, product, geography, customer relationship and loan size. We also review, measure and manage commercial real estate loans by geographic location and property  
+  
+<!-- PageFooter="59 Bank of America 2018" -->  

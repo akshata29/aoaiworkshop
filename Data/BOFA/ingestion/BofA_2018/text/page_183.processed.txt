@@ -1,0 +1,51 @@
+ Acronyms  
+  
+| ABS | Asset-backed securities | HTM | Held-to-maturity |  
+| - | - | - | - |  
+| AFS | Available-for-sale | ICAAP | Internal Capital Adequacy Assessment Process |  
+| ALM | Asset and liability management | IRM | Independent Risk Management |  
+| AUM | Assets under management | IRLC | Interest rate lock commitment |  
+| AVM | Automated valuation model | ISDA | International Swaps and Derivatives Association, Inc. |  
+| BANA | Bank of America, National Association | LCR | Liquidity Coverage Ratio |  
+| BHC | Bank holding company | LGD | Loss given default |  
+| bps | basis points | LHFS | Loans held-for-sale |  
+| CCAR | Comprehensive Capital Analysis and Review | LIBOR | London InterBank Offered Rate |  
+| CDO | Collateralized debt obligation | LTV | Loan-to-value |  
+| CDS | Credit default swap :unselected: | MBS | Mortgage-backed securities |  
+| CET1 | Common equity tier 1 :unselected: | MD&A | Management's Discussion and Analysis of Financial Condition |  
+| CGA | Corporate General Auditor :unselected: | | and Results of Operations |  
+| CLO | Collateralized loan obligation :unselected: | MLGWM | Merrill Lynch Global Wealth Management |  
+| CLTV | Combined loan-to-value :unselected: | MLI | Merrill Lynch International |  
+| CVA | Credit valuation adjustment | MLPCC | Merrill Lynch Professional Clearing Corp |  
+| DIF | Deposit Insurance Fund | MLPF&S | Merrill Lynch, Pierce, Fenner & Smith Incorporated |  
+| DVA | Debit valuation adjustment | MRC | Management Risk Committee |  
+| EAD | Exposure at default | MSA | Metropolitan Statistical Area |  
+| EPS | Earnings per common share | MSR | Mortgage servicing right |  
+| ERC | Enterprise Risk Committee | NSFR | Net Stable Funding Ratio |  
+| EU | European Union | OAS | Option-adjusted spread :unselected: |  
+| FCA | Financial Conduct Authority | occ | Office of the Comptroller of the Currency :unselected: |  
+| FDIC | Federal Deposit Insurance Corporation | OCI | Other comprehensive income :unselected: |  
+| FHA | Federal Housing Administration | OREO | Other real estate owned :unselected: |  
+| FHLB | Federal Home Loan Bank | OTC | Over-the-counter :unselected: |  
+| FHLMC | Freddie Mac | OTTI | Other-than-temporary impairment :unselected: |  
+| FICC | Fixed-income, currencies and commodities | PCA | Prompt Corrective Action |  
+| FICO | Fair Isaac Corporation (credit score) | PCI | Purchased credit-impaired |  
+| FLUs | Front line units | RMBS | Residential mortgage-backed securities |  
+| FNMA | Fannie Mae | RSU | Restricted stock unit |  
+| FTE | Fully taxable-equivalent | SBLC | Standby letter of credit |  
+| FVA | Funding valuation adjustment | SCCL | Single-counterparty credit limits |  
+| GAAP | Accounting principles generally accepted in the United States of | SEC | Securities and Exchange Commission |  
+| | America | SLR | Supplementary leverage ratio |  
+| GDPR | General Data Protection Regulation | TDR | Troubled debt restructurings |  
+| GLS | Global Liquidity Sources | TLAC | Total loss-absorbing capacity |  
+| GM&CA | Global Marketing and Corporate Affairs | VA | U.S. Department of Veterans Affairs |  
+| GNMA | Government National Mortgage Association | VaR | Value-at-Risk |  
+| GSE | Government-sponsored enterprise | VIE | Variable interest entity |  
+| G-SIB | Global systemically important bank | | |  
+| GWIM | Global Wealth & Investment Management | | |  
+| HELOC | Home equity line of credit | | |  
+| HQLA | High Quality Liquid Assets | | |  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageNumber="169" -->  

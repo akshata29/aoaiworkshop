@@ -1,0 +1,67 @@
+# NOTE 18 Stock-based Compensation Plans  
+  
+The Corporation administers a number of equity compensation plans, with awards being granted predominantly from the Bank of America Key Employee Equity Plan (KEEP). Under this plan, 450 million shares of the Corporation's common stock are authorized to be used for grants of awards.  
+  
+During 2018 and 2017, the Corporation granted 71 million and 85 million RSU awards to certain employees under the KEEP. The RSUs were authorized to settle predominantly in shares of common stock of the Corporation. Certain RSUs will be settled in cash or contain settlement provisions that subject these awards to variable accounting whereby compensation expense is adjusted to fair value based on changes in the share price of the Corporation's common stock up to the settlement date. Of the RSUs granted in 2018 and 2017, 63 million and 85 million will vest in one-third increments on each of the first three anniversaries of the grant date provided that the employee remains continuously employed with the Corporation during that time, and will be expensed ratably over the vesting period, net of estimated forfeitures, for non-retirement eligible employees based on the grant-date fair value of the shares. Additionally, eight million of the RSUs granted in 2018 will vest in one-fourth increments on each of the first four anniversaries of the grant date provided that the employee remains continuously employed with the Corporation during that time, and will be expensed ratably over the vesting period, net of estimated forfeitures, based on the grant-date fair value of the shares. Awards granted in years prior to 2016 were predominantly cash settled.  
+  
+Effective October 1, 2017, the Corporation changed its accounting method for determining when stock-based compensation awards granted to retirement-eligible employees are deemed authorized, changing from the grant date to the beginning of the year preceding the grant date when the incentive award plans are generally approved. As a result, the estimated value of the awards is expensed ratably over the year preceding the grant date. The compensation cost for all periods prior to this change presented herein has been restated.  
+  
+The compensation cost for the stock-based plans was $1.8 billion, $2.2 billion and $2.2 billion and the related income tax benefit was $433 million, $829 million and $835 million for 2018, 2017 and 2016, respectively.  
+  
+  
+# Restricted Stock/Units  
+  
+The table below presents the status atDecember 31, 2018 of the share-settled restricted stock/units and changes during 2018.  
+  
+  
+## Stock-settled Restricted Stock/Units  
+  
+| | Shares/Units | Weighted- average Grant Date Fair Value |  
+| - | - | - |  
+| Outstanding at January 1, 2018 | 179,273,243 | $ 17.53 |  
+| Granted | 68,899,627 | 30.53 |  
+| Vested | (74,357,624) | 16.31 |  
+| Canceled | (8,194,000) | 22.84 |  
+| Outstanding at December 31, 2018 | 165,621,246 | 23.22 |  
+  
+The table below presents the status atDecember 31, 2018 of the cash-settled RSUs granted under the KEEP and changes during 2018.  
+  
+  
+# Cash-settled Restricted Units  
+  
+| | Units |  
+| - | - |  
+| Outstanding at January 1, 2018 | 42,209,626 |  
+| Granted | 2,195,025 |  
+| Vested | (41,434,793) |  
+| Canceled | (360,736) |  
+| Outstanding at December 31, 2018 | 2,609,122 |  
+  
+At December 31, 2018, there was an estimated$1.1 billion of total unrecognized compensation cost related to certain share-based compensation awards that is expected to be recognized over a period of up to four years, with a weighted- average period of 1.9 years. The total fair value of restricted stock vested in2018, 2017 and 2016 was $2.3 billion, $1.3 billion and $358 million, respectively. In 2018, 2017 and 2016, the amount of cash paid to settle equity-based awards for all equity compensation plans was $1.3 billion, $1.9 billion and $1.7 billion, respectively.  
+  
+  
+## Stock Options  
+  
+Of the 16.6 million stock options with a weighted-average exercise price of$43.44 outstanding at January 1, 2018, 2.1 million and 14.5 million were exercised and forfeited during 2018 at weighted-average exercise prices of $30.71 and $45.29. There were no outstanding stock options at December 31, 2018.  
+  
+  
+# NOTE 19 Income Taxes  
+  
+The components of income tax expense for2018, 2017 and 2016 are presented in the table below.  
+  
+| Income Tax Expense ||||  
+| (Dollars in millions) | 2018 | 2017 | 2016 |  
+| - | - | - | - |  
+| Current income tax expense | | | |  
+| U.S. federal | 816 | $ 1,310 | 302 |  
+| U.S. state and local | 1,377 | 557 | 120 |  
+| Non-U.S. | 1,203 | 939 | 984 |  
+| Total current expense | 3,396 | 2,806 | 1,406 |  
+| Deferred income tax expense | | | |  
+| U.S. federal | 2,579 | 7,238 | 5,416 |  
+| U.S. state and local | 240 | 835 | (279) |  
+| Non-U.S. | 222 | 102 | 656 |  
+| Total deferred expense | 3,041 | 8,175 | 5,793 |  
+| Total income tax expense | $ 6,437 | $ 10,981 | $ 7,199 |  
+  
+<!-- PageFooter="Bank of America 2018 148" -->  

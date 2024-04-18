@@ -1,0 +1,48 @@
+The FDIC also requires the submission of a resolution plan for Bank of America, N.A. (BANA), which must describe how the insured depository institution would be resolved under the bank resolution provisions of the Federal Deposit Insurance Act. A description of this plan is available on the FDIC's website.  
+  
+We continue to make substantial progress to enhance our resolvability, including simplifying our legal entity structure and business operations, and increasing our preparedness to implement our resolution plan, both from a financial and operational standpoint.  
+  
+Across international jurisdictions, resolution planning is the responsibility of national resolution authorities (RA). Of most impact to the Corporation are the requirements associated with subsidiaries in the U.K., Ireland and France, where rules have been issued requiring the submission of significant information about locally-incorporated subsidiaries, as well as the Corporation's affiliated branches located in those jurisdictions (including information on intra-group dependencies, legal entity separation and barriers to resolution) to allow the RA to plan their resolution strategies. As a result of the RA's review of the submitted information, we could be required to take certain actions over the next several years which could increase operating costs and potentially result in the restructuring of certain businesses and subsidiaries.  
+  
+For more information regarding our resolution plan, seeltem 1A. Risk Factors - Liquidity on page 6.  
+  
+  
+# Insolvency and the Orderly Liquidation Authority  
+  
+Under the Federal Deposit Insurance Act, the FDIC may be appointed receiver of an insured depository institution if it is insolvent or in certain other circumstances. In addition, under the Financial Reform Act, when a systemically important financial institution (SIFI) such as the Corporation is in default or danger of default, the FDIC may be appointed receiver in order to conduct an orderly liquidation of such institution. In the event of such appointment, the FDIC could, among other things, invoke the orderly liquidation authority, instead of the U.S. Bankruptcy Code, if the Secretary of the Treasury makes certain financial distress and systemic risk determinations. The orderly liquidation authority is modeled in part on the Federal Deposit Insurance Act, but also adopts certain concepts from the U.S. Bankruptcy Code.  
+  
+The orderly liquidation authority contains certain differences from the U.S. Bankruptcy Code. For example, in certain circumstances, the FDIC could permit payment of obligations it determines to be systemically significant (e.g., short-term creditors or operating creditors) in lieu of paying other obligations (e.g., long-term creditors) without the need to obtain creditors' consent or prior court review. The insolvency and resolution process could also lead to a large reduction or total elimination of the value of a BHC's outstanding equity, as well as impairment or elimination of certain debt.  
+  
+Under the FDIC's "single point of entry" strategy for resolving SIFIs, the FDIC could replace a distressed BHC with a bridge holding company, which could continue operations and result in an orderly resolution of the underlying bank, but whose equity is held solely for the benefit of creditors of the original BHC.  
+  
+Furthermore, the Federal Reserve requires that BHCs maintain minimum levels of long-term debt required to provide adequate loss absorbing capacity in the event of a resolution.  
+  
+For more information regarding our resolution, seeltem 1A. Risk Factors Liquidity on page 6.  
+  
+  
+# Limitations on Acquisitions  
+  
+The Riegle-Neal Interstate Banking and Branching Efficiency Act of 1994 permits a BHC to acquire banks located in states other  
+  
+than its home state without regard to state law, subject to certain conditions, including the condition that the BHC, after and as a result of the acquisition, controls no more than 10 percent of the total amount of deposits of insured depository institutions in the U.S. and no more than 30 percent or such lesser or greater amount set by state law of such deposits in that state. At June 30, 2018, we held greater than 10 percent of the total amount of deposits of insured depository institutions in the U.S.  
+  
+In addition, the Financial Reform Act restricts acquisitions by a financial institution if, as a result of the acquisition, the total liabilities of the financial institution would exceed 10 percent of the total liabilities of all financial institutions in the U.S. At June 30, 2018, our liabilities did not exceed 10 percent of the total liabilities of all financial institutions in the U.S.  
+  
+  
+## The Volcker Rule  
+  
+The Volcker Rule prohibits insured depository institutions and companies affiliated with insured depository institutions (collectively, banking entities) from engaging in short-term proprietary trading of certain securities, derivatives, commodity futures and options for their own account. The Volcker Rule also imposes limits on banking entities' investments in, and other relationships with, hedge funds and private equity funds. The Volcker Rule provides exemptions for certain activities, including market-making, underwriting, hedging, trading in government obligations, insurance company activities and organizing and offering hedge funds and private equity funds. The Volcker Rule also clarifies that certain activities are not prohibited, including acting as agent, broker or custodian. A banking entity with significant trading operations, such as the Corporation, is required to maintain a detailed compliance program to comply with the restrictions of the Volcker Rule.  
+  
+  
+### Derivatives  
+  
+Our derivatives operations are subject to extensive regulation globally. These operations are subject to regulation under the Financial Reform Act, the European Union (EU) Markets in Financial Instruments Directive and Regulation, the European Market Infrastructure Regulation and similar regulatory regimes in other jurisdictions, that regulate or will regulate the derivatives markets in which we operate by, among other things: requiring clearing and exchange trading of certain derivatives; imposing new capital, margin, reporting, registration and business conduct requirements for certain market participants; imposing position limits on certain over-the-counter (OTC) derivatives; and imposing derivatives trading transparency requirements. Regulations of derivatives are already in effect in many markets in which we operate.  
+  
+In addition, many G-20 jurisdictions, including the U.S., U.K., Germany and Japan, have adopted resolution stay regulations to address concerns that the close- out of derivatives and other financial contracts in resolution could impede orderly resolution of global systemically important banks (G-SIBs), and additional jurisdictions are expected to follow suit. We and 24 other G-SIBs have adhered to a protocol amending certain financial contracts to provide for contractual recognition of stays of termination rights under various statutory resolution regimes and a stay on the exercise of cross-default rights based on an affiliate's entry into U.S. bankruptcy proceedings. As resolution stay regulations of a particular jurisdiction go into effect, we amend financial contracts in compliance with such regulations.  
+  
+  
+#### Consumer Regulations  
+  
+Our consumer businesses are subject to extensive regulation and oversight by federal and state regulators. Certain federal consumer finance laws to which we are subject, including the Equal Credit Opportunity Act, Home Mortgage Disclosure Act, Electronic Fund  
+  
+Bank of America 2018 4  

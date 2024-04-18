@@ -1,0 +1,77 @@
+ Table 10 Average Balances and Interest Rates - FTE Basis  
+  
+| | Average Balance | Interest Income/ Expense | Yield/ Rate | Average Balance | Interest Income/ Expense | Yield/ Rate | Average Balance | Interest Income/ Expense | Yield/ Rate |  
+| - | - | - | - | - | - | - | - | - | - |  
+| (Dollars in millions) | | 2018 | | | | | | 2016   
+|||| || | | 2017 |||||   
+| Earning assets | | | | | | | | | |  
+| Interest-bearing deposits with the Federal Reserve, non-U.S. central banks and other banks | $ 139,848 | $ 1,926 | 1.38 % | $ 127,431 | $ 1,122 | 0.88 % | $ 133,374 | $ 605 | 0.45 % |  
+| Time deposits placed and other short-term investments | 9,446 | 216 | 2.29 | 12,112 | 241 | 1.99 | 9,026 | 140 | 1.55 |  
+| Federal funds sold and securities borrowed or purchased under agreements to resell (1) | 251,328 | 3,176 | 1.26 | 222,818 | 1,806 | 0.81 | 216,161 | 967 | 0.45 |  
+| Trading account assets | 132,724 | 4,901 | 3.69 | 129,007 | 4,618 | 3.58 | 129,766 | 4,563 | 3.52 |  
+| Debt securities | 437,312 | 11,837 | 2.66 | 435,005 | 10,626 | 2.44 | 418,289 | 9,263 | 2.23 |  
+| Loans and leases (2): | | | | | | | | | |  
+| Residential mortgage | 207,523 | 7,294 | 3.51 | 197,766 | 6,831 | 3.45 | 188,250 | 6,488 | 3.45 |  
+| Home equity | 53,886 | 2,573 | 4.77 | 62,260 | 2,608 | 4.19 | 71,760 | 2,713 | 3.78 |  
+| U.S. credit card | 94,612 | 9,579 | 10.12 | 91,068 | 8,791 | 9.65 | 87,905 | 8,170 | 9.29 |  
+| Non-U.S. credit card (3) | :unselected: | :unselected: | | 3,929 | 358 | 9.12 | 9,527 | 926 | 9.72 |  
+| Direct/Indirect and other consumer(4) | 93,036 | 3,104 | 3.34 | 96,002 | 2,734 | 2.85 | 94,148 | 2,371 | 2.52 |  
+| Total consumer | 449,057 | 22,550 | 5.02 | 451,025 | 21,322 | 4.73 | 451,590 | 20,668 | 4.58 |  
+| U.S. commercial | 304,387 | 11,937 | 3.92 | 292,452 | 9,765 | 3.34 | 276,887 | 8,101 | 2.93 |  
+| Non-U.S. commercial | 97,664 | 3,220 | 3.30 | 95,005 | 2,566 | 2.70 | 93,263 | 2,337 | 2.51 |  
+| Commercial real estate (5) | 60,384 | 2,618 | 4.34 | 58,502 | 2,116 | 3.62 | 57,547 | 1,773 | 3.08 |  
+| Commercial lease financing | 21,557 | 698 | 3.24 | 21,747 | 706 | 3.25 | 21,146 | 627 | 2.97 |  
+| Total commercial | 483,992 | 18,473 | 3.82 | 467,706 | 15,153 | 3.24 | 448,843 | 12,838 | 2.86 |  
+| Total loans and leases (3) | 933,049 | 41,023 | 4.40 | 918,731 | 36,475 | 3.97 | 900,433 | 33,506 | 3.72 |  
+| Other earning assets (1) | 76,524 | 4,300 | 5.62 | 76,957 | 3,224 | 4.19 | 59,775 | 2,496 | 4.18 |  
+| Total earning assets (1,6) | 1,980,231 | 67,379 | 3.40 | 1,922,061 | 58,112 | 3.02 | 1,866,824 | 51,540 | 2.76 |  
+| Cash and due from banks | 25,830 | | | 27,995 | | | 27,893 | | |  
+| Other assets, less allowance for loan and lease losses | 319,185 | | | 318,577 | | | 295,501 | | |  
+| Total assets | $ 2,325,246 | | | $ 2,268,633 | | | $ 2,190,218 | | |  
+| Interest-bearing liabilities | | | | | | | | | |  
+| U.S. interest-bearing deposits: | | | | | | | | | |  
+| Savings | $ 54,226 | $ | 0.01 % | $ 53,783 | $ 5 | 0.01 % | $ 49,495 | $ 5 | 0.01 % |  
+| NOW and money market deposit accounts | 676,382 | 2,636 | 0.39 | 628,647 | 873 | 0.14 | 589,737 | 294 | 0.05 |  
+| Consumer CDs and IRAs | 39,823 | 157 | 0.39 | 44,794 | 121 | 0.27 | 48,594 | 133 | 0.27 |  
+| Negotiable CDs, public funds and other deposits | 50,593 | 99 | 1.96 | 36,782 | 354 | 0.96 | 32,889 | 160 | 0.49 |  
+| Total U.S. interest-bearing deposits | 821,024 | 3,790 | 0.46 | 764,006 | 1,353 | 0.18 | 720,715 | 592 | 0.08 |  
+| Non-U.S. interest-bearing deposits: | | | | | | | | | |  
+| Banks located in non-U.S. countries | 2,312 | 39 | 1.69 | 2,442 | 21 | 0.85 | 3,891 | 32 | 0.82 |  
+| Governments and official institutions | 810 | | 0.01 | 1,006 | 10 | 0.95 | 1,437 | 9 | 0.64 |  
+| Time, savings and other | 65,097 | 666 | 1.02 | 62,386 | 547 | 0.88 | 59,183 | 382 | 0.65 |  
+| Total non-U.S. interest-bearing deposits | 68,219 | 705 | 1.03 | 65,834 | 578 | 0.88 | 64,511 | 423 | 0.66 |  
+| Total interest-bearing deposits | 889,243 | 4,495 | 0.51 | 829,840 | 1,931 | 0.23 | 785,226 | 1,015 | 0.13 |  
+| Federal funds purchased, securities loaned or sold under agreements to repurchase, short-term borrowings and other interest-bearing liabilities (1) | 269,748 | 5,839 | 2.17 | 274,975 | 3,146 | 1.14 | 252,585 | 1,933 | 0.77 |  
+| Trading account liabilities | 50,928 | 1,358 | 2.67 | 45,518 | 1,204 | 2.64 | 37,897 | 1,018 | 2.69 |  
+| Long-term debt | 230,693 | 7,645 | 3.31 | 225,133 | 6,239 | 2.77 | 228,617 | 5,578 | 2.44 |  
+| Total interest-bearing liabilities (1,6) | 1,440,612 | 19,337 | 1.34 | 1,375,466 | 12,520 | 0.91 | 1,304,325 | 9,544 | 0.73 |  
+| Noninterest-bearing sources: | | | | | | | | | |  
+| Noninterest-bearing deposits | 425,698 | | | 439,956 | | | 437,335 | | |  
+| Other liabilities (1) | 194,188 | | | 181,922 | | | 182,715 | | |  
+| Shareholders' equity | 264,748 | | | 271,289 | | | 265,843 | | |  
+| Total liabilities and shareholders' equity | $ 2,325,246 | | | $ 2,268,633 | | | $ 2,190,218 | | |  
+| Net interest spread | | | 2.06 % | | | 2.11 % | | | 2.03 % |  
+| Impact of noninterest-bearing sources | | | 0.36 | | | 0.26 | | | 0.22 |  
+| Net interest income/yield on earning assets (7) | | $ 48,042 | 2.42 % | | $ 45,592 | 2.37 % | | $ 41,996 | 2.25 % |  
+  
+(1) Certain prior-period amounts have been reclassified to conform to current period  
+  
+presentation.  
+  
+(2) Nonperforming loans are included in the respective average loan balances. Income on these nonperforming loans is generally recognized on a cost recovery  
+  
+basis.  
+  
+(3) Includes assets of the Corporation's non-U.S. consumer credit card business, which was sold during the second quarter of  
+  
+2017\.  
+  
+(4) Includes non-U.S. consumer loans of $2.8 billion, $2.9 billion and $3.4 billion in 2018, 2017 and 2016,  
+  
+(5) Includes U.S. commercial real estate loans of $56.4 billion, $55.0 billion and $54.2 billion, and non-U.S. commercial real estate loans of$4.0 billion, $3.5 billion and $3.4 billion in 2018, 2017 and 2016, respectively.  
+  
+respectively.  
+  
+(6) Interest income includes the impact of interest rate risk management contracts, which decreased interest income on the underlying assets by$171 million, $44 million and $176 million in 2018, 2017 and 2016, respectively. Interest expense includes the impact of interest rate risk management contracts, which decreased interest expense on the underlying liabilities by $130 million, $1.4 billion and $2.1 billion in 2018, 2017 and 2016, respectively. For more information, see Interest Rate Risk Management for the Banking Book on page 74.  
+  
+(7) Net interest income includes FTE adjustments of$610 million, $925 million and $900 million in 2018, 2017 and 2016, respectively.  

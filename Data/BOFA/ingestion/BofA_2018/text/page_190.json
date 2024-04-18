@@ -1,0 +1,4087 @@
+{
+    "status": "succeeded",
+    "createdDateTime": "2024-03-08T21:22:48Z",
+    "lastUpdatedDateTime": "2024-03-08T21:22:50Z",
+    "analyzeResult": {
+        "apiVersion": "2023-10-31-preview",
+        "modelId": "prebuilt-layout",
+        "stringIndexType": "utf16CodeUnit",
+        "content": "\n|| Exhibit No. Description  Notes | Form | Exhibit | Filing Date | File No. |\n| - | - | - | - | - | - |\n| 101.INS | XBRL Instance Document 3 | | | | |\n| 101.SCH | XBRL Taxonomy Extension Schema Document 2| | | | |\n| 101.CAL | XBRL Taxonomy Extension Calculation Linkbase Document | | | | |\n| 101.LAB | XBRL Taxonomy Extension Label Linkbase Document 2 | | | | |\n| 101.PRE | XBRL Taxonomy Extension Presentation Linkbase Document 2| | | | |\n| 101.DEF | XBRL Taxonomy Extension Definitions Linkbase Document 2 | | | | |\n\n(1) Exhibit is a management contract or compensatory plan or arrangement.\n\n(2) Filed Herewith.\n\n(3) The instance document does not appear in the interactive data file because its XBRL tags are embedded within the inline XBRL document.\n\n<!-- PageHeader=\"Bank of America 2018 176\" -->\n\nIncorporated by Reference\n NN NNN  ",
+        "pages": [
+            {
+                "pageNumber": 1,
+                "angle": 0,
+                "width": 2550,
+                "height": 3300,
+                "unit": "pixel",
+                "words": [
+                    {
+                        "content": "Exhibit",
+                        "polygon": [
+                            120,
+                            201,
+                            196,
+                            200,
+                            196,
+                            226,
+                            120,
+                            225
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 4,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "No.",
+                        "polygon": [
+                            203,
+                            200,
+                            238,
+                            200,
+                            237,
+                            227,
+                            203,
+                            226
+                        ],
+                        "confidence": 0.999,
+                        "span": {
+                            "offset": 12,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "Description",
+                        "polygon": [
+                            267,
+                            200,
+                            392,
+                            201,
+                            392,
+                            227,
+                            267,
+                            227
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 16,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "Notes",
+                        "polygon": [
+                            1640,
+                            203,
+                            1704,
+                            203,
+                            1704,
+                            224,
+                            1639,
+                            224
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 29,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "Form",
+                        "polygon": [
+                            1779,
+                            201,
+                            1840,
+                            201,
+                            1839,
+                            223,
+                            1779,
+                            222
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 37,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "Exhibit",
+                        "polygon": [
+                            1883,
+                            201,
+                            1963,
+                            201,
+                            1963,
+                            225,
+                            1882,
+                            225
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 44,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "Filing",
+                        "polygon": [
+                            2020,
+                            200,
+                            2082,
+                            200,
+                            2081,
+                            226,
+                            2019,
+                            226
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 54,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "Date",
+                        "polygon": [
+                            2090,
+                            200,
+                            2141,
+                            201,
+                            2141,
+                            226,
+                            2089,
+                            226
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 61,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "File",
+                        "polygon": [
+                            2230,
+                            200,
+                            2269,
+                            201,
+                            2269,
+                            225,
+                            2229,
+                            224
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 68,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "No.",
+                        "polygon": [
+                            2277,
+                            201,
+                            2315,
+                            202,
+                            2315,
+                            225,
+                            2277,
+                            225
+                        ],
+                        "confidence": 0.997,
+                        "span": {
+                            "offset": 73,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "101.INS",
+                        "polygon": [
+                            141,
+                            240,
+                            224,
+                            240,
+                            224,
+                            264,
+                            141,
+                            264
+                        ],
+                        "confidence": 0.982,
+                        "span": {
+                            "offset": 107,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "XBRL",
+                        "polygon": [
+                            262,
+                            239,
+                            325,
+                            240,
+                            324,
+                            266,
+                            261,
+                            266
+                        ],
+                        "confidence": 0.97,
+                        "span": {
+                            "offset": 117,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "Instance",
+                        "polygon": [
+                            332,
+                            240,
+                            416,
+                            240,
+                            416,
+                            266,
+                            332,
+                            266
+                        ],
+                        "confidence": 0.99,
+                        "span": {
+                            "offset": 122,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "Document",
+                        "polygon": [
+                            424,
+                            240,
+                            528,
+                            241,
+                            528,
+                            266,
+                            423,
+                            266
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 131,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "3",
+                        "polygon": [
+                            1663,
+                            242,
+                            1678,
+                            242,
+                            1678,
+                            261,
+                            1663,
+                            261
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 140,
+                            "length": 1
+                        }
+                    },
+                    {
+                        "content": "101.SCH",
+                        "polygon": [
+                            135,
+                            287,
+                            228,
+                            289,
+                            228,
+                            313,
+                            135,
+                            314
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 154,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "XBRL",
+                        "polygon": [
+                            263,
+                            288,
+                            325,
+                            288,
+                            325,
+                            315,
+                            263,
+                            315
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 164,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "Taxonomy",
+                        "polygon": [
+                            331,
+                            288,
+                            436,
+                            288,
+                            436,
+                            315,
+                            331,
+                            315
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 169,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "Extension",
+                        "polygon": [
+                            444,
+                            288,
+                            540,
+                            288,
+                            540,
+                            315,
+                            443,
+                            315
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 178,
+                            "length": 9
+                        }
+                    },
+                    {
+                        "content": "Schema",
+                        "polygon": [
+                            548,
+                            288,
+                            629,
+                            288,
+                            629,
+                            315,
+                            548,
+                            315
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 188,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "Document",
+                        "polygon": [
+                            637,
+                            288,
+                            741,
+                            288,
+                            741,
+                            315,
+                            637,
+                            315
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 195,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "2",
+                        "polygon": [
+                            1664,
+                            292,
+                            1679,
+                            292,
+                            1679,
+                            309,
+                            1664,
+                            309
+                        ],
+                        "confidence": 0.989,
+                        "span": {
+                            "offset": 204,
+                            "length": 1
+                        }
+                    },
+                    {
+                        "content": "101.CAL",
+                        "polygon": [
+                            136,
+                            334,
+                            225,
+                            335,
+                            225,
+                            359,
+                            136,
+                            360
+                        ],
+                        "confidence": 0.992,
+                        "span": {
+                            "offset": 217,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "XBRL",
+                        "polygon": [
+                            264,
+                            335,
+                            325,
+                            335,
+                            324,
+                            363,
+                            263,
+                            363
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 227,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "Taxonomy",
+                        "polygon": [
+                            331,
+                            335,
+                            436,
+                            335,
+                            435,
+                            363,
+                            330,
+                            363
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 232,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "Extension",
+                        "polygon": [
+                            444,
+                            335,
+                            541,
+                            335,
+                            540,
+                            362,
+                            443,
+                            363
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 241,
+                            "length": 9
+                        }
+                    },
+                    {
+                        "content": "Calculation",
+                        "polygon": [
+                            548,
+                            335,
+                            658,
+                            335,
+                            656,
+                            361,
+                            547,
+                            362
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 251,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "Linkbase",
+                        "polygon": [
+                            666,
+                            335,
+                            755,
+                            335,
+                            753,
+                            361,
+                            664,
+                            361
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 263,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "Document",
+                        "polygon": [
+                            762,
+                            335,
+                            866,
+                            336,
+                            866,
+                            360,
+                            761,
+                            361
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 272,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "101.LAB",
+                        "polygon": [
+                            137,
+                            383,
+                            224,
+                            384,
+                            224,
+                            408,
+                            135,
+                            408
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 293,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "XBRL",
+                        "polygon": [
+                            263,
+                            383,
+                            325,
+                            384,
+                            325,
+                            409,
+                            262,
+                            409
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 303,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "Taxonomy",
+                        "polygon": [
+                            331,
+                            384,
+                            436,
+                            384,
+                            435,
+                            410,
+                            330,
+                            409
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 308,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "Extension",
+                        "polygon": [
+                            444,
+                            384,
+                            541,
+                            385,
+                            540,
+                            410,
+                            443,
+                            410
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 317,
+                            "length": 9
+                        }
+                    },
+                    {
+                        "content": "Label",
+                        "polygon": [
+                            548,
+                            385,
+                            602,
+                            385,
+                            601,
+                            409,
+                            547,
+                            410
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 327,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "Linkbase",
+                        "polygon": [
+                            610,
+                            385,
+                            698,
+                            385,
+                            698,
+                            409,
+                            609,
+                            409
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 333,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "Document",
+                        "polygon": [
+                            706,
+                            385,
+                            812,
+                            386,
+                            811,
+                            408,
+                            705,
+                            409
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 342,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "2",
+                        "polygon": [
+                            1663,
+                            387,
+                            1678,
+                            387,
+                            1678,
+                            402,
+                            1663,
+                            402
+                        ],
+                        "confidence": 0.942,
+                        "span": {
+                            "offset": 351,
+                            "length": 1
+                        }
+                    },
+                    {
+                        "content": "101.PRE",
+                        "polygon": [
+                            135,
+                            430,
+                            229,
+                            431,
+                            228,
+                            454,
+                            135,
+                            454
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 365,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "XBRL",
+                        "polygon": [
+                            264,
+                            431,
+                            326,
+                            431,
+                            325,
+                            456,
+                            263,
+                            455
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 375,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "Taxonomy",
+                        "polygon": [
+                            331,
+                            431,
+                            436,
+                            432,
+                            435,
+                            456,
+                            330,
+                            456
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 380,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "Extension",
+                        "polygon": [
+                            444,
+                            432,
+                            540,
+                            432,
+                            540,
+                            456,
+                            443,
+                            456
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 389,
+                            "length": 9
+                        }
+                    },
+                    {
+                        "content": "Presentation",
+                        "polygon": [
+                            549,
+                            432,
+                            673,
+                            432,
+                            672,
+                            456,
+                            548,
+                            456
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 399,
+                            "length": 12
+                        }
+                    },
+                    {
+                        "content": "Linkbase",
+                        "polygon": [
+                            681,
+                            432,
+                            770,
+                            432,
+                            769,
+                            456,
+                            680,
+                            456
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 412,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "Document",
+                        "polygon": [
+                            777,
+                            432,
+                            881,
+                            432,
+                            880,
+                            455,
+                            777,
+                            456
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 421,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "2",
+                        "polygon": [
+                            1663,
+                            434,
+                            1678,
+                            434,
+                            1679,
+                            449,
+                            1663,
+                            450
+                        ],
+                        "confidence": 0.977,
+                        "span": {
+                            "offset": 430,
+                            "length": 1
+                        }
+                    },
+                    {
+                        "content": "101.DEF",
+                        "polygon": [
+                            135,
+                            478,
+                            228,
+                            479,
+                            227,
+                            502,
+                            135,
+                            502
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 443,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "XBRL",
+                        "polygon": [
+                            264,
+                            479,
+                            325,
+                            479,
+                            324,
+                            504,
+                            264,
+                            505
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 453,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "Taxonomy",
+                        "polygon": [
+                            331,
+                            479,
+                            436,
+                            479,
+                            436,
+                            504,
+                            331,
+                            504
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 458,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "Extension",
+                        "polygon": [
+                            443,
+                            479,
+                            540,
+                            480,
+                            540,
+                            504,
+                            443,
+                            504
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 467,
+                            "length": 9
+                        }
+                    },
+                    {
+                        "content": "Definitions",
+                        "polygon": [
+                            548,
+                            480,
+                            652,
+                            480,
+                            651,
+                            503,
+                            548,
+                            504
+                        ],
+                        "confidence": 0.99,
+                        "span": {
+                            "offset": 477,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "Linkbase",
+                        "polygon": [
+                            659,
+                            480,
+                            748,
+                            480,
+                            747,
+                            503,
+                            659,
+                            503
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 489,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "Document",
+                        "polygon": [
+                            755,
+                            480,
+                            860,
+                            480,
+                            860,
+                            502,
+                            755,
+                            503
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 498,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "2",
+                        "polygon": [
+                            1663,
+                            481,
+                            1680,
+                            481,
+                            1679,
+                            499,
+                            1663,
+                            498
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 507,
+                            "length": 1
+                        }
+                    },
+                    {
+                        "content": "(1)",
+                        "polygon": [
+                            100,
+                            530,
+                            122,
+                            530,
+                            121,
+                            553,
+                            99,
+                            553
+                        ],
+                        "confidence": 0.972,
+                        "span": {
+                            "offset": 520,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "Exhibit",
+                        "polygon": [
+                            130,
+                            530,
+                            188,
+                            531,
+                            187,
+                            553,
+                            130,
+                            553
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 524,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "is",
+                        "polygon": [
+                            192,
+                            531,
+                            209,
+                            531,
+                            208,
+                            553,
+                            191,
+                            553
+                        ],
+                        "confidence": 0.997,
+                        "span": {
+                            "offset": 532,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "a",
+                        "polygon": [
+                            215,
+                            531,
+                            226,
+                            531,
+                            225,
+                            554,
+                            214,
+                            554
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 535,
+                            "length": 1
+                        }
+                    },
+                    {
+                        "content": "management",
+                        "polygon": [
+                            232,
+                            531,
+                            349,
+                            531,
+                            348,
+                            554,
+                            231,
+                            554
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 537,
+                            "length": 10
+                        }
+                    },
+                    {
+                        "content": "contract",
+                        "polygon": [
+                            354,
+                            531,
+                            425,
+                            531,
+                            424,
+                            554,
+                            353,
+                            554
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 548,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "or",
+                        "polygon": [
+                            430,
+                            531,
+                            448,
+                            532,
+                            447,
+                            555,
+                            429,
+                            554
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 557,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "compensatory",
+                        "polygon": [
+                            454,
+                            532,
+                            579,
+                            532,
+                            578,
+                            554,
+                            453,
+                            555
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 560,
+                            "length": 12
+                        }
+                    },
+                    {
+                        "content": "plan",
+                        "polygon": [
+                            585,
+                            532,
+                            622,
+                            532,
+                            621,
+                            554,
+                            584,
+                            554
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 573,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "or",
+                        "polygon": [
+                            628,
+                            532,
+                            645,
+                            532,
+                            645,
+                            554,
+                            627,
+                            554
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 578,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "arrangement.",
+                        "polygon": [
+                            651,
+                            532,
+                            769,
+                            532,
+                            769,
+                            553,
+                            650,
+                            554
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 581,
+                            "length": 12
+                        }
+                    },
+                    {
+                        "content": "(2)",
+                        "polygon": [
+                            100,
+                            553,
+                            123,
+                            553,
+                            121,
+                            575,
+                            99,
+                            574
+                        ],
+                        "confidence": 0.986,
+                        "span": {
+                            "offset": 595,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "Filed",
+                        "polygon": [
+                            130,
+                            553,
+                            172,
+                            552,
+                            171,
+                            575,
+                            128,
+                            575
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 599,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "Herewith.",
+                        "polygon": [
+                            179,
+                            552,
+                            263,
+                            553,
+                            263,
+                            575,
+                            178,
+                            575
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 605,
+                            "length": 9
+                        }
+                    },
+                    {
+                        "content": "(3)",
+                        "polygon": [
+                            102,
+                            575,
+                            123,
+                            575,
+                            121,
+                            599,
+                            100,
+                            599
+                        ],
+                        "confidence": 0.965,
+                        "span": {
+                            "offset": 616,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "The",
+                        "polygon": [
+                            129,
+                            575,
+                            164,
+                            575,
+                            162,
+                            599,
+                            127,
+                            599
+                        ],
+                        "confidence": 0.999,
+                        "span": {
+                            "offset": 620,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "instance",
+                        "polygon": [
+                            170,
+                            575,
+                            244,
+                            576,
+                            242,
+                            600,
+                            168,
+                            600
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 624,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "document",
+                        "polygon": [
+                            250,
+                            576,
+                            338,
+                            576,
+                            336,
+                            600,
+                            248,
+                            600
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 633,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "does",
+                        "polygon": [
+                            343,
+                            576,
+                            384,
+                            576,
+                            382,
+                            600,
+                            342,
+                            600
+                        ],
+                        "confidence": 0.987,
+                        "span": {
+                            "offset": 642,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "not",
+                        "polygon": [
+                            388,
+                            576,
+                            420,
+                            576,
+                            418,
+                            600,
+                            387,
+                            600
+                        ],
+                        "confidence": 0.997,
+                        "span": {
+                            "offset": 647,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "appear",
+                        "polygon": [
+                            426,
+                            576,
+                            485,
+                            576,
+                            483,
+                            600,
+                            424,
+                            600
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 651,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "in",
+                        "polygon": [
+                            490,
+                            576,
+                            508,
+                            576,
+                            506,
+                            600,
+                            488,
+                            600
+                        ],
+                        "confidence": 0.997,
+                        "span": {
+                            "offset": 658,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "the",
+                        "polygon": [
+                            513,
+                            576,
+                            539,
+                            576,
+                            537,
+                            600,
+                            512,
+                            600
+                        ],
+                        "confidence": 0.998,
+                        "span": {
+                            "offset": 661,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "interactive",
+                        "polygon": [
+                            544,
+                            576,
+                            637,
+                            576,
+                            636,
+                            600,
+                            542,
+                            600
+                        ],
+                        "confidence": 0.988,
+                        "span": {
+                            "offset": 665,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "data",
+                        "polygon": [
+                            643,
+                            576,
+                            682,
+                            576,
+                            680,
+                            600,
+                            642,
+                            600
+                        ],
+                        "confidence": 0.991,
+                        "span": {
+                            "offset": 677,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "file",
+                        "polygon": [
+                            687,
+                            576,
+                            713,
+                            576,
+                            711,
+                            600,
+                            686,
+                            600
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 682,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "because",
+                        "polygon": [
+                            719,
+                            576,
+                            794,
+                            576,
+                            793,
+                            600,
+                            717,
+                            600
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 687,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "its",
+                        "polygon": [
+                            801,
+                            576,
+                            820,
+                            576,
+                            818,
+                            600,
+                            799,
+                            600
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 695,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "XBRL",
+                        "polygon": [
+                            826,
+                            576,
+                            878,
+                            576,
+                            877,
+                            600,
+                            824,
+                            600
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 699,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "tags",
+                        "polygon": [
+                            883,
+                            576,
+                            921,
+                            576,
+                            919,
+                            600,
+                            881,
+                            600
+                        ],
+                        "confidence": 0.989,
+                        "span": {
+                            "offset": 704,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "are",
+                        "polygon": [
+                            927,
+                            576,
+                            955,
+                            576,
+                            953,
+                            600,
+                            926,
+                            600
+                        ],
+                        "confidence": 0.999,
+                        "span": {
+                            "offset": 709,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "embedded",
+                        "polygon": [
+                            961,
+                            575,
+                            1054,
+                            575,
+                            1053,
+                            599,
+                            960,
+                            600
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 713,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "within",
+                        "polygon": [
+                            1060,
+                            575,
+                            1111,
+                            575,
+                            1110,
+                            599,
+                            1059,
+                            599
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 722,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "the",
+                        "polygon": [
+                            1117,
+                            575,
+                            1142,
+                            575,
+                            1141,
+                            599,
+                            1116,
+                            599
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 729,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "inline",
+                        "polygon": [
+                            1147,
+                            575,
+                            1197,
+                            575,
+                            1196,
+                            599,
+                            1146,
+                            599
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 733,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "XBRL",
+                        "polygon": [
+                            1202,
+                            575,
+                            1255,
+                            575,
+                            1254,
+                            599,
+                            1201,
+                            599
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 740,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "document.",
+                        "polygon": [
+                            1260,
+                            575,
+                            1356,
+                            574,
+                            1355,
+                            599,
+                            1259,
+                            599
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 745,
+                            "length": 9
+                        }
+                    },
+                    {
+                        "content": "Bank",
+                        "polygon": [
+                            2045,
+                            711,
+                            2097,
+                            711,
+                            2097,
+                            735,
+                            2045,
+                            735
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 773,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "of",
+                        "polygon": [
+                            2104,
+                            711,
+                            2123,
+                            711,
+                            2123,
+                            735,
+                            2104,
+                            735
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 778,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "America",
+                        "polygon": [
+                            2128,
+                            711,
+                            2210,
+                            710,
+                            2210,
+                            735,
+                            2128,
+                            735
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 781,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "2018",
+                        "polygon": [
+                            2217,
+                            710,
+                            2267,
+                            710,
+                            2267,
+                            735,
+                            2217,
+                            735
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 789,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "176",
+                        "polygon": [
+                            2300,
+                            710,
+                            2340,
+                            710,
+                            2340,
+                            736,
+                            2300,
+                            735
+                        ],
+                        "confidence": 0.999,
+                        "span": {
+                            "offset": 794,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "Incorporated",
+                        "polygon": [
+                            1920,
+                            160,
+                            2059,
+                            161,
+                            2058,
+                            187,
+                            1919,
+                            187
+                        ],
+                        "confidence": 0.992,
+                        "span": {
+                            "offset": 804,
+                            "length": 12
+                        }
+                    },
+                    {
+                        "content": "by",
+                        "polygon": [
+                            2067,
+                            161,
+                            2092,
+                            161,
+                            2091,
+                            187,
+                            2066,
+                            187
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 817,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "Reference",
+                        "polygon": [
+                            2099,
+                            161,
+                            2211,
+                            162,
+                            2211,
+                            186,
+                            2099,
+                            187
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 820,
+                            "length": 9
+                        }
+                    },
+                    {
+                        "content": "NN",
+                        "polygon": [
+                            1678,
+                            292,
+                            1678,
+                            356,
+                            1660,
+                            356,
+                            1661,
+                            293
+                        ],
+                        "confidence": 0.687,
+                        "span": {
+                            "offset": 831,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "NNN",
+                        "polygon": [
+                            1678,
+                            387,
+                            1679,
+                            503,
+                            1660,
+                            503,
+                            1660,
+                            387
+                        ],
+                        "confidence": 0.387,
+                        "span": {
+                            "offset": 834,
+                            "length": 3
+                        }
+                    }
+                ],
+                "lines": [
+                    {
+                        "content": "Exhibit No. Description",
+                        "polygon": [
+                            116,
+                            200,
+                            391,
+                            200,
+                            391,
+                            227,
+                            116,
+                            226
+                        ],
+                        "spans": [
+                            {
+                                "offset": 4,
+                                "length": 23
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Notes",
+                        "polygon": [
+                            1639,
+                            203,
+                            1703,
+                            203,
+                            1703,
+                            223,
+                            1639,
+                            224
+                        ],
+                        "spans": [
+                            {
+                                "offset": 29,
+                                "length": 5
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Form",
+                        "polygon": [
+                            1779,
+                            201,
+                            1839,
+                            201,
+                            1838,
+                            223,
+                            1778,
+                            222
+                        ],
+                        "spans": [
+                            {
+                                "offset": 37,
+                                "length": 4
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Exhibit",
+                        "polygon": [
+                            1881,
+                            200,
+                            1962,
+                            200,
+                            1962,
+                            224,
+                            1881,
+                            224
+                        ],
+                        "spans": [
+                            {
+                                "offset": 44,
+                                "length": 7
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Filing Date",
+                        "polygon": [
+                            2017,
+                            199,
+                            2140,
+                            200,
+                            2140,
+                            226,
+                            2017,
+                            225
+                        ],
+                        "spans": [
+                            {
+                                "offset": 54,
+                                "length": 11
+                            }
+                        ]
+                    },
+                    {
+                        "content": "File No.",
+                        "polygon": [
+                            2229,
+                            200,
+                            2315,
+                            201,
+                            2314,
+                            225,
+                            2229,
+                            224
+                        ],
+                        "spans": [
+                            {
+                                "offset": 68,
+                                "length": 8
+                            }
+                        ]
+                    },
+                    {
+                        "content": "101.INS",
+                        "polygon": [
+                            140,
+                            239,
+                            223,
+                            239,
+                            223,
+                            263,
+                            140,
+                            264
+                        ],
+                        "spans": [
+                            {
+                                "offset": 107,
+                                "length": 7
+                            }
+                        ]
+                    },
+                    {
+                        "content": "XBRL Instance Document",
+                        "polygon": [
+                            261,
+                            239,
+                            527,
+                            239,
+                            527,
+                            266,
+                            261,
+                            265
+                        ],
+                        "spans": [
+                            {
+                                "offset": 117,
+                                "length": 22
+                            }
+                        ]
+                    },
+                    {
+                        "content": "3",
+                        "polygon": [
+                            1666,
+                            242,
+                            1678,
+                            243,
+                            1678,
+                            260,
+                            1663,
+                            261
+                        ],
+                        "spans": [
+                            {
+                                "offset": 140,
+                                "length": 1
+                            }
+                        ]
+                    },
+                    {
+                        "content": "101.SCH",
+                        "polygon": [
+                            135,
+                            287,
+                            227,
+                            287,
+                            227,
+                            313,
+                            135,
+                            313
+                        ],
+                        "spans": [
+                            {
+                                "offset": 154,
+                                "length": 7
+                            }
+                        ]
+                    },
+                    {
+                        "content": "XBRL Taxonomy Extension Schema Document",
+                        "polygon": [
+                            262,
+                            287,
+                            740,
+                            287,
+                            740,
+                            314,
+                            262,
+                            314
+                        ],
+                        "spans": [
+                            {
+                                "offset": 164,
+                                "length": 39
+                            }
+                        ]
+                    },
+                    {
+                        "content": "2",
+                        "polygon": [
+                            1666,
+                            292,
+                            1678,
+                            292,
+                            1678,
+                            309,
+                            1664,
+                            309
+                        ],
+                        "spans": [
+                            {
+                                "offset": 204,
+                                "length": 1
+                            }
+                        ]
+                    },
+                    {
+                        "content": "101.CAL",
+                        "polygon": [
+                            135,
+                            334,
+                            224,
+                            334,
+                            224,
+                            359,
+                            135,
+                            359
+                        ],
+                        "spans": [
+                            {
+                                "offset": 217,
+                                "length": 7
+                            }
+                        ]
+                    },
+                    {
+                        "content": "XBRL Taxonomy Extension Calculation Linkbase Document",
+                        "polygon": [
+                            262,
+                            334,
+                            865,
+                            334,
+                            865,
+                            361,
+                            262,
+                            362
+                        ],
+                        "spans": [
+                            {
+                                "offset": 227,
+                                "length": 53
+                            }
+                        ]
+                    },
+                    {
+                        "content": "101.LAB",
+                        "polygon": [
+                            134,
+                            383,
+                            223,
+                            383,
+                            223,
+                            407,
+                            134,
+                            407
+                        ],
+                        "spans": [
+                            {
+                                "offset": 293,
+                                "length": 7
+                            }
+                        ]
+                    },
+                    {
+                        "content": "XBRL Taxonomy Extension Label Linkbase Document",
+                        "polygon": [
+                            262,
+                            383,
+                            811,
+                            383,
+                            811,
+                            409,
+                            262,
+                            409
+                        ],
+                        "spans": [
+                            {
+                                "offset": 303,
+                                "length": 47
+                            }
+                        ]
+                    },
+                    {
+                        "content": "2",
+                        "polygon": [
+                            1666,
+                            387,
+                            1677,
+                            388,
+                            1676,
+                            401,
+                            1663,
+                            402
+                        ],
+                        "spans": [
+                            {
+                                "offset": 351,
+                                "length": 1
+                            }
+                        ]
+                    },
+                    {
+                        "content": "101.PRE",
+                        "polygon": [
+                            134,
+                            429,
+                            228,
+                            430,
+                            228,
+                            454,
+                            134,
+                            454
+                        ],
+                        "spans": [
+                            {
+                                "offset": 365,
+                                "length": 7
+                            }
+                        ]
+                    },
+                    {
+                        "content": "XBRL Taxonomy Extension Presentation Linkbase Document",
+                        "polygon": [
+                            262,
+                            430,
+                            880,
+                            431,
+                            880,
+                            456,
+                            262,
+                            455
+                        ],
+                        "spans": [
+                            {
+                                "offset": 375,
+                                "length": 54
+                            }
+                        ]
+                    },
+                    {
+                        "content": "2",
+                        "polygon": [
+                            1666,
+                            434,
+                            1678,
+                            434,
+                            1678,
+                            449,
+                            1663,
+                            450
+                        ],
+                        "spans": [
+                            {
+                                "offset": 430,
+                                "length": 1
+                            }
+                        ]
+                    },
+                    {
+                        "content": "101.DEF",
+                        "polygon": [
+                            135,
+                            478,
+                            227,
+                            478,
+                            227,
+                            502,
+                            135,
+                            502
+                        ],
+                        "spans": [
+                            {
+                                "offset": 443,
+                                "length": 7
+                            }
+                        ]
+                    },
+                    {
+                        "content": "XBRL Taxonomy Extension Definitions Linkbase Document",
+                        "polygon": [
+                            263,
+                            478,
+                            859,
+                            478,
+                            859,
+                            503,
+                            263,
+                            504
+                        ],
+                        "spans": [
+                            {
+                                "offset": 453,
+                                "length": 53
+                            }
+                        ]
+                    },
+                    {
+                        "content": "2",
+                        "polygon": [
+                            1665,
+                            481,
+                            1679,
+                            482,
+                            1678,
+                            499,
+                            1663,
+                            499
+                        ],
+                        "spans": [
+                            {
+                                "offset": 507,
+                                "length": 1
+                            }
+                        ]
+                    },
+                    {
+                        "content": "(1) Exhibit is a management contract or compensatory plan or arrangement.",
+                        "polygon": [
+                            98,
+                            530,
+                            768,
+                            531,
+                            768,
+                            554,
+                            98,
+                            553
+                        ],
+                        "spans": [
+                            {
+                                "offset": 520,
+                                "length": 73
+                            }
+                        ]
+                    },
+                    {
+                        "content": "(2) Filed Herewith.",
+                        "polygon": [
+                            98,
+                            552,
+                            262,
+                            552,
+                            262,
+                            575,
+                            98,
+                            574
+                        ],
+                        "spans": [
+                            {
+                                "offset": 595,
+                                "length": 19
+                            }
+                        ]
+                    },
+                    {
+                        "content": "(3) The instance document does not appear in the interactive data file because its XBRL tags are embedded within the inline XBRL document.",
+                        "polygon": [
+                            99,
+                            575,
+                            1355,
+                            574,
+                            1355,
+                            598,
+                            99,
+                            600
+                        ],
+                        "spans": [
+                            {
+                                "offset": 616,
+                                "length": 138
+                            }
+                        ]
+                    },
+                    {
+                        "content": "<!-- PageHeader=\"Bank of America 2018 176\" -->",
+                        "polygon": [
+                            2041,
+                            710,
+                            2340,
+                            710,
+                            2340,
+                            735,
+                            2041,
+                            735
+                        ],
+                        "spans": [
+                            {
+                                "offset": 756,
+                                "length": 46
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Incorporated by Reference",
+                        "polygon": [
+                            1919,
+                            160,
+                            2210,
+                            160,
+                            2210,
+                            186,
+                            1919,
+                            186
+                        ],
+                        "spans": [
+                            {
+                                "offset": 804,
+                                "length": 25
+                            }
+                        ]
+                    },
+                    {
+                        "content": "NN NNN",
+                        "polygon": [
+                            1679,
+                            272,
+                            1678,
+                            502,
+                            1659,
+                            502,
+                            1660,
+                            272
+                        ],
+                        "spans": [
+                            {
+                                "offset": 831,
+                                "length": 6
+                            }
+                        ]
+                    }
+                ],
+                "spans": [
+                    {
+                        "offset": 0,
+                        "length": 839
+                    }
+                ]
+            }
+        ],
+        "tables": [
+            {
+                "rowCount": 7,
+                "columnCount": 6,
+                "cells": [
+                    {
+                        "kind": "columnHeader",
+                        "rowIndex": 0,
+                        "columnIndex": 0,
+                        "content": "Exhibit No.",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    99,
+                                    190,
+                                    247,
+                                    190,
+                                    247,
+                                    232,
+                                    99,
+                                    231
+                                ]
+                            }
+                        ],
+                        "spans": [
+                            {
+                                "offset": 4,
+                                "length": 11
+                            }
+                        ],
+                        "elements": [
+                            "/paragraphs/0"
+                        ]
+                    },
+                    {
+                        "kind": "columnHeader",
+                        "rowIndex": 0,
+                        "columnIndex": 1,
+                        "content": "Description\nNotes",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    247,
+                                    190,
+                                    1742,
+                                    190,
+                                    1742,
+                                    232,
+                                    247,
+                                    232
+                                ]
+                            }
+                        ],
+                        "spans": [
+                            {
+                                "offset": 16,
+                                "length": 11
+                            },
+                            {
+                                "offset": 29,
+                                "length": 5
+                            }
+                        ],
+                        "elements": [
+                            "/paragraphs/1"
+                        ]
+                    },
+                    {
+                        "kind": "columnHeader",
+                        "rowIndex": 0,
+                        "columnIndex": 2,
+                        "content": "Form",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    1742,
+                                    190,
+                                    1861,
+                                    190,
+                                    1861,
+                                    232,
+                                    1742,
+                                    232
+                                ]
+                            }
+                        ],
+                        "spans": [
+                            {
+                                "offset": 37,
+                                "length": 4
+                            }
+                        ],
+                        "elements": [
+                            "/paragraphs/2"
+                        ]
+                    },
+                    {
+                        "kind": "columnHeader",
+                        "rowIndex": 0,
+                        "columnIndex": 3,
+                        "content": "Exhibit",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    1861,
+                                    190,
+                                    1990,
+                                    190,
+                                    1990,
+                                    232,
+                                    1861,
+                                    232
+                                ]
+                            }
+                        ],
+                        "spans": [
+                            {
+                                "offset": 44,
+                                "length": 7
+                            }
+                        ],
+                        "elements": [
+                            "/paragraphs/3"
+                        ]
+                    },
+                    {
+                        "kind": "columnHeader",
+                        "rowIndex": 0,
+                        "columnIndex": 4,
+                        "content": "Filing Date",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    1990,
+                                    190,
+                                    2184,
+                                    190,
+                                    2184,
+                                    232,
+                                    1990,
+                                    232
+                                ]
+                            }
+                        ],
+                        "spans": [
+                            {
+                                "offset": 54,
+                                "length": 11
+                            }
+                        ],
+                        "elements": [
+                            "/paragraphs/4"
+                        ]
+                    },
+                    {
+                        "kind": "columnHeader",
+                        "rowIndex": 0,
+                        "columnIndex": 5,
+                        "content": "File No.",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    2184,
+                                    190,
+                                    2352,
+                                    190,
+                                    2354,
+                                    232,
+                                    2184,
+                                    232
+                                ]
+                            }
+                        ],
+                        "spans": [
+                            {
+                                "offset": 68,
+                                "length": 8
+                            }
+                        ],
+                        "elements": [
+                            "/paragraphs/5"
+                        ]
+                    },
+                    {
+                        "rowIndex": 1,
+                        "columnIndex": 0,
+                        "content": "101.INS",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    99,
+                                    231,
+                                    247,
+                                    232,
+                                    247,
+                                    277,
+                                    99,
+                                    277
+                                ]
+                            }
+                        ],
+                        "spans": [
+                            {
+                                "offset": 107,
+                                "length": 7
+                            }
+                        ],
+                        "elements": [
+                            "/paragraphs/6"
+                        ]
+                    },
+                    {
+                        "rowIndex": 1,
+                        "columnIndex": 1,
+                        "content": "XBRL Instance Document 3",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    247,
+                                    232,
+                                    1742,
+                                    232,
+                                    1742,
+                                    277,
+                                    247,
+                                    277
+                                ]
+                            }
+                        ],
+                        "spans": [
+                            {
+                                "offset": 117,
+                                "length": 24
+                            }
+                        ],
+                        "elements": [
+                            "/paragraphs/7"
+                        ]
+                    },
+                    {
+                        "rowIndex": 1,
+                        "columnIndex": 2,
+                        "content": "",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    1742,
+                                    232,
+                                    1861,
+                                    232,
+                                    1862,
+                                    277,
+                                    1742,
+                                    277
+                                ]
+                            }
+                        ],
+                        "spans": []
+                    },
+                    {
+                        "rowIndex": 1,
+                        "columnIndex": 3,
+                        "content": "",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    1861,
+                                    232,
+                                    1990,
+                                    232,
+                                    1992,
+                                    277,
+                                    1862,
+                                    277
+                                ]
+                            }
+                        ],
+                        "spans": []
+                    },
+                    {
+                        "rowIndex": 1,
+                        "columnIndex": 4,
+                        "content": "",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    1990,
+                                    232,
+                                    2184,
+                                    232,
+                                    2184,
+                                    276,
+                                    1992,
+                                    277
+                                ]
+                            }
+                        ],
+                        "spans": []
+                    },
+                    {
+                        "rowIndex": 1,
+                        "columnIndex": 5,
+                        "content": "",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    2184,
+                                    232,
+                                    2354,
+                                    232,
+                                    2354,
+                                    275,
+                                    2184,
+                                    276
+                                ]
+                            }
+                        ],
+                        "spans": []
+                    },
+                    {
+                        "rowIndex": 2,
+                        "columnIndex": 0,
+                        "content": "101.SCH",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    99,
+                                    277,
+                                    247,
+                                    277,
+                                    247,
+                                    324,
+                                    99,
+                                    324
+                                ]
+                            }
+                        ],
+                        "spans": [
+                            {
+                                "offset": 154,
+                                "length": 7
+                            }
+                        ],
+                        "elements": [
+                            "/paragraphs/8"
+                        ]
+                    },
+                    {
+                        "rowIndex": 2,
+                        "columnIndex": 1,
+                        "content": "XBRL Taxonomy Extension Schema Document 2\nNN",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    247,
+                                    277,
+                                    1742,
+                                    277,
+                                    1744,
+                                    324,
+                                    247,
+                                    324
+                                ]
+                            }
+                        ],
+                        "spans": [
+                            {
+                                "offset": 164,
+                                "length": 41
+                            },
+                            {
+                                "offset": 831,
+                                "length": 2
+                            }
+                        ],
+                        "elements": [
+                            "/paragraphs/9"
+                        ]
+                    },
+                    {
+                        "rowIndex": 2,
+                        "columnIndex": 2,
+                        "content": "",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    1742,
+                                    277,
+                                    1862,
+                                    277,
+                                    1862,
+                                    324,
+                                    1744,
+                                    324
+                                ]
+                            }
+                        ],
+                        "spans": []
+                    },
+                    {
+                        "rowIndex": 2,
+                        "columnIndex": 3,
+                        "content": "",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    1862,
+                                    277,
+                                    1992,
+                                    277,
+                                    1992,
+                                    324,
+                                    1862,
+                                    324
+                                ]
+                            }
+                        ],
+                        "spans": []
+                    },
+                    {
+                        "rowIndex": 2,
+                        "columnIndex": 4,
+                        "content": "",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    1992,
+                                    277,
+                                    2184,
+                                    276,
+                                    2184,
+                                    324,
+                                    1992,
+                                    324
+                                ]
+                            }
+                        ],
+                        "spans": []
+                    },
+                    {
+                        "rowIndex": 2,
+                        "columnIndex": 5,
+                        "content": "",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    2184,
+                                    276,
+                                    2354,
+                                    275,
+                                    2354,
+                                    324,
+                                    2184,
+                                    324
+                                ]
+                            }
+                        ],
+                        "spans": []
+                    },
+                    {
+                        "rowIndex": 3,
+                        "columnIndex": 0,
+                        "content": "101.CAL",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    99,
+                                    324,
+                                    247,
+                                    324,
+                                    247,
+                                    372,
+                                    99,
+                                    372
+                                ]
+                            }
+                        ],
+                        "spans": [
+                            {
+                                "offset": 217,
+                                "length": 7
+                            }
+                        ],
+                        "elements": [
+                            "/paragraphs/10"
+                        ]
+                    },
+                    {
+                        "rowIndex": 3,
+                        "columnIndex": 1,
+                        "content": "XBRL Taxonomy Extension Calculation Linkbase Document",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    247,
+                                    324,
+                                    1744,
+                                    324,
+                                    1744,
+                                    372,
+                                    247,
+                                    372
+                                ]
+                            }
+                        ],
+                        "spans": [
+                            {
+                                "offset": 227,
+                                "length": 53
+                            }
+                        ],
+                        "elements": [
+                            "/paragraphs/11"
+                        ]
+                    },
+                    {
+                        "rowIndex": 3,
+                        "columnIndex": 2,
+                        "content": "",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    1744,
+                                    324,
+                                    1862,
+                                    324,
+                                    1862,
+                                    372,
+                                    1744,
+                                    372
+                                ]
+                            }
+                        ],
+                        "spans": []
+                    },
+                    {
+                        "rowIndex": 3,
+                        "columnIndex": 3,
+                        "content": "",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    1862,
+                                    324,
+                                    1992,
+                                    324,
+                                    1992,
+                                    372,
+                                    1862,
+                                    372
+                                ]
+                            }
+                        ],
+                        "spans": []
+                    },
+                    {
+                        "rowIndex": 3,
+                        "columnIndex": 4,
+                        "content": "",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    1992,
+                                    324,
+                                    2184,
+                                    324,
+                                    2184,
+                                    372,
+                                    1992,
+                                    372
+                                ]
+                            }
+                        ],
+                        "spans": []
+                    },
+                    {
+                        "rowIndex": 3,
+                        "columnIndex": 5,
+                        "content": "",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    2184,
+                                    324,
+                                    2354,
+                                    324,
+                                    2354,
+                                    372,
+                                    2184,
+                                    372
+                                ]
+                            }
+                        ],
+                        "spans": []
+                    },
+                    {
+                        "rowIndex": 4,
+                        "columnIndex": 0,
+                        "content": "101.LAB",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    99,
+                                    372,
+                                    247,
+                                    372,
+                                    247,
+                                    420,
+                                    99,
+                                    420
+                                ]
+                            }
+                        ],
+                        "spans": [
+                            {
+                                "offset": 293,
+                                "length": 7
+                            }
+                        ],
+                        "elements": [
+                            "/paragraphs/12"
+                        ]
+                    },
+                    {
+                        "rowIndex": 4,
+                        "columnIndex": 1,
+                        "content": "XBRL Taxonomy Extension Label Linkbase Document 2",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    247,
+                                    372,
+                                    1744,
+                                    372,
+                                    1745,
+                                    419,
+                                    247,
+                                    420
+                                ]
+                            }
+                        ],
+                        "spans": [
+                            {
+                                "offset": 303,
+                                "length": 49
+                            }
+                        ],
+                        "elements": [
+                            "/paragraphs/13"
+                        ]
+                    },
+                    {
+                        "rowIndex": 4,
+                        "columnIndex": 2,
+                        "content": "",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    1744,
+                                    372,
+                                    1862,
+                                    372,
+                                    1864,
+                                    419,
+                                    1745,
+                                    419
+                                ]
+                            }
+                        ],
+                        "spans": []
+                    },
+                    {
+                        "rowIndex": 4,
+                        "columnIndex": 3,
+                        "content": "",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    1862,
+                                    372,
+                                    1992,
+                                    372,
+                                    1993,
+                                    419,
+                                    1864,
+                                    419
+                                ]
+                            }
+                        ],
+                        "spans": []
+                    },
+                    {
+                        "rowIndex": 4,
+                        "columnIndex": 4,
+                        "content": "",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    1992,
+                                    372,
+                                    2184,
+                                    372,
+                                    2184,
+                                    419,
+                                    1993,
+                                    419
+                                ]
+                            }
+                        ],
+                        "spans": []
+                    },
+                    {
+                        "rowIndex": 4,
+                        "columnIndex": 5,
+                        "content": "",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    2184,
+                                    372,
+                                    2354,
+                                    372,
+                                    2354,
+                                    419,
+                                    2184,
+                                    419
+                                ]
+                            }
+                        ],
+                        "spans": []
+                    },
+                    {
+                        "rowIndex": 5,
+                        "columnIndex": 0,
+                        "content": "101.PRE",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    99,
+                                    420,
+                                    247,
+                                    420,
+                                    247,
+                                    467,
+                                    97,
+                                    467
+                                ]
+                            }
+                        ],
+                        "spans": [
+                            {
+                                "offset": 365,
+                                "length": 7
+                            }
+                        ],
+                        "elements": [
+                            "/paragraphs/14"
+                        ]
+                    },
+                    {
+                        "rowIndex": 5,
+                        "columnIndex": 1,
+                        "content": "XBRL Taxonomy Extension Presentation Linkbase Document 2\nNNN",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    247,
+                                    420,
+                                    1745,
+                                    419,
+                                    1745,
+                                    467,
+                                    247,
+                                    467
+                                ]
+                            }
+                        ],
+                        "spans": [
+                            {
+                                "offset": 375,
+                                "length": 56
+                            },
+                            {
+                                "offset": 834,
+                                "length": 3
+                            }
+                        ],
+                        "elements": [
+                            "/paragraphs/15"
+                        ]
+                    },
+                    {
+                        "rowIndex": 5,
+                        "columnIndex": 2,
+                        "content": "",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    1745,
+                                    419,
+                                    1864,
+                                    419,
+                                    1864,
+                                    466,
+                                    1745,
+                                    467
+                                ]
+                            }
+                        ],
+                        "spans": []
+                    },
+                    {
+                        "rowIndex": 5,
+                        "columnIndex": 3,
+                        "content": "",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    1864,
+                                    419,
+                                    1993,
+                                    419,
+                                    1993,
+                                    466,
+                                    1864,
+                                    466
+                                ]
+                            }
+                        ],
+                        "spans": []
+                    },
+                    {
+                        "rowIndex": 5,
+                        "columnIndex": 4,
+                        "content": "",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    1993,
+                                    419,
+                                    2184,
+                                    419,
+                                    2184,
+                                    466,
+                                    1993,
+                                    466
+                                ]
+                            }
+                        ],
+                        "spans": []
+                    },
+                    {
+                        "rowIndex": 5,
+                        "columnIndex": 5,
+                        "content": "",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    2184,
+                                    419,
+                                    2354,
+                                    419,
+                                    2354,
+                                    466,
+                                    2184,
+                                    466
+                                ]
+                            }
+                        ],
+                        "spans": []
+                    },
+                    {
+                        "rowIndex": 6,
+                        "columnIndex": 0,
+                        "content": "101.DEF",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    97,
+                                    467,
+                                    247,
+                                    467,
+                                    245,
+                                    517,
+                                    97,
+                                    517
+                                ]
+                            }
+                        ],
+                        "spans": [
+                            {
+                                "offset": 443,
+                                "length": 7
+                            }
+                        ],
+                        "elements": [
+                            "/paragraphs/16"
+                        ]
+                    },
+                    {
+                        "rowIndex": 6,
+                        "columnIndex": 1,
+                        "content": "XBRL Taxonomy Extension Definitions Linkbase Document 2",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    247,
+                                    467,
+                                    1745,
+                                    467,
+                                    1745,
+                                    516,
+                                    245,
+                                    517
+                                ]
+                            }
+                        ],
+                        "spans": [
+                            {
+                                "offset": 453,
+                                "length": 55
+                            }
+                        ],
+                        "elements": [
+                            "/paragraphs/17"
+                        ]
+                    },
+                    {
+                        "rowIndex": 6,
+                        "columnIndex": 2,
+                        "content": "",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    1745,
+                                    467,
+                                    1864,
+                                    466,
+                                    1864,
+                                    516,
+                                    1745,
+                                    516
+                                ]
+                            }
+                        ],
+                        "spans": []
+                    },
+                    {
+                        "rowIndex": 6,
+                        "columnIndex": 3,
+                        "content": "",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    1864,
+                                    466,
+                                    1993,
+                                    466,
+                                    1995,
+                                    516,
+                                    1864,
+                                    516
+                                ]
+                            }
+                        ],
+                        "spans": []
+                    },
+                    {
+                        "rowIndex": 6,
+                        "columnIndex": 4,
+                        "content": "",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    1993,
+                                    466,
+                                    2184,
+                                    466,
+                                    2185,
+                                    516,
+                                    1995,
+                                    516
+                                ]
+                            }
+                        ],
+                        "spans": []
+                    },
+                    {
+                        "rowIndex": 6,
+                        "columnIndex": 5,
+                        "content": "",
+                        "boundingRegions": [
+                            {
+                                "pageNumber": 1,
+                                "polygon": [
+                                    2184,
+                                    466,
+                                    2354,
+                                    466,
+                                    2354,
+                                    516,
+                                    2185,
+                                    516
+                                ]
+                            }
+                        ],
+                        "spans": []
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            98,
+                            178,
+                            2379,
+                            179,
+                            2378,
+                            524,
+                            97,
+                            524
+                        ]
+                    }
+                ],
+                "spans": [
+                    {
+                        "offset": 1,
+                        "length": 838
+                    }
+                ]
+            }
+        ],
+        "paragraphs": [
+            {
+                "spans": [
+                    {
+                        "offset": 4,
+                        "length": 11
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            99,
+                            190,
+                            247,
+                            190,
+                            247,
+                            232,
+                            99,
+                            231
+                        ]
+                    }
+                ],
+                "content": "Exhibit No."
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 16,
+                        "length": 11
+                    },
+                    {
+                        "offset": 29,
+                        "length": 5
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            247,
+                            190,
+                            1742,
+                            190,
+                            1742,
+                            232,
+                            247,
+                            232
+                        ]
+                    }
+                ],
+                "content": "Description\nNotes"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 37,
+                        "length": 4
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            1742,
+                            190,
+                            1861,
+                            190,
+                            1861,
+                            232,
+                            1742,
+                            232
+                        ]
+                    }
+                ],
+                "content": "Form"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 44,
+                        "length": 7
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            1861,
+                            190,
+                            1990,
+                            190,
+                            1990,
+                            232,
+                            1861,
+                            232
+                        ]
+                    }
+                ],
+                "content": "Exhibit"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 54,
+                        "length": 11
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            1990,
+                            190,
+                            2184,
+                            190,
+                            2184,
+                            232,
+                            1990,
+                            232
+                        ]
+                    }
+                ],
+                "content": "Filing Date"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 68,
+                        "length": 8
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            2184,
+                            190,
+                            2352,
+                            190,
+                            2354,
+                            232,
+                            2184,
+                            232
+                        ]
+                    }
+                ],
+                "content": "File No."
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 107,
+                        "length": 7
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            99,
+                            231,
+                            247,
+                            232,
+                            247,
+                            277,
+                            99,
+                            277
+                        ]
+                    }
+                ],
+                "content": "101.INS"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 117,
+                        "length": 24
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            247,
+                            232,
+                            1742,
+                            232,
+                            1742,
+                            277,
+                            247,
+                            277
+                        ]
+                    }
+                ],
+                "content": "XBRL Instance Document 3"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 154,
+                        "length": 7
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            99,
+                            277,
+                            247,
+                            277,
+                            247,
+                            324,
+                            99,
+                            324
+                        ]
+                    }
+                ],
+                "content": "101.SCH"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 164,
+                        "length": 41
+                    },
+                    {
+                        "offset": 831,
+                        "length": 2
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            247,
+                            277,
+                            1742,
+                            277,
+                            1744,
+                            324,
+                            247,
+                            324
+                        ]
+                    }
+                ],
+                "content": "XBRL Taxonomy Extension Schema Document 2\nNN"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 217,
+                        "length": 7
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            99,
+                            324,
+                            247,
+                            324,
+                            247,
+                            372,
+                            99,
+                            372
+                        ]
+                    }
+                ],
+                "content": "101.CAL"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 227,
+                        "length": 53
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            247,
+                            324,
+                            1744,
+                            324,
+                            1744,
+                            372,
+                            247,
+                            372
+                        ]
+                    }
+                ],
+                "content": "XBRL Taxonomy Extension Calculation Linkbase Document"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 293,
+                        "length": 7
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            99,
+                            372,
+                            247,
+                            372,
+                            247,
+                            420,
+                            99,
+                            420
+                        ]
+                    }
+                ],
+                "content": "101.LAB"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 303,
+                        "length": 49
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            247,
+                            372,
+                            1744,
+                            372,
+                            1745,
+                            419,
+                            247,
+                            420
+                        ]
+                    }
+                ],
+                "content": "XBRL Taxonomy Extension Label Linkbase Document 2"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 365,
+                        "length": 7
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            99,
+                            420,
+                            247,
+                            420,
+                            247,
+                            467,
+                            97,
+                            467
+                        ]
+                    }
+                ],
+                "content": "101.PRE"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 375,
+                        "length": 56
+                    },
+                    {
+                        "offset": 834,
+                        "length": 3
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            247,
+                            420,
+                            1745,
+                            419,
+                            1745,
+                            467,
+                            247,
+                            467
+                        ]
+                    }
+                ],
+                "content": "XBRL Taxonomy Extension Presentation Linkbase Document 2\nNNN"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 443,
+                        "length": 7
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            97,
+                            467,
+                            247,
+                            467,
+                            245,
+                            517,
+                            97,
+                            517
+                        ]
+                    }
+                ],
+                "content": "101.DEF"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 453,
+                        "length": 55
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            247,
+                            467,
+                            1745,
+                            467,
+                            1745,
+                            516,
+                            245,
+                            517
+                        ]
+                    }
+                ],
+                "content": "XBRL Taxonomy Extension Definitions Linkbase Document 2"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 520,
+                        "length": 73
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            98,
+                            530,
+                            768,
+                            531,
+                            768,
+                            554,
+                            98,
+                            553
+                        ]
+                    }
+                ],
+                "content": "(1) Exhibit is a management contract or compensatory plan or arrangement."
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 595,
+                        "length": 19
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            98,
+                            552,
+                            262,
+                            552,
+                            262,
+                            575,
+                            98,
+                            575
+                        ]
+                    }
+                ],
+                "content": "(2) Filed Herewith."
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 616,
+                        "length": 138
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            99,
+                            575,
+                            1355,
+                            574,
+                            1355,
+                            599,
+                            99,
+                            600
+                        ]
+                    }
+                ],
+                "content": "(3) The instance document does not appear in the interactive data file because its XBRL tags are embedded within the inline XBRL document."
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 756,
+                        "length": 46
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            2041,
+                            710,
+                            2340,
+                            710,
+                            2340,
+                            735,
+                            2041,
+                            735
+                        ]
+                    }
+                ],
+                "role": "pageHeader",
+                "content": "<!-- PageHeader=\"Bank of America 2018 176\" -->"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 804,
+                        "length": 25
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            1919,
+                            160,
+                            2210,
+                            160,
+                            2210,
+                            186,
+                            1919,
+                            186
+                        ]
+                    }
+                ],
+                "content": "Incorporated by Reference"
+            },
+            {
+                "spans": [],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            1660,
+                            272,
+                            1679,
+                            272,
+                            1678,
+                            502,
+                            1659,
+                            502
+                        ]
+                    }
+                ],
+                "content": ""
+            }
+        ],
+        "styles": [
+            {
+                "confidence": 0.7,
+                "spans": [
+                    {
+                        "offset": 351,
+                        "length": 1
+                    }
+                ],
+                "isHandwritten": true
+            }
+        ],
+        "contentFormat": "markdown",
+        "sections": [
+            {
+                "spans": [
+                    {
+                        "offset": 1,
+                        "length": 838
+                    },
+                    {
+                        "offset": 520,
+                        "length": 73
+                    },
+                    {
+                        "offset": 595,
+                        "length": 19
+                    },
+                    {
+                        "offset": 616,
+                        "length": 138
+                    },
+                    {
+                        "offset": 804,
+                        "length": 25
+                    }
+                ],
+                "elements": [
+                    "/tables/0",
+                    "/paragraphs/18",
+                    "/paragraphs/19",
+                    "/paragraphs/20",
+                    "/paragraphs/22",
+                    "/paragraphs/23"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,1424 @@
+{
+    "status": "succeeded",
+    "createdDateTime": "2024-03-08T21:07:35Z",
+    "lastUpdatedDateTime": "2024-03-08T21:07:37Z",
+    "analyzeResult": {
+        "apiVersion": "2023-10-31-preview",
+        "modelId": "prebuilt-layout",
+        "stringIndexType": "utf16CodeUnit",
+        "content": "69\n\n(8) Net charge-offs exclude $273 million and $207 million of write-offs in the PCI loan portfolio in2018 and 2017. For more information on PCI write-offs, seeConsumer Portfolio Credit Risk Management - Purchased Credit-impaired Loan Portfolio on page 57.\n\n(9) Primarily includes amounts allocated to U.S. credit card and unsecured consumer lending portfolios inConsumer Banking and PCI loans inAll Other.\n\nBank of America 2018\n",
+        "pages": [
+            {
+                "pageNumber": 1,
+                "angle": 0,
+                "width": 2550,
+                "height": 3300,
+                "unit": "pixel",
+                "words": [
+                    {
+                        "content": "69",
+                        "polygon": [
+                            110,
+                            253,
+                            139,
+                            253,
+                            139,
+                            276,
+                            110,
+                            275
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 0,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "(8)",
+                        "polygon": [
+                            100,
+                            82,
+                            123,
+                            82,
+                            122,
+                            106,
+                            100,
+                            106
+                        ],
+                        "confidence": 0.955,
+                        "span": {
+                            "offset": 4,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "Net",
+                        "polygon": [
+                            132,
+                            82,
+                            163,
+                            82,
+                            162,
+                            106,
+                            132,
+                            106
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 8,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "charge-offs",
+                        "polygon": [
+                            170,
+                            82,
+                            269,
+                            82,
+                            268,
+                            106,
+                            169,
+                            106
+                        ],
+                        "confidence": 0.991,
+                        "span": {
+                            "offset": 12,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "exclude",
+                        "polygon": [
+                            276,
+                            82,
+                            341,
+                            82,
+                            341,
+                            107,
+                            275,
+                            106
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 24,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "$273",
+                        "polygon": [
+                            346,
+                            82,
+                            387,
+                            82,
+                            387,
+                            107,
+                            346,
+                            107
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 32,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "million",
+                        "polygon": [
+                            394,
+                            82,
+                            452,
+                            82,
+                            451,
+                            107,
+                            393,
+                            107
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 37,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "and",
+                        "polygon": [
+                            460,
+                            82,
+                            492,
+                            82,
+                            491,
+                            107,
+                            459,
+                            107
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 45,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "$207",
+                        "polygon": [
+                            497,
+                            82,
+                            533,
+                            82,
+                            533,
+                            107,
+                            496,
+                            107
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 49,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "million",
+                        "polygon": [
+                            538,
+                            82,
+                            599,
+                            82,
+                            599,
+                            107,
+                            538,
+                            107
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 54,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "of",
+                        "polygon": [
+                            607,
+                            82,
+                            624,
+                            82,
+                            623,
+                            107,
+                            606,
+                            107
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 62,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "write-offs",
+                        "polygon": [
+                            630,
+                            82,
+                            711,
+                            82,
+                            711,
+                            107,
+                            629,
+                            107
+                        ],
+                        "confidence": 0.975,
+                        "span": {
+                            "offset": 65,
+                            "length": 10
+                        }
+                    },
+                    {
+                        "content": "in",
+                        "polygon": [
+                            719,
+                            82,
+                            733,
+                            82,
+                            733,
+                            107,
+                            718,
+                            107
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 76,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "the",
+                        "polygon": [
+                            742,
+                            82,
+                            769,
+                            82,
+                            768,
+                            107,
+                            741,
+                            107
+                        ],
+                        "confidence": 0.998,
+                        "span": {
+                            "offset": 79,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "PCI",
+                        "polygon": [
+                            778,
+                            82,
+                            809,
+                            82,
+                            809,
+                            107,
+                            777,
+                            107
+                        ],
+                        "confidence": 0.918,
+                        "span": {
+                            "offset": 83,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "loan",
+                        "polygon": [
+                            818,
+                            82,
+                            854,
+                            82,
+                            854,
+                            107,
+                            817,
+                            107
+                        ],
+                        "confidence": 0.968,
+                        "span": {
+                            "offset": 87,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "portfolio",
+                        "polygon": [
+                            863,
+                            82,
+                            933,
+                            81,
+                            933,
+                            107,
+                            863,
+                            107
+                        ],
+                        "confidence": 0.989,
+                        "span": {
+                            "offset": 92,
+                            "length": 9
+                        }
+                    },
+                    {
+                        "content": "in2018",
+                        "polygon": [
+                            942,
+                            81,
+                            995,
+                            81,
+                            995,
+                            107,
+                            941,
+                            107
+                        ],
+                        "confidence": 0.988,
+                        "span": {
+                            "offset": 102,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "and",
+                        "polygon": [
+                            1005,
+                            81,
+                            1036,
+                            81,
+                            1036,
+                            107,
+                            1004,
+                            107
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 109,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "2017.",
+                        "polygon": [
+                            1042,
+                            81,
+                            1086,
+                            81,
+                            1085,
+                            107,
+                            1041,
+                            107
+                        ],
+                        "confidence": 0.989,
+                        "span": {
+                            "offset": 113,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "For",
+                        "polygon": [
+                            1095,
+                            81,
+                            1125,
+                            81,
+                            1124,
+                            107,
+                            1095,
+                            107
+                        ],
+                        "confidence": 0.997,
+                        "span": {
+                            "offset": 119,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "more",
+                        "polygon": [
+                            1133,
+                            81,
+                            1177,
+                            81,
+                            1177,
+                            107,
+                            1132,
+                            107
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 123,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "information",
+                        "polygon": [
+                            1186,
+                            81,
+                            1283,
+                            81,
+                            1283,
+                            107,
+                            1185,
+                            107
+                        ],
+                        "confidence": 0.979,
+                        "span": {
+                            "offset": 128,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "on",
+                        "polygon": [
+                            1291,
+                            81,
+                            1313,
+                            81,
+                            1313,
+                            107,
+                            1291,
+                            107
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 140,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "PCI",
+                        "polygon": [
+                            1323,
+                            81,
+                            1353,
+                            81,
+                            1353,
+                            107,
+                            1322,
+                            107
+                        ],
+                        "confidence": 0.931,
+                        "span": {
+                            "offset": 143,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "write-offs,",
+                        "polygon": [
+                            1362,
+                            81,
+                            1448,
+                            82,
+                            1448,
+                            107,
+                            1362,
+                            107
+                        ],
+                        "confidence": 0.97,
+                        "span": {
+                            "offset": 147,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "seeConsumer",
+                        "polygon": [
+                            1457,
+                            82,
+                            1581,
+                            82,
+                            1581,
+                            107,
+                            1456,
+                            107
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 159,
+                            "length": 11
+                        }
+                    },
+                    {
+                        "content": "Portfolio",
+                        "polygon": [
+                            1589,
+                            82,
+                            1661,
+                            82,
+                            1661,
+                            107,
+                            1589,
+                            107
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 171,
+                            "length": 9
+                        }
+                    },
+                    {
+                        "content": "Credit",
+                        "polygon": [
+                            1669,
+                            82,
+                            1722,
+                            82,
+                            1722,
+                            107,
+                            1669,
+                            107
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 181,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "Risk",
+                        "polygon": [
+                            1731,
+                            82,
+                            1768,
+                            82,
+                            1768,
+                            107,
+                            1730,
+                            107
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 188,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "Management",
+                        "polygon": [
+                            1776,
+                            82,
+                            1892,
+                            82,
+                            1892,
+                            107,
+                            1776,
+                            107
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 193,
+                            "length": 10
+                        }
+                    },
+                    {
+                        "content": "-",
+                        "polygon": [
+                            1899,
+                            82,
+                            1911,
+                            82,
+                            1911,
+                            107,
+                            1899,
+                            107
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 204,
+                            "length": 1
+                        }
+                    },
+                    {
+                        "content": "Purchased",
+                        "polygon": [
+                            1920,
+                            82,
+                            2013,
+                            82,
+                            2013,
+                            107,
+                            1919,
+                            107
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 206,
+                            "length": 9
+                        }
+                    },
+                    {
+                        "content": "Credit-impaired",
+                        "polygon": [
+                            2022,
+                            82,
+                            2157,
+                            82,
+                            2157,
+                            106,
+                            2021,
+                            107
+                        ],
+                        "confidence": 0.99,
+                        "span": {
+                            "offset": 216,
+                            "length": 15
+                        }
+                    },
+                    {
+                        "content": "Loan",
+                        "polygon": [
+                            2166,
+                            82,
+                            2209,
+                            82,
+                            2209,
+                            106,
+                            2166,
+                            106
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 232,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "Portfolio",
+                        "polygon": [
+                            2218,
+                            82,
+                            2288,
+                            82,
+                            2288,
+                            106,
+                            2218,
+                            106
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 237,
+                            "length": 9
+                        }
+                    },
+                    {
+                        "content": "on",
+                        "polygon": [
+                            2293,
+                            82,
+                            2317,
+                            82,
+                            2317,
+                            106,
+                            2293,
+                            106
+                        ],
+                        "confidence": 0.997,
+                        "span": {
+                            "offset": 247,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "page",
+                        "polygon": [
+                            158,
+                            107,
+                            205,
+                            108,
+                            205,
+                            130,
+                            159,
+                            130
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 250,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "57.",
+                        "polygon": [
+                            211,
+                            108,
+                            240,
+                            108,
+                            240,
+                            129,
+                            211,
+                            129
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 255,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "(9)",
+                        "polygon": [
+                            101,
+                            140,
+                            122,
+                            140,
+                            122,
+                            163,
+                            101,
+                            163
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 260,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "Primarily",
+                        "polygon": [
+                            132,
+                            140,
+                            208,
+                            140,
+                            208,
+                            164,
+                            132,
+                            163
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 264,
+                            "length": 9
+                        }
+                    },
+                    {
+                        "content": "includes",
+                        "polygon": [
+                            217,
+                            140,
+                            289,
+                            140,
+                            289,
+                            164,
+                            217,
+                            164
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 274,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "amounts",
+                        "polygon": [
+                            298,
+                            140,
+                            374,
+                            140,
+                            374,
+                            165,
+                            298,
+                            164
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 283,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "allocated",
+                        "polygon": [
+                            382,
+                            140,
+                            461,
+                            140,
+                            461,
+                            165,
+                            382,
+                            165
+                        ],
+                        "confidence": 0.989,
+                        "span": {
+                            "offset": 291,
+                            "length": 9
+                        }
+                    },
+                    {
+                        "content": "to",
+                        "polygon": [
+                            469,
+                            140,
+                            486,
+                            140,
+                            486,
+                            165,
+                            469,
+                            165
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 301,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "U.S.",
+                        "polygon": [
+                            495,
+                            140,
+                            532,
+                            140,
+                            532,
+                            165,
+                            495,
+                            165
+                        ],
+                        "confidence": 0.992,
+                        "span": {
+                            "offset": 304,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "credit",
+                        "polygon": [
+                            541,
+                            140,
+                            590,
+                            140,
+                            590,
+                            165,
+                            541,
+                            165
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 309,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "card",
+                        "polygon": [
+                            597,
+                            140,
+                            635,
+                            140,
+                            635,
+                            165,
+                            597,
+                            165
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 316,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "and",
+                        "polygon": [
+                            645,
+                            140,
+                            676,
+                            140,
+                            676,
+                            166,
+                            645,
+                            165
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 321,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "unsecured",
+                        "polygon": [
+                            686,
+                            140,
+                            777,
+                            140,
+                            777,
+                            166,
+                            686,
+                            166
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 325,
+                            "length": 9
+                        }
+                    },
+                    {
+                        "content": "consumer",
+                        "polygon": [
+                            786,
+                            140,
+                            874,
+                            140,
+                            874,
+                            166,
+                            786,
+                            166
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 335,
+                            "length": 8
+                        }
+                    },
+                    {
+                        "content": "lending",
+                        "polygon": [
+                            882,
+                            140,
+                            945,
+                            140,
+                            945,
+                            166,
+                            882,
+                            166
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 344,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "portfolios",
+                        "polygon": [
+                            955,
+                            140,
+                            1035,
+                            140,
+                            1035,
+                            165,
+                            955,
+                            166
+                        ],
+                        "confidence": 0.99,
+                        "span": {
+                            "offset": 352,
+                            "length": 10
+                        }
+                    },
+                    {
+                        "content": "inConsumer",
+                        "polygon": [
+                            1043,
+                            140,
+                            1153,
+                            140,
+                            1153,
+                            165,
+                            1043,
+                            165
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 363,
+                            "length": 10
+                        }
+                    },
+                    {
+                        "content": "Banking",
+                        "polygon": [
+                            1159,
+                            140,
+                            1231,
+                            140,
+                            1231,
+                            165,
+                            1159,
+                            165
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 374,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "and",
+                        "polygon": [
+                            1240,
+                            140,
+                            1272,
+                            140,
+                            1272,
+                            165,
+                            1240,
+                            165
+                        ],
+                        "confidence": 0.997,
+                        "span": {
+                            "offset": 382,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "PCI",
+                        "polygon": [
+                            1283,
+                            140,
+                            1314,
+                            140,
+                            1314,
+                            164,
+                            1283,
+                            165
+                        ],
+                        "confidence": 0.93,
+                        "span": {
+                            "offset": 386,
+                            "length": 3
+                        }
+                    },
+                    {
+                        "content": "loans",
+                        "polygon": [
+                            1324,
+                            140,
+                            1371,
+                            140,
+                            1371,
+                            164,
+                            1324,
+                            164
+                        ],
+                        "confidence": 0.975,
+                        "span": {
+                            "offset": 390,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "inAll",
+                        "polygon": [
+                            1380,
+                            140,
+                            1422,
+                            140,
+                            1422,
+                            164,
+                            1380,
+                            164
+                        ],
+                        "confidence": 0.927,
+                        "span": {
+                            "offset": 396,
+                            "length": 5
+                        }
+                    },
+                    {
+                        "content": "Other.",
+                        "polygon": [
+                            162,
+                            163,
+                            219,
+                            164,
+                            219,
+                            184,
+                            162,
+                            183
+                        ],
+                        "confidence": 0.994,
+                        "span": {
+                            "offset": 402,
+                            "length": 6
+                        }
+                    },
+                    {
+                        "content": "Bank",
+                        "polygon": [
+                            166,
+                            254,
+                            220,
+                            254,
+                            220,
+                            278,
+                            166,
+                            278
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 410,
+                            "length": 4
+                        }
+                    },
+                    {
+                        "content": "of",
+                        "polygon": [
+                            226,
+                            254,
+                            246,
+                            254,
+                            246,
+                            278,
+                            226,
+                            278
+                        ],
+                        "confidence": 0.996,
+                        "span": {
+                            "offset": 415,
+                            "length": 2
+                        }
+                    },
+                    {
+                        "content": "America",
+                        "polygon": [
+                            251,
+                            254,
+                            333,
+                            254,
+                            333,
+                            279,
+                            251,
+                            278
+                        ],
+                        "confidence": 0.995,
+                        "span": {
+                            "offset": 418,
+                            "length": 7
+                        }
+                    },
+                    {
+                        "content": "2018",
+                        "polygon": [
+                            340,
+                            254,
+                            392,
+                            253,
+                            392,
+                            279,
+                            340,
+                            279
+                        ],
+                        "confidence": 0.993,
+                        "span": {
+                            "offset": 426,
+                            "length": 4
+                        }
+                    }
+                ],
+                "lines": [
+                    {
+                        "content": "69",
+                        "polygon": [
+                            111,
+                            253,
+                            138,
+                            253,
+                            138,
+                            276,
+                            110,
+                            275
+                        ],
+                        "spans": [
+                            {
+                                "offset": 0,
+                                "length": 2
+                            }
+                        ]
+                    },
+                    {
+                        "content": "(8) Net charge-offs exclude $273 million and $207 million of write-offs in the PCI loan portfolio in2018 and 2017. For more information on PCI write-offs, seeConsumer Portfolio Credit Risk Management - Purchased Credit-impaired Loan Portfolio on",
+                        "polygon": [
+                            99,
+                            81,
+                            2316,
+                            81,
+                            2316,
+                            106,
+                            99,
+                            106
+                        ],
+                        "spans": [
+                            {
+                                "offset": 4,
+                                "length": 245
+                            }
+                        ]
+                    },
+                    {
+                        "content": "page 57.",
+                        "polygon": [
+                            157,
+                            107,
+                            239,
+                            107,
+                            239,
+                            129,
+                            157,
+                            129
+                        ],
+                        "spans": [
+                            {
+                                "offset": 250,
+                                "length": 8
+                            }
+                        ]
+                    },
+                    {
+                        "content": "(9) Primarily includes amounts allocated to U.S. credit card and unsecured consumer lending portfolios inConsumer Banking and PCI loans inAll",
+                        "polygon": [
+                            100,
+                            139,
+                            1421,
+                            139,
+                            1421,
+                            165,
+                            100,
+                            165
+                        ],
+                        "spans": [
+                            {
+                                "offset": 260,
+                                "length": 141
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Other.",
+                        "polygon": [
+                            162,
+                            163,
+                            218,
+                            165,
+                            217,
+                            183,
+                            162,
+                            183
+                        ],
+                        "spans": [
+                            {
+                                "offset": 402,
+                                "length": 6
+                            }
+                        ]
+                    },
+                    {
+                        "content": "Bank of America 2018",
+                        "polygon": [
+                            164,
+                            253,
+                            391,
+                            252,
+                            391,
+                            278,
+                            164,
+                            278
+                        ],
+                        "spans": [
+                            {
+                                "offset": 410,
+                                "length": 20
+                            }
+                        ]
+                    }
+                ],
+                "spans": [
+                    {
+                        "offset": 0,
+                        "length": 431
+                    }
+                ]
+            }
+        ],
+        "tables": [],
+        "paragraphs": [
+            {
+                "spans": [
+                    {
+                        "offset": 0,
+                        "length": 2
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            111,
+                            252,
+                            139,
+                            253,
+                            138,
+                            276,
+                            110,
+                            275
+                        ]
+                    }
+                ],
+                "content": "69"
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 4,
+                        "length": 254
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            99,
+                            81,
+                            2316,
+                            81,
+                            2316,
+                            129,
+                            99,
+                            129
+                        ]
+                    }
+                ],
+                "content": "(8) Net charge-offs exclude $273 million and $207 million of write-offs in the PCI loan portfolio in2018 and 2017. For more information on PCI write-offs, seeConsumer Portfolio Credit Risk Management - Purchased Credit-impaired Loan Portfolio on page 57."
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 260,
+                        "length": 148
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            100,
+                            139,
+                            1421,
+                            139,
+                            1421,
+                            183,
+                            100,
+                            183
+                        ]
+                    }
+                ],
+                "content": "(9) Primarily includes amounts allocated to U.S. credit card and unsecured consumer lending portfolios inConsumer Banking and PCI loans inAll Other."
+            },
+            {
+                "spans": [
+                    {
+                        "offset": 410,
+                        "length": 20
+                    }
+                ],
+                "boundingRegions": [
+                    {
+                        "pageNumber": 1,
+                        "polygon": [
+                            164,
+                            252,
+                            391,
+                            252,
+                            391,
+                            278,
+                            164,
+                            278
+                        ]
+                    }
+                ],
+                "content": "Bank of America 2018"
+            }
+        ],
+        "contentFormat": "markdown",
+        "sections": [
+            {
+                "spans": [
+                    {
+                        "offset": 0,
+                        "length": 2
+                    },
+                    {
+                        "offset": 4,
+                        "length": 254
+                    },
+                    {
+                        "offset": 260,
+                        "length": 148
+                    },
+                    {
+                        "offset": 410,
+                        "length": 20
+                    }
+                ],
+                "elements": [
+                    "/paragraphs/0",
+                    "/paragraphs/1",
+                    "/paragraphs/2",
+                    "/paragraphs/3"
+                ]
+            }
+        ]
+    }
+}

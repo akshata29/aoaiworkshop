@@ -1,0 +1,55 @@
+Table 25 presents outstandings, nonperforming loans and net charge-offs by certain state concentrations for the residential mortgage portfolio. The Los Angeles-Long Beach-Santa Ana Metropolitan Statistical Area (MSA) within California represented 16 percent of outstandings at both December 31, 2018 and 2017. In the New York area, the New York-Northern New Jersey-Long Island MSA made up 13 percent of outstandings at both December 31, 2018 and 2017.  
+  
+Table 25 Residential Mortgage State Concentrations  
+  
+| (Dollars in millions) | Outstandings (1) || Nonperforming (1) || Net Charge-offs (2) ||  
+|| December 31 ||||||  
+|| 2018 | 2017 | 2018 | 2017 | 2018 | 2017 |  
+| - | - | - | - | - | - | - |  
+| California | $ 74,463 | $ 68,455 | 314 | $ 433 | $ (22) | $ (103) |  
+| New York (3) | 19,085 | 17,239 | 222 | 227 | 10 | (2) |  
+| Florida (3) | 11,296 | 10,880 | 221 | 280 | (6) | (13) |  
+| Texas | 7,747 | 7,237 | 102 | 126 | 4 4 | 1 |  
+| New Jersey (3) | 6,959 | 6,099 | 98 | 130 | 8 | |  
+| Other | 65,077 | 62,159 | 936 | 1,280 | 34 | 17 |  
+| Residential mortgage loans (4) | $ 184,627 | $ 172,069 | $ 1,893 | $ 2,476 | $ 28 | $ (100) |  
+| Fully-insured loan portfolio | 20,130 | 23,741 | | | | |  
+| Purchased credit-impaired residential mortgage loan portfolio (5) | 3,800 | 8,001 | | | | |  
+| Total residential mortgage loan portfolio | $ 208,557 | $ 203,811 | | | | |  
+  
+(1) Outstandings and nonperforming loans exclude loans accounted for under the fair value  
+  
+option.  
+  
+(2) Net charge-offs exclude $154 million and $131 million of write-offs in the residential mortgage PCI loan portfolio in2018 and 2017. For more information on PCI write-offs, seeConsumer Portfolio Credit Risk Management - Purchased Credit-impaired Loan Portfolio on page 57.  
+  
+(3) In these states, foreclosure requires a court order following a legal proceeding (judicial  
+  
+states).  
+  
+(4) Amounts exclude the PCI residential mortgage and fully-insured loan  
+  
+portfolios.  
+  
+(5) At December 31, 2018 and 2017, 49 percent and 47 percent of PCI residential mortgage loans were in California. There were no other significant single state concentrations.  
+  
+  
+# Home Equity  
+  
+At December 31, 2018, the home equity portfolio made up 11 percent of the consumer portfolio and was comprised of home equity lines of credit (HELOCs), home equity loans and reverse mortgages.  
+  
+At December 31, 2018, our HELOC portfolio had an outstanding balance of $44.3 billion, or 92 percent of the total home equity portfolio, compared to $51.2 billion, or 89 percent, at December 31, 2017. HELOCs generally have an initial draw period of 10 years, and after the initial draw period ends, the loans generally convert to 15-year amortizing loans.  
+  
+At December 31, 2018, our home equity loan portfolio had an outstanding balance of $1.8 billion, or four percent of the total home equity portfolio, compared to $4.4 billion, or seven percent, at December 31, 2017. Home equity loans are almost all fixed-rate loans with amortizing payment terms of 10 to 30 years, and of the $1.8 billion at December 31, 2018, 68 percent have 25- to 30-year terms. At December 31, 2018, our reverse mortgage portfolio had an outstanding balance of $2.2 billion, or four percent of the total home equity portfolio, compared to $2.1 billion, or four percent, at December 31, 2017. We no longer originate reverse mortgages.  
+  
+At December 31, 2018, 75 percent of the home equity portfolio was inConsumer Banking, 17 percent was inAll Other and the remainder of the portfolio was primarily in GWIM. Outstanding  
+  
+balances in the home equity portfolio decreased $9.5 billion in 2018 primarily due to paydowns and loan sales of $2.7 billion outpacing new originations and draws on existing lines. Of the total home equity portfolio at December 31, 2018 and 2017, $17.3 billion and $18.7 billion, or 36 percent and 32 percent, were in first-lien positions. At December 31, 2018, outstanding balances in the home equity portfolio that were in a second-lien or more junior-lien position and where we also held the first-lien loan totaled $7.9 billion, or 17 percent of our total home equity portfolio excluding the PCI loan portfolio.  
+  
+Unused HELOCs totaled $43.1 billion and $44.2 billion at December 31, 2018 and 2017. The decrease was primarily due to accounts reaching the end of their draw period, which automatically eliminates open line exposure, and customers choosing to close accounts. Both of these more than offset the impact of new production. The HELOC utilization rate was 51 percent and 54 percent at December 31, 2018 and 2017.  
+  
+Table 26 presents certain home equity portfolio key credit statistics on both a reported basis and excluding the PCI loan portfolio. Additionally, in the "Reported Basis" columns in the following table, accruing balances past due 30 days or more and nonperforming loans do not include the PCI loan portfolio, in accordance with our accounting policies, even though the customer may be contractually past due. As such, the following discussion presents the home equity portfolio excluding the PCI loan portfolio.  
+  
+<!-- PageFooter="Bank of America 2018" -->  
+  
+<!-- PageNumber="55" -->  

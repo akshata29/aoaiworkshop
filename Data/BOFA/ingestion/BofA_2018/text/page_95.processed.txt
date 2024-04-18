@@ -1,0 +1,65 @@
+# Bank of America Corporation and Subsidiaries  
+  
+  
+# Consolidated Statement of Income  
+  
+| (In millions, except per share information) | 2018 | 2017 | 2016 |  
+| - | - | - | - |  
+| Interest income | | | |  
+| Loans and leases | 40,811 | $ 36,221 | $ 33,228 |  
+| Debt securities | 11,724 | 10,471 | 9,167 |  
+| Federal funds sold and securities borrowed or purchased under agreements to resell | 3,176 | 2,390 | 1,118 |  
+| Trading account assets | 4,811 | 4,474 | 4,423 |  
+| Other interest income | 6,247 | 4,023 | 3,121 |  
+| Total interest income | 66,769 | 57,579 | 51,057 |  
+| Interest expense | | | |  
+| Deposits | 4,495 | 1,931 | 1,015 |  
+| Short-term borrowings | 5,839 | 3,538 | 2,350 |  
+| Trading account liabilities | 1,358 | 1,204 | 1,018 |  
+| Long-term debt | 7,645 | 6,239 | 5,578 |  
+| Total interest expense | 19,337 | 12,912 | 9,961 |  
+| Net interest income | 47,432 | 44,667 | 41,096 |  
+| Noninterest income | | | |  
+| Card income | 6,051 | 5,902 | 5,851 |  
+| Service charges | 7,767 | 7,818 | 7,638 |  
+| Investment and brokerage services | 14,160 | 13,836 | 13,349 |  
+| Investment banking income | 5,327 | 6,011 | 5,241 |  
+| Trading account profits | 8,540 | 7,277 | 6,902 |  
+| Other income | 1,970 | 1,841 | 3,624 |  
+| Total noninterest income | 43,815 | 42,685 | 42,605 |  
+| Total revenue, net of interest expense | 91,247 | 87,352 | 83,701 |  
+| Provision for credit losses | 3,282 | 3,396 | 3,597 |  
+| Noninterest expense | | | |  
+| Personnel | 31,880 | 31,931 | 32,018 |  
+| Occupancy | 4,066 | 4,009 | 4,038 |  
+| Equipment | 1,705 | 1,692 | 1,804 |  
+| Marketing | 1,674 | 1,746 | 1,703 |  
+| Professional fees | 1,699 | 1,888 | 1,971 |  
+| Data processing | 3,222 | 3,139 | 3,007 |  
+| Telecommunications | 699 | 699 | 746 |  
+| Other general operating | 8,436 | 9,639 | 9,796 |  
+| Total noninterest expense | 53,381 | 54,743 | 55,083 |  
+| Income before income taxes | 34,584 | 29,213 | 25,021 |  
+| Income tax expense | 6,437 | 10,981 | 7,199 |  
+| Net income | $ 28,147 | $ 18,232 | $ 17,822 |  
+| Preferred stock dividends | 1,451 | 1,614 | 1,682 |  
+| Net income applicable to common shareholders | $ 26,696 | $ 16,618 | $ 16,140 |  
+| Per common share information | | | |  
+| Earnings | 2.64 | $ 1.63 | $ 1.57 |  
+| Diluted earnings | 2.61 | 1.56 | 1.49 |  
+| Average common shares issued and outstanding | 10,096.5 | 10,195.6 | 10,284.1 |  
+| Average diluted common shares issued and outstanding | 10,236.9 | 10,778.4 | 11,046.8 |  
+| | | | |  
+  
+  
+# Consolidated Statement of Comprehensive Income  
+  
+| (Dollars in millions) | 2018 | 2017 | 2016 |  
+| - | - | - | - |  
+| Net income | $ 28,147 | $ 18,232 | $ 17,822 |  
+| Other comprehensive income (loss), net-of-tax: | | | |  
+| Net change in debt and equity securities | (3,953) | 61 | (1,345) |  
+| Net change in debit valuation adjustments | 749 | (293) | (156) |  
+| Net change in derivatives | (53) | 64 | 182 |  
+| Employee benefit plan adjustments | (405) | 288 | (524) |  
+| Net change in foreign currency translation adjustments | (254) | 86 | (87) |  

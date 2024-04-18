@@ -1,0 +1,66 @@
+The table below presents the December 31, 2018, 2017 and 2016 unpaid principal balance and carrying value of commercial loans that were modified as TDRs during 2018, 2017 and 2016. The table below includes loans that were initially classified as TDRs during the period and also loans that had previously been classified as TDRs and were modified again during the period.  
+  
+  
+# Commercial - TDRs Entered into During 2018, 2017 and 2016  
+  
+| | Unpaid Principal Balance | Carrying Value |  
+| - | - | - |  
+| (Dollars in millions) | December 31, 2018 ||  
+| U.S. commercial | $ 1,154 | $ 1,098 |  
+| Non-U.S. commercial | 166 | 165 |  
+| Commercial real estate | 115 | 115 |  
+| Commercial lease financing | 68 | 68 |  
+| U.S. small business commercial (1) | 9 | 8 |  
+| Total | $ 1,512 | $ 1,454 |  
+  
+| | December 31, 2017 ||  
+| - | - | - |  
+| U.S. commercial | $ 1,033 | $ 922 |  
+| Non-U.S. commercial | 105 | 105 |  
+| Commercial real estate | 35 | 24 |  
+| Commercial lease financing | 20 | 17 |  
+| U.S. small business commercial (1) | 13 | 13 |  
+| Total | $ 1,206 | $ 1,081 |  
+  
+| | December 31, 2016 ||  
+| - | - | - |  
+| U.S. commercial | $ 1,556 | $ 1,482 |  
+| Non-U.S. commercial | 255 | 253 |  
+| Commercial real estate | 77 | 77 |  
+| Commercial lease financing | 6 | 4 |  
+| U.S. small business commercial (1) | 1 | 1 |  
+| Total | $ 1,895 | $ 1,817 |  
+  
+(1) U.S. small business commercial TDRs are comprised of renegotiated small business card loans.  
+  
+A commercial TDR is generally deemed to be in payment default when the loan is 90 days or more past due, including delinquencies that were not resolved as part of the modification. U.S. small business commercial TDRs are deemed to be in payment default during the quarter in which a borrower misses the second of two consecutive payments. Payment defaults are one of the factors considered when projecting future cash flows, along with observable market prices or fair value of collateral when measuring the allowance for loan and lease losses. TDRs that were in payment default had a carrying value of $150 million, $64 million and $140  
+  
+million for U.S. commercial and $3 million, $19 million and $34 million for commercial real estate at December 31, 2018, 2017 and 2016, respectively.  
+  
+  
+# Purchased Credit-impaired Loans  
+  
+The table below shows activity for the accretable yield on PCI loans, which includes the Countrywide Financial Corporation (Countrywide) portfolio and loans repurchased in connection with the 2013 settlement with FNMA. The amount of accretable yield is affected by changes in credit outlooks, including metrics such as default rates and loss severities, prepayment speeds, which can change the amount and period of time over which interest payments are expected to be received, and the interest rates on variable rate loans. The reclassifications from nonaccretable difference during 2018 and 2017 were primarily due to an increase in the expected principal and interest cash flows due to lower default estimates and the rising interest rate environment.  
+  
+|||  
+| - | - |  
+| Rollforward of Accretable Yield ||  
+| (Dollars in millions) | |  
+| Accretable yield, January 1, 2017 | $ 3,805 |  
+| Accretion | (601) |  
+| Disposals/transfers | (634) |  
+| Reclassifications from nonaccretable difference | 219 |  
+| Accretable yield, December 31, 2017 | 2,789 |  
+| Accretion | (457) |  
+| Disposals/transfers | (1,456) |  
+| Reclassifications from nonaccretable difference | 368 |  
+| Accretable yield, December 31, 2018 | $ 1,244 |  
+  
+During 2018 and 2017, the Corporation sold PCI loans with a carrying value of $4.4 billion and $803 million. For more information on PCI loans, seeNote 1 - Summary of Significant Accounting Principles and for the carrying value and valuation allowance for PCI loans, see Note 6 - Allowance for Credit Losses.  
+  
+  
+## Loans Held-for-sale  
+  
+The Corporation had LHFS of $10.4 billion and $11.4 billion at December 31, 2018 and 2017. Cash and non-cash proceeds from sales and paydowns of loans originally classified as LHFS were $29.2 billion, $41.3 billion and $32.6 billion for 2018, 2017 and 2016, respectively. Cash used for originations and purchases of LHFS totaled $28.1 billion, $43.5 billion and $33.1 billion for 2018, 2017 and 2016, respectively.  
+  
+<!-- PageFooter="121 Bank of America 2018" -->  

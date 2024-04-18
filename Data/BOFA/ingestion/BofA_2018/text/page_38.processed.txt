@@ -1,0 +1,49 @@
+# Key Indicators and Metrics  
+  
+| (Dollars in millions, except as noted) | 2018 | 2017 |  
+| - | - | - |  
+| Revenue by Business | | |  
+| Merrill Lynch Global Wealth Management | 15,895 | $ 15,288 |  
+| U.S. Trust | 3,432 | 3,295 |  
+| Other | 11 | 7 |  
+| Total revenue, net of interest expense | 19,338 | $ 18,590 |  
+| Client Balances by Business, at year end | | |  
+| Merrill Lynch Global Wealth Management | 2,193,562 | $ 2,305,664 |  
+| U.S. Trust | 427,294 | 446,199 |  
+| Total client balances | $ 2,620,856 | $ 2,751,863 |  
+| Client Balances by Type, at year end | | |  
+| Assets under management | 1,021,221 | $ 1,080,747 |  
+| Brokerage and other assets | 1,162,997 | 1,261,990 |  
+| Deposits | 268,700 | 246,994 |  
+| Loans and leases (1) | 167,938 | 162,132 |  
+| Total client balances | $ 2,620,856 | $ 2,751,863 |  
+| Assets Under Management Rollforward | | |  
+| Assets under management, beginning of year | 1,080,747 | 886,148 |  
+| Net client flows | 36,406 | 95,707 |  
+| Market valuation/other | (95,932) | 98,892 |  
+| Total assets under management, end of year | $ 1,021,221 | $ 1,080,747 |  
+| Associates, at year end (2) | | |  
+| Number of financial advisors | 17,518 | 17,355 |  
+| Total wealth advisors, including financial advisors | 19,459 | 19,238 |  
+| Total primary sales professionals, including financial advisors and wealth advisors | 20,556 | 20,318 |  
+| Merrill Lynch Global Wealth Management Metric | | |  
+| Financial advisor productivity (3) (in thousands) | $ 1,034 | $ 1,005 |  
+| U.S. Trust Metric, at year end | | |  
+| Primary sales professionals | 1,747 | 1,714 |  
+  
+(1) Includes margin receivables which are classified in customer and other receivables on the Consolidated Balance Sheet.  
+  
+(2) Includes financial advisors in the Consumer Banking segment of 2,722 and 2,402 at December 31, 2018 and  
+  
+2017\.  
+  
+(3) Financial advisor productivity is defined as MLGWM total revenue, excluding the allocation of certain asset and liability management (ALM) activities, divided by the total average number of financial advisors (excluding financial advisors in theonsumer Banking segment).  
+  
+  
+# Client Balances  
+  
+Client balances managed under advisory and/or discretion of GWIM are AUM and are typically held in diversified portfolios. Fees earned on AUM are calculated as a percentage of clients' AUM balances. The asset management fees charged to clients per year depend on various factors, but are commonly driven by the breadth of the client's relationship. The net client AUM flows represent the net change in clients' AUM balances over a specified period  
+  
+of time, excluding market appreciation/depreciation and other adjustments. Client balances decreased $131.0 billion, or five percent, in 2018 to $2.6 trillion, primarily due to lower market valuations on AUM and brokerage balances, as measured at December 31, 2018, partially offset by positive flows.  
+  
+<!-- PageFooter="Bank of America 2018 34" -->  

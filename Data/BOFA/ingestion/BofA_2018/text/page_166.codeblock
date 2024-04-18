@@ -1,0 +1,83 @@
+```python
+
+# START OF CODE BLOCK 2b9420a5
+
+# Summary of the TEXT EXTRACT:
+# The TEXT EXTRACT presents a reconciliation of all assets and liabilities measured at fair value on a recurring basis using significant unobservable inputs (Level 3) during 2018, 2017, and 2016, including net realized and unrealized gains (losses) included in earnings and accumulated OCI.
+
+# Variable Declarations:
+var_balance_january_1_2018 = 1864
+# Purpose: Represents the balance of assets on January 1, 2018.
+
+var_total_realized_unrealized_gains_losses_in_net_income_2 = -32
+# Purpose: Represents the total realized/unrealized gains (losses) in net income.
+
+var_gains_losses_in_oci_3 = -1
+# Purpose: Represents the gains (losses) in other comprehensive income.
+
+var_gross_transfers_into_level_3 = -547
+# Purpose: Represents the gross transfers into Level 3.
+
+var_gross_transfers_out_of_level_3 = 1558
+# Purpose: Represents the gross transfers out of Level 3.
+
+var_balance_december_31_2018 = 804
+# Purpose: Represents the balance of assets on December 31, 2018.
+
+var_change_in_unrealized_gains_losses_in_net_income_related_to_financial_instruments_still_held_2 = -117
+# Purpose: Represents the change in unrealized gains (losses) in net income related to financial instruments still held.
+
+var_equity_securities = 235
+# Purpose: Represents the value of equity securities.
+
+var_non_us_sovereign_debt = 556
+# Purpose: Represents the value of non-U.S. sovereign debt.
+
+var_mortgage_trading_loans_abs_and_other_mbs = 1498
+# Purpose: Represents the value of mortgage trading loans, ABS, and other MBS.
+
+var_total_trading_account_assets = 4153
+# Purpose: Represents the total value of trading account assets.
+
+var_net_derivative_assets_4 = -1714
+# Purpose: Represents the net derivative assets.
+
+var_non_agency_residential_mbs = 27
+# Purpose: Represents the value of non-agency residential MBS.
+
+var_non_us_securities = 25
+# Purpose: Represents the value of non-U.S. securities.
+
+var_other_taxable_securities = 509
+# Purpose: Represents the value of other taxable securities.
+
+var_tax_exempt_securities = 469
+# Purpose: Represents the value of tax-exempt securities.
+
+var_total_afs_debt_securities_5 = 1003
+# Purpose: Represents the total value of AFS debt securities.
+
+var_other_debt_securities_carried_at_fair_value_non_agency_residential_mbs = 18
+# Purpose: Represents the value of other debt securities carried at fair value - non-agency residential MBS.
+
+var_loans_and_leases_6_7 = 571
+# Purpose: Represents the value of loans and leases.
+
+var_loans_held_for_sale_6 = 690
+# Purpose: Represents the value of loans held-for-sale.
+
+var_other_assets_5_7_8 = 2425
+# Purpose: Represents the value of other assets.
+
+var_trading_account_liabilities_corporate_securities_and_other = -24
+# Purpose: Represents the value of trading account liabilities - corporate securities and other.
+
+var_accrued_expenses_and_other_liabilities_6 = -8
+# Purpose: Represents the value of accrued expenses and other liabilities.
+
+var_long_term_debt_6 = -1863
+# Purpose: Represents the value of long-term debt.
+
+# END OF CODE BLOCK 2b9420a5
+
+```

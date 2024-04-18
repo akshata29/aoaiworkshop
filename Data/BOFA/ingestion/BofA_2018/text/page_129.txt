@@ -1,0 +1,54 @@
+The table below presents the December 31, 2018, 2017 and 2016 carrying value for consumer real estate loans that were modified in a TDR during2018, 2017 and 2016, by type of modification.  
+  
+  
+# Consumer Real Estate - Modification Programs  
+  
+| (Dollars in millions) | TDRs Entered into During |||  
+|| 2018 | 2017 | 2016 |  
+| - | - | - | - |  
+| Modifications under government programs | | | |  
+| Contractual interest rate reduction | $ 19 | $ 59 | $ 151 |  
+| Principal and/or interest forbearance | - | 4 | 13 |  
+| Other modifications (1) | 42 | 22 | 23 |  
+| Total modifications under government programs | 61 | 85 | 187 |  
+| Modifications under proprietary programs | | | |  
+| Contractual interest rate reduction | 209 | 281 | 235 |  
+| Capitalization of past due amounts | 96 | 63 | 40 |  
+| Principal and/or interest forbearance | 51 | 38 | 72 |  
+| Other modifications (1) | 167 | 55 | 75 |  
+| Total modifications under proprietary programs | 523 | 437 | 422 |  
+| Trial modifications | 285 | 569 | 831 |  
+| Loans discharged in Chapter 7 bankruptcy (2) | 130 | 211 | 226 |  
+| Total modifications | $ 999 | $ 1,302 | $ 1,666 |  
+  
+(1) Includes other modifications such as term or payment extensions and repayment plans. During2018, this included $198 million of modifications that met the definition of a TDR related to the 2017 hurricanes. These modifications had been written down to their net realizable value less costs to sell or were fully insured as of December 31, 2018.  
+  
+(2) Includes loans discharged in Chapter 7 bankruptcy with no change in repayment terms that are classified as TDRs.  
+  
+The table below presents the carrying value of consumer real estate loans that entered into payment default during2018, 2017 and 2016 that were modified in a TDR during the 12 months preceding payment default. A payment default for consumer real estate TDRs is recognized when a borrower has missed three monthly payments (not necessarily consecutively) since modification.  
+  
+  
+## Consumer Real Estate - TDRs Entering Payment Default that were Modified During the Preceding 12 Months  
+  
+| (Dollars in millions) | 2018 | 2017 | 2016 |  
+| - | - | - | - |  
+| Modifications under government programs | $ 39 | $ 81 | $ 262 |  
+| Modifications under proprietary programs | 158 | 138 | 196 |  
+| Loans discharged in Chapter 7 bankruptcy (1) | 64 | 116 | 158 |  
+| Trial modifications (2) | 107 | 391 | 824 |  
+| Total modifications | $ 368 | $ 726 | $ 1,440 |  
+  
+(1) Includes loans discharged in Chapter 7 bankruptcy with no change in repayment terms that are classified as TDRs.  
+  
+(2) Includes trial modification offers to which the customer did not respond.  
+  
+  
+### Credit Card and Other Consumer  
+  
+Impaired loans within the Credit Card and Other Consumer portfolio segment consist entirely of loans that have been modified in TDRs. The Corporation seeks to assist customers that are experiencing financial difficulty by modifying loans while ensuring compliance with federal and local laws and guidelines. Credit card and other consumer loan modifications generally involve reducing the interest rate on the account, placing the customer on a fixed payment plan not exceeding 60 months and canceling the customer's available line of credit, all of which are considered TDRs. The Corporation makes loan modifications directly with borrowers for debt held only by the Corporation (internal programs). Additionally, the Corporation makes loan modifications for  
+  
+borrowers working with third-party renegotiation agencies that provide solutions to customers' entire unsecured debt structures (external programs). The Corporation classifies other secured consumer loans that have been discharged in Chapter 7 bankruptcy as TDRs which are written down to collateral value and placed on nonaccrual status no later than the time of discharge. For more information on the regulatory guidance on loans discharged in Chapter 7 bankruptcy, see Nonperforming Loans and Leases in this Note.  
+  
+The table below provides the unpaid principal balance, carrying value and related allowance at December 31, 2018 and 2017, and the average carrying value for 2018, 2017 and 2016 on TDRs within the Credit Card and Other Consumer portfolio segment.  
+  
+<!-- PageFooter="Bank of America 2018 118" -->  

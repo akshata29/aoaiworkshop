@@ -1,0 +1,77 @@
+<!-- PageHeader="at both December 31, 2018 and 2017. Loans within this MSA contributed net recoveries of $23 million and $20 million within the home equity portfolio in2018 and 2017." -->  
+  
+Table 27 Home Equity State Concentrations  
+  
+| (Dollars in millions) | Outstandings (1) || Nonperforming (1) || Net Charge-offs (2) ||  
+|| December 31 ||||||  
+|| 2018 | 2017 | 2018 | 2017 | 2018 | 2017 |  
+| - | - | - | - | - | - | - |  
+| California | $ 13,228 | $ 15,145 | $ 536 | $ 766 | $ (54) | $ (37) |  
+| Florida (3) | 5,363 | 6,308 | 315 | 411 | 1 | 38 |  
+| New Jersey (3) | 3,833 | 4,546 | 150 | 191 | 25 | 44 |  
+| New York (3) | 3,549 | 4,195 | 194 | 252 | 23 | 35 |  
+| Massachusetts | 2,376 | 2,751 | 65 | 92 | 5 | 9 |  
+| Other | 19,092 | 22,083 | 633 | 932 | (2) | 124 |  
+| Home equity loans (4) | $ 47,441 | $ 55,028 | $ 1,893 | $ 2,644 | $ (2) | $ 213 |  
+| Purchased credit-impaired home equity portfolio (5) | 845 | 2,716 | | | | |  
+  
+  
+# Total home equity loan portfolio  
+  
+$  
+  
+48,286 $ 57,744  
+  
+(1) Outstandings and nonperforming loans exclude loans accounted for under the fair value  
+  
+option.  
+  
+(2) Net charge-offs exclude $119 million and $76 million of write-offs in the home equity PCI loan portfolio in2018 and 2017. For more information on PCI write-offs, seeConsumer Portfolio Credit Risk Management - Purchased Credit-impaired Loan Portfolio.  
+  
+(3) In these states, foreclosure requires a court order following a legal proceeding (judicial states).  
+  
+(4) Amount excludes the PCI home equity portfolio.  
+  
+(5) At December 31, 2018 and 2017, 34 percent and 28 percent of PCI home equity loans were in California. There were no other significant single state concentrations.  
+  
+  
+# Purchased Credit-impaired Loan Portfolio  
+  
+Loans acquired with evidence of credit quality deterioration since origination and for which it is probable at purchase that we will be unable to collect all contractually required payments are accounted for under the accounting standards for PCI loans.  
+  
+Table 28 presents the unpaid principal balance, carrying value, related valuation allowance and the net carrying value as a percentage of the unpaid principal balance for the PCI loan portfolio.  
+  
+Table 28 Purchased Credit-impaired Loan Portfolio  
+  
+| | Unpaid Principal Balance | Gross Carrying Value | Related Valuation Allowance | Carrying Value Net of Valuation Allowance | Percent of Unpaid Principal Balance |  
+| - | - | - | - | - | - |  
+| (Dollars in millions) | December 31, 2018 |||||  
+| Residential mortgage (1) | $ 3,872 | $ 3,800 | $ 30 | $ 3,770 | 97.37% |  
+| Home equity | 896 | 845 | 61 | 784 | 87.50 |  
+| Total purchased credit-impaired loan portfolio | 4,768 | 4,645 | $ 91 | 4,554 | 95.51 |  
+| | December 31, 2017 |||||  
+| Residential mortgage (1) | $ 8,117 | $ 8,001 | $ 117 | $ 7,884 | 97.13 % |  
+| Home equity | 2,787 | 2,716 | 172 | 2,544 | 91.28 |  
+| Total purchased credit-impaired loan portfolio | $ 10,904 | $ 10,717 | $ 289 | $ 10,428 | 95.63 |  
+  
+(1) At December 31, 2018 and 2017, pay option loans had an unpaid principal balance of $757 million and $1.4 billion and a carrying value of $744 million and $.4 billion. This includes $645 million and $1.2 billion of loans that were credit-impaired upon acquisition and $67 million and $141 million of loans that were 90 days or more past due. The total unpaid principal balance of pay option loans with accumulated negative amortization was $73 million and $160 million, including $4 million and $9 million of negative amortization at December 31, 2018 and 2017.  
+  
+The total PCI unpaid principal balance decreased $6.1 billion, or 56 percent, in 2018 primarily driven by loan sales with a carrying value of $4.4 billion compared to sales of $803 million in 2017.  
+  
+Of the unpaid principal balance of $4.8 billion at December 31, 2018, $4.3 billion, or 90 percent, was current based on the contractual terms, $208 million, or four percent, was in early stage delinquency and $205 million was 180 days or more past due, including $172 million of first-lien mortgages and $33 million of home equity loans.  
+  
+The PCI residential mortgage loan and home equity portfolios represented 82 percent and 18 percent of the total PCI loan portfolio at December 31, 2018. Those loans to borrowers with a refreshed FICO score below 620 represented 19 percent and 21 percent of the PCI residential mortgage loan and home equity portfolios at December 31, 2018. Residential mortgage and home equity loans with a refreshed LTV or CLTV greater than 90 percent, after consideration of purchase accounting adjustments and the related valuation allowance, represented 10 percent and 28 percent of their respective PCI loan portfolios and 11 percent and  
+  
+  
+# 32 percent based on the unpaid principal balance atDecember 31, 2018.  
+  
+  
+## U.S. Credit Card  
+  
+At December 31, 2018, 97 percent of the U.S. credit card portfolio was managed in Consumer Banking with the remainder in GWIM. Outstandings in the U.S. credit card portfolio increased $2.1 billion in 2018 to $98.3 billion due to higher retail volume partially offset by payments as well as the sale of a small portfolio. In 2018, net charge-offs increased $324 million to $2.8 billion, and U.S. credit card loans 30 days or more past due and still accruing interest increased $142 million and loans 90 days or more past due and still accruing interest increased $94 million, each driven by portfolio seasoning and loan growth.  
+  
+Unused lines of credit for U.S. credit card totaled $334.8 billion and $326.3 billion at December 31, 2018 and 2017. The increase was driven by account growth and lines of credit increases.  
+  
+Table 29 presents certain state concentrations for the U.S. credit card portfolio.  
+  
+<!-- PageFooter="57 Bank of America 2018" -->  

@@ -1,0 +1,48 @@
+<!-- PageHeader="Table 26 Home Equity - Key Credit Statistics" -->  
+  
+| (Dollars in millions) | Reported Basis (1) || Excluding Purchased Credit-impaired Loans (1) ||  
+|| December 31 ||||  
+|| 2018 | 2017 | 2018 | 2017 |  
+| - | - | - | - | - |  
+| Outstandings | $ 48,286 | $ 57,744 | $ 47,441 | $ 55,028 |  
+| Accruing past due 30 days or more (2) | 363 | 502 | 363 | 502 |  
+| Nonperforming loans (2) | 1,893 | 2,644 | 1,893 | 2,644 |  
+| Percent of portfolio | | | | |  
+| Refreshed CLTV greater than 90 but less than or equal to 100 | 2% | 3% | 2% | 3% |  
+| Refreshed CLTV greater than 100 | 3 | 5 | 3 3 | 4 |  
+| Refreshed FICO below 620 | 5 | 6 | 5 | 6 |  
+| 2006 and 2007 vintages (3) | 22 | 29 | 21 | 27 |  
+  
+| | | 2018 | 2017 | 2018 | 2017 |  
+| - | - | - | - | - | - |  
+| Net charge-off ratio (4) | | -% | 0.34 % | -% | 0.36 % |  
+  
+(1) Outstandings, accruing past due, nonperforming loans and percentages of the portfolio exclude loans accounted for under the fair value  
+  
+option.  
+  
+(2) Accruing past due 30 days or more include$48 million and $67 million and nonperforming loans include$218 million and $344 million of loans where we serviced the underlying first lien atDecember 31, 2018 and  
+  
+2017\.  
+  
+(3) These vintages of loans have higher refreshed combined loan-to-value (CLTV) ratios and accounted for 49 percent and 52 percent of nonperforming home equity loans atDecember 31, 2018 and 2017, and $11 million and $193 million of net charge-offs in 2018 and 2017.  
+  
+(4) Net charge-off ratios are calculated as net charge-offs divided by average outstanding loans excluding loans accounted for under the fair value option.  
+  
+Nonperforming outstanding balances in the home equity portfoliodecreased $751 million in 2018 as outflows, including sales, outpaced new inflows. Of the nonperforming home equity loans at December 31, 2018, $1.1 billion, or 59 percent, were current on contractual payments. Nonperforming loans that are contractually current primarily consist of collateral-dependent TDRs, including those that have been discharged in Chapter 7 bankruptcy, junior-lien loans where the underlying first lien is 90 days or more past due, as well as loans that have not yet demonstrated a sustained period of payment performance following a TDR. In addition, $463 million, or 24 percent, of nonperforming home equity loans were 180 days or more past due and had been written down to the estimated fair value of the collateral, less costs to sell. Accruing loans that were 30 days or more past due decreased $139 million in 2018.  
+  
+In some cases, the junior-lien home equity outstanding balance that we hold is performing, but the underlying first lien is not. For outstanding balances in the home equity portfolio on which we service the first-lien loan, we are able to track whether the first-lien loan is in default. For loans where the first lien is serviced by a third party, we utilize credit bureau data to estimate the delinquency status of the first lien. At December 31, 2018, we estimate that $610 million of current and $83 million of 30 to 89 days past due junior-lien loans were behind a delinquent first-lien loan. We service the first-lien loans on $114 million of these combined amounts, with the remaining $579 million serviced by third parties. Of the $693 million of current to 89 days past due junior-lien loans, based on available credit bureau data and our own internal servicing data, we estimate that approximately $221 million had first-lien loans that were 90 days or more past due.  
+  
+Net charge-offs decreased $215 million to a net recovery of $2 million in 2018 compared to net charge-offs of $213 million in 2017 driven by favorable portfolio trends due in part to improvement in home prices and the U.S. economy.  
+  
+Outstanding balances with a refreshed CLTV greater than 100 percent comprised three percent and four percent of the home equity portfolio at December 31, 2018 and 2017. Outstanding balances with a refreshed CLTV greater than 100 percent reflect loans where our loan and available line of credit combined with any outstanding senior liens against the property are equal to or greater than the most recent valuation of the property securing the loan. Depending on the value of the property, there may be collateral in excess of the first lien that is available to reduce the  
+  
+severity of loss on the second lien. Of those outstanding balances with a refreshed CLTV greater than 100 percent, 96 percent of the customers were current on their home equity loan and 91 percent of second-lien loans with a refreshed CLTV greater than 100 percent were current on both their second-lien and underlying first-lien loans at December 31, 2018.  
+  
+Of the $47.4 billion in total home equity portfolio outstandings atDecember 31, 2018, as shown in Table 26, 20 percent require interest-only payments. The outstanding balance of HELOCs that have reached the end of their draw period and have entered the amortization period was $15.8 billion at December 31, 2018. The HELOCs that have entered the amortization period have experienced a higher percentage of early stage delinquencies and nonperforming status when compared to the HELOC portfolio as a whole. At December 31, 2018, $267 million, or two percent, of outstanding HELOCs that had entered the amortization period were accruing past due 30 days or more. In addition, at December 31, 2018, $1.7 billion, or 11 percent, of outstanding HELOCs that had entered the amortization period were nonperforming. Loans that have yet to enter the amortization period in our interest-only portfolio are primarily post-2008 vintages and generally have better credit quality than the previous vintages that had entered the amortization period. We communicate to contractually current customers more than a year prior to the end of their draw period to inform them of the potential change to the payment structure before entering the amortization period, and provide payment options to customers prior to the end of the draw period.  
+  
+Although we do not actively track how many of our home equity customers pay only the minimum amount due on their home equity loans and lines, we can infer some of this information through a review of our HELOC portfolio that we service and that is still in its revolving period. During 2018, 14 percent of these customers with an outstanding balance did not pay any principal on their HELOCs.  
+  
+Table 27 presents outstandings, nonperforming balances and net charge-offs by certain state concentrations for the home equity portfolio. In the New York area, the New York-Northern New Jersey-Long Island MSA made up 13 percent of the outstanding home equity portfolio at both December 31, 2018 and 2017. Loans within this MSA contributed $35 million and $58 million of net charge-offs in 2018 and 2017 within the home equity portfolio. The Los Angeles-Long Beach-Santa Ana MSA within California made up 11 percent of the outstanding home equity portfolio  
+  
+<!-- PageFooter="Bank of America 2018 56" -->  
