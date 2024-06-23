@@ -11,46 +11,47 @@ from azure.search.documents.indexes.models import (
     SearchableField,  
     SearchIndex,  
     SemanticConfiguration,  
-    PrioritizedFields,  
     SemanticField,  
     SearchField,  
-    SemanticSettings,  
-    VectorSearch,
-    HnswVectorSearchAlgorithmConfiguration
+    SemanticPrioritizedFields,
+    VectorSearch,  
+    HnswAlgorithmConfiguration,  
 )
-from azure.search.documents.models import Vector  
+
 from tenacity import retry, wait_random_exponential, stop_after_attempt  
 import openai
 from openai import OpenAI, AzureOpenAI, AsyncAzureOpenAI
 import logging
+from azure.search.documents.models import VectorizedQuery
+from Utilities.embeddings import generateEmbeddings
 
-@retry(wait=wait_random_exponential(min=1, max=20), stop=stop_after_attempt(6))
+#@retry(wait=wait_random_exponential(min=1, max=20), stop=stop_after_attempt(6))
 # Function to generate embeddings for title and content fields, also used for query embeddings
-def generateEmbeddings(OpenAiEndPoint, OpenAiKey, OpenAiVersion, OpenAiApiKey, embeddingModelType, OpenAiEmbedding, text):
-    if (embeddingModelType == 'azureopenai'):
-        try:
-            client = AzureOpenAI(
-                        api_key = OpenAiKey,  
-                        api_version = OpenAiVersion,
-                        azure_endpoint = OpenAiEndPoint
-                        )
+# def generateEmbeddings(OpenAiEndPoint, OpenAiKey, OpenAiVersion, OpenAiApiKey, embeddingModelType, OpenAiEmbedding, text):
+#     if (embeddingModelType == 'azureopenai'):
+#         try:
+#             client = AzureOpenAI(
+#                         api_key = OpenAiKey,  
+#                         api_version = OpenAiVersion,
+#                         azure_endpoint = OpenAiEndPoint
+#                         )
 
-            response = client.embeddings.create(
-                input=text, model=OpenAiEmbedding)
-            embeddings = response.data[0].embedding
-        except Exception as e:
-            logging.info(e)
+#             response = client.embeddings.create(
+#                 input=text, model=OpenAiEmbedding)
+#             embeddings = response.data[0].embedding
+#         except Exception as e:
+#             logging.info(e)
 
-    elif embeddingModelType == "openai":
-        try:
-            client = OpenAI(api_key=OpenAiApiKey)
-            response = client.embeddings.create(
-                    input=text, model="text-embedding-ada-002", api_key = OpenAiApiKey)
-            embeddings = response.data[0].embedding
-        except Exception as e:
-            logging.info(e)
+#     elif embeddingModelType == "openai":
+#         try:
+#             client = OpenAI(api_key=OpenAiApiKey)
+#             response = client.embeddings.create(
+#                     input=text, model="text-embedding-ada-002", api_key = OpenAiApiKey)
+#             embeddings = response.data[0].embedding
+#         except Exception as e:
+#             logging.info(e)
         
-    return embeddings
+#     return embeddings
 
 def deleteSearchIndex(SearchService, SearchKey, indexName):
     indexClient = SearchIndexClient(endpoint=f"https://{SearchService}.search.windows.net/",
@@ -66,37 +67,43 @@ def createSearchIndex(SearchService, SearchKey, indexName):
             credential=AzureKeyCredential(SearchKey))
     if indexName not in indexClient.list_index_names():
         index = SearchIndex(
-            name=indexName,
-            fields=[
-                        SimpleField(name="id", type=SearchFieldDataType.String, key=True, sortable=True, filterable=True, facetable=True),
-                        SearchableField(name="content", type=SearchFieldDataType.String,
-                                        searchable=True, retrievable=True, analyzer_name="en.microsoft"),
-                        SearchField(name="contentVector", type=SearchFieldDataType.Collection(SearchFieldDataType.Single),
-                                    searchable=True, vector_search_dimensions=1536, vector_search_configuration="vectorConfig"),
-                        SimpleField(name="sourcefile", type="Edm.String", filterable=True, facetable=True),
-            ],
-            vector_search = VectorSearch(
-                algorithm_configurations=[
-                    HnswVectorSearchAlgorithmConfiguration(
-                        name="vectorConfig",
-                        kind="hnsw",
-                        parameters={
-                            "m": 4,
-                            "efConstruction": 400,
-                            "efSearch": 500,
-                            "metric": "cosine"
-                        }
+                name=indexName,
+                fields=[
+                            SimpleField(name="id", type=SearchFieldDataType.String, key=True),
+                            SearchableField(name="content", type=SearchFieldDataType.String,
+                                            searchable=True, retrievable=True, analyzer_name="en.microsoft"),
+                            SearchField(name="contentVector", type=SearchFieldDataType.Collection(SearchFieldDataType.Single), 
+                                vector_search_dimensions=1536, vector_search_profile_name="vectorConfig"),  
+                            SimpleField(name="sourcefile", type="Edm.String", filterable=True, facetable=True),
+                ],
+                vector_search = VectorSearch(
+                    algorithms=[
+                        HnswAlgorithmConfiguration(
+                            name="hnswConfig",
+                            parameters=HnswParameters(  
+                                m=4,  
+                                ef_construction=400,  
+                                ef_search=500,  
+                                metric=VectorSearchAlgorithmMetric.COSINE,  
+                            ),
+                        )
+                    ],  
+                    profiles=[  
+                        VectorSearchProfile(  
+                            name="vectorConfig",  
+                            algorithm_configuration_name="hnswConfig",  
+                        ),
+                    ],
+                ),
+                semantic_search = SemanticSearch(configurations=[SemanticConfiguration(
+                    name="semanticConfig",
+                    prioritized_fields=SemanticPrioritizedFields(
+                        title_field=SemanticField(field_name="content"),
+                        keywords_fields=[SemanticField(field_name="sourcefile")],
+                        content_fields=[SemanticField(field_name="content")]
                     )
-                ]
-            ),
-            semantic_settings=SemanticSettings(
-                configurations=[SemanticConfiguration(
-                    name='semanticConfig',
-                    prioritized_fields=PrioritizedFields(
-                        title_field=SemanticField(field_name="content"), prioritized_content_fields=[SemanticField(field_name='content')]))],
-                        prioritized_keywords_fields=[SemanticField(field_name='sourcefile')])
-        )
-
+                )])
+            )
         try:
             print(f"Creating {indexName} search index")
             indexClient.create_index(index)
@@ -228,24 +235,31 @@ def indexDocs(SearchService, SearchKey, indexName, docs):
         succeeded = sum([1 for r in results if r.succeeded])
         print(f"\tIndexed {len(results)} sections, {succeeded} succeeded")
 
-def createSections(OpenAiEndPoint, OpenAiKey, OpenAiVersion, OpenAiApiKey, embeddingModelType, OpenAiEmbedding, fileName, docs):
+def createSections(embeddingModelType, fileName, docs):
     counter = 1
     for i in docs:
         yield {
             "id": f"{fileName}-{counter}".replace(".", "_").replace(" ", "_").replace(":", "_").replace("/", "_").replace(",", "_").replace("&", "_"),
             "content": i.page_content,
-            "contentVector": generateEmbeddings(OpenAiEndPoint, OpenAiKey, OpenAiVersion, OpenAiApiKey, embeddingModelType, OpenAiEmbedding, i.page_content),
+            "contentVector": generateEmbeddings(embeddingModelType, i.page_content),
             "sourcefile": os.path.basename(fileName)
         }
         counter += 1
 
-def indexSections(OpenAiEndPoint, OpenAiKey, OpenAiVersion, OpenAiApiKey, SearchService, SearchKey, embeddingModelType, OpenAiEmbedding, fileName, indexName, docs):
-    print("Total docs: " + str(len(docs)))
-    sections = createSections(OpenAiEndPoint, OpenAiKey, OpenAiVersion, OpenAiApiKey, embeddingModelType, OpenAiEmbedding, fileName, docs)
-    print(f"Indexing sections from '{fileName}' into search index '{indexName}'")
+def indexSections(SearchService, SearchKey, embeddingModelType, fileName, indexName, docs):
+    logging.info("Total docs: " + str(len(docs)))
+    sections = createSections(embeddingModelType, fileName, docs)
+    logging.info(f"Indexing sections from '{fileName}' into search index '{indexName}'")
     searchClient = SearchClient(endpoint=f"https://{SearchService}.search.windows.net/",
                                     index_name=indexName,
                                     credential=AzureKeyCredential(SearchKey))
+    
+    # batch = []
+    # for s in sections:
+    #     batch.append(s)
+    # results = searchClient.upload_documents(documents=batch)
+    # succeeded = sum([1 for r in results if r.succeeded])
+    # logging.info(f"\tIndexed {len(results)} sections, {succeeded} succeeded")
     i = 0
     batch = []
     for s in sections:
@@ -254,13 +268,13 @@ def indexSections(OpenAiEndPoint, OpenAiKey, OpenAiVersion, OpenAiApiKey, Search
         if i % 1000 == 0:
             results = searchClient.index_documents(batch=batch)
             succeeded = sum([1 for r in results if r.succeeded])
-            print(f"\tIndexed {len(results)} sections, {succeeded} succeeded")
+            logging.info(f"\tIndexed {len(results)} sections, {succeeded} succeeded")
             batch = []
 
     if len(batch) > 0:
         results = searchClient.upload_documents(documents=batch)
         succeeded = sum([1 for r in results if r.succeeded])
-        print(f"\tIndexed {len(results)} sections, {succeeded} succeeded")
+        logging.info(f"\tIndexed {len(results)} sections, {succeeded} succeeded")
 
 def performCogSemanticHybridSearch(OpenAiEndPoint, OpenAiKey, OpenAiVersion, OpenAiApiKey, SearchService, SearchKey, embeddingModelType, OpenAiEmbedding, question, indexName, k, returnFields=["id", "content", "sourcefile"] ):
     searchClient = SearchClient(endpoint=f"https://{SearchService}.search.windows.net",
@@ -286,22 +300,16 @@ def performCogSemanticHybridSearch(OpenAiEndPoint, OpenAiKey, OpenAiVersion, Ope
     return None
 
 def performCogSearch(OpenAiEndPoint, OpenAiKey, OpenAiVersion, OpenAiApiKey, SearchService, SearchKey, embeddingModelType, OpenAiEmbedding, question, indexName, k, returnFields=["id", "content", "sourcefile"] ):
+
     searchClient = SearchClient(endpoint=f"https://{SearchService}.search.windows.net",
         index_name=indexName,
         credential=AzureKeyCredential(SearchKey))
     try:
-        # r = searchClient.search(  
-        #     search_text="",  
-        #     vectors=[Vector(value=generateEmbeddings(OpenAiEndPoint, OpenAiKey, OpenAiVersion, OpenAiApiKey, embeddingModelType, OpenAiEmbedding, question), k=k, fields="contentVector")],  
-        #     select=returnFields,
-        #     semantic_configuration_name="semanticConfig"
-        # )
         r = searchClient.search(  
-            search_text=question,  
-            vectors=[Vector(value=generateEmbeddings(OpenAiEndPoint, OpenAiKey, OpenAiVersion, OpenAiApiKey, embeddingModelType, OpenAiEmbedding, question), k=k, fields="contentVector")],  
+            search_text=question,
+            vector_queries=[VectorizedQuery(vector=generateEmbeddings(embeddingModelType, question), k_nearest_neighbors=k, fields="contentVector")],  
             select=returnFields,
             query_type="semantic", 
-            query_language="en-us", 
             semantic_configuration_name='semanticConfig', 
             query_caption="extractive", 
             query_answer="extractive",
@@ -310,7 +318,7 @@ def performCogSearch(OpenAiEndPoint, OpenAiKey, OpenAiVersion, OpenAiApiKey, Sea
         )
         return r
     except Exception as e:
-        print(e)
+        logging.info(e)
 
     return None
 
@@ -337,8 +345,8 @@ def createKbSearchIndex(SearchService, SearchKey, indexName):
             credential=AzureKeyCredential(SearchKey))
     if indexName not in indexClient.list_index_names():
         index = SearchIndex(
-            name=indexName,
-            fields=[
+                name=indexName,
+                fields=[
                         SimpleField(name="id", type=SearchFieldDataType.String, key=True),
                         SearchableField(name="question", type=SearchFieldDataType.String,
                                         searchable=True, retrievable=True, analyzer_name="en.microsoft"),
@@ -347,28 +355,34 @@ def createKbSearchIndex(SearchService, SearchKey, indexName):
                         SearchField(name="vectorQuestion", type=SearchFieldDataType.Collection(SearchFieldDataType.Single),
                                     searchable=True, vector_search_dimensions=1536, vector_search_configuration="vectorConfig"),
                         SimpleField(name="answer", type="Edm.String", filterable=False, facetable=False),
-            ],
-            vector_search = VectorSearch(
-                algorithm_configurations=[
-                    HnswVectorSearchAlgorithmConfiguration(
-                        name="vectorConfig",
-                        kind="hnsw",
-                        parameters={
-                            "m": 4,
-                            "efConstruction": 400,
-                            "efSearch": 500,
-                            "metric": "cosine"
-                        }
+                ],
+                vector_search = VectorSearch(
+                    algorithms=[
+                        HnswAlgorithmConfiguration(
+                            name="hnswConfig",
+                            parameters=HnswParameters(  
+                                m=4,  
+                                ef_construction=400,  
+                                ef_search=500,  
+                                metric=VectorSearchAlgorithmMetric.COSINE,  
+                            ),
+                        )
+                    ],  
+                    profiles=[  
+                        VectorSearchProfile(  
+                            name="vectorConfig",  
+                            algorithm_configuration_name="hnswConfig",  
+                        ),
+                    ],
+                ),
+                semantic_search = SemanticSearch(configurations=[SemanticConfiguration(
+                    name="semanticConfig",
+                    prioritized_fields=SemanticPrioritizedFields(
+                        title_field=SemanticField(field_name="question"),
+                        content_fields=[SemanticField(field_name="question")]
                     )
-                ]
-            ),
-            semantic_settings=SemanticSettings(
-                configurations=[SemanticConfiguration(
-                    name='semanticConfig',
-                    prioritized_fields=PrioritizedFields(
-                        title_field=SemanticField(field_name="question"), prioritized_content_fields=[SemanticField(field_name='question')]))])
-        )
-
+                )])
+            )
         try:
             print(f"Creating {indexName} search index")
             indexClient.create_index(index)
